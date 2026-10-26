@@ -1,0 +1,217 @@
+{
+ "id": "2026-10-26-pm",
+ "generated_at": "2026-10-26T14:51:00+05:45",
+ "markets": {
+  "as_of": "अमेरिकी बजार: शुक्रबार, अक्टोबर २३ को बन्द · NEPSE र डलर: सोमबार, अक्टोबर २६",
+  "items": [
+   {
+    "name": "S&P 500",
+    "value": 7623.68,
+    "change_pct": -0.52,
+    "source": "AP",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201458598.html"
+   },
+   {
+    "name": "Nasdaq",
+    "value": 25955.34,
+    "change_pct": -0.21,
+    "source": "AP",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201458598.html"
+   },
+   {
+    "name": "डाउ जोन्स",
+    "value": 52215.16,
+    "change_pct": -1.23,
+    "source": "AP",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201458598.html"
+   },
+   {
+    "name": "ब्रेन्ट तेल ($/ब्यारेल)",
+    "value": 116.72,
+    "change_pct": null,
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+   },
+   {
+    "name": "NEPSE (आज १:३० सम्म)",
+    "value": 2628.02,
+    "change_pct": -0.23,
+    "source": "Nepali Paisa",
+    "url": "https://nepalipaisa.com/live-market"
+   },
+   {
+    "name": "डलर (राष्ट्र बैंक)",
+    "value": 151.42,
+    "unit": "रु",
+    "change_pct": null,
+    "source": "राष्ट्र बैंक दर (ashesh.com.np)",
+    "url": "https://www.ashesh.com.np/forex/"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "section": "nepal",
+   "title": "बाढीले रोकिएको बंगलादेशतर्फको बिजुली निर्यात फेरि सुरु",
+   "summary": "नेपालले शुक्रबार (अक्टोबर २३) साँझदेखि भारतको प्रसारण लाइन हुँदै बंगलादेशलाई ४० मेगावाट बिजुली पठाउन फेरि सुरु गरेको छ। अगस्ट २६ मा रसुवाको भोटेकोसीमा आएको बाढीले त्रिशूली र चिलिमे जलविद्युत् आयोजनामा क्षति पुर्‍याएपछि करिब दुई महिनादेखि यो निर्यात रोकिएको थियो। अब सोलु, काबेली लगायतका आयोजनाबाट बिजुली पठाइँदैछ। नेपाल विद्युत् प्राधिकरणका अनुसार सेप्टेम्बर महिनामा नेपालले भारतलाई करिब ५ अर्ब ९२ करोड रुपैयाँको बिजुली बेचेको छ, जुन अघिल्लो वर्षको सोही महिनाभन्दा करिब ९६ करोड रुपैयाँ बढी हो।",
+   "sources": [
+    {
+     "name": "OnlineKhabar",
+     "url": "https://english.onlinekhabar.com/nepal-five-billion-electricity-exports.html"
+    },
+    {
+     "name": "BSS (बंगलादेश)",
+     "url": "https://www.bssnews.net/business/438225"
+    },
+    {
+     "name": "Kathmandu Post",
+     "url": "https://kathmandupost.com/money/2026/10/25/nepal-resumes-power-exports-to-bangladesh-after-flood-disruption"
+    }
+   ]
+  },
+  {
+   "section": "nepal",
+   "title": "सुरक्षा जोखिमका कारण बन्द गरिएका अधिकांश सरकारी वेबसाइट फेरि खुले",
+   "summary": "वेबसाइट बनाउन धेरै प्रयोग हुने PHP नामक प्रविधिमा गम्भीर सुरक्षा कमजोरी भेटिएपछि राष्ट्रिय साइबर सुरक्षा केन्द्रले तुरुन्त सुधार गर्न निर्देशन दिएको थियो। त्यसपछि सावधानीका लागि धेरै सरकारी र बैंकका वेबसाइट केही दिन बन्द गरिएका थिए। अब अधिकांश सरकारी वेबसाइट फेरि सञ्चालनमा आएका छन्। तर नागरिक एप, चिकित्सा शिक्षा आयोगको वेबसाइट र निजी कम्पनीले चलाउने केही सरकारी साइट अझै बन्द छन्। यो कमजोरीका कारण जापान, फिनल्यान्ड र फ्रान्सलगायत देशमा पनि केही अनलाइन सेवा रोकिएका थिए।",
+   "sources": [
+    {
+     "name": "Kathmandu Post",
+     "url": "https://kathmandupost.com/science-technology/2026/10/26/most-nepal-government-websites-back-online-after-php2shell-flaw"
+    },
+    {
+     "name": "Ratopati",
+     "url": "https://english.ratopati.com/story/84343/when-will-the-government-website-be-open"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "title": "इरानसँग फेरि युद्ध हुने चिन्ता, साउदी, पाकिस्तान र टर्कीका उच्च अधिकारी तेहरानमा",
+   "summary": "फेब्रुअरीमा सुरु भएको इरान युद्ध फेरि चर्किन सक्ने चिन्ताबीच साउदी अरब, पाकिस्तान र टर्कीका उच्च अधिकारी सोमबार (अक्टोबर २६) इरानको राजधानी तेहरान पुगेका छन्। उनीहरू तनाव घटाउन र अमेरिका–इरानबीच सम्झौता गराउन छलफल गर्ने बताइएको छ। खाडीबाट तेल बाहिर जाने मुख्य समुद्री बाटो होर्मुज जलडमरूमध्यमा जहाज आवतजावत प्रभावित छ, र ब्रेन्ट कच्चा तेल प्रति ब्यारेल ११६ डलरभन्दा माथि पुगेर मार्चयताकै उच्च भएको छ। इजरायलमा मंगलबार (अक्टोबर २७) संसदीय निर्वाचन हुँदैछ।",
+   "sides": [
+    {
+     "who": "अमेरिका (राष्ट्रपति ट्रम्प)",
+     "says": "इरानसँग सम्झौता गर्ने कि उनीहरूलाई सिध्याउने भन्ने निर्णय गर्न बाँकी रहेको बताए। होर्मुज जलडमरूमध्य अमेरिकाकै नियन्त्रणमा रहेको दाबी गरे।"
+    },
+    {
+     "who": "इरान (विदेश मन्त्रालय)",
+     "says": "कूटनीतिको ढोका बन्द नभएको र मध्यस्थमार्फत अमेरिकासँग सन्देश आदानप्रदान भइरहेको बतायो। अमेरिकाले इरानी बन्दरगाहमा लगाएको नौसैनिक नाकाबन्दी हटाए होर्मुज खोल्न तयार रहेको इरानी राजदूतको भनाइ छ।"
+    }
+   ],
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://www.wsls.com/news/world/2026/10/26/delegations-meeting-in-tehran-with-region-on-edge-over-potential-for-renewed-fighting/"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "title": "ब्राजिलमा लुला चौथो पटक राष्ट्रपति निर्वाचित",
+   "summary": "आइतबार (अक्टोबर २५) भएको दोस्रो चरणको मतदानमा वर्तमान राष्ट्रपति लुइज इनासियो लुला दा सिल्भाले दक्षिणपन्थी सिनेटर फ्लाभियो बोल्सोनारोलाई थोरै मतान्तरले हराएका छन्। ९८.७६ प्रतिशत मत गन्दासम्म लुलाले ५१ प्रतिशतभन्दा बढी र बोल्सोनारोले ४८ प्रतिशत मत पाएका थिए। अक्टोबर ४ को पहिलो चरणमा बोल्सोनारो अगाडि थिए। सर्वोच्च अदालतले अन्तिम समयमा केही ठाउँमा मतदानको समय दुई घण्टा बढाएकोमा विवाद छ।",
+   "sides": [
+    {
+     "who": "लुला",
+     "says": "यो निर्वाचन झुट र भ्रमको हार भएको बताए, र बाहिरबाट भएको हस्तक्षेप पार गर्नुपरेको दाबी गरे।"
+    },
+    {
+     "who": "फ्लाभियो बोल्सोनारो",
+     "says": "नतिजा स्वीकार गर्न असम्भव भएको भन्दै मतदान बदर गराउने बताए। मतदानको समय बढाउने अदालती निर्णयले नियम बीचमै बदलेको आरोप लगाए।"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win"
+    },
+    {
+     "name": "AP (Fox News मार्फत)",
+     "url": "https://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge"
+    },
+    {
+     "name": "Reuters (Jerusalem Post मार्फत)",
+     "url": "https://www.jpost.com/international/article-912848"
+    }
+   ]
+  },
+  {
+   "section": "india_china",
+   "title": "अरुणाचलमा भारत–चीन सुरक्षाकर्मीबीच घर्षण, भारतले चिनियाँ गस्तीलाई कारण बतायो",
+   "summary": "भारत–चीन सीमाको अरुणाचल प्रदेश खण्डमा दुवै देशका सुरक्षाकर्मीबीच विभिन्न ठाउँमा आमनेसामने भइरहेको भारतको इन्डो–तिब्बत सीमा प्रहरी (ITBP) का निवर्तमान प्रमुखले बताएपछि भारतीय विदेश मन्त्रालयले प्रतिक्रिया दिएको छ। दुवै देशले कूटनीतिक र सैन्य माध्यमबाट समस्या सुल्झाउने र गलत बुझाइ हुन नदिने प्रयास जारी राखेको भारतले जनाएको छ। सेप्टेम्बर १२ मा नयाँ दिल्लीमा भएको ब्रिक्स शिखर सम्मेलनमा भारतीय प्रधानमन्त्री मोदी र चिनियाँ राष्ट्रपति सी जिनपिङबीच भेट भएको थियो।",
+   "sides": [
+    {
+     "who": "भारत (विदेश मन्त्रालयका प्रवक्ता रणधीर जयसवाल)",
+     "says": "चिनियाँ सेनाले स्थापित गस्ती ढाँचा छाडेर हिँड्दा बेलाबेलामा सीमामा स्थिति बिथोलिने बताए।"
+    },
+    {
+     "who": "चीन",
+     "says": "अरुणाचलका घटनाबारे चीनको आधिकारिक प्रतिक्रिया यी स्रोतमा छैन। तर चिनियाँ विदेश मन्त्रालयकी प्रवक्ता माओ निङले लद्दाखका २८ ठाउँलाई भारतले दिएको नामलाई गैरकानुनी र अमान्य भनेकी छन्।"
+    }
+   ],
+   "unverified": "डिसेम्बरमा अमेरिकाको मायामीमा मोदी–सी भेट हुने एउटा भारतीय सञ्चारमाध्यमले जनाएको छ, तर अरू स्रोतले पुष्टि गरेका छैनन्।",
+   "sources": [
+    {
+     "name": "India TV",
+     "url": "https://www.indiatvnews.com/news/india/mea-flags-china-s-patrolling-moves-along-lac-says-both-sides-must-avoid-miscalculations-2026-10-23-1057758"
+    },
+    {
+     "name": "India News Network",
+     "url": "https://www.indianewsnetwork.com/en/renewed-talks-between-india-china-amid-border-tensions-20261025"
+    }
+   ]
+  },
+  {
+   "section": "economy",
+   "title": "अमेरिकी सेयर बजार हप्ताको अन्तिम दिन घट्यो, डाउ जोन्स १.२ प्रतिशत तल",
+   "summary": "शुक्रबार (अक्टोबर २३) अमेरिकी सेयर बजार घटेर बन्द भयो। डाउ जोन्स ६५३ अंक (१.२३ प्रतिशत) घटेर ५२,२१५ मा, S&P 500 ०.५२ प्रतिशत घटेर ७,६२४ मा र Nasdaq ०.२१ प्रतिशत घटेर २५,९५५ मा पुगे। मध्यपूर्वको तनावले कच्चा तेल महँगिएको र AI मा भइरहेको ठूलो खर्चबारे चिन्ताले बजार दबाबमा परेको हो। हप्ताभरमा S&P 500 र Nasdaq लगातार दोस्रो हप्ता घटे भने डाउ बढ्यो। अमेरिकी केन्द्रीय बैंक (फेडरल रिजर्भ) ले बुधबार (अक्टोबर २८) ब्याजदर नबदल्ने बजारको अपेक्षा छ।",
+   "sources": [
+    {
+     "name": "AP",
+     "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201458598.html"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+    }
+   ]
+  },
+  {
+   "section": "economy",
+   "title": "दशैँपछि सुनको मूल्य तोलामा ११ हजार ७०० रुपैयाँ घट्यो",
+   "summary": "नेपाल सुनचाँदी व्यवसायी महासंघले आइतबार (अक्टोबर २५) छापावाल सुनको मूल्य प्रतितोला ११,७०० रुपैयाँ घटाएर २ लाख ७८ हजार ५०० रुपैयाँ कायम गरेको छ। दशैँअघिको अन्तिम कारोबारमा मूल्य २ लाख ९० हजार २०० रुपैयाँ थियो। चाँदी पनि प्रतितोला २३० रुपैयाँ घटेर ३,९५५ रुपैयाँ पुगेको छ। अन्तर्राष्ट्रिय बजारमा मूल्य घटेकाले नेपालमा पनि घटाइएको महासंघले जनाएको छ।",
+   "sources": [
+    {
+     "name": "OnlineKhabar",
+     "url": "https://english.onlinekhabar.com/gold-price-drop.html"
+    },
+    {
+     "name": "Khabarhub",
+     "url": "https://english.khabarhub.com/2026/25/573069/"
+    }
+   ]
+  },
+  {
+   "section": "ai",
+   "title": "AI मा ठूलो खर्च र ऋणबारे चिन्ताले अमेरिकी प्रविधि सेयर हल्लिए",
+   "summary": "गत बिहीबार (अक्टोबर २२) अमेरिकी प्रविधि कम्पनीहरूको सेयर सूचक Nasdaq जुनयताकै सबैभन्दा धेरै घट्यो। AI (कृत्रिम बुद्धिमत्ता) चलाउन चाहिने ठूला डाटा सेन्टर र चिपका लागि कम्पनीहरूले लिइरहेको ऋणको लागत बढ्दै गएको र यस्तो लगानी सुस्त हुन सक्ने चिन्ताले यस्तो भएको हो। AI का लागि कम्प्युटर क्षमता भाडामा दिने CoreWeave जस्ता नयाँ कम्पनीको सेयर बढी प्रभावित भए। शुक्रबार भने प्रविधि सेयर केही स्थिर भए।",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://www.spokesman.com/stories/2026/oct/23/dow-sp-500-fall-tech-steadies-to-end-rocky-week/"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+    }
+   ]
+  }
+ ]
+}

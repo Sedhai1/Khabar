@@ -1,0 +1,350 @@
+<!doctype html>
+<html lang="ne">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>खबर</title>
+<meta name="description" content="विश्व र नेपालका मुख्य समाचार, नेपालीमा, दिनको दुई पटक">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="खबर">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="theme-color" content="#f6f1e7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#14120e" media="(prefers-color-scheme: dark)">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" href="icon-180.png">
+<link rel="manifest" href="manifest.webmanifest">
+<style>
+:root{
+  --bg:#f6f1e7; --card:#fffdf8; --ink:#1d1b16; --muted:#6b6458; --rule:#e2d9c8;
+  --accent:#a4161a; --navy:#1c2740; --soft:#efe7d6; --up:#1d6b35; --down:#b3261e;
+  --warn-bg:#fff3d6; --warn-ink:#6b4a00;
+  --fs:20px;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#14120e; --card:#1d1a15; --ink:#ece6da; --muted:#a59d8f; --rule:#332e26;
+    --accent:#e0575a; --navy:#c9d3ea; --soft:#262219; --up:#5cc47c; --down:#ff7a70;
+    --warn-bg:#3a2e12; --warn-ink:#f3d58a;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font-family:"Kohinoor Devanagari","Mukta","Noto Sans Devanagari","Nirmala UI",system-ui,sans-serif;
+  font-size:var(--fs); line-height:1.6;
+  padding:env(safe-area-inset-top) 0 env(safe-area-inset-bottom);
+}
+.wrap{max-width:680px; margin:0 auto; padding:0 16px 48px}
+header{padding:18px 0 10px; border-bottom:3px double var(--rule)}
+.brand{display:flex; align-items:baseline; justify-content:space-between; gap:12px}
+h1{margin:0; font-size:2.1em; line-height:1.1; color:var(--navy); font-weight:800; letter-spacing:.01em}
+.size{display:flex; gap:8px}
+.size button{
+  font:inherit; font-size:.85em; font-weight:700; min-width:52px; min-height:48px;
+  border:1px solid var(--rule); background:var(--card); color:var(--ink); border-radius:10px;
+}
+.dateline{margin-top:6px; font-size:.95em; font-weight:600}
+.updated{color:var(--muted); font-size:.85em}
+.notice{
+  margin:14px 0 0; padding:12px 14px; border-radius:10px;
+  background:var(--warn-bg); color:var(--warn-ink); font-size:.9em;
+}
+.notice button{font:inherit; font-weight:700; margin-top:8px; min-height:44px; padding:0 14px;
+  border-radius:8px; border:0; background:var(--navy); color:var(--bg)}
+nav.jump{
+  position:sticky; top:0; z-index:5; background:var(--bg);
+  display:flex; gap:8px; overflow-x:auto; padding:10px 0; margin:0 -16px; padding-left:16px; padding-right:16px;
+  border-bottom:1px solid var(--rule); scrollbar-width:none;
+}
+nav.jump::-webkit-scrollbar{display:none}
+nav.jump a{
+  flex:none; text-decoration:none; color:var(--ink); background:var(--soft);
+  padding:8px 14px; border-radius:999px; font-size:.85em; font-weight:600; min-height:44px; display:flex; align-items:center;
+}
+section.sec{scroll-margin-top:70px}
+h2{
+  font-size:1.15em; margin:28px 0 10px; color:var(--accent); font-weight:800;
+  display:flex; align-items:center; gap:10px;
+}
+h2::after{content:""; flex:1; height:2px; background:var(--rule)}
+article{
+  background:var(--card); border:1px solid var(--rule); border-radius:14px;
+  padding:16px; margin:0 0 14px;
+}
+article h3{margin:0 0 8px; font-size:1.2em; line-height:1.4; font-weight:700}
+article p{margin:0 0 10px}
+.sides{background:var(--soft); border-radius:10px; padding:10px 12px; margin:0 0 10px; font-size:.95em}
+.sides b{display:block; font-size:.85em; color:var(--muted); margin-bottom:2px}
+.sides div+div{margin-top:8px}
+.impact{border-left:4px solid var(--accent); padding:2px 0 2px 10px; margin:0 0 10px; font-size:.95em}
+.impact b{color:var(--accent)}
+.unv{color:var(--muted); font-size:.88em; font-style:italic; margin:0 0 10px}
+.foot{display:flex; justify-content:space-between; align-items:center; gap:10px; flex-wrap:wrap;
+  border-top:1px dashed var(--rule); padding-top:10px; font-size:.8em; color:var(--muted)}
+.foot a{color:var(--muted)}
+.listen{
+  font:inherit; font-size:1em; font-weight:700; color:var(--navy); background:transparent;
+  border:1px solid var(--rule); border-radius:999px; min-height:44px; padding:0 14px;
+}
+.markets{background:var(--card); border:1px solid var(--rule); border-radius:14px; padding:6px 16px 12px; margin:0 0 14px}
+.markets .asof{font-size:.8em; color:var(--muted); padding:8px 0 4px}
+.mrow{display:grid; grid-template-columns:1fr auto auto; gap:12px; align-items:baseline;
+  padding:10px 0; border-bottom:1px solid var(--rule)}
+.mrow:last-of-type{border-bottom:0}
+.mname{font-weight:600}
+.mval{font-variant-numeric:tabular-nums; font-weight:700}
+.mchg{font-weight:700; min-width:5.2em; text-align:right}
+.up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--muted)}
+.msrc{font-size:.75em; color:var(--muted); padding-top:6px}
+.msrc a{color:var(--muted)}
+.past h2{color:var(--navy)}
+.past ul{list-style:none; padding:0; margin:0; display:grid; gap:8px}
+.past button{
+  width:100%; text-align:left; font:inherit; font-size:.95em; color:var(--ink);
+  background:var(--card); border:1px solid var(--rule); border-radius:10px; min-height:52px; padding:8px 14px;
+}
+.past button.cur{border-color:var(--navy); border-width:2px; font-weight:700}
+.about{margin-top:28px; font-size:.8em; color:var(--muted); line-height:1.7}
+.loading{padding:40px 0; text-align:center; color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <h1>खबर</h1>
+      <div class="size" aria-label="अक्षरको आकार">
+        <button id="smaller" aria-label="अक्षर सानो">अ−</button>
+        <button id="bigger" aria-label="अक्षर ठूलो">अ+</button>
+      </div>
+    </div>
+    <div class="dateline" id="dateline">&nbsp;</div>
+    <div class="updated" id="updated">&nbsp;</div>
+    <div id="notices"></div>
+  </header>
+  <nav class="jump" id="jump" aria-label="खण्डहरू"></nav>
+  <main id="main"><div class="loading">समाचार खुल्दैछ…</div></main>
+  <section class="past" id="past"></section>
+  <p class="about">
+    यी समाचार Reuters, AP, BBC लगायत अन्तर्राष्ट्रिय र नेपाली सञ्चारमाध्यमबाट संकलन गरी AI ले नेपालीमा छोटकरीमा लेखेको हो।
+    हरेक समाचारमा कम्तीमा दुई स्रोत राखिएको छ। गल्ती हुन सक्छ — महत्वपूर्ण कुरा स्रोतमा थिचेर हेर्नुहोस्।
+    बिहान र बेलुका गरी दिनको दुई पटक नयाँ समाचार आउँछ।
+  </p>
+</div>
+<script>
+(function(){
+"use strict";
+var SECTIONS=[
+  ["nepal","नेपाल"],["world","विश्व राजनीति"],["india_china","भारत–चीन"],
+  ["economy","अर्थतन्त्र र सेयर बजार"],["ai","AI र प्रविधि"]
+];
+var SHORT={nepal:"नेपाल",world:"विश्व",india_china:"भारत–चीन",economy:"बजार",ai:"AI"};
+var DIG="०१२३४५६७८९";
+var DAYS=["आइतबार","सोमबार","मंगलबार","बुधबार","बिहीबार","शुक्रबार","शनिबार"];
+var MONTHS=["जनवरी","फेब्रुअरी","मार्च","अप्रिल","मे","जुन","जुलाई","अगस्ट","सेप्टेम्बर","अक्टोबर","नोभेम्बर","डिसेम्बर"];
+var STALE_HOURS=16;
+
+function np(x){return String(x).replace(/[0-9]/g,function(d){return DIG[+d]});}
+function el(tag,cls,text){var e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e;}
+function store(k,v){try{if(v===undefined)return localStorage.getItem(k);localStorage.setItem(k,v);}catch(e){return null;}}
+
+/* ---- text size ---- */
+var fs=parseInt(store("khabar-fs")||"20",10); if(!(fs>=16&&fs<=30))fs=20;
+function applyFs(){document.documentElement.style.setProperty("--fs",fs+"px");store("khabar-fs",String(fs));}
+applyFs();
+document.getElementById("smaller").onclick=function(){if(fs>16){fs-=2;applyFs();}};
+document.getElementById("bigger").onclick=function(){if(fs<30){fs+=2;applyFs();}};
+
+/* ---- dates (generated_at is always +05:45, read its wall-clock fields directly) ---- */
+function parts(iso){
+  var m=/^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})/.exec(iso||"");
+  if(!m)return null;
+  var y=+m[1],mo=+m[2],d=+m[3],h=+m[4],mi=+m[5];
+  var dow=new Date(Date.UTC(y,mo-1,d)).getUTCDay();
+  return {y:y,mo:mo,d:d,h:h,mi:mi,dow:dow};
+}
+function dateText(iso){var p=parts(iso);if(!p)return "";return DAYS[p.dow]+", "+np(p.d)+" "+MONTHS[p.mo-1]+" "+np(p.y);}
+function editionName(id){return /-am$/.test(id)?"बिहानको समाचार":"बेलुकाको समाचार";}
+function clock(iso){var p=parts(iso);if(!p)return "";var h=p.h%12||12;
+  var part=p.h<12?"बिहान":(p.h<17?"दिउँसो":(p.h<20?"बेलुका":"राति"));
+  return part+" "+np(h)+":"+np(("0"+p.mi).slice(-2)+" बजे");}
+function ago(iso){
+  var t=Date.parse(iso); if(isNaN(t))return {txt:"",hours:0};
+  var mins=Math.max(0,Math.round((Date.now()-t)/60000)), hrs=mins/60, txt;
+  if(mins<60)txt=np(mins)+" मिनेट अघि";
+  else if(hrs<48)txt=np(Math.floor(hrs))+" घण्टा अघि";
+  else txt=np(Math.floor(hrs/24))+" दिन अघि";
+  return {txt:txt,hours:hrs};
+}
+function fmtNum(v,dec){
+  return np(Number(v).toLocaleString("en-US",{minimumFractionDigits:dec,maximumFractionDigits:dec}));
+}
+
+/* ---- speech (iPhone has no Nepali voice; fall back to Hindi which reads Devanagari) ---- */
+var synth=window.speechSynthesis, voice=null, speakingBtn=null;
+function pickVoice(){
+  if(!synth)return;
+  var vs=synth.getVoices()||[];
+  voice=vs.filter(function(v){return /^ne/i.test(v.lang);})[0]||vs.filter(function(v){return /^hi/i.test(v.lang);})[0]||null;
+  document.querySelectorAll(".listen").forEach(function(b){b.hidden=!voice;});
+}
+if(synth){pickVoice(); if("onvoiceschanged" in synth)synth.onvoiceschanged=pickVoice;}
+function stopSpeak(){if(synth)synth.cancel(); if(speakingBtn){speakingBtn.textContent="🔊 सुन्नुहोस्";speakingBtn=null;}}
+function speak(btn,text){
+  if(!synth||!voice)return;
+  if(speakingBtn===btn){stopSpeak();return;}
+  stopSpeak();
+  var u=new SpeechSynthesisUtterance(text); u.voice=voice; u.lang=voice.lang; u.rate=0.9;
+  u.onend=u.onerror=function(){if(speakingBtn===btn)stopSpeak();};
+  speakingBtn=btn; btn.textContent="⏹ रोक्नुहोस्"; synth.speak(u);
+}
+
+/* ---- data ---- */
+var index=null, current=null, lastFetch=0;
+function getJSON(path){
+  return fetch(path+"?t="+Date.now(),{cache:"no-store"}).then(function(r){
+    if(!r.ok)throw new Error(r.status); return r.json();
+  });
+}
+function load(id){
+  lastFetch=Date.now();
+  return getJSON("data/index.json").then(function(ix){
+    index=ix; store("khabar-index",JSON.stringify(ix));
+    var eds=ix.editions||[]; if(!eds.length)throw new Error("empty");
+    var e=eds.filter(function(x){return x.id===id;})[0]||eds[0];
+    return getJSON(e.file).then(function(ed){
+      if(e===eds[0])store("khabar-latest",JSON.stringify(ed));
+      render(ed,false);
+    });
+  }).catch(function(){
+    var cached=store("khabar-latest"), ci=store("khabar-index");
+    try{ if(ci)index=JSON.parse(ci); }catch(e){}
+    if(cached){ try{ render(JSON.parse(cached),true); return; }catch(e){} }
+    document.getElementById("main").innerHTML="";
+    document.getElementById("main").appendChild(el("div","loading","समाचार खुल्न सकेन। इन्टरनेट जाँचेर फेरि खोल्नुहोस्।"));
+  });
+}
+
+function render(ed,offline){
+  stopSpeak(); current=ed;
+  var latestId=index&&index.editions&&index.editions[0]?index.editions[0].id:ed.id;
+  var isLatest=ed.id===latestId;
+  document.getElementById("dateline").textContent=dateText(ed.generated_at)+" · "+editionName(ed.id);
+  var a=ago(ed.generated_at);
+  document.getElementById("updated").textContent="तयार भएको: "+clock(ed.generated_at)+" ("+a.txt+")";
+
+  var notes=document.getElementById("notices"); notes.innerHTML="";
+  if(offline)notes.appendChild(el("div","notice","इन्टरनेट नभएकाले पहिले खोलिएको समाचार देखाइएको छ।"));
+  if(!isLatest){
+    var n=el("div","notice","तपाईं पुरानो समाचार हेर्दै हुनुहुन्छ।");
+    var b=el("button",null,"आजको नयाँ समाचार हेर्नुहोस्");
+    b.onclick=function(){load(latestId);window.scrollTo(0,0);};
+    n.appendChild(el("br")); n.appendChild(b); notes.appendChild(n);
+  }else if(a.hours>STALE_HOURS){
+    notes.appendChild(el("div","notice","नयाँ समाचार आउन ढिलो भएको छ। यो समाचार "+a.txt+" को हो।"));
+  }
+
+  var main=document.getElementById("main"), jump=document.getElementById("jump");
+  main.innerHTML=""; jump.innerHTML="";
+  var stories=ed.stories||[];
+  SECTIONS.forEach(function(s){
+    var key=s[0], list=stories.filter(function(x){return x.section===key;});
+    var hasMarkets=key==="economy"&&ed.markets&&ed.markets.items&&ed.markets.items.length;
+    if(!list.length&&!hasMarkets)return;
+    var sec=el("section","sec"); sec.id="s-"+key;
+    sec.appendChild(el("h2",null,s[1]));
+    if(hasMarkets)sec.appendChild(renderMarkets(ed.markets));
+    list.forEach(function(st){sec.appendChild(renderStory(st));});
+    main.appendChild(sec);
+    var j=el("a",null,SHORT[key]); j.href="#s-"+key; jump.appendChild(j);
+  });
+  renderPast(ed.id);
+  pickVoice();
+}
+
+function renderMarkets(m){
+  var box=el("div","markets");
+  box.appendChild(el("div","asof",m.as_of||""));
+  var srcs=[];
+  m.items.forEach(function(it){
+    var row=el("div","mrow");
+    row.appendChild(el("div","mname",it.name));
+    var dec=Math.abs(it.value)>=1000?0:2;
+    row.appendChild(el("div","mval",(it.unit?it.unit+" ":"")+fmtNum(it.value,dec)));
+    var c=it.change_pct, ce;
+    if(typeof c==="number"){
+      var cls=c>0.005?"up":(c<-0.005?"down":"flat"), arrow=c>0.005?"▲ ":(c<-0.005?"▼ ":"");
+      ce=el("div","mchg "+cls,arrow+(c>0?"+":c<0?"−":"")+np(Math.abs(c).toFixed(2))+"%");
+    }else ce=el("div","mchg flat","");
+    row.appendChild(ce); box.appendChild(row);
+    if(it.url&&srcs.indexOf(it.url)<0){srcs.push(it.url);}
+  });
+  var s=el("div","msrc","स्रोत: ");
+  var seen={};
+  m.items.forEach(function(it){
+    if(!it.url||seen[it.source])return; seen[it.source]=1;
+    if(s.childNodes.length>1)s.appendChild(document.createTextNode(" · "));
+    var a=el("a",null,it.source); a.href=it.url; a.target="_blank"; a.rel="noopener"; s.appendChild(a);
+  });
+  box.appendChild(s);
+  return box;
+}
+
+function renderStory(st){
+  var art=el("article");
+  art.appendChild(el("h3",null,st.title));
+  art.appendChild(el("p",null,st.summary));
+  var speech=st.title+"। "+st.summary;
+  if(st.sides&&st.sides.length){
+    var sd=el("div","sides");
+    st.sides.forEach(function(x){
+      var d=el("div"); d.appendChild(el("b",null,x.who)); d.appendChild(document.createTextNode(x.says)); sd.appendChild(d);
+      speech+=" "+x.who+": "+x.says;
+    });
+    art.appendChild(sd);
+  }
+  if(st.impact){
+    var im=el("div","impact"); im.appendChild(el("b",null,"नेपाललाई असर: ")); im.appendChild(document.createTextNode(st.impact));
+    art.appendChild(im); speech+=" नेपाललाई असर: "+st.impact;
+  }
+  if(st.unverified)art.appendChild(el("p","unv","पुष्टि हुन बाँकी: "+st.unverified));
+  var f=el("div","foot"), src=el("span",null,"स्रोत: ");
+  (st.sources||[]).forEach(function(x,i){
+    if(i)src.appendChild(document.createTextNode(" · "));
+    var a=el("a",null,x.name); a.href=x.url; a.target="_blank"; a.rel="noopener"; src.appendChild(a);
+  });
+  f.appendChild(src);
+  var b=el("button","listen","🔊 सुन्नुहोस्"); b.hidden=!voice;
+  b.onclick=function(){speak(b,speech);};
+  f.appendChild(b);
+  art.appendChild(f);
+  return art;
+}
+
+function renderPast(curId){
+  var past=document.getElementById("past"); past.innerHTML="";
+  var eds=(index&&index.editions)||[]; if(eds.length<2)return;
+  past.appendChild(el("h2",null,"अघिल्ला समाचार"));
+  var ul=el("ul");
+  eds.forEach(function(e){
+    var li=el("li"), b=el("button",e.id===curId?"cur":null,dateText(e.generated_at)+" — "+editionName(e.id));
+    b.onclick=function(){load(e.id);window.scrollTo(0,0);};
+    li.appendChild(b); ul.appendChild(li);
+  });
+  past.appendChild(ul);
+}
+
+/* When he reopens the home-screen app after a while, fetch the newest edition. */
+document.addEventListener("visibilitychange",function(){
+  if(document.visibilityState==="visible"&&Date.now()-lastFetch>10*60000){
+    var latestId=index&&index.editions&&index.editions[0]?index.editions[0].id:null;
+    if(!current||current.id===latestId)load();
+  }
+});
+load();
+})();
+</script>
+</body>
+</html>
