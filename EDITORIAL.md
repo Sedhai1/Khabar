@@ -107,4 +107,4 @@ them. `change_pct` may be null.
 2. `python3 tools/update_index.py` — rebuilds `data/index.json`, keeps the
    newest 14 editions and deletes older edition files.
 3. Commit and push to `main`. GitHub Pages redeploys in 1–2 minutes.
-4. Check `https://sedhai1.github.io/khabar/data/index.json` shows the new id.
+4. Check `https://sedhai1.github.io/Khabar/data/index.json` shows the new id.
