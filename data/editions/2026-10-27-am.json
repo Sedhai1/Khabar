@@ -1,0 +1,114 @@
+{
+  "id": "2026-10-27-am",
+  "generated_at": "2026-10-27T06:25:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार: सोमबार, अक्टोबर २६ को बन्द · NEPSE र डलर: सोमबार, अक्टोबर २६ (कात्तिक १०)",
+    "items": [
+      {"name": "S&P 500", "value": 7676.77, "change_pct": 0.70, "source": "AP / TheStreet", "url": "https://mymotherlode.com/news/national/11255054/how-major-us-stock-indexes-fared-monday-10-26-2026.html"},
+      {"name": "Nasdaq", "value": 26169.38, "change_pct": 0.82, "source": "AP / TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"},
+      {"name": "डाउ जोन्स", "value": 52361.58, "change_pct": 0.28, "source": "AP / TheStreet", "url": "https://mymotherlode.com/news/national/11255054/how-major-us-stock-indexes-fared-monday-10-26-2026.html"},
+      {"name": "NEPSE", "value": 2629, "change_pct": -0.16, "source": "OnlineKhabar", "url": "https://english.onlinekhabar.com/stock-market-dips-after-dashain.html"},
+      {"name": "डलर (राष्ट्र बैंक, खरिद)", "value": 151.61, "unit": "रु", "change_pct": null, "source": "राष्ट्र बैंक दर (उज्यालो नेपाल)", "url": "https://www.ujyaalonepal.com/2026/372620/"}
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "चक्रवात 'अर्नब' का कारण बिहीबारदेखि देशभर वर्षा, हिमाली क्षेत्रमा भारी हिमपातको चेतावनी",
+      "summary": "बंगालको खाडीमा बनेको चक्रवात 'अर्नब' बुधबार (अक्टोबर २८, कात्तिक ११) भारतको आन्ध्रप्रदेश तटमा पुग्ने अनुमान छ। जल तथा मौसम विज्ञान विभागका अनुसार यसको असर बिहीबार (कात्तिक १२) देखि नेपालमा देखिनेछ र शुक्रबार–शनिबार बढी हुनेछ। कोशी, मधेस, बागमती, गण्डकी र लुम्बिनीमा धेरै ठाउँमा मेघगर्जन, चट्याङ र हावाहुरीसहित वर्षा र केही ठाउँमा भारी वर्षा हुन सक्छ; कर्णाली र सुदूरपश्चिममा पनि वर्षा हुनेछ। उच्च पहाड र हिमाली क्षेत्रमा भारी हिमपात, हिमआँधी र हिमपहिरोको जोखिम छ।",
+      "impact": "विभागले किसानलाई बिहीबारअघि नै धान काटेर भित्र्याउन, पर्यटक र पदयात्रीलाई उच्च हिमाली क्षेत्रमा नजान र हवाई तथा सडक यातायात अवरुद्ध हुन सक्ने भएकाले यात्रा गर्नुअघि मौसम हेर्न सुझाव दिएको छ।",
+      "sources": [
+        {"name": "रातोपाटी", "url": "https://english.ratopati.com/story/84629/cyclone-arnav-is-approaching-warning-of-heavy-rain-and-wind-in-five-provinces"},
+        {"name": "अनलाइनखबर", "url": "https://english.onlinekhabar.com/cyclone-arnab-bring-rain-snow.html"},
+        {"name": "Nepal News", "url": "https://english.nepalnews.com/s/main-left/nepal-news-evening-briefing-monday-october-26-2026/"},
+        {"name": "The Statesman", "url": "https://www.thestatesman.com/india/cyclone-arnab-explained-landfall-date-wind-speed-affected-areas-and-safety-measures-1503655324.html"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "सुरक्षा जोखिमका कारण बन्द गरिएका अधिकांश सरकारी वेबसाइट फेरि सञ्चालनमा, नागरिक एप भने अझै बन्द",
+      "summary": "वेबसाइट बनाउन प्रयोग हुने PHP नामक प्रोग्रामिङ भाषामा 'PHP2Shell' नामको गम्भीर सुरक्षा कमजोरी देखिएपछि अक्टोबर २२ देखि हजारौँ सरकारी र बैंकका वेबसाइट सावधानीका लागि बन्द गरिएका थिए। यो कमजोरीबाट आक्रमणकारीले लगइन नगरी सर्भरमा आफ्नो कोड चलाउन र सूचना चोर्न सक्थे। सफ्टवेयर विकास तथा सञ्चालन केन्द्रका प्रमुख किरण तिमल्सिनाका अनुसार सुरक्षा सुधार र जाँचपछि अधिकांश सरकारी वेबसाइट सोमबार फेरि खुलेका छन्। बाहिरी कम्पनीले चलाउने केही साइट, चिकित्सा शिक्षा आयोगको वेबसाइट र नागरिक एप भने अझै बन्द छन्।",
+      "impact": "राष्ट्रिय साइबर सुरक्षा केन्द्रका अनुसार यो कमजोरीसँग जोडिएको अनधिकृत पहुँच वा साइबर आक्रमणको घटना नेपालमा अहिलेसम्म भेटिएको छैन।",
+      "sources": [
+        {"name": "काठमाडौं पोस्ट", "url": "https://kathmandupost.com/science-technology/2026/10/26/most-nepal-government-websites-back-online-after-php2shell-flaw"},
+        {"name": "काठमाडौं पोस्ट (अक्टोबर २५)", "url": "https://kathmandupost.com/science-technology/2026/10/25/php2shell-security-flaw-forces-thousands-of-nepali-websites-offline"},
+        {"name": "ICT Frame", "url": "https://ictframe.com/php-security-flaw-nepalese-government/"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "तेहरान बैठक: इरान, साउदी, पाकिस्तान र टर्की थप छलफल गर्न सहमत, ठोस घोषणा भएन",
+      "summary": "इरानको राजधानी तेहरानमा सोमबार (अक्टोबर २६) इरान, साउदी अरब, पाकिस्तान र टर्कीका उच्च अधिकारीबीच बैठक भयो। इरानी सरकारी टेलिभिजनका अनुसार चारै देश क्षेत्रीय शान्ति र सुरक्षामा सहयोग बढाउन छलफल जारी राख्न सहमत भए, तर कुनै ठोस घोषणा भएन र अर्को बैठकको मिति तय भएको छैन। साउदी अरबले यो भेटलाई तनाव घटाउने प्रयासको हिस्सा भनेको छ। यमनका हुथी विद्रोहीले साउदी अरबमा मिसाइल र ड्रोन आक्रमण जारी राखेका छन्।",
+      "sides": [
+        {"who": "अमेरिकी राष्ट्रपति ट्रम्पको भनाइ", "says": "इरानसँग सम्झौता गर्ने कि फेरि सैनिक कारबाही गर्ने भन्नेबारे अझै निर्णय गरिरहेको र होर्मुज जलमार्ग अमेरिकाको नियन्त्रणमा रहेको उनले बताएका छन्।"},
+        {"who": "इरानी विदेशमन्त्री अराघचीको भनाइ", "says": "युद्ध होस् वा नहोस्, इरानको नीति उस्तै रहने उनले बताएका छन्; विदेश मन्त्रालयले कूटनीतिको ढोका बन्द नभएको र मध्यस्थकर्तामार्फत सन्देश आदानप्रदान भइरहेको जनाएको छ।"}
+      ],
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions"},
+        {"name": "RFE/RL", "url": "https://www.rferl.org/a/tensions-mecca-alliance-partners-tehran-saudi-turkey-pakistan/33884432.html"},
+        {"name": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "ब्राजिलमा लुला चौथो पटक राष्ट्रपति निर्वाचित, प्रतिद्वन्द्वी बोल्सोनारोले नतिजा मानेनन्",
+      "summary": "ब्राजिलमा आइतबार (अक्टोबर २५) भएको राष्ट्रपतीय निर्वाचनको दोस्रो चरणमा ८० वर्षीय लुइज इनासियो लुला दा सिल्भाले करिब ५१.८ प्रतिशत मत ल्याएर जित निकाले। दक्षिणपन्थी उम्मेदवार फ्लाभियो बोल्सोनारोले करिब ४८.२ प्रतिशत मत पाए। अक्टोबर ४ को पहिलो चरणमा लुला पछि परेका थिए। लुला जनवरी ५, २०२७ मा चौथो कार्यकालका लागि शपथ लिनेछन्।",
+      "sides": [
+        {"who": "लुलाको भनाइ", "says": "मतदाताले लोकतन्त्र जोगाएको भन्दै उनले धन्यवाद दिए र दक्षिणपन्थी झुकाव भएको संसदसँग काम गर्न चुनौती हुने स्वीकारे।"},
+        {"who": "फ्लाभियो बोल्सोनारोको भनाइ", "says": "सर्वोच्च अदालतले अन्तिम समयमा मतदानको समय दुई घण्टा थपेर नियम बदलेको भन्दै उनले नतिजा मान्न नसकिने र चुनाव रद्द गराउन कानुनी बाटो लिने बताएका छन्।"}
+      ],
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election"},
+        {"name": "Al Jazeera (मुख्य बुँदा)", "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win"},
+        {"name": "Nepal News", "url": "https://english.nepalnews.com/s/main-left/nepal-news-evening-briefing-monday-october-26-2026/"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "सर्बियाको संसदीय निर्वाचनमा विद्यार्थी आन्दोलनको सूची विजयी, भुचिचले हार स्वीकारे",
+      "summary": "सर्बियामा आइतबार (अक्टोबर २५) भएको संसदीय निर्वाचनमा विद्यार्थी आन्दोलनबाट बनेको 'स्टुडेन्ट लिस्ट' ले जित्यो। २५० सिटको संसदमा उसले १३५ देखि १४० सिट पाउने र २०१२ देखि सत्तामा रहेको भुचिचको सर्बियन प्रोग्रेसिभ पार्टीले करिब १०५ सिट पाउने अनुमान छ; सरकार बनाउन १२६ सिट चाहिन्छ। अन्तिम नतिजा आउन बाँकी छ। मतदान स्रोतअनुसार फरक, करिब ६५ देखि ७० प्रतिशत भयो, जुन सन् १९९२ यताकै धेरै हो। सन् २०२४ मा नोभी साद रेलवे स्टेसनको छाना खसेर १६ जनाको मृत्यु भएपछि सुरु भएको भ्रष्टाचारविरोधी आन्दोलनबाट यो सूची बनेको हो।",
+      "unverified": "प्रधानमन्त्री को बन्ने भन्ने अझै स्पष्ट छैन।",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"},
+        {"name": "ABC (Reuters)", "url": "https://www.abc.net.au/news/2026-10-26/serbia-election-vucic-defeat-student-protest/107307808"},
+        {"name": "Euronews", "url": "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "भारतविरोधी राष्ट्रवादको युग सकियो भन्ने अर्थमन्त्री वाग्लेको भनाइमा स्वदेशमा आलोचना",
+      "summary": "अर्थमन्त्री स्वर्णिम वाग्लेले शुक्रबार (अक्टोबर २३) नयाँदिल्लीमा भारतीय टेलिभिजन NDTV को कार्यक्रममा 'नेपालमा राष्ट्रवादलाई भारतविरोधी भावनासँग जोड्ने समय सकियो' भनेका थिए। उनले प्रधानमन्त्री बालेन्द्र शाह सन् २०२६ भित्रै भारत भ्रमणमा जान सक्ने बताए, तर मिति तय भएको छैन। सोही भ्रमणमा उनले भारतीय प्रधानमन्त्री मोदीसँग छोटो भेट गरेका थिए र विदेशमन्त्री जयशंकरसँग एउटा कार्यक्रममा सहभागी भएका थिए। उनको भनाइप्रति नेपालमा आलोचना भएको छ।",
+      "sides": [
+        {"who": "अर्थमन्त्री वाग्लेको भनाइ", "says": "भारतसँगको सम्बन्ध गहिरो र कहिलेकाहीँ तनावपूर्ण भए पनि नेपालको अरू कुनै देशसँग यस्तो सम्बन्ध नभएको र नयाँ सरकार यसलाई नयाँ उचाइमा पुर्‍याउन चाहेको उनले बताए।"},
+        {"who": "आलोचकको भनाइ", "says": "अभिनेता राजेश हमालले मन्त्रीले पदीय मर्यादा नाघेको, परराष्ट्र नीति व्यक्तिगत विवेकमा चल्न नहुने र सीमा विवादजस्ता विषयमा स्पष्ट धारणा चाहिने बताए; पूर्वपरराष्ट्रमन्त्री प्रदीप ज्ञवालीले पनि प्रश्न उठाएका छन्।"}
+      ],
+      "unverified": "सरकार वा अर्थमन्त्रीको तर्फबाट आलोचनाबारे प्रतिक्रिया आएको समाचार भेटिएन।",
+      "sources": [
+        {"name": "काठमाडौं पोस्ट", "url": "https://kathmandupost.com/national/2026/10/23/the-era-of-anti-india-nationalism-is-over-wagle-says"},
+        {"name": "अनलाइनखबर", "url": "https://english.onlinekhabar.com/rajesh-hamal-slams-wagle.html"},
+        {"name": "Nepal News", "url": "https://english.nepalnews.com/s/diplomacy/finance-minister-wagle-meets-indian-pm-modi-at-ndtv-world-summit/"},
+        {"name": "PTI (The Federal)", "url": "https://thefederal.com/category/news/nepal-259795"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "प्रविधि कम्पनीको सेयर बढ्दा अमेरिकी बजार उकालो; यो साता ब्याजदर बैठक र ठूला कम्पनीको नतिजा",
+      "summary": "अमेरिकी सेयर बजार सोमबार (अक्टोबर २६) बढेर बन्द भयो। S&P 500 सूचक ०.७ प्रतिशत बढेर ७,६७६.७७, प्रविधि कम्पनी धेरै भएको Nasdaq ०.८ प्रतिशत बढेर २६,१६९.३८ र डाउ जोन्स ०.३ प्रतिशत बढेर ५२,३६१.५८ मा पुगे। AI कम्पनी एन्थ्रोपिकले सेयर बजारमा आउन कागजात सार्वजनिक गरेपछि प्रविधि क्षेत्रमा उत्साह देखिएको थियो। अमेरिकी केन्द्रीय बैंक (फेड) को ब्याजदर बैठक मंगलबार–बुधबार हुँदैछ, र यसै साता माइक्रोसफ्ट, गुगलकी मूल कम्पनी अल्फाबेट र एमेजनले आफ्नो नतिजा सार्वजनिक गर्दैछन्। इरानसँग तनाव घट्ने आशामा सोमबार दिउँसो ब्रेन्ट कच्चा तेल करिब १.४ प्रतिशत घटेर प्रति ब्यारेल करिब ११५ डलरमा थियो।",
+      "sources": [
+        {"name": "AP", "url": "https://mymotherlode.com/news/national/11255054/how-major-us-stock-indexes-fared-monday-10-26-2026.html"},
+        {"name": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"},
+        {"name": "Reuters (Yahoo Finance)", "url": "https://finance.yahoo.com/news/oil-prices-down-almost-1-232445179.html"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "Claude बनाउने AI कम्पनी एन्थ्रोपिकले सेयर बजारमा आउन कागजात सार्वजनिक गर्‍यो",
+      "summary": "Claude नामको AI च्याटबोट बनाउने अमेरिकी कम्पनी एन्थ्रोपिकले सोमबार (अक्टोबर २६) सेयर सार्वजनिक निष्कासन (IPO) का लागि आफ्नो विवरण अमेरिकी नियामक निकायमा सार्वजनिक गर्‍यो। कम्पनीको सेयर Nasdaq बजारमा 'ANT' नामले किनबेच हुनेछ। विवरणअनुसार सन् २०२६ को पहिलो छ महिनामा कम्पनीको आम्दानी १६ अर्ब ३० करोड डलर पुग्यो, जुन सन् २०२५ भरिको ४ अर्ब ६० करोड डलरभन्दा धेरै हो। सोही अवधिमा ८० अर्ब ७० करोड डलर खुद घाटा देखिए पनि त्यसको ठूलो भाग नगद खर्च नभई लेखासम्बन्धी हिसाब हो। AI चलाउन चाहिने कम्प्युटर र चिपका लागि कम्पनीले एमेजन, गुगलजस्ता कम्पनीसँग ४३० अर्ब डलर (४ खर्ब ३० अर्ब डलर) भन्दा बढीको सम्झौता गरेको छ। सेयरको मूल्य र बिक्री मिति अझै तय छैन।",
+      "unverified": "कम्पनीको मूल्याङ्कन करिब १५ देखि २० खर्ब डलर हुने र नोभेम्बरको तेस्रो साता सूचीकृत हुने भन्ने कुरा अज्ञात स्रोतको हवालामा आएको हो; कम्पनीले पुष्टि गरेको छैन।",
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html"},
+        {"name": "The Next Web", "url": "https://thenextweb.com/news/anthropic-ipo-filing-nasdaq-ant-s-1"}
+      ]
+    }
+  ]
+}
