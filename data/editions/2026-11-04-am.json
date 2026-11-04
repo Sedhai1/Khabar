@@ -1,0 +1,120 @@
+{
+  "id": "2026-11-04-am",
+  "generated_at": "2026-11-04T06:23:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार र ब्रेन्ट: मंगलबार, नोभेम्बर ३ को बन्द · NEPSE: मंगलबार, नोभेम्बर ३ को बन्द (बुधबारको कारोबार दिउँसो हुन्छ) · डलर: बुधबार, नोभेम्बर ४ (राष्ट्र बैंकको दर)",
+    "items": [
+      {"name": "S&P 500", "value": 7568.92, "change_pct": 0.36, "source": "AP", "url": "https://mymotherlode.com/news/national/11279050/how-major-us-stock-indexes-fared-tuesday-11-3-2026.html"},
+      {"name": "Nasdaq", "value": 25372.01, "change_pct": 0.83, "source": "AP", "url": "https://mymotherlode.com/news/national/11279050/how-major-us-stock-indexes-fared-tuesday-11-3-2026.html"},
+      {"name": "डाउ जोन्स", "value": 51786.72, "change_pct": -0.38, "source": "AP", "url": "https://mymotherlode.com/news/national/11279050/how-major-us-stock-indexes-fared-tuesday-11-3-2026.html"},
+      {"name": "NEPSE", "value": 2664.13, "change_pct": 0.25, "source": "अनलाइनखबर", "url": "https://english.onlinekhabar.com/stock-market-rises-turnover-falls.html"},
+      {"name": "डलर (राष्ट्र बैंक, खरिद)", "value": 151.29, "unit": "रु", "change_pct": null, "source": "नेपाल राष्ट्र बैंक (रातोपाटी मार्फत)", "url": "https://english.ratopati.com/story/85570/foreign-currency-exchange-rates-set-for-today"},
+      {"name": "ब्रेन्ट कच्चा तेल", "value": 103.60, "unit": "डलर/ब्यारेल", "change_pct": -1.1, "source": "Reuters", "url": "https://www.centraloregondaily.com/news/consumer/oil-prices-ease-to-settle-near-4-week-low-on-hopes-peace-talks-will-end/article_fb735ac6-1ebb-585c-8284-af7d770292d0.html"}
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "सडक सुधारका लागि एडीबीको ३० करोड ५० लाख डलर सहायता लिने सरकारको निर्णय",
+      "summary": "मंगलबार सिंहदरबारमा बसेको मन्त्रिपरिषद् बैठकले एसियाली विकास बैंक (एडीबी) बाट सडक सुधार आयोजनाका लागि ३० करोड ५० लाख अमेरिकी डलर सहायता लिने निर्णय गर्‍यो। यसमध्ये २८ करोड ५० लाख डलर सहुलियतपूर्ण ऋण र २ करोड डलर अनुदान हो। सिन्ह्वाका अनुसार एडीबीले अक्टोबरमा स्वीकृत गरेको यो सहायताबाट दुई राजमार्ग स्तरोन्नति र चौडा गरिनेछन्, र वन्यजन्तु संरक्षित क्षेत्रमा सवारी र जनावरबीच हुने दुर्घटना घटाउन अग्लो (एलिभेटेड) सडक खण्ड बनाइनेछ। बैठकले रासायनिक मल नियन्त्रण आदेश, २०८३ स्वीकृत गर्‍यो र मोहीको जग्गा बाँडफाँटको म्याद नोभेम्बर २०२८ सम्म बढायो।",
+      "unverified": "कुन-कुन राजमार्ग हुन् भन्ने कुरा पढिएका समाचारमा खुलाइएको छैन।",
+      "sources": [
+        {"name": "हिमाल प्रेस", "url": "https://en.himalpress.com/govt-decides-to-accept-grant-concessional-loan-worth-305-million-from-adb/"},
+        {"name": "नेपाल न्युज", "url": "https://english.nepalnews.com/s/nation/cabinet-makes-six-decisions-on-adb-road-funding-fertilizer-regulation-cop31-delegation-land-partition-deadlines-and-legal-amendments/"},
+        {"name": "सिन्ह्वा", "url": "https://english.news.cn/asiapacific/20261010/0f5ed5917f5f40eb83ca55ed6c76ba44/c.html"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "शिक्षा मन्त्रालयले अनशन तोड्न आग्रह गर्‍यो, डा. गोविन्द केसीले अस्वीकार गरे",
+      "summary": "अक्टोबर २९ देखि अनशनरत डा. गोविन्द केसीलाई शिक्षा मन्त्रालयले विज्ञप्ति निकालेर अनशन तोडेर संवादमा आउन आग्रह गरेको छ। मन्त्रालयले उनका धेरै माग पूरा भइसकेको र बाँकी प्रक्रियामा रहेको जनाएको छ। काठमाडौं पोस्टका अनुसार डा. केसीले यो आग्रह अस्वीकार गरेका छन्। उनी अहिले काठमाडौंको शिक्षण अस्पतालमा उपचाररत छन्। सरकारी वार्ता टोली भने अझै बनेको छैन।",
+      "sides": [
+        {"who": "शिक्षा मन्त्रालयको भनाइ", "says": "गेटा मेडिकल कलेजको ३०० शय्याको शिक्षण अस्पताल पूर्ण क्षमतामा चलेको, विश्वविद्यालयका नियुक्ति दलगत प्रभावमुक्त बनाउन ऐन संशोधन हुँदै गरेको, र सुर्खेत, बुटवल र बर्दिबासमा नयाँ मेडिकल शिक्षा संस्था बनाइँदै गरेको।"},
+        {"who": "डा. केसीको भनाइ", "says": "सरकारले साउन ११ (जुलाई २७) को सम्झौताविपरीत निर्णय गरिरहेको, थप वार्ताले कार्यान्वयन नहुने आश्वासन मात्र दिने, र कुनै अप्रिय घटना भए सरकार जिम्मेवार हुने।"}
+      ],
+      "sources": [
+        {"name": "काठमाडौं पोस्ट", "url": "https://kathmandupost.com/national/2026/11/03/dr-govinda-kc-refuses-to-end-hunger-strike-despite-government-appeal"},
+        {"name": "नागरिक", "url": "https://nagariknews.nagariknetwork.com/politics/government-urges-dr-kc-to-end-hunger-strike-says-many-demands-have-been-met-rest-are-in-process-br-20-90.html"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "अमेरिकामा मध्यावधि निर्वाचन: मतदान सकिँदै, संसद् कसको हातमा भन्ने गणना सुरु",
+      "summary": "अमेरिकामा मंगलबार प्रतिनिधिसभाका सबै ४३५ सिट, सिनेटका १०० मध्ये ३५ सिट र ३६ राज्यका गभर्नरका लागि मतदान भयो। अहिले सिनेटमा रिपब्लिकनको ५३ र डेमोक्र्याटको ४७ सिट छ, र प्रतिनिधिसभामा रिपब्लिकनको बहुमत सानो छ। नेपाली समयअनुसार बुधबार बिहानसम्म केन्टकी, भर्जिनियालगायत केही राज्यमा मतदान सकिएको थियो र सुरुका केही सिटको नतिजा आएको थियो, जस्तै भर्जिनियाका डेमोक्र्याट सिनेटर मार्क वार्नर फेरि जितेका छन्। अल जजिराका अनुसार संसद् कसले जित्यो भन्ने टुंगो लाग्न केही दिन लाग्न सक्छ।",
+      "sides": [
+        {"who": "डेमोक्र्याटको भनाइ", "says": "महँगी घटाउने र इरानसँगको युद्ध अन्त्य गर्ने मुद्दामा प्रचार गरेका, र दुवै सदनमा ठूलो जितको आशा राखेका।"},
+        {"who": "रिपब्लिकन र ट्रम्पको भनाइ", "says": "ट्रम्पले समर्थकलाई आफू नै उम्मेदवार भएजस्तो गरी मत दिन आग्रह गरे, र इरानको आणविक हतियार रोक्न युद्ध आवश्यक भएको तर्क गरेका छन्।"}
+      ],
+      "unverified": "रोयटर्स/इप्सोसको सर्वेक्षणमा ४८ प्रतिशत मतदाताले महँगीलाई मुख्य मुद्दा भनेका थिए; अन्तिम नतिजा भने आइसकेको छैन।",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results"},
+        {"name": "Irish Times", "url": "https://www.irishtimes.com/world/us/2026/11/03/us-midterm-elections-voting-begins-with-trumps-republicans-behind-in-key-polls/"},
+        {"name": "WJLA", "url": "https://wjla.com/news/connect-to-congress/live-polls-begin-closing-as-americans-cast-ballots-to-decide-control-of-congress-election-day-midterms-democrats-republicans"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "रुस, युक्रेन र अमेरिकाबीच नोभेम्बर १०–११ मा अबुधाबीमा शान्ति वार्ता हुने",
+      "summary": "रुसको क्रेमलिनका प्रवक्ता दिमित्री पेस्कोभले मंगलबार रुस, युक्रेन र अमेरिकाबीच नोभेम्बर १० र ११ मा संयुक्त अरब इमिरेट्सको अबुधाबीमा वार्ता हुने पुष्टि गरे। रुसतर्फबाट पुटिनका सल्लाहकार भ्लादिमिर मेदिन्स्कीले वार्ता टोलीको नेतृत्व गर्नेछन्। रोयटर्सका अनुसार यसअघि अमेरिकाको मध्यस्थतामा भएको वार्ता फेब्रुअरीमा भएको थियो। यो घोषणा जापोरिज्जियामा राहत केन्द्रमाथिको रुसी आक्रमणलगत्तै आएको हो।",
+      "sides": [
+        {"who": "अमेरिकी दूत स्टिभ विटकफको भनाइ", "says": "युक्रेन र रुसका टोलीलाई युद्धपछिको सुरक्षा सम्झौता र तनाव घटाउने विषयमा छलफल गराइनेछ।"},
+        {"who": "युक्रेनी राष्ट्रपति जेलेन्स्कीको भनाइ", "says": "ओलेश्कीको सानो युद्धविरामले प्रगति सम्भव छ भन्ने देखाउन सक्थ्यो, तर रुसले ठीक उल्टो सन्देश दिइरहेको छ।"}
+      ],
+      "sources": [
+        {"name": "Reuters (Al-Monitor मार्फत)", "url": "https://www.al-monitor.com/originals/2026/11/kremlin-confirms-trilateral-ukraine-peace-talks-abu-dhabi-next-week"},
+        {"name": "RTÉ / AFP", "url": "https://www.rte.ie/news/2026/1103/1597730-ukraine/"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "भारतका विदेशसचिव विक्रम मिस्री आजदेखि दुई दिने नेपाल भ्रमणमा",
+      "summary": "भारतका विदेशसचिव विक्रम मिस्री नेपालका विदेशसचिव अमृतबहादुर राईको निम्तोमा बुधबार र बिहीबार (नोभेम्बर ४–५) नेपाल भ्रमणमा आउँदैछन्। उनले दुई देशबीचका सबै विषयमा छलफल गर्ने, नेपालका वरिष्ठ अधिकारी र राजनीतिक नेतालाई भेट्ने र प्रधानमन्त्री बालेन्द्र शाहसँग पनि भेट्ने अपेक्षा गरिएको छ। काठमाडौं पोस्टका अनुसार यो भ्रमणले यही नोभेम्बरको दोस्रो पन्ध्र दिनमा हुने भनिएको प्रधानमन्त्री शाहको भारत भ्रमणको तयारी गर्नेछ। भ्रमणको मिति भने अझै घोषणा भएको छैन।",
+      "impact": "भारत नेपालको सबैभन्दा ठूलो व्यापार साझेदार हो; आर्थिक वर्ष २०२५/२६ मा दुई देशबीच करिब ९ अर्ब ३८ करोड डलरको व्यापार भएको थियो, जुन नेपालको कुल वस्तु व्यापारको ६० प्रतिशतभन्दा बढी हो।",
+      "sources": [
+        {"name": "काठमाडौं पोस्ट", "url": "https://kathmandupost.com/politics/2026/11/02/indian-foreign-secretary-to-visit-nepal-ahead-of-balendra-shah-s-proposed-india-trip"},
+        {"name": "रेडियो नेपाल", "url": "https://radionepalonline.com/en/2026/11/03/438282.html"},
+        {"name": "ANI", "url": "https://aninews.in/news/world/asia/foreign-secretary-vikram-misri-to-visit-nepal-from-nov-4-520261102174037/"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "रुसी रक्षामन्त्री बेइजिङमा, चीनसँगको सम्बन्ध 'अहिलेसम्मकै उच्च' भने",
+      "summary": "रुसका रक्षामन्त्री आन्द्रेई बेलोउसोभले बेइजिङमा चीनको केन्द्रीय सैन्य आयोगका उपाध्यक्ष झाङ सेङमिनसँग भेट गरे। यो आयोगको प्रमुख राष्ट्रपति सी जिनपिङ हुन्। रुसी रक्षा मन्त्रालयका अनुसार बेलोउसोभले रुस–चीन रणनीतिक साझेदारी 'अहिलेसम्मकै उच्च' स्तरमा पुगेको र यसको श्रेय पुटिन र सीबीचको व्यक्तिगत सम्बन्धलाई जाने बताए। यो भ्रमण नोभेम्बर १८–१९ मा चीनको सेन्जेनमा हुने एपेक शिखर सम्मेलनअघि भएको हो, जसमा पुटिन र ट्रम्प दुवैले सहभागी हुने इच्छा देखाएका छन्।",
+      "unverified": "चिनियाँ पक्षले भेटबारे के भन्यो भन्ने पढिएका समाचारमा आएको छैन।",
+      "sources": [
+        {"name": "AFP (कीभ पोस्ट मार्फत)", "url": "https://www.kyivpost.com/post/88983"},
+        {"name": "AFP (२४ न्युज मार्फत)", "url": "https://www.24newshd.tv/03-Nov-2026/russian-defence-minister-hails-unprecedented-beijing-ties-china-visit"},
+        {"name": "China-Global South Project", "url": "https://chinaglobalsouth.com/2026/11/03/china-russia-military-partnership-belousov-defense-talks/"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "अमेरिकी सेयर बजार: चिप कम्पनीका सेयर फेरि उक्लिए, निर्वाचनको नतिजा पर्खाइमा",
+      "summary": "मंगलबार अमेरिकी सेयर बजारमा S&P 500 ०.४ प्रतिशत बढेर ७,५६८.९२ र Nasdaq (प्रविधि कम्पनीको सूचकांक) ०.८ प्रतिशत बढेर २५,३७२.०१ मा बन्द भयो। डाउ जोन्स भने ०.४ प्रतिशत घट्यो। अघिल्ला दिनमा धेरै घटेका कम्प्युटर चिप बनाउने कम्पनीका सेयर फेरि बढे। बजार बन्द भएपछि चिप कम्पनी एएमडीले आम्दानी अनुमानभन्दा राम्रो देखाएपछि उसको सेयर थप ७ प्रतिशत उक्लियो। लगानीकर्ता मध्यावधि निर्वाचनको नतिजा पर्खिरहेका छन्।",
+      "sources": [
+        {"name": "AP", "url": "https://mymotherlode.com/news/national/11279050/how-major-us-stock-indexes-fared-tuesday-11-3-2026.html"},
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "शान्ति वार्ताको आशामा कच्चा तेल चार हप्तायताकै सस्तो",
+      "summary": "मंगलबार ब्रेन्ट कच्चा तेल प्रतिब्यारेल १ डलर १७ सेन्ट (करिब १ प्रतिशत) घटेर १०३.६० डलरमा बन्द भयो, जुन अक्टोबर ७ यताकै कम हो। रोयटर्सका अनुसार इरान र युक्रेनका युद्ध अन्त्य गर्ने वार्ताको आशाले मूल्य घट्यो। कतारले अमेरिका र इरान मध्यस्थताप्रति प्रतिबद्ध रहेको बताए पनि इरानी अधिकारीले सम्झौता अझै टाढा रहेको भनेका छन्। ब्लुमबर्गका अनुसार साउदी अरब, यूएई, इराक र कुवेतको तेल निर्यात गत महिना १० प्रतिशत बढेर दैनिक १ करोड ५० लाख ब्यारेलभन्दा माथि पुगेको छ।",
+      "sources": [
+        {"name": "Reuters", "url": "https://www.centraloregondaily.com/news/consumer/oil-prices-ease-to-settle-near-4-week-low-on-hopes-peace-talks-will-end/article_fb735ac6-1ebb-585c-8284-af7d770292d0.html"},
+        {"name": "Bloomberg (Rigzone मार्फत)", "url": "https://www.rigzone.com/news/wire/oil_prices_swing_on_conflicting_iran_signals-03-nov-2026-185001-article/"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "एनभिडियाले क्लाउड कम्पनीलाई चिनियाँ ग्राहक सीमित गर्न भनेको समाचार",
+      "summary": "एआईका लागि चाहिने सबैभन्दा शक्तिशाली कम्प्युटर चिप बनाउने अमेरिकी कम्पनी एनभिडियाले आफ्ना चिप प्रयोग गर्ने क्लाउड कम्पनीहरूलाई कम्तीमा ५१ प्रतिशत सेवा चीनबाहिरका ग्राहकलाई बेच्नुपर्ने निर्देशन दिएको फाइनान्सियल टाइम्सले पाँच जना जानकारको हवाला दिँदै लेखेको छ। 'क्लाउड' भनेको इन्टरनेटमार्फत भाडामा दिइने कम्प्युटर क्षमता हो। अमेरिकी नियमका कारण एनभिडियाका सबैभन्दा उन्नत चिप सिधै चीन पठाउन पाइँदैन, त्यसैले चिनियाँ कम्पनीहरूले विदेशी डाटा सेन्टरबाट भाडामा क्षमता लिँदै आएका छन्। यो निर्देशन लिखित नभई मौखिक रूपमा दिइएको र नयाँ सम्झौतामा मात्र लागू हुने बताइएको छ।",
+      "unverified": "एनभिडियाले यो समाचारबारे सार्वजनिक प्रतिक्रिया दिएको छैन; जानकारी नाम नखुलाइएका स्रोतमा आधारित छ।",
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-restricts-chinese-access-112552007.html"},
+        {"name": "Techzine", "url": "https://www.techzine.eu/news/infrastructure/145501/nvidia-imposes-strict-requirements-on-cloud-providers/"}
+      ]
+    }
+  ]
+}
