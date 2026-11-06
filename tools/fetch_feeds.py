@@ -91,7 +91,7 @@ def main(out_path):
                 seen.add(key)
                 if len(summ) > SUMMARY_CHARS:
                     summ = summ[:SUMMARY_CHARS].rsplit(" ", 1)[0] + " …"
-                if summ == title:
+                if summ == title or summ.startswith(title):
                     summ = ""
                 items.append({
                     "source": f["name"], "section": f["section"], "title": title,
