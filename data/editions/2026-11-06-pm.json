@@ -1,0 +1,135 @@
+{
+  "id": "2026-11-06-pm",
+  "generated_at": "2026-11-06T18:40:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार र ब्रेन्ट: बिहीबार, नोभेम्बर ५ को बन्द (शुक्रबारको कारोबार अझै सुरु भएको छैन) · निक्केई: शुक्रबार, नोभेम्बर ६ को बन्द · NEPSE: बिहीबार, नोभेम्बर ५ को बन्द · डलर: शुक्रबार, नोभेम्बर ६ (कात्तिक २०, राष्ट्र बैंकको दर)",
+    "items": [
+      {"name": "S&P 500", "value": 7353.73, "change_pct": -4.36, "source": "AP", "url": "https://krmg.com/2026/11/05/how-major-us-stock-indexes-fared-thursday-11-5-2026/"},
+      {"name": "Nasdaq", "value": 24314.99, "change_pct": -5.52, "source": "AP", "url": "https://krmg.com/2026/11/05/how-major-us-stock-indexes-fared-thursday-11-5-2026/"},
+      {"name": "डाउ जोन्स", "value": 51523.06, "change_pct": -3.44, "source": "AP", "url": "https://krmg.com/2026/11/05/how-major-us-stock-indexes-fared-thursday-11-5-2026/"},
+      {"name": "निक्केई (जापान)", "value": 57435, "change_pct": -5.96, "source": "WION", "url": "https://wionews.com/world/asian-markets-crash-ai-stocks-us-midterm-elections-1793962443451"},
+      {"name": "NEPSE", "value": 2652.58, "change_pct": -0.49, "source": "रिपब्लिका", "url": "https://myrepublica.nagariknetwork.com/news/nepse-sheds-1295-points-as-daily-turnover-down-63-percent-to-rs-472-billion-16-51.html"},
+      {"name": "डलर (राष्ट्र बैंक, खरिद)", "value": 150.87, "unit": "रु", "change_pct": -0.17, "source": "नेपाल राष्ट्र बैंक (कान्तिपुर मार्फत)", "url": "https://ekantipur.com/business/2026/11/06/november-6-2026-todays-foreign-exchange-rates.html"},
+      {"name": "ब्रेन्ट कच्चा तेल", "value": 98.29, "unit": "डलर/ब्यारेल", "change_pct": 3.88, "source": "Reuters", "url": "https://ca.finance.yahoo.com/news/oil-falls-fourth-day-expectations-045943628.html"}
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "अनलाइन ठगी रोक्न २४ घण्टा खुला रहने केन्द्र आजदेखि सुरु",
+      "summary": "अनलाइनमार्फत हुने आर्थिक ठगी रोक्न नेपाल प्रहरीको साइबर ब्युरो मातहत 'एकीकृत एन्टी साइबर स्क्याम केन्द्र' शुक्रबारदेखि सञ्चालनमा आएको छ। काठमाडौंको सामाखुसीमा रहेको यो केन्द्रमा प्रहरी, बैंक, राष्ट्र बैंक, टेलिकम कम्पनी र खल्ती, इसेवाजस्ता भुक्तानी कम्पनीका १ सय १४ जना कर्मचारी तीन सिफ्टमा दिनरात काम गर्नेछन्। उजुरी परेको १० मिनेटभित्र दर्ता गर्ने, ३० मिनेटभित्र पैसा कुन खातामा गयो पत्ता लगाउने र ६० मिनेटभित्र त्यो खाता रोक्का गर्न अनुरोध गर्ने लक्ष्य राखिएको छ। ठगीमा प्रयोग भएका सिमकार्ड र नक्कली वेबसाइटसमेत बन्द गरिनेछ।",
+      "impact": "ठगीमा परेका नेपालीले हटलाइन, नागरिक एप, नेपाल प्रहरी एप वा केन्द्रको अनलाइन पोर्टलमार्फत उजुरी दिन सक्नेछन्।",
+      "unverified": "हटलाइन नम्बर स्रोतहरूमा उल्लेख छैन।",
+      "sources": [
+        {"name": "काठमाडौं पोस्ट", "url": "https://kathmandupost.com/money/2026/11/06/nepal-sets-up-round-the-clock-centre-to-combat-online-financial-scams"},
+        {"name": "अनलाइनखबर इङ्ग्लिस", "url": "https://english.onlinekhabar.com/anti-cyber-scam-centre.html"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "आईजीपी हटाइएको विवाद: कार्कीको रिटमा नोभेम्बर १६ मा सुनुवाइ, रास्वपा संसदीय दलको बैठक सारियो",
+      "summary": "हटाइएका प्रहरी प्रमुख दानबहादुर कार्कीले आफूलाई गैरकानुनी रूपमा हटाइएको भन्दै पुनर्बहालीको माग गर्दै दिएको रिट सर्वोच्च अदालतले शुक्रबार दर्ता गरेको छ। तिहार बिदाका कारण यसको सुनुवाइ नोभेम्बर १६ मा हुनेछ। यही विषयमा सरकार र सत्तारूढ रास्वपाबीच फरक भनाइ आएपछि रास्वपा संसदीय दलको बैठक तोकिएको मिति बिना सारिएको छ। कांग्रेस, एमाले, राप्रपालगायत विपक्षी दलले सरकारको कामकाजको छानबिन गर्न संसद् बोलाउनुपर्ने माग गरेका छन्।",
+      "sides": [
+        {"who": "सरकारका प्रवक्ता सस्मित पोखरेल", "says": "पार्टीको निर्देशनअनुसार नै प्रहरी प्रमुख हेरफेर गरिएको हो।"},
+        {"who": "रास्वपा प्रवक्ता जगदीश खरेल", "says": "पार्टीले कुनै व्यक्तिलाई नियुक्त गर्न वा हटाउन निर्देशन दिएको छैन, दिँदैन पनि।"},
+        {"who": "विपक्षी दलहरू", "says": "संवैधानिक प्रक्रियाको बेवास्ता जारी रहे सडक आन्दोलनमा जान सकिन्छ; संसद् बोलाएर सरकारको छानबिन हुनुपर्छ।"}
+      ],
+      "sources": [
+        {"name": "रिपब्लिका", "url": "https://myrepublica.nagariknetwork.com/news/hearing-on-former-igp-karkis-writ-petition-scheduled-for-nov-16-60-60.html"},
+        {"name": "रिपब्लिका", "url": "https://myrepublica.nagariknetwork.com/news/as-ruling-rsp-grapples-with-internal-divisions-oppn-parties-see-an-opening-68-54.html"},
+        {"name": "रातोपाटी", "url": "https://english.ratopati.com/story/85749/igp-reshuffle-affects-rsvp-parliamentary-party-meeting"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "बैंक डुबेपछि प्याराग्वेका राष्ट्रपति पेनाको राजीनामा, केही मिनेटमै महाअभियोग पनि",
+      "summary": "दक्षिण अमेरिकी देश प्याराग्वेका राष्ट्रपति सान्टियागो पेनाले बिहीबार राजीनामा दिए। राजीनामा घोषणा गरेको केही मिनेटमै संसदको तल्लो सदनले सर्वसम्मतिले उनीमाथि महाअभियोग लगाउने निर्णय गर्‍यो। देशका ६० प्रतिशतभन्दा बढी वयस्कलाई ग्राहक बनाएको डिजिटल बैंक 'उएनो' मा पुँजी कमी देखिएपछि केन्द्रीय बैंकले मंगलबार त्यसलाई नियन्त्रणमा लिएको थियो। करिब ३० लाख ग्राहकले आफ्नो खाता चलाउन पाएका छैनन्। बैंकका संस्थापकसहित आठ उच्च अधिकारी पक्राउ परेका छन्। उपराष्ट्रपति पेद्रो आलियानाले पद सम्हाल्ने बताइएको छ।",
+      "sides": [
+        {"who": "सान्टियागो पेना", "says": "कतै आफू चुकेको भए माफी माग्छु; जनताको विश्वास तोड्ने मेरो कहिल्यै मनसाय थिएन। देशको स्थिरता र शान्तिका लागि पद छोडेको हुँ।"},
+        {"who": "आलोचक र प्रदर्शनकारी", "says": "३० लाखभन्दा बढी नागरिक ठगिएको महसुस गरिरहेका छन्; बैंकका मालिकसँग जोडिएका कम्पनीलाई नियमविपरीत ऋण दिइयो।"}
+      ],
+      "sources": [
+        {"name": "AP (ABC News मार्फत)", "url": "https://abcnews.com/US/wireStory/paraguay-president-santiago-pea-resigns-bank-collapse-137881803"},
+        {"name": "युरोन्युज", "url": "https://www.euronews.com/2026/11/05/paraguayan-president-resigns-amid-bank-collapse-leaving-3m-people-without-access-to-bank-a"},
+        {"name": "BBC", "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "पुटिनका दूतसँग भेटपछि ट्रम्पले भने– रुस–युक्रेन सम्झौता नजिक छ",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले बिहीबार ह्वाइट हाउसमा रुसी राष्ट्रपति पुटिनका विशेष दूत किरिल दिमित्रिभसँग भेट गरे। भेटपछि उनले युद्ध अन्त्य गर्ने सम्झौता छिट्टै हुन सक्ने र त्यो 'युक्रेनभन्दा ठूलो', सम्भवतः सिंगो युरोपसँग जोडिएको हुने बताए। उनले कुराकानीको विवरण भने खुलाएनन्। रोयटर्सका अनुसार अमेरिकी टोलीले नोभेम्बर १०–११ मा अबुधाबीमा रुस र युक्रेनका प्रतिनिधिबीच वार्ता गराउने तालिका छ। यसैबीच दुवै देशले एकअर्कामाथि हवाई आक्रमण जारी राखेका छन्।",
+      "sides": [
+        {"who": "क्रेमलिन (रोयटर्सअनुसार)", "says": "मध्यावधि निर्वाचनमा रिपब्लिकन हारे पनि ट्रम्पले शान्ति प्रयास जारी राख्ने आशा छ। यस महिना चीनको सेन्जेनमा हुने एपेक सम्मेलनमा पुटिन, ट्रम्प र सी जिनपिङको भेटको तयारी भइरहेको छ।"},
+        {"who": "युक्रेनी पक्ष", "says": "युक्रेनी सांसद डेभिड अराखामिया र मानव अधिकार आयुक्त दिमित्रो लुबिनेत्सले मेलानिया ट्रम्पलाई युद्धविराम र बालबालिका फर्काउने प्रयास जारी राख्न आग्रह गरे। ट्रम्पले यस दिन युक्रेनी टोलीलाई भेटेनन्।"}
+      ],
+      "unverified": "प्रस्तावित सम्झौताका सर्त सार्वजनिक भएका छैनन्।",
+      "sources": [
+        {"name": "Reuters (GV Wire मार्फत)", "url": "https://gvwire.com/2026/11/05/trump-says-he-met-putin-envoy-sees-ukraine-deal-soon/"},
+        {"name": "अल जजिरा", "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians"},
+        {"name": "AP", "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONU8xbTg4VENlQUJjcEpnTzVYNGNSYWFsS2xxS3EtZWhFaDJzOGs5c1Mza1lvNFpDOWx3dlN5NEUzYzBBcEFvSVNoLTlMeDFLdlhQT0daQlFveWp0MFVmbUVxY0xER1F5TkRNbHFnZE8wRXR3TE53emR4cmVlaDJIdGxNbmpKdXN1eHFNakJfZTZLZExQOTVUbWt5bUZLRXV5QjgzSUV1SlRDS1F2RnJv?oc=5"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "इरानका सुरक्षा प्रमुख रेजाईले पुटिनलाई भेटे, सर्वोच्च नेताको पत्र हस्तान्तरण",
+      "summary": "इरानको सर्वोच्च राष्ट्रिय सुरक्षा परिषद्का सचिव मोहसेन रेजाईले बिहीबार मस्कोमा रुसी राष्ट्रपति पुटिनलाई भेटेर सर्वोच्च नेता मोज्तबा खामेनीको पत्र बुझाए। पत्रमा के छ भनेर खुलाइएको छैन। रेजाईका अनुसार भेटमा युद्धपछिको क्षेत्रीय सुरक्षा र रुसबाट इरानसम्म ग्यास पाइपलाइन बनाउनेबारे कुरा भयो। अमेरिकाले इरानका सात सर्त पूरा नगरेसम्म वार्ता नगर्ने र होर्मुज जलमार्ग नखोल्ने उनले बताए। यता राष्ट्रपति ट्रम्पले इरानबारे छिट्टै निर्णय गर्ने बताएका छन्।",
+      "sides": [
+        {"who": "इरान (रेजाई)", "says": "पुटिनले अमेरिकी 'आक्रमण' अन्त्य गर्न सघाउन रुस तयार रहेको दोहोर्‍याए।"},
+        {"who": "रुस (क्रेमलिन)", "says": "क्रेमलिनले भेट भएको पुष्टि गरेको छ, तर भेटबारे आफ्नो छुट्टै विवरण सार्वजनिक गरेको छैन।"}
+      ],
+      "sources": [
+        {"name": "Reuters (अरब न्युज मार्फत)", "url": "https://www.arabnews.com/middle-east/irans-security-chief-meets-with-putin-3010034"},
+        {"name": "अल जजिरा", "url": "https://www.yahoo.com/news/world/articles/iran-security-chief-meets-putin-024819329.html"},
+        {"name": "NHK", "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GQzJKeFBMM0VsVmFwaVh6X2tMNjhGbnpRdzVmVTFncGh3SDRNdExhQmdMVFk5SG4xWXIyQ1FtN1NzbEtFdWlCd0pnSjdBWG1VTHZWWDluN3I4djFBelhySUtXUQ?oc=5"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "प्रधानमन्त्री शाह नोभेम्बर २२ देखि भारत भ्रमणमा, २ अर्ब डलर सहायता र सीमा विषय चासोमा",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाह नोभेम्बर २२ देखि भारतको पहिलो आधिकारिक भ्रमणमा जाँदै छन्। नोभेम्बर २३ मा भारतीय प्रधानमन्त्री मोदीसँग प्रतिनिधिमण्डलस्तरको वार्ता हुनेछ। काठमाडौं पोस्टका अनुसार अगस्ट २६ को भोटेकोशी बाढीपछिको पुनर्निर्माणका लागि नेपालले भारतसँग कुल २ अर्ब डलर (२ सय करोड डलर) सहायता मागेको छ, जसमा १ अर्ब डलर सहुलियत ऋण र बाँकी अनुदान छ। भैरहवा र पोखरा विमानस्थलका लागि थप हवाई रुट, पञ्चेश्वर आयोजना, कालापानी–लिम्पियाधुरा र सुस्ता सीमा विवाद तथा भारतको सहयोगमा बनेका आयोजनाको उद्घाटन पनि छलफलमा रहने अपेक्षा छ।",
+      "sides": [
+        {"who": "भारतीय पक्ष (काठमाडौं पोस्टअनुसार)", "says": "सहायता प्रस्तावमाथि विचार गर्न तयार छ, तर रकम र सर्त टुंगो लागेको छैन। हवाई रुटमा सकारात्मक जवाफ दिइएको छ।"},
+        {"who": "नेपाली अधिकारी (काठमाडौं पोस्टअनुसार)", "says": "सीमा विवाद पनि वार्ताको एजेन्डामा पर्नुपर्छ भन्ने आशा छ; विदेशसचिव मिस्रीको काठमाडौं भ्रमणमा यो विषय उठेको थिएन।"}
+      ],
+      "unverified": "भ्रमणको अवधि स्रोतअनुसार फरक छ: काठमाडौं पोस्टले नोभेम्बर २२–२५ भनेको छ भने अन्य भारतीय सञ्चारमाध्यमले तीन दिन भनेका छन्।",
+      "sources": [
+        {"name": "काठमाडौं पोस्ट", "url": "https://kathmandupost.com/national/2026/11/06/five-key-issues-on-the-agenda-during-prime-minister-shah-s-india-visit"},
+        {"name": "न्युज२४", "url": "https://news24online.com/world/nepal-pm-india-visit-balendra-shah-to-arrive-in-new-delhi-on-november-22-for-first-bilateral-trip-whats-on-agenda/951403"},
+        {"name": "इन्डियन एक्सप्रेस", "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSV9iZGpMN2RSOWFJbU8tWkNoUHZKUllPUTNfTk5SX2lMTjNEbGlIdlJOci00bWR6VDJCQjdxREVTczJic0RudjVMNENReXM5akZGcjBKZDVteS1sNzhKdFhQNkZIQ2FybVFHNFRDUGtDY1I2STZwZWticDN0Qjk5MTYwVHNQRk11Z3F6a0V4S2ZYOFlVbUJNanhuQzfSAaMBQVVfeXFMT0VORklJWW53UWFKeHE4TEthdGRxRkRhYlVDYWhEY1VDZ1lLNFNjV1J1OXNCYnZDWlhnRFdUNy1jTjBWV3JKMlpSaDZONUpKZW5ORm1wWU1sQ083UE80Rm9jZ25mazdOUGxjY19zYlppYVBJWmVnTlVkcUM4Q2NRMlZ1bVhrZmlIUV9zQnRiS1RVNUZCWUUyWVBqd1cwd09YNExYRQ?oc=5"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "क्युबाको सेनालाई सामान दिएको आरोपमा दुई चिनियाँ कम्पनीमाथि अमेरिकी प्रतिबन्ध",
+      "summary": "अमेरिकी विदेश मन्त्रालयले बिहीबार क्युबाको सेनालाई सैनिक उपकरण र पार्टपुर्जा पठाएको आरोपमा चीनका दुई कम्पनीमाथि प्रतिबन्ध लगायो। तीमध्ये एक चिनियाँ सरकारी स्वामित्वको चाइना नेसनल इलेक्ट्रोनिक इम्पोर्ट एन्ड एक्सपोर्ट कम्पनी (CEIEC) र अर्को निगरानी उपकरण बेच्ने बेइजिङ एच एन्ड सी टेक्नोलोजिज हो। सोही दिन क्युबाको तेल ढुवानी सञ्जाल, पाँच जहाज र क्युबाका दुई सरकारी कम्पनीमाथि पनि प्रतिबन्ध लगाइयो। साउथ चाइना मर्निङ पोस्टका अनुसार अमेरिकाले क्युबालाई सामान दिने विदेशी आपूर्तिकर्तामाथि दबाब बढाइरहेको छ।",
+      "unverified": "यसबारे चीन सरकारको प्रतिक्रिया उपलब्ध स्रोतमा उल्लेख छैन।",
+      "sources": [
+        {"name": "अमेरिकी विदेश मन्त्रालय", "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/further-sanctions-on-the-cuban-regimes-foreign-military-support-and-illicit-revenue-networks-fact-sheet"},
+        {"name": "साउथ चाइना मर्निङ पोस्ट", "url": "https://www.scmp.com/news/china/diplomacy/article/3373462/us-sanctions-chinese-firms-over-alleged-military-supplies-cuba"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "अमेरिकी गिरावटपछि एसियाली सेयर बजार पनि खस्कियो, जापानको निक्केई ६ प्रतिशत घट्यो",
+      "summary": "बिहीबार अमेरिकामा प्रविधि कम्पनीका सेयर ठूलो मात्रामा घटेपछि शुक्रबार एसियाली बजार पनि खस्किए। दक्षिण कोरियाको कोस्पी खुल्नेबित्तिकै ८ प्रतिशतभन्दा बढी घटेपछि २० मिनेटका लागि कारोबार नै रोकियो। चिप बनाउने कम्पनी सामसुङ करिब १० प्रतिशत र एसके हाइनिक्स १३ प्रतिशतसम्म घटे। जापानको निक्केई ५.९६ प्रतिशत घटेर ५७,४३५ अंकमा बन्द भयो। तर AI र चिप कम्पनी कम भएको भारतको सेन्सेक्स भने १.२९ प्रतिशत बढ्यो। अमेरिकी मध्यावधि निर्वाचनमा डेमोक्र्याटले जितेपछि AI डाटा सेन्टर निर्माणमा कडाइ हुन सक्ने चिन्ताले लगानीकर्ताले सेयर बेचेका हुन्।",
+      "unverified": "कोस्पीको अन्तिम बन्द अंक उपलब्ध स्रोतमा थिएन; बीचमा करिब ६ प्रतिशत घटेर ५,०६० नजिक रहेको WION ले जनाएको छ।",
+      "sources": [
+        {"name": "Reuters (द स्टार मार्फत)", "url": "https://www.thestar.com.my/business/business-news/2026/11/06/south-korea-stocks-plunge-8-circuit-breaker-triggered-as-chip-shares-tumble"},
+        {"name": "सिन्ह्वा", "url": "https://english.news.cn/20261106/8797a7ede62e4e489abb855dc00225d4/c.html"},
+        {"name": "WION", "url": "https://wionews.com/world/asian-markets-crash-ai-stocks-us-midterm-elections-1793962443451"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "AI सहायक क्लडलाई बैंक खातासँग जोडेर खर्चको हिसाब हेर्न मिल्ने नयाँ सुविधा",
+      "summary": "AI कम्पनी एन्थ्रोपिकले आफ्नो च्याटबट क्लड (Claude) मा 'पर्सनल फाइनान्स' नामको नयाँ सुविधा ल्याएको छ। यसमा प्रयोगकर्ताले आफ्नो बैंक र कार्ड खाता जोडेपछि क्लडले कुन शीर्षकमा कति खर्च भयो, आउँदा बिल, अनौठा शुल्क र मासिक सदस्यता देखाइदिन्छ। खाता 'प्लेड' नामको सेवामार्फत जोडिन्छ, त्यसैले क्लडले बैंकको पासवर्ड देख्दैन। क्लडले खाता हेर्न मात्र पाउँछ, पैसा सार्न वा लगानी गर्न सक्दैन। यो सुविधा अहिले अमेरिकामा पैसा तिरेर प्रयोग गर्नेहरूका लागि मात्र परीक्षणका रूपमा खुला छ।",
+      "sources": [
+        {"name": "म्याकरुमर्स", "url": "https://www.macrumors.com/2026/11/05/claude-personal-finance/"},
+        {"name": "टेकक्रन्च", "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"},
+        {"name": "द भर्ज", "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"}
+      ]
+    }
+  ]
+}
