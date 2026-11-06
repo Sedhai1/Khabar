@@ -46,6 +46,22 @@ it developed, keep it and say what is new.
   cannot find a dated figure, omit that item rather than guess. `as_of` must
   say which session the figures are for (e.g. "शुक्रबार, अक्टोबर २३ को बन्द").
 
+## Story leads from RSS feeds
+A GitHub Action (`.github/workflows/fetch-feeds.yml`) collects headlines
+every 3 hours from the outlets in `tools/feeds.json` (BBC, AP, Reuters, DW,
+France 24, Guardian, NPR, NHK, Al Jazeera, The Hindu, Indian Express, SCMP,
+Kathmandu Post, Onlinekhabar, Republica, Ratopati, CNBC, TechCrunch, …)
+into `latest.json` on the separate `feeds` branch. Read it first with
+`git fetch origin feeds && git show origin/feeds:latest.json`.
+- Use it to choose stories: a story carried by several different outlets
+  is usually important. Spread sources across outlets — do not lean on one.
+- Feed items are leads, not full articles. A feed item may be cited only for
+  what its own title/summary says. For details, WebSearch the story and open
+  articles from the search results.
+- If the file is missing or older than ~12 hours (`fetched_at`), carry on
+  with WebSearch alone.
+- To add or remove an outlet, edit `tools/feeds.json`.
+
 ## Writing (Nepali)
 - Plain spoken Nepali as written by Kantipur / BBC Nepali — short sentences,
   common words. Avoid heavy Sanskritised vocabulary and English jargon; if an

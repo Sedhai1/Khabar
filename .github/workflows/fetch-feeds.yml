@@ -1,0 +1,41 @@
+name: Fetch news feeds
+
+# Collects recent headlines from tools/feeds.json into latest.json on the
+# separate "feeds" branch (one commit, force-pushed), so the main branch and
+# the GitHub Pages site are never touched. The edition run reads it with:
+#   git fetch origin feeds && git show origin/feeds:latest.json
+on:
+  schedule:
+    - cron: "5 */3 * * *"   # every 3 hours (UTC)
+    - cron: "50 23 * * *"   # extra run just before the ~06:12 NPT edition
+    - cron: "50 11 * * *"   # extra run just before the ~18:12 NPT edition
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-feeds
+  cancel-in-progress: true
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch feeds
+        run: |
+          mkdir -p out
+          python3 tools/fetch_feeds.py out/latest.json
+      - name: Publish to feeds branch
+        run: |
+          cd out
+          git init -q -b feeds
+          git add latest.json
+          git -c user.name="khabar-feeds" -c user.email="actions@users.noreply.github.com" \
+            commit -q -m "Feeds $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -q -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" feeds
