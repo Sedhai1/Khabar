@@ -5,7 +5,11 @@ from urllib.parse import urlparse
 
 SECTIONS = ["nepal", "world", "india_china", "economy", "ai"]
 DEVANAGARI = re.compile(r"[ऀ-ॿ]")
-ID_RE = re.compile(r"^\d{4}-\d{2}-\d{2}-(am|pm)$")
+ID_RE = re.compile(r"^\d{4}-\d{2}-\d{2}-(am|md|pm)$")
+
+def slot_for(hour):
+    """Nepal-time hour -> edition slot: am <10, md 10-15, pm >=16."""
+    return "am" if hour < 10 else ("md" if hour < 16 else "pm")
 BANNED = ["ऐतिहासिक", "चौंकाउने", "चौँकाउने", "सनसनीपूर्ण", "हामी "]
 
 errors, warnings = [], []
@@ -30,7 +34,7 @@ def main(path):
         print(f"ERROR: cannot parse JSON: {e}"); sys.exit(1)
 
     if not ID_RE.match(str(d.get("id", ""))):
-        err("id must look like YYYY-MM-DD-am|pm")
+        err("id must look like YYYY-MM-DD-am|md|pm")
     elif not path.rstrip("/").endswith(d["id"] + ".json"):
         err(f"file name must be {d['id']}.json")
     ga = str(d.get("generated_at", ""))
@@ -41,8 +45,9 @@ def main(path):
         hour = int(ga[11:13])
         if ga[:10] != date:
             err("id date must equal the Nepal date in generated_at")
-        if (half == "am") != (hour < 12):
-            err("id am/pm must match the Nepal-time hour in generated_at")
+        if half != slot_for(hour):
+            err(f"id slot must be -{slot_for(hour)} for Nepal-time hour {hour} "
+                "(am <10, md 10-15, pm >=16)")
 
     m = d.get("markets")
     if not isinstance(m, dict) or not m.get("items"):

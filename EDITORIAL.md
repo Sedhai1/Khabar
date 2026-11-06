@@ -6,11 +6,13 @@ comfort, who reads Nepali comfortably. The goal is accurate, calm, balanced
 news — the opposite of a social-media feed.
 
 ## When
-Two editions per day, Nepal time (UTC+05:45):
-- `am` edition ~06:30 NPT (catches the US market close, ~02:45 NPT)
-- `pm` edition ~18:30 NPT
-Edition id = `YYYY-MM-DD-am` / `YYYY-MM-DD-pm`, using the **Nepal** date and
-`am` if the Nepal-time hour is < 12, else `pm`.
+Three editions per day, Nepal time (UTC+05:45):
+- `am` edition ~06:12 NPT (catches the US market close, ~02:45 NPT)
+- `md` (midday) edition ~12:12 NPT
+- `pm` edition ~18:12 NPT
+Edition id = `YYYY-MM-DD-am` / `-md` / `-pm`, using the **Nepal** date and the
+Nepal-time hour: `am` if hour < 10, `md` if 10–15, `pm` if ≥ 16.
+`tools/validate.py` enforces this.
 
 ## What goes in (8–12 stories total)
 Sections, in this order (`section` field value in brackets):
@@ -121,6 +123,6 @@ them. `change_pct` may be null.
 1. `python3 tools/validate.py data/editions/<id>.json` — must print OK.
    Fix every error; warnings should be fixed unless genuinely impossible.
 2. `python3 tools/update_index.py` — rebuilds `data/index.json`, keeps the
-   newest 14 editions and deletes older edition files.
+   newest 21 editions and deletes older edition files.
 3. Commit and push to `main`. GitHub Pages redeploys in 1–2 minutes.
 4. Check `https://sedhai1.github.io/Khabar/data/index.json` shows the new id.

@@ -2,7 +2,7 @@
 """Rebuild data/index.json from data/editions/*.json; keep newest KEEP."""
 import json, os, glob
 
-KEEP = 14
+KEEP = 21  # one week at three editions a day
 root = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 ed_dir = os.path.join(root, "data", "editions")
 files = sorted(glob.glob(os.path.join(ed_dir, "*.json")), reverse=True)

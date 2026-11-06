@@ -166,7 +166,7 @@ function parts(iso){
   return {y:y,mo:mo,d:d,h:h,mi:mi,dow:dow};
 }
 function dateText(iso){var p=parts(iso);if(!p)return "";return DAYS[p.dow]+", "+np(p.d)+" "+MONTHS[p.mo-1]+" "+np(p.y);}
-function editionName(id){return /-am$/.test(id)?"बिहानको समाचार":"बेलुकाको समाचार";}
+function editionName(id){return /-am$/.test(id)?"बिहानको समाचार":(/-md$/.test(id)?"दिउँसोको समाचार":"बेलुकाको समाचार");}
 function clock(iso){var p=parts(iso);if(!p)return "";var h=p.h%12||12;
   var part=p.h<12?"बिहान":(p.h<17?"दिउँसो":(p.h<20?"बेलुका":"राति"));
   return part+" "+np(h)+":"+np(("0"+p.mi).slice(-2)+" बजे");}
