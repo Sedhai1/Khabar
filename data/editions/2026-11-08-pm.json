@@ -1,0 +1,131 @@
+{
+  "id": "2026-11-08-pm",
+  "generated_at": "2026-11-08T18:30:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार र ब्रेन्ट: शुक्रबार, नोभेम्बर ६ को बन्द (शनि–आइतबार बिदा) · NEPSE: शुक्रबार, नोभेम्बर ६ को बन्द (तिहारका कारण बजार बन्द) · डलर: आइतबार, नोभेम्बर ८ (कात्तिक २२, राष्ट्र बैंकको दर)",
+    "items": [
+      {"name": "S&P 500", "value": 7376.86, "change_pct": 0.31, "source": "AP", "url": "https://au.finance.yahoo.com/news/major-us-stock-indexes-fared-212037857.html"},
+      {"name": "Nasdaq", "value": 24579.42, "change_pct": 1.09, "source": "AP", "url": "https://au.finance.yahoo.com/news/major-us-stock-indexes-fared-212037857.html"},
+      {"name": "डाउ जोन्स", "value": 51285.73, "change_pct": -0.46, "source": "AP", "url": "https://au.finance.yahoo.com/news/major-us-stock-indexes-fared-212037857.html"},
+      {"name": "NEPSE", "value": 2655.22, "change_pct": 0.1, "source": "अनलाइनखबर इङ्ग्लिस", "url": "https://english.onlinekhabar.com/nepse-edges-up-2-64-points.html"},
+      {"name": "डलर (राष्ट्र बैंक, खरिद)", "value": 149.96, "unit": "रु", "change_pct": 0, "source": "नेपाल राष्ट्र बैंक (कान्तिपुर मार्फत)", "url": "https://ekantipur.com/business/2026/11/08/november-8-2026-todays-foreign-exchange-rates.html"},
+      {"name": "ब्रेन्ट कच्चा तेल", "value": 98.32, "unit": "डलर/ब्यारेल", "change_pct": 0.03, "source": "FinanceFeeds (CNBC को तथ्याङ्क)", "url": "https://financefeeds.com/brent-crude-oil-price-98-32-saturday-week-ahead-us-iran-deal-bets-cpi-10-november-bull-105-bear-93/"}
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "पत्रकार पक्राउ र सञ्चारगृहमा प्रहरी खानतलासीविरुद्ध माइतीघरमा प्रदर्शन",
+      "summary": "काठमाडौंको माइतीघर मण्डलामा शनिबार कालो पोसाक लगाएका युवा र पत्रकारले प्रेस स्वतन्त्रताको माग गर्दै प्रदर्शन गरे। गत साता प्रहरीले केही पत्रकारलाई केही घण्टा नियन्त्रणमा लिएर सोधपुछ गरेको र केही सञ्चारगृहमा खानतलासी गरेको विरोधमा प्रदर्शन भएको हो। प्रधानमन्त्री बालेन्द्र शाहले प्रहरी प्रमुख दानबहादुर कार्कीलाई राजीनामा दिन भनेको समाचार छापिएपछि यस्तो कारबाही भएको थियो। त्यसपछि कार्कीलाई हटाएर मनोजकुमार केसीलाई प्रहरी महानिरीक्षक बनाइएको छ। प्रदर्शनकारीले 'पत्रकारिता अपराध होइन' लेखिएका प्लेकार्ड बोकेका थिए।",
+      "sides": [
+        {"who": "प्रदर्शनकारी र पत्रकार", "says": "सरकारले सञ्चारमाध्यमलाई निशाना बनाएर बोल्ने स्वतन्त्रता खुम्च्याउन खोजेको, समाचारको स्रोत खोज्न पत्रकार पक्राउ गर्नु संविधानविपरीत भएको।"},
+        {"who": "प्रहरी र प्रधानमन्त्री कार्यालय", "says": "प्रहरीका अनुसार भ्रामक समाचारबारे प्रधानमन्त्री कार्यालयले चासो देखाएपछि सोधपुछ गरिएको र नियत असल थियो; प्रधानमन्त्री कार्यालयका अनुसार कार्यालयको संलग्नता थिएन र प्रधानमन्त्रीले पत्रकार छोड्न र सञ्चारगृहमा नपस्न निर्देशन दिए।"}
+      ],
+      "sources": [
+        {"name": "पीटीआई (डेली एक्सेल्सियर)", "url": "https://www.dailyexcelsior.com/youths-journalists-demonstrate-against-press-freedom-violations/amp"},
+        {"name": "काठमाडौं पोस्ट", "url": "https://kathmandupost.com/national/2026/11/01/who-ordered-the-police-crackdown-on-journalists"},
+        {"name": "रातोपाटी", "url": "https://english.ratopati.com/story/85967/protest-at-maitighar-mandala-alleging-attempts-to-control-the-media-photos"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "तिहारमा पनि ग्यासको अभाव कायमै, चिनीको मौज्दात पर्याप्त भएको सरकारी कम्पनीको दाबी",
+      "summary": "फागुनदेखि सुरु भएको खाना पकाउने ग्यास (एलपी ग्यास) को अभाव तिहारसम्म पनि पूरै हटेको छैन। भक्तपुरलगायतका ठाउँमा उपभोक्ता महिनौंदेखि सिलिन्डर खोज्दै पसल–पसल धाइरहेका छन्, जबकि प्रशासनले आपूर्ति सामान्य भएको बताएको छ। उद्योगमन्त्री दीपक साहले दिनमा १६० ट्याङ्कर ग्यास ल्याउने प्रतिबद्धता गरेका थिए; आयल निगमले पछिल्ला दुई दिन १४९ र १३७ ट्याङ्कर लोड गरेको जनाएको छ। चिनीको हकमा साल्ट ट्रेडिङसँग करिब ११ हजार ७ सय टन मौज्दात छ र देशभरका ३८ ठाउँमा प्रतिकिलो १०० रुपैयाँमा बिक्री भइरहेको छ।",
+      "sides": [
+        {"who": "एलपी ग्यास उद्योग संघ", "says": "आयात कम भएकाले अभाव भएको, तिहार र जाडोमा माग बढ्दा आपूर्ति अझ कसिलो हुने।"},
+        {"who": "नेपाल आयल निगम", "says": "आयात पर्याप्त भएको, समस्या मुख्यतः डिलरसम्म सिलिन्डर पुर्‍याउन ढिलाइ भएकाले देखिएको।"}
+      ],
+      "sources": [
+        {"name": "काठमाडौं पोस्ट", "url": "https://kathmandupost.com/money/2026/11/08/sugar-supplies-assured-for-tihar-but-lpg-shortages-persist"},
+        {"name": "अनलाइनखबर इङ्ग्लिस", "url": "https://english.onlinekhabar.com/gas-shortage-persists-in-bhaktapur.html"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "भोलिदेखि टर्कीमा कोप–३१: हिमालको तापक्रमलाई छुट्टै कार्यसूची बनाउन नेपाल र भुटानको प्रस्ताव",
+      "summary": "टर्कीको अन्ताल्यामा नोभेम्बर ९ देखि २० सम्म हुने संयुक्त राष्ट्रसंघीय जलवायु सम्मेलन (कोप–३१) मा नेपाल र भुटानले 'हिमाली क्षेत्रमा १.५ डिग्री तापक्रम वृद्धि' नामको छुट्टै कार्यसूची थप्न प्रस्ताव गरेका छन्। वन तथा वातावरणमन्त्री गीता चौधरीले पेस गरेको प्रस्तावमा हिमाली तापक्रमबारे वैज्ञानिक अध्ययन, हरेक वर्ष उच्चस्तरीय संवाद, छुट्टै कार्ययोजना र अनुकूलन, जलवायु वित्त तथा क्षतिपूर्तिमा हिमाली देशको प्राथमिकता मागिएको छ। प्रस्तावमा भदौ १० को भोटेकोशी बाढीले करिब २ अर्ब ७० करोड डलर क्षति पुर्‍याएको उल्लेख छ। परराष्ट्रमन्त्री खनाल नेपाली टोलीको नेतृत्व गर्दै अन्ताल्या पुगिसकेका छन्।",
+      "unverified": "सम्मेलनको उद्घाटन सत्रले यो कार्यसूची स्वीकार गर्छ कि गर्दैन भन्ने अझै स्पष्ट छैन। बाढीपछिको पुनर्निर्माण खर्चको अनुमान स्रोतअनुसार फरक छ (४ अर्ब ७० करोडदेखि ४ अर्ब ८० करोड डलर)।",
+      "sources": [
+        {"name": "क्लाइमेट होम न्युज", "url": "https://www.climatechangenews.com/2026/11/06/nepal-seeks-stronger-recognition-of-mountain-issues-in-un-climate-process/"},
+        {"name": "आईएएनएस (मोरुङ एक्सप्रेस)", "url": "https://morungexpress.com/nepal-bhutan-seek-dedicated-himalayan-climate-agenda-at-cop31"},
+        {"name": "नेपालन्युज", "url": "https://english.nepalnews.com/s/climate/nepal-and-bhutan-propose-mountain-climate-agenda-for-cop31/"},
+        {"name": "रिपब्लिका", "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSnF1amFIS3habnBZblBPb0hTcUtna1BBTUlLSEh1VWZGclpKVHFrM1VSYWZiUW1aVy1KN3BBZ3FHZlhVcUpTUHFkTnVkSnlCSVBUbGREMGNQLVc4VjVUOGczV3ZXb2NpX2w1azFQb2M1TDU5RDZEbUJGdDRPbFJYWWtGSS02cWkwTjQ2SkY2cXY1QUtDc0szUmhpYVp3ZWxZVjItZEx3ZUUyZDA?oc=5"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "पोल्यान्डको क्राकोवमा गोली प्रहार: ६ जनाको मृत्यु, प्रधानमन्त्री टस्कले 'आतंकवाद' भने",
+      "summary": "पोल्यान्डको क्राकोव सहरको पर्यटकले भरिने मुख्य बजार चोकमा शनिबार दिउँसो एक जना बन्दुकधारीले कार चलाएर आई अन्धाधुन्ध गोली चलाउँदा ४ महिला र २ पुरुषको मृत्यु भएको छ। घाइतेको संख्या स्रोतअनुसार १५ देखि १६ छ, जसमा दुई प्रहरी पनि छन्। प्रहरीले गोली हानेर घाइते बनाएको २४ वर्षीय पोलिस नागरिकलाई पक्राउ गरेको छ। उसको घरमा बुबा, आमा र बहिनीको शव भेटिएको छ। गृहमन्त्रीका अनुसार ऊ अतिदक्षिणपन्थी विचारबाट प्रभावित देखिन्छ। पोल्यान्डमा दुई दिनको राष्ट्रिय शोक घोषणा गरिएको छ।",
+      "sources": [
+        {"name": "युरोन्युज", "url": "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead"},
+        {"name": "अल जजिरा", "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow"},
+        {"name": "रोयटर्स", "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "अमेरिकाले इरानको स्थल र क्यास्पियन मार्ग पनि रोक्ने नयाँ टोली बनायो",
+      "summary": "अमेरिकी सेनाको मध्य कमान्डले शनिबार 'टास्क फोर्स आइरन गेट' नामको करिब २० जनाको टोली बनाएको छ। यसले इरानको स्थल सीमा र क्यास्पियन सागर हुँदै हतियार, प्रतिबन्धित सामान र अवैध पैसा ओसारपसार रोक्ने काम गर्नेछ। जुलाईदेखि इरानी बन्दरगाहमा अमेरिकी नौसैनिक नाकाबन्दी छ, जसले २५ अर्ब डलर (२ हजार ५ सय करोड डलर) भन्दा बढीको कच्चा तेल निर्यात रोकेको अमेरिकाको दाबी छ। अमेरिकी सेनाले नाकाबन्दी तोड्न खोजेको भन्दै ओमानको खाडीमा एउटा मालवाहक जहाजलाई प्रहार गरेर निष्क्रिय बनायो। इरानको रिभोलुसनरी गार्डले होर्मुज जलडमरूमध्यमा दुई तेल ट्याङ्कर बारुदी सुरुङमा ठोकिएर आगो लागेको बताएको छ।",
+      "sides": [
+        {"who": "अमेरिका", "says": "नयाँ टोलीले इरानलाई आतंकवादमा पैसा लगाउन र हतियार कारखाना तथा सेना फेरि खडा गर्नबाट रोक्नेछ; ट्रम्पले ट्याङ्कर घटनाबारे इरानले झूटो कुरा फैलाएको आरोप लगाएका छन्।"},
+        {"who": "इरान", "says": "अमेरिका वा इजरायलबाट आउने कुनै पनि धम्कीको जवाफ भौगोलिक सीमाबिना दिइनेछ; इरानी सेना युद्धको सुरुभन्दा अहिले बलियो छ।"}
+      ],
+      "unverified": "ट्याङ्करमा बारुदी सुरुङ लागेको इरानी दाबी समुद्री अधिकारीहरूले पुष्टि गरेका छैनन्।",
+      "sources": [
+        {"name": "सीबीएस न्युज", "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"},
+        {"name": "एएनआई (द ट्रिब्युन)", "url": "https://www.tribuneindia.com/news/advanced-weapons/us-centcom-establishes-task-force-iron-gate-to-disrupt-iranian-ground-transit-routes-curb-illegal-shipments"},
+        {"name": "एपी", "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeW5HVVl6cDF0V1htbGY0eU9zSmtxbjdEOW9ETW02b0JLVlJwSW1oODJBSDRFOXBrMXpfRElCa0NXeHdrUTlUYlo2MmZadHFZellGd2dkUFNyWG5BNy1INUhwa3hGRDRMX3hIcFpFMmRzdEtGRjJSUXZJTXZ1OHV5QjlSTUJvOW9mTURuX0wwVDRyQkRyR2tZaDhCRjZZTHpnZmFoSnpHRDZ5R01r?oc=5"},
+        {"name": "द हिन्दु", "url": "https://www.thehindu.com/news/international/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines/article71680557.ece"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "साउदी–हुथी लडाइँ चर्कियो: सना नजिक हवाई हमलामा ३३ जनाको मृत्यु, रियादतर्फ मिसाइल",
+      "summary": "यमनको राजधानी सना नजिकैको एउटा गाउँमा भएको हवाई हमलामा १३ बालबालिका, ८ महिला र १२ पुरुषसहित ३३ जनाको मृत्यु भएको र ३९ जना घाइते भएको हुथी स्वास्थ्य मन्त्रालयले जनाएको छ। हुथीले यसको दोष साउदी नेतृत्वको गठबन्धनलाई दिएका छन्। हुथीले साउदीको तेल कम्पनी अरामकोका संरचना, रियाद विमानस्थल र साउदी सेनामाथि छवटा आक्रमण गरेको दाबी गरेका छन्। आइतबार साउदी गठबन्धनले रियादतर्फ आएका दुई ब्यालिस्टिक र दुई क्रुज मिसाइल खसालेको जनाएको छ; खसेका टुक्राले अरामकोको एउटा भवनमा सामान्य क्षति भयो, कोही घाइते भएनन्। जुलाईमा २०२२ को युद्धविराम टुटेपछि १ हजार ६ सयभन्दा बढीको मृत्यु भएको राष्ट्रसंघको भनाइ छ।",
+      "sides": [
+        {"who": "हुथी", "says": "साउदी विमानले गाउँ र उद्धारमा खटिएका स्वास्थ्यकर्मीमाथि हमला गरे; जवाफमा साउदी तेल संरचना र सैनिक ठाउँमा आक्रमण गरियो।"},
+        {"who": "साउदी अरब", "says": "सना नजिकको हमलाबारे छानबिन भइरहेको छ; हुथीले रियादतर्फ प्रहार गरेका मिसाइल खसालिए र अधिकारीहरूले तुरुन्त कदम चाले।"}
+      ],
+      "sources": [
+        {"name": "आरटीई (एएफपी/रोयटर्स)", "url": "https://www.rte.ie/news/world/2026/1108/1598395-33-dead-yemen/"},
+        {"name": "द नेसनल", "url": "https://thenationalnews.com/news/gulf/2026/11/08/saudi-led-coalition-intercepts-two-houthi-missiles-fired-towards-riyadh"},
+        {"name": "बीबीसी", "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"},
+        {"name": "द हिन्दु", "url": "https://www.thehindu.com/news/international/houthis-say-saudi-oil-sites-troops-and-riyadh-airport-targeted-updates/article71679324.ece"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "चीनमा जासुसी अभियोगमा जेल परेका जापानी नागरिक डिसेम्बरमा छुट्ने",
+      "summary": "चीनमा जासुसीको अभियोगमा साढे तीन वर्ष जेल सजाय पाएका जापानी औषधि कम्पनी एस्टेलासका कर्मचारी डिसेम्बरको मध्यतिर छुटेर जापान फर्कने जापानी सञ्चारमाध्यमले जनाएका छन्। उनलाई सन् २०२३ मार्चमा पक्राउ गरिएको थियो र २०२५ जुलाईमा सजाय सुनाइएको थियो। जापानी प्रधानमन्त्री साने ताकाइचीले चीनले ताइवानमा आक्रमण गरे जापानले सैनिक जवाफ दिन सक्ने बताएपछि बिग्रिएको जापान–चीन सम्बन्धमा यो मुद्दा पनि विवादको विषय बनेको थियो।",
+      "unverified": "रिहाइको खबर नाम नखुलाइएका स्रोतमा आधारित छ; चीनको विदेश मन्त्रालय र जापानी विदेश मन्त्रालयले यसबारे प्रतिक्रिया दिएका छैनन्।",
+      "sources": [
+        {"name": "रोयटर्स (द प्रिन्ट)", "url": "https://theprint.in/world/astellas-employee-imprisoned-in-china-to-be-released-in-december-japanese-media-report/3093501/"},
+        {"name": "एनएचके", "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aUUU4bVBtZ3BRTGJjb1pNZ3QtOS1XQWQ3blk1VDdNR1A5d1JxR1ZScmR1VWxrZlJ6dHRoWWRzLTFKcUYyZzUxeEE4cFZzVXNkU2FDamRLNlZaWnNYOGxWZVhDdw?oc=5"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "तिहारअघिको हप्तामा सेयर बजार ३५ अंक घट्यो, लगानीकर्ताको ६० अर्ब रुपैयाँ घट्यो",
+      "summary": "कात्तिक १६ देखि २० (नोभेम्बर २ देखि ६) सम्मको हप्तामा नेप्से परिसूचक ३४.९३ अंक अर्थात् १.३ प्रतिशत घटेर २६५५.२२ अंकमा बन्द भयो। बजार पुँजीकरण करिब ६० अर्ब रुपैयाँ घटेर ४५ खर्ब ७० अर्ब रुपैयाँ पुगेको छ। हप्ताभरको कारोबार करिब १८ प्रतिशत घटेर २८ अर्ब २४ करोड रुपैयाँ भयो। १३ मध्ये ११ उपसमूह घटे, जसमा फाइनान्स (२.८ प्रतिशत) र विकास बैंक (२.६७ प्रतिशत) सबैभन्दा बढी घटे। दसैंपछिको बढोत्तरीमा नाफा लिन लगानीकर्ताले सेयर बेचेकाले बजार घटेको काठमाडौं पोस्टले जनाएको छ। तिहारका कारण बजार अहिले बन्द छ।",
+      "sources": [
+        {"name": "काठमाडौं पोस्ट", "url": "https://kathmandupost.com/money/2026/11/07/nepse-retreats-as-profit-taking-slows-post-dashain-rally"},
+        {"name": "रिपब्लिका", "url": "https://myrepublica.nagariknetwork.com/news/investors-lose-rs-60-billion-as-nepse-decline-129-percent-in-a-week-90-77.html"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "अमेरिकाले एआई चिप बेच्न अनुमति दिएको एउटा चिनियाँ कम्पनीको कार्यालय खाली भेटियो",
+      "summary": "अमेरिकाको वाणिज्य विभागले एनभिडियाको शक्तिशाली H200 चिप किन्न वा जडान गर्न करिब दुई दर्जन चिनियाँ कम्पनीलाई अनुमति दिएको थियो। यस्ता चिप ठूला एआई (कृत्रिम बुद्धि) प्रणाली बनाउन र चलाउन प्रयोग हुन्छन्, त्यसैले अमेरिकाले चीनमा यसको बिक्री नियन्त्रण गर्दै आएको छ। न्युयोर्क टाइम्सको खोजअनुसार अनुमति पाएको 'न्यु म्याट्रिक्स' नामको कम्पनीको बेइजिङस्थित कार्यालय खाली थियो र कम्पनी करिब १७ महिना मात्र पुरानो हो। यसका मालिकको सम्बन्ध अमेरिकाले २०२४ मा कालोसूचीमा राखेको एउटा लगानी कोषसँग जोडिएको छ। अर्को अनुमति पाएको कम्पनीको कार्यालय पनि सुनसान भेटिएको थियो।",
+      "sides": [
+        {"who": "अमेरिकी वाणिज्य विभाग र एनभिडिया", "says": "विभागका अनुसार हरेक निवेदन राष्ट्रिय सुरक्षाको जोखिम हेरेर राम्ररी जाँचिन्छ; एनभिडियाले चिनियाँ सेनाले अमेरिकी प्रविधिमा भर पर्नु तर्कसंगत नभएको बतायो।"},
+        {"who": "आलोचक", "says": "ह्वाइट हाउसकी पूर्व चीन विज्ञ लिजा टोबिनका अनुसार अनुमतिका सर्त पालना भए नभएको जाँच वाणिज्य विभाग र एनभिडिया दुवैले पर्याप्त गरेका छैनन्।"}
+      ],
+      "unverified": "त्यस कम्पनीसम्म चिप पुगिसकेको हो कि होइन, र कुनै कानुन उल्लंघन भएको हो कि होइन भन्ने पुष्टि भएको छैन।",
+      "sources": [
+        {"name": "द भर्ज", "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"},
+        {"name": "ईटेक्निक्स (न्युयोर्क टाइम्सको खोज)", "url": "https://www.eteknix.com/nvidia-h200-china-empty-office-approval/"},
+        {"name": "टेक इनसाइडर", "url": "https://tech-insider.org/nvidia-h200-new-matrix-empty-beijing-office-commerce-approval-2026/"}
+      ]
+    }
+  ]
+}
