@@ -1,0 +1,281 @@
+{
+  "id": "2026-11-09-am",
+  "generated_at": "2026-11-09T06:12:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार र ब्रेन्ट: शुक्रबार, नोभेम्बर ६ को बन्द (शनि–आइतबार बिदा) · NEPSE: शुक्रबार, नोभेम्बर ६ को बन्द (तिहारका कारण बजार बन्द) · डलर: आइतबार, नोभेम्बर ८ (राष्ट्र बैंकको दर)",
+    "items": [
+      {
+        "name": "S&P 500",
+        "value": 7376.86,
+        "change_pct": 0.31,
+        "source": "AP",
+        "url": "https://au.finance.yahoo.com/news/major-us-stock-indexes-fared-212037857.html"
+      },
+      {
+        "name": "Nasdaq",
+        "value": 24579.42,
+        "change_pct": 1.09,
+        "source": "AP",
+        "url": "https://au.finance.yahoo.com/news/major-us-stock-indexes-fared-212037857.html"
+      },
+      {
+        "name": "डाउ जोन्स",
+        "value": 51285.73,
+        "change_pct": -0.46,
+        "source": "AP",
+        "url": "https://au.finance.yahoo.com/news/major-us-stock-indexes-fared-212037857.html"
+      },
+      {
+        "name": "NEPSE",
+        "value": 2655.22,
+        "change_pct": 0.1,
+        "source": "अनलाइनखबर इङ्ग्लिस",
+        "url": "https://english.onlinekhabar.com/nepse-edges-up-2-64-points.html"
+      },
+      {
+        "name": "डलर (राष्ट्र बैंक, खरिद)",
+        "value": 149.96,
+        "unit": "रु",
+        "change_pct": null,
+        "source": "नेपाल राष्ट्र बैंक",
+        "url": "https://www.nrb.org.np/forex/"
+      },
+      {
+        "name": "ब्रेन्ट कच्चा तेल",
+        "value": 98.32,
+        "unit": "डलर/ब्यारेल",
+        "change_pct": 0.03,
+        "source": "FinanceFeeds (CNBC को तथ्याङ्क)",
+        "url": "https://financefeeds.com/brent-crude-oil-price-98-32-saturday-week-ahead-us-iran-deal-bets-cpi-10-november-bull-105-bear-93/"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "टर्कीमा आजदेखि कोप–३१ सुरु, नेपालले पाएको जलवायु वित्तमा ऋण अनुदानभन्दा दोब्बर",
+      "summary": "संयुक्त राष्ट्रसंघको जलवायु सम्मेलन कोप–३१ आज सोमबारदेखि टर्कीको अन्ताल्यामा सुरु हुँदैछ र नोभेम्बर २० सम्म चल्नेछ। करिब १९० देशका प्रतिनिधि सहभागी हुने यो सम्मेलनमा अमेरिका अनुपस्थित रहने गार्डियनले जनाएको छ। अनलाइनखबरका अनुसार नेपालले आठ वर्षमा ३ अर्ब १९ करोड डलर जलवायु वित्त पाएको छ, तर त्यसमध्ये ६३ प्रतिशत सहुलियतपूर्ण ऋण र ३० प्रतिशत मात्र अनुदान हो। जलवायुसम्बन्धी 'क्षति तथा हानि' कोषको पहिलो भुक्तानी नेपाललाई २ करोड डलर दिइएको थियो, जुन भदौको बाढीको अनुमानित २ अर्ब ६९ करोड डलर क्षतिको १ प्रतिशतभन्दा कम हो।",
+      "impact": "जलवायु वित्त धेरैजसो ऋणका रूपमा आउँदा नेपालले भविष्यमा त्यो रकम तिर्नुपर्छ।",
+      "sources": [
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says"
+        },
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2053791/nepal-receives-twice-as-much-climate-finance-in-loans-as-grants"
+        },
+        {
+          "name": "Climate & Capital Media",
+          "url": "https://www.climateandcapitalmedia.com/cop31-antalya-preview/"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "सर्वोच्च अदालतका ४ प्रस्तावित न्यायाधीशलाई संसदीय सुनुवाइ समितिको अनुमोदन",
+      "summary": "संसदीय सुनुवाइ समितिले शनिबार न्यायपरिषद्ले सिफारिस गरेका चार जना उच्च अदालतका न्यायाधीशलाई सर्वोच्च अदालतको न्यायाधीशका रूपमा अनुमोदन गरेको छ। उनीहरू हुन्: डा. रत्नबहादुर बागचन्द, चन्द्रबहादुर सारु, जनक पाण्डे र गोकर्ण दाङी। समितिका सभापति बोधनारायण श्रेष्ठका अनुसार उनीहरूविरुद्ध १३ वटा उजुरी परेका थिए। सुनुवाइमा सांसदहरूले न्यायपालिकामा राजनीतिक हस्तक्षेप र न्यायाधीशको आचरणबारे प्रश्न गरेका थिए, जवाफमा प्रस्तावित न्यायाधीशहरूले कमजोरी स्वीकार्दै सुधारको प्रतिबद्धता जनाए। अब राष्ट्रपति रामचन्द्र पौडेलले उनीहरूलाई नियुक्त गर्नेछन्।",
+      "sources": [
+        {
+          "name": "नेपाल न्युज",
+          "url": "https://english.nepalnews.com/s/politics/parliamentary-hearing-committee-endorses-proposed-judges-for-supreme-court/"
+        },
+        {
+          "name": "रातोपाटी",
+          "url": "https://english.ratopati.com/story/85976/the-names-of-all-four-proposed-supreme-court-judges-have-been-approved-by-the-parliamentary-hearing-committee"
+        },
+        {
+          "name": "अनलाइनखबर इङ्ग्लिस",
+          "url": "https://english.onlinekhabar.com/supreme-court-judicial-failures.html"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "वार्ता अघि बढे इरानमाथि फेरि आक्रमण गर्ने सम्भावना निकै कम: ट्रम्प",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले आइतबार सीएनएनसँग फोनमा कुरा गर्दै इरानसँगको वार्ता अघि बढिरहे नयाँ आक्रमणको आदेश दिने सम्भावना 'निकै कम' भएको बताए। तर यो इरानले 'बलियो सम्झौता' मा हस्ताक्षर गर्छ कि गर्दैन भन्नेमा भर पर्ने उनको भनाइ छ। मध्यस्थता गरिरहेको कतारले दुवै पक्ष अझै सम्झौतातर्फ काम गरिरहेको जनाएको छ। यसैबीच इरानी रिभोल्युसनरी गार्डले होर्मुज जलडमरूमध्यमा बारुदी सुरुङमा ठोक्किएर तेल ट्यांकरमा आगो लागेको बताएको छ, तर रोयटर्सले यी घटना पुष्टि गर्न सकेको छैन।",
+      "sides": [
+        {
+          "who": "अमेरिका",
+          "says": "आणविक विषय सुरुकै वार्तामा समेटिनुपर्छ; सम्झौता नभए पुल लगायत ३८ वटा पूर्वाधार निशानामा पर्न सक्ने ट्रम्पको भनाइ।"
+        },
+        {
+          "who": "इरान",
+          "says": "प्रतिबन्ध हटाउने, रोक्का सम्पत्ति फिर्ता र युद्ध क्षतिपूर्तिसहित सात माग पहिले पूरा हुनुपर्छ; आक्रमण भए अमेरिकी र इजरायली निशानामा जवाफ दिने।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "रोयटर्स (द प्रिन्ट मार्फत)",
+          "url": "https://theprint.in/world/trump-says-he-is-highly-unlikely-to-order-iran-strikes-if-talks-progress/3093789/"
+        },
+        {
+          "name": "एनएचके",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50UzFxSnNCd2RaMHZlejFkR01yT1E5QnQzMm1sM0VkVHFnWVI3RXZBU1Q3QndJYWRaZV8zeko1RE5leGdnYlg4cTJVNnhOdkt6UzBCX2tYMVFLSTM3aENEYzByaw?oc=5"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "दक्षिण अफ्रिकाको स्थानीय चुनावमा एएनसीको अहिलेसम्मकै कमजोर नतिजा",
+      "summary": "दक्षिण अफ्रिकामा नोभेम्बर ४ मा भएको स्थानीय चुनावमा नेल्सन मन्डेलाको पार्टी अफ्रिकन नेसनल कांग्रेस (एएनसी) ले करिब ३१ प्रतिशत मत मात्र पाएको छ, जुन २०२१ को करिब ४६ प्रतिशतभन्दा निकै कम हो। डेमोक्र्याटिक एलायन्स (डीए) ले करिब २५ प्रतिशत र पूर्वराष्ट्रपति जाकोब जुमाको एमके पार्टीले करिब १० प्रतिशत मत पाएका छन्। जोहानेसबर्ग र प्रिटोरियासहित आठ ठूला सहरमध्ये कतै पनि एएनसीले बहुमत पाएन। अब नगर परिषद् बनाउन दलहरूसँग गठबन्धन वार्ताका लागि १४ दिन छ।",
+      "sides": [
+        {
+          "who": "एएनसी",
+          "says": "महासचिव फिकिले म्बालुलाले नतिजालाई 'विनाशकारी' भन्दै मतदातासँग विवाद नगरी पार्टी सुधार्नुपर्ने बताए।"
+        },
+        {
+          "who": "डीए",
+          "says": "स्वच्छ र जवाफदेही सरकारमा प्रतिबद्ध दलहरूसँग गठबन्धन वार्ता सुरु गर्ने बताएको छ।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "रोयटर्स (इन्भेस्टिङ डटकम मार्फत)",
+          "url": "https://www.investing.com/news/world-news/south-africas-anc-battered-by-local-election-losses-ahead-of-coalition-talks-5010167"
+        },
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections"
+        },
+        {
+          "name": "डीडब्लू",
+          "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "युक्रेनमा रुसी आक्रमणले ८ लाखभन्दा बढीको बिजुली गुल, अबुधाबी वार्तामा युरोप पनि सहभागी हुने",
+      "summary": "रुसले शनिबार राति युक्रेनका ऊर्जा संरचनामा आक्रमण गर्दा द्निप्रोपेत्रोभ्स्क क्षेत्रमा ६ लाखभन्दा बढी र खार्किभ क्षेत्रमा करिब २ लाख ५० हजार मानिसको बिजुली गुल भएको छ। राष्ट्रपति जेलेन्स्कीले मंगलबार र बुधबार अबुधाबीमा हुने अमेरिकी मध्यस्थताको वार्ताअघि दबाब दिन रुसले आक्रमण बढाएको आरोप लगाएका छन्। फ्रान्सका विदेशमन्त्री जाँ–नोएल बारोले उक्त वार्तामा युरोपेली देशहरूको पनि प्रतिनिधित्व हुने बताएका छन्।",
+      "sides": [
+        {
+          "who": "युक्रेन",
+          "says": "रुसले वार्ताअघि दबाब दिन आक्रमण बढाएको; युरोपेली सहयोगी पनि वार्तामा हुनुपर्छ।"
+        },
+        {
+          "who": "रुस",
+          "says": "युक्रेनी सेनालाई सघाउने इन्धन र ऊर्जा संरचनामा आक्रमण जारी राख्ने; वार्तामा युरोपेली प्रतिनिधिको ठाउँ नहुने संकेत।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity"
+        },
+        {
+          "name": "फ्रान्स २४",
+          "url": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says"
+        },
+        {
+          "name": "द हिन्दु",
+          "url": "https://www.thehindu.com/news/international/europe-will-be-represented-at-us-mediated-ukraine-talks-in-abu-dhabi-france/article71681017.ece"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "चीनको निर्देशनमा चुनाव लडेको आरोपमा ताइवानमा कम्युनिस्ट पार्टीका अध्यक्ष हिरासतमा",
+      "summary": "ताइवानको 'ताइवान पिपुल्स कम्युनिस्ट पार्टी' का अध्यक्ष लिन ते–वाङलाई अदालतको आदेशमा हिरासतमा राखिएको छ। सरकारी वकिलको आरोप छ कि उनले चिनियाँ कम्युनिस्ट पार्टीको निर्देशन र पैसामा वडा प्रमुखको चुनाव लड्न खोजे र अर्का उम्मेदवारको प्रचार पनि चलाए। उनीहरूले मतदातालाई खर्च बेहोरेर चीन घुमाउन लगेको आरोप छ, जसलाई अधिकारीहरूले मत किन्ने प्रयासका रूपमा हेरेका छन्। ताइवानमा नोभेम्बर २८ मा स्थानीय चुनाव हुँदैछ।",
+      "unverified": "यस विषयमा चीन सरकार वा आरोपित पार्टीको प्रतिक्रिया पढिएका स्रोतमा भेटिएन।",
+      "sources": [
+        {
+          "name": "एपी (ओटुम्वा कुरियर मार्फत)",
+          "url": "https://www.ottumwacourier.com/news/national_news/taiwan-detains-a-communist-party-leader-over-alleged-chinese-sponsorship-in-election/article_03f17f7a-11e0-5e69-ac92-48e724f084d7.html"
+        },
+        {
+          "name": "फोकस ताइवान (सीएनए)",
+          "url": "https://focustaiwan.tw/society/202611080010"
+        },
+        {
+          "name": "द हिन्दु",
+          "url": "https://www.thehindu.com/news/international/taiwan-detains-communist-party-leader-over-alleged-chinese-sponsorship-in-election/article71680805.ece"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "शेख हसिनालाई फिर्ता पठाउन भारतलाई अनुरोध पठाइएको बंगलादेशका कानुनमन्त्रीको भनाइ",
+      "summary": "बंगलादेशका कानुनमन्त्री मोहम्मद असदुज्जमानले पूर्वप्रधानमन्त्री शेख हसिनालाई सुपुर्दगी सन्धिअनुसार फिर्ता पठाउन भारतलाई अनुरोध गरिएको बताएका छन्। हसिनालाई बंगलादेशको अन्तर्राष्ट्रिय अपराध न्यायाधिकरणले २०२५ नोभेम्बरमा उनको अनुपस्थितिमै २०२४ को आन्दोलन दमनसम्बन्धी मानवताविरोधी अपराधमा दोषी ठहर गरेको थियो। उनी २०२४ अगस्ट ५ देखि भारतमा छिन्।",
+      "sides": [
+        {
+          "who": "बंगलादेश सरकार",
+          "says": "हसिना न्यायाधिकरणबाट दोषी ठहर भएकी अपराधी हुन्; कानुनी बाटोबाट उनलाई फिर्ता ल्याउने प्रयास जारी छ।"
+        },
+        {
+          "who": "भारत सरकार",
+          "says": "अनुरोध प्राप्त भएको स्वीकारेको छ, स्थापित प्रक्रियाअनुसार अध्ययन भइरहेको बताएको छ, तर निर्णय सार्वजनिक गरेको छैन।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "पीटीआई (डीटी नेक्स्ट मार्फत)",
+          "url": "https://www.dtnext.in/news/world/bangladesh-law-minister-calls-hasina-convicted-criminal-says-extradition-request-sent-to-india"
+        },
+        {
+          "name": "द हिन्दु",
+          "url": "https://www.thehindu.com/news/international/bangladesh-law-minister-calls-hasina-convicted-criminal-says-extradition-request-sent-to-india/article71680798.ece"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "भोटेकोशी बाढीले ऊर्जा क्षेत्रमा १ खर्ब ३२ अर्ब रुपैयाँ बराबर क्षति, बैंक क्षेत्रलाई पनि ६५ अर्ब चाहिने",
+      "summary": "राष्ट्रिय योजना आयोगको विपद्पछिको आवश्यकता मूल्यांकनअनुसार भदौ १० (अगस्ट २६) को भोटेकोशी बाढीले ऊर्जा क्षेत्रमा कुल १ खर्ब ३२ अर्ब ८३ करोड रुपैयाँ बराबर क्षति पुर्‍याएको छ। रसुवा र नुवाकोटका १४ जलविद्युत् आयोजना, ६ सबस्टेसन र प्रसारण लाइन प्रभावित भएका छन्, र यो क्षेत्र पुनर्निर्माण गर्न २ खर्ब १८ अर्ब रुपैयाँभन्दा बढी लाग्ने अनुमान छ। वित्तीय क्षेत्रमा १२ बैंकका १६ शाखा र ७८ हजारभन्दा बढी निक्षेपकर्ता प्रभावित भएका छन्, जसलाई पुनर्स्थापना गर्न करिब ६५ अर्ब रुपैयाँ लाग्ने अनुमान छ। सरकारले प्राविधिक अध्ययनपछि मात्र पुनर्निर्माणको तरिका टुंगो लगाउने जनाएको छ।",
+      "sources": [
+        {
+          "name": "नेपाल न्युज",
+          "url": "https://english.nepalnews.com/s/business/nepal-news-evening-economic-brief-november-08-2026/"
+        },
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2054011/bhotekoshi-flood-causes-damage-worth-rs-132-billion-to-the-energy-sector"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "एल्भिस प्रेस्ली र एमिनेमका गीतका अधिकारवालाले एआई संगीत कम्पनी 'सुनो' माथि मुद्दा हाले",
+      "summary": "सुनो (Suno) भनेको लेखेर निर्देशन दिँदा केही सेकेन्डमै गीत बनाइदिने एआई कम्पनी हो। नोभेम्बर ६ मा अमेरिकाको क्यालिफोर्नियाको संघीय अदालतमा एल्भिस प्रेस्लीका गीतका अधिकारवाला समूहले मुद्दा हाल्दै सुनोले प्रेस्लीका ८५९ गीत अनुमतिबिना एआई सिकाउन प्रयोग गरेको र उनको स्वर नक्कल गर्न दिएको आरोप लगाएका छन्। सोही दिन एमिनेमका गीतको प्रकाशक 'एट माइल स्टाइल' ले पनि २६९ रचनाको प्रतिलिपि अधिकार उल्लंघन भएको भन्दै छुट्टै मुद्दा हालेको छ। यसअघि युनिभर्सल र सोनी म्युजिकले पनि सुनोमाथि मुद्दा हालेका छन्।",
+      "sides": [
+        {
+          "who": "अधिकारवाला",
+          "says": "सुनोले अनुमतिबिना गीत र स्वर प्रयोग गरेर कलाकारको पहिचान नक्कल गर्न दिएको।"
+        },
+        {
+          "who": "सुनो",
+          "says": "प्रयोगकर्तालाई कलाकार वा गीतको नाम लेख्न रोक लगाइएको र दुरुपयोग जाँच्ने प्रणाली राखिएको; पहिलेका मुद्दामा आफ्नो तालिम विधि कानुनसम्मत भएको दाबी।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "द डेली स्टार",
+          "url": "https://www.thedailystar.net/culture/entertainment/news/elvis-eminem-rights-holders-sue-ai-music-generator-suno-4318351"
+        },
+        {
+          "name": "एक्सप्रेस ट्रिब्युन",
+          "url": "https://tribune.com.pk/story/2639163/elvis-presley-rights-holders-and-eminems-publisher-sue-ai-music-generator-suno"
+        },
+        {
+          "name": "द भर्ज",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "एआई डाटा सेन्टरका लागि बिजुली: एन्थ्रोपिकले ३ अर्ब ४० करोड डलरका जेनेरेटर किन्ने सम्झौता गरेको खबर",
+      "summary": "फाइनान्सियल टाइम्सको समाचारअनुसार 'क्लड' एआई बनाउने कम्पनी एन्थ्रोपिकले आफ्ना डाटा सेन्टर चलाउन ग्यासबाट चल्ने १.७ गिगावाट क्षमताका जेनेरेटर लिन ३ अर्ब ४० करोड डलर (करिब ३४० करोड डलर) को सम्झौता गरेको छ। डाटा सेन्टर भनेको एआई चलाउने हजारौं कम्प्युटर राखिने ठूला भवन हुन्, जसलाई धेरै बिजुली चाहिन्छ। जेनेरेटर बनाउन वर्षौं लाग्ने भएकाले एआई कम्पनीहरूले आफ्नै बिजुली स्रोत जुटाउन थालेका छन्। एन्थ्रोपिकले यसबारे प्रतिक्रिया दिएको छैन।",
+      "sources": [
+        {
+          "name": "रोयटर्स",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5"
+        },
+        {
+          "name": "इन्भेस्टिङ डटकम",
+          "url": "https://www.investing.com/news/stock-market-news/anthropic-reportedly-strikes-34-billion-deal-for-gasfired-power-at-data-centres-5010208"
+        }
+      ]
+    }
+  ]
+}
