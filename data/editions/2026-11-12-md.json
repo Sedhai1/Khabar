@@ -1,0 +1,319 @@
+{
+  "id": "2026-11-12-md",
+  "generated_at": "2026-11-12T12:20:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार: बुधबार, नोभेम्बर ११ को बन्द · ब्रेन्ट: बुधबार, नोभेम्बर ११ को बन्द · NEPSE: शुक्रबार, नोभेम्बर ६ को बन्द (तिहारका कारण बजार बन्द, शुक्रबार नोभेम्बर १३ मा खुल्छ) · डलर: बिहीबार, नोभेम्बर १२ (राष्ट्र बैंकको दर)",
+    "items": [
+      {
+        "name": "S&P 500",
+        "value": 7619.38,
+        "change_pct": 1.31,
+        "source": "Reuters (MarketScreener मार्फत)",
+        "url": "https://www.marketscreener.com/news/stocks-end-higher-as-coreweave-results-ease-ai-spending-worries-ce785edbd18cf726"
+      },
+      {
+        "name": "Nasdaq",
+        "value": 25466.19,
+        "change_pct": 1.6,
+        "source": "Reuters (MarketScreener मार्फत)",
+        "url": "https://www.marketscreener.com/news/stocks-end-higher-as-coreweave-results-ease-ai-spending-worries-ce785edbd18cf726"
+      },
+      {
+        "name": "डाउ जोन्स",
+        "value": 52486.49,
+        "change_pct": 0.49,
+        "source": "Reuters (MarketScreener मार्फत)",
+        "url": "https://www.marketscreener.com/news/stocks-end-higher-as-coreweave-results-ease-ai-spending-worries-ce785edbd18cf726"
+      },
+      {
+        "name": "NEPSE",
+        "value": 2655.22,
+        "change_pct": 0.1,
+        "source": "NepseTrading",
+        "url": "https://nepsetrading.com/insights/nepse-today-closing-report-2026-11-06-index-movement-turnover-and-top-gainers-losers-nepal"
+      },
+      {
+        "name": "डलर (राष्ट्र बैंक, खरिद)",
+        "value": 149.61,
+        "unit": "रु",
+        "change_pct": null,
+        "source": "नेपाल राष्ट्र बैंक",
+        "url": "https://www.nrb.org.np/forex/"
+      },
+      {
+        "name": "ब्रेन्ट कच्चा तेल",
+        "value": 92.76,
+        "unit": "डलर",
+        "change_pct": 1.39,
+        "source": "SBS",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008842078"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "मकवानपुरको भीमफेदीमा विद्युतीय माइक्रोबस खसेर १० जनाको मृत्यु, ५ घाइते",
+      "summary": "काठमाडौंबाट सर्लाही जाँदै गरेको एउटा विद्युतीय माइक्रोबस बिहीबार बिहान करिब ६ बजेर १० मिनेटमा मकवानपुरको भीमफेदी गाउँपालिका–६ चिसापानीगढीमा सडकबाट तल खस्दा १० जनाको मृत्यु भएको छ र ५ जना घाइते भएका छन्। गाडीमा १५ जना सवार थिए। जिल्ला प्रहरी कार्यालयका प्रवक्ता माधवप्रसाद काफ्लेका अनुसार मृत्यु हुनेमा ५ पुरुष र ५ महिला छन्। सशस्त्र प्रहरी, नेपाल प्रहरी र नेपाली सेनाको संयुक्त टोलीले उद्धार गरेको हो। केही घाइतेको हेटौंडा अस्पतालमा उपचार भइरहेको छ।",
+      "unverified": "गाडी कति मिटर तल खस्यो भन्नेमा स्रोतअनुसार फरक छ (करिब ५०० देखि ७०० मिटर)। अनलाइनखबरले मृतकमा ५ पुरुष, ३ महिला र २ बालिका रहेको जनाएको छ। दुर्घटनाको कारण अझै खुलेको छैन।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://english.onlinekhabar.com/microbus-accident-makwanpur.html"
+        },
+        {
+          "name": "सिन्ह्वा",
+          "url": "https://english.news.cn/asiapacific/20261112/ee187d52f0ee4990a2cdb67b8217bcdf/c.html"
+        },
+        {
+          "name": "बीबीसी नेपाली",
+          "url": "https://www.bbc.com/nepali/articles/cv5y18zdk24go?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "नक्कली भुटानी शरणार्थी प्रकरणमा कैद भोगिरहेका पूर्वउपप्रधानमन्त्री टोपबहादुर रायमाझी रिहा",
+      "summary": "नक्कली भुटानी शरणार्थी प्रकरणमा दोषी ठहर भएका पूर्वउपप्रधानमन्त्री तथा एमाले नेता टोपबहादुर रायमाझी बिहीबार डिल्लीबजार कारागारबाट रिहा भएका छन्। अमेरिका पठाइदिने भन्दै नेपालीलाई भुटानी शरणार्थी बनाइदिने ठगीमा संलग्न भएको अभियोगमा उनी सन् २०२३ को मेमा पक्राउ परेका थिए। काठमाडौं जिल्ला अदालतले उनलाई ठगी, संगठित अपराध र राज्यविरुद्धको कसुरमा ४ वर्ष कैद र ४० हजार रुपैयाँ जरिवाना गरेको थियो। ६५ वर्षका रायमाझीले ज्येष्ठ नागरिकलाई कैदमा २५ प्रतिशत छुट दिने कानुनी व्यवस्थाअनुसार निवेदन दिएपछि अदालतले संशोधित कैदी पुर्जी जारी गरेको थियो। उनलाई श्रीमती र परिवारको जिम्मा लगाइएको छ।",
+      "unverified": "काठमाडौं पोस्टका अनुसार फैसलाले उनलाई पीडितलाई ४० लाख रुपैयाँ फिर्ता गर्न पनि आदेश दिएको छ, तर ११२ उजुरीकर्तामध्ये ५३ जनाले अझै क्षतिपूर्ति पाएका छैनन्।",
+      "sources": [
+        {
+          "name": "काठमाडौं पोस्ट",
+          "url": "https://kathmandupost.com/national/2026/11/12/former-deputy-prime-minister-top-bahadur-rayamajhi-released-after-sentence-cut"
+        },
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://english.onlinekhabar.com/top-bahadur-rayamajhi-released-prison.html"
+        },
+        {
+          "name": "रिपब्लिका",
+          "url": "https://myrepublica.nagariknetwork.com/news/former-deputy-prime-minister-rayamajhi-to-be-released-today-90-13.html"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "वीरगञ्ज नाकाबाट खाद्यान्न आयात तीन महिनामा करिब ६३ प्रतिशत घट्यो",
+      "summary": "चालु आर्थिक वर्षको पहिलो तीन महिना (साउनदेखि असोज) मा वीरगञ्ज नाकाबाट खाद्यान्न आयात अघिल्लो वर्षको सोही अवधिभन्दा करिब ६३ प्रतिशत घटेको वीरगञ्ज भन्सार कार्यालयले जनाएको छ। प्रमुख भन्सार प्रशासक कृष्णप्रसाद मैनालीका अनुसार चामल, मकै, गहुँ, धानलगायत खाद्यान्नको आयात ८ करोड ७० लाख किलोबाट घटेर ३ करोड १६ लाख किलोमा झरेको छ। धानको आयात ३ करोड ९१ लाख किलोबाट ६९ लाख किलोमा र मकैको ३ करोड ३६ लाख किलोबाट ६७ लाख किलोमा झरेको छ। चामलको आयात ९४ लाख किलोबाट ६८ लाख किलोमा झर्दा यसको मूल्य करिब ९० करोडबाट ७० करोड रुपैयाँमा झरेको छ।",
+      "unverified": "आयात किन घट्यो भन्ने कारण भन्सार कार्यालयको तथ्यांकसम्बन्धी समाचारमा खुलाइएको छैन।",
+      "sources": [
+        {
+          "name": "रासस (अनलाइनखबर मार्फत)",
+          "url": "https://www.onlinekhabar.com/2026/11/2055816/food-imports-from-birgunj-border-decrease-by-63-percent"
+        },
+        {
+          "name": "रेडियो नेपाल",
+          "url": "https://radionepalonline.com/en/2026/11/12/438650.html"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "अबुधाबी वार्तापछि अमेरिकी दूत पुटिनसँग भेट्न मस्को, त्यसपछि जेलेन्स्कीलाई जानकारी दिने",
+      "summary": "रुस–युक्रेन युद्ध अन्त्यका लागि अबुधाबीमा दुई दिन चलेको वार्तापछि अमेरिकी दूत स्टिभ विटकफ र जारेड कुसनर बिहीबार राष्ट्रपति भ्लादिमिर पुटिनसँग भेट्न मस्को जाने भएका छन्। त्यसपछि उनीहरू आयरल्यान्डको डब्लिन पुगेर त्यहाँ युरोपेली बैठकमा सहभागी युक्रेनी राष्ट्रपति भोलोदिमिर जेलेन्स्कीलाई जानकारी दिनेछन्। फेब्रुअरीयताको पहिलो यो वार्तामा दुवै पक्ष ठूलो संख्यामा युद्धबन्दी साट्न र वार्ता जारी राख्न सहमत भएका थिए, तर बन्दीको संख्या सार्वजनिक गरिएको छैन। रुसले युक्रेनले नियन्त्रणमा राखेको पूर्वी भूभागबाट सेना हटाउनुपर्ने माग गर्दै आएको छ भने युक्रेन भूभागबारे कुरा गर्नुअघि युद्धविराम हुनुपर्ने अडानमा छ।",
+      "sides": [
+        {
+          "who": "अमेरिकाको भनाइ",
+          "says": "कुसनरले वार्तालाई 'राम्रो पहिलो कदम' भन्दै केही विषयमा सम्झौताको ठाउँ देखिएको बताए, र युरोपले आफ्नो तर्फबाट बोल्ने एक जना व्यक्ति तोक्नुपर्ने सुझाव दिए।"
+        },
+        {
+          "who": "युक्रेनको भनाइ",
+          "says": "युक्रेनका मुख्य वार्ताकार रुस्तम उमेरोभले 'ठूला मतभेद अझै बाँकी' रहेको तर वार्ता अघि बढाउने अवसर रहेको बताए। राष्ट्रपति जेलेन्स्कीले प्रगति अमेरिकाले रुसप्रति कस्तो व्यवहार गर्छ भन्नेमा भर पर्ने बताएको रोयटर्सले जनाएको छ।"
+        },
+        {
+          "who": "रुसको भनाइ",
+          "says": "रुसी टोलीका प्रमुख भ्लादिमिर मेदिन्स्कीले वार्ता जारी रहने बताए, तर युरोपेली देशबाट 'एउटा पनि ठोस शान्ति प्रस्ताव' नआएको भन्दै उनीहरूलाई वार्तामा समावेश गर्नेबारे प्रश्न उठाए।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "AFP (Kuwait Times मार्फत)",
+          "url": "https://kuwaittimes.com/article/53435/world/us-envoys-to-meet-putin-zelensky-after-abu-dhabi-talks/"
+        },
+        {
+          "name": "AFP (Dawn मार्फत)",
+          "url": "https://www.dawn.com/news/2043838/us-envoys-to-meet-putin-zelensky-after-russia-ukraine-war-talks-in-abu-dhabi"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVVESEhzeFJHMmo1SUlBcWswbUctbUprbnVPc1pSRWx1ay00ci1hbmYyUjBqOE1JazB2c1l0dVE3cGtGbDc0QldyN3VqYkdGMUtQWlE1cG9FRnV3b2VkUENMbGxyMlJQdmg2MkJxTThvSENGVVVkR3IwcFlXMEJHWUJ5a0dTY0R2b1k2ZXpOUVdvcGkzWWtGcFc1VHl2MDR1UUxaWF9DdmdMY2JaNU5RM3g0UTBDdm1tUHIw?oc=5"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "इजरायली सुरक्षा मन्त्रिपरिषद्ले इरानमाथि सम्भावित आक्रमणको तयारी बढाउन सेनालाई निर्देशन दिएको रिपोर्ट",
+      "summary": "इजरायलको सरकारी प्रसारण संस्था कानले बुधबार राति दिएको समाचारअनुसार प्रधानमन्त्री बेन्जामिन नेतन्याहुको सुरक्षा मन्त्रिपरिषद्ले इरानमाथि सम्भावित आक्रमणका लागि तयारी बढाउन सेनालाई निर्देशन दिएको छ। कानका अनुसार यी निर्देशनले 'युद्ध सुरु गराउन सक्ने' गतिविधि हुन सक्छन्। अक्टोबर २७ को संसदीय निर्वाचनपछि नेतन्याहु अहिले कामचलाउ प्रधानमन्त्री छन्, र नयाँ सरकार बनाउने मौका विपक्षी नेता गादी आइजेनकोटलाई दिइएको छ। इरानले फेरि आक्रमण भए जवाफी प्रहार अझ फराकिलो बनाउने चेतावनी दिइरहेको छ। यसैबीच खतराका कारण अमेरिकी वायुसेनाले इङ्ल्यान्डको एउटा अड्डाबाट केही विमान अन्यत्र सारेको एपीले जनाएको छ।",
+      "sides": [
+        {
+          "who": "इजरायली सरकार पक्ष",
+          "says": "सुरक्षा मन्त्रिपरिषद्ले सेनालाई तयारी बढाउन भनेको इजरायली सञ्चारमाध्यमले जनाएका छन्; सरकारले यसबारे सार्वजनिक रूपमा विस्तृत जानकारी दिएको छैन।"
+        },
+        {
+          "who": "आलोचक र विपक्षीको भनाइ",
+          "says": "आइजेनकोटले सिधा र तत्काल खतरा नभई नयाँ सरकार नबनेसम्म सेना परिचालन नगर्न नेतन्याहुलाई आग्रह गरे। च्यानल १२ का अनुसार सेनाप्रमुख इयाल जमिरले पनि ट्रम्पले अर्को युद्धमा रुचि नदेखाएकाले यो कदम उचित नभएको ठानेका छन्।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "अनादोलु",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-security-cabinet-orders-military-to-prepare-for-possible-attack-on-iran-report/4121434"
+        },
+        {
+          "name": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-israeli-army-prepare-possible-attack-iran"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss"
+        },
+        {
+          "name": "AP",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbUZjbGJEc1RFR3Q1YkEzSmt0RFE3SWRhb21YSEpfYm9sQnIzWmpTeHpINXJ3b1RQS0RWMHV6eWs3UlBXTmVXZ0s4bXFKQ1o5aC1yWi1CNjZsdlQ3ckI0VDYxcFNjY3pBMmx0amxzQlRPWlVWc1ZtY3pXZHBBbU1yTldGcmtDOXhRaGllWmt3?oc=5"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "अमेरिकी सिनेट चुनाव: मिसिसिपीमा डेमोक्र्याट स्कट कोलोम विजयी",
+      "summary": "अमेरिकाको मिसिसिपी राज्यमा भएको सिनेट निर्वाचनमा डेमोक्र्याटिक पार्टीका स्कट कोलोमले बहालवाला रिपब्लिकन सिनेटर सिन्डी हाइड–स्मिथलाई हराएका छन्। मत गन्ती धेरै दिनसम्म निकै नजिक रहेपछि बुधबार नतिजा घोषणा भएको हो। ४३ वर्षीय कोलोम जिल्ला सरकारी वकिल हुन्, र एपी तथा रोयटर्सका अनुसार उनी सन् १८७४ यता मिसिसिपीबाट निर्वाचित पहिलो अश्वेत सिनेटर हुन्। सीबीएस न्युजका अनुसार मिसिसिपीले सन् १९८२ यता कुनै डेमोक्र्याटलाई सिनेटमा पठाएको थिएन, र यो यस निर्वाचनमा डेमोक्र्याटले रिपब्लिकनबाट खोसेको आठौं सिट हो। जनवरीदेखि १०० सदस्यीय सिनेटमा डेमोक्र्याटका कम्तीमा ५५ र रिपब्लिकनका ४४ सिट हुनेछन्; अलास्काको नतिजा बाँकी छ।",
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/mississippi-2026-senate-scott-colom-cindy-hyde-smith/"
+        },
+        {
+          "name": "AP",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVhWcG5USS14S1FTbUdWOGtpYjRXSWdoUlJ4Ym95VXFGdnQtdVgyY3pMcjFScHpQc0c3a202TWJVcHp6YjFobDFfRl9Ga01PSGdaTEhZREZXRmtKUFBQY1JWQ0NmTHM2aVZnUVdNS3lPZG5RbDVVdHZFZnBkNmlwNU1Sc21GV1RvY0dwVHlyekd0UFg5aUZlNU1nYkJQZE1Y?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTRFXzVMOVNIM2JnNFFkTzlrSmVYYnV5NTJlNDVVY1FhTXVBR1QybjdUd3JoVWpvZ3NRdFVGY0FkNlRmcW96d2VTR0tYei15dnp4eEhibFF4cGhwUnJnX3gwSHU0TEU4MUx2dE40V1BBSTZQYXVqOV9Nd0pkNXk0T3JQeFJ5emx3azFxMm5kLU5FLTJVcDJ5cmhURG9RYjBMVE1vbVJ6aEJiM3otQVFtVk5Cdw?oc=5"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "ताइवानको पूर्वी समुद्रमा चीनका गतिविधिले स्थिरतामा खतरा पुर्‍याएको जी–७ विदेशमन्त्रीको भनाइ",
+      "summary": "विश्वका सात ठूला औद्योगिक लोकतान्त्रिक देशको समूह जी–७ का विदेशमन्त्रीहरूले पेरिसमा बैठकपछि बुधबार राति संयुक्त घोषणापत्र जारी गरेका छन्। त्यसमा ताइवानको पूर्वी समुद्री क्षेत्रमा चीनका बढ्दा गतिविधिले क्षेत्रीय स्थिरता, समुद्री आवागमनको स्वतन्त्रता र अन्तर्राष्ट्रिय ढुवानीको सुरक्षामा खतरा पुर्‍याएको उल्लेख छ। उनीहरूले बल वा दबाबबाट यथास्थिति बदल्ने कुनै पनि एकतर्फी प्रयासको विरोध गरे। रोयटर्सका अनुसार जुनदेखि चीनले ताइवानको पूर्वी तटनजिक कोस्ट गार्डको नियमित गस्ती बढाएको छ, र यसबारे जी–७ ले एकमतले व्यक्त गरेको यो अहिलेसम्मकै कडा चिन्ता हो।",
+      "sides": [
+        {
+          "who": "जी–७ र ताइवानको भनाइ",
+          "says": "जी–७ ले ताइवान जलडमरूमध्यमा शान्ति र स्थिरता महत्त्वपूर्ण भएको बतायो। ताइवानको भनाइ छ, चीनले त्यस क्षेत्रमा ढुवानीलाई हैरानी गरिरहेको छ र सम्भावित समुद्री नाकाबन्दीको अभ्यास गरिरहेको हुन सक्छ।"
+        },
+        {
+          "who": "चीनको अडान",
+          "says": "चीनको विदेश मन्त्रालयले तत्काल प्रतिक्रिया दिएन। चीनले ताइवानलाई आफ्नो भूभाग मान्छ, ताइवानको सार्वभौमसत्ताको दाबी स्वीकार गर्दैन, र 'शान्तिपूर्ण एकीकरण' रोज्ने बताउँदै आएको छ।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters (ThePrint मार्फत)",
+          "url": "https://theprint.in/world/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/3096528/"
+        },
+        {
+          "name": "Reuters (AOL मार्फत)",
+          "url": "https://www.aol.com/articles/g7-foreign-ministers-chinas-actions-021733000.html"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "अमेरिकी ब्याजदर बढ्ने अनुमानले डलर १९ महिनाकै बलियो, जापानी येन कमजोर",
+      "summary": "अमेरिकी केन्द्रीय बैंक (फेड) ले डिसेम्बरमा ब्याजदर बढाउने अनुमान बलियो हुँदा बिहीबार एसियाली बजारमा अमेरिकी डलर सन् २०२५ को अप्रिलयताकै उच्च बिन्दुमा पुगेको छ। प्रमुख मुद्राको तुलनामा डलरको मूल्य देखाउने सूचकांक करिब १०३ पुगेको छ। अक्टोबरमा अमेरिकाको महँगी एक महिनामा ०.४ प्रतिशत बढ्यो, जुन अनुमानित ०.३ प्रतिशतभन्दा बढी हो। सीएमई फेडवाचका अनुसार बजारले डिसेम्बरमा ब्याजदर बढ्ने सम्भावना ९१ प्रतिशत देखेको छ। एक डलर बराबर करिब १६० येन पुगेकाले जापानले बजारमा हस्तक्षेप गर्न सक्ने चेतावनी दिएको छ। भारतीय रुपैयाँ पनि डलरसँग ०.२ प्रतिशत कमजोर भयो।",
+      "sources": [
+        {
+          "name": "Reuters (Business Recorder मार्फत)",
+          "url": "https://www.brecorder.com/news/40448544/dollar-rises-to-19-month-high-as-fed-hike-bets-grow-yen-softens"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/forex-news/asia-fx-holds-losses-as-dollar-hits-19mth-high-yen-nears-160-5020289"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmd6aUhaTzk5c0pGbUgyQ2U2clNjX0VCQjZVT1g4dmNVUkFFa05DQTRmWHNLVl9oRGJ5R0tfeVZjbGlsSjhwMHNTVEhUaWtJMzJGUk15dnRGd2d5RGpLbEVtZzZFTGVVOHM0cmtMTFNkMTJDbUNPMm5acjZFbjltWC1URXlPTHdOLUlIUVdJOWxqb0xnMndvUGVwYlEtTGNvQXZ0Vg?oc=5"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "एनभिडियाका प्रमुख जेन्सन हुआङलाई पदबाट हटाउने कि नहटाउने भनेर सञ्चालक समितिको बैठक",
+      "summary": "AI चिप बनाउने विश्वकै ठूलो कम्पनी एनभिडियाको सञ्चालक समितिले संस्थापक तथा प्रमुख कार्यकारी जेन्सन हुआङलाई पदमा राख्ने कि हटाउने भनेर बुधबार बैठक बसेको रोयटर्सले एक स्रोतलाई उद्धृत गर्दै जनाएको छ। वाल स्ट्रिट जर्नलले समिति उनलाई हटाउने तयारीमा रहेको लेखेको छ। चिनियाँ जासुस भनिएकी एक महिलासँगको सम्बन्धपछि अब कम्पनीकै एक उच्च अधिकारीसँग पनि उनको सम्बन्ध रहेको न्युयोर्क टाइम्सले रिपोर्ट गरेको छ। यो खबरपछि बजार बन्द भएपछिको कारोबारमा एनभिडियाको सेयर करिब ७.७ प्रतिशत घटेर १६०.३९ डलरमा झर्‍यो। कम्पनीले नोभेम्बर ८ मा स्वतन्त्र सञ्चालकको समितिमार्फत छानबिन सुरु गरेको थियो।",
+      "sides": [
+        {
+          "who": "हुआङ र एनभिडियाको भनाइ",
+          "says": "हुआङले कर्मचारीलाई पठाएको पत्रमा श्रीमतीप्रति बेइमानी गरेकोमा माफी मागे। सञ्चालक समितिले राष्ट्रिय सुरक्षा वा कम्पनीको गोप्य जानकारी चुहिएको विश्वास गर्ने कारण नभेटिएको बताएको छ।"
+        },
+        {
+          "who": "आलोचक र विश्लेषकको भनाइ",
+          "says": "अमेरिकी संसदका केही रिपब्लिकन सांसदले हुआङलाई बन्द कोठामा जानकारी दिन बोलाएका छन्। केही विश्लेषकका अनुसार कम्पनीसँग उत्तराधिकारको योजना नभएकाले उनलाई तुरुन्तै हटाउन गाह्रो छ।"
+        }
+      ],
+      "unverified": "यो संस्करण तयार हुँदासम्म सञ्चालक समितिको निर्णय सार्वजनिक भएको छैन।",
+      "sources": [
+        {
+          "name": "Reuters (BNN Bloomberg मार्फत)",
+          "url": "https://www.bnnbloomberg.ca/business/2026/11/12/nvidia-board-meets-to-decide-ceo-huangs-future-source-says/"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-nvidia-stock-tanks-in-after-hours-after-allegations-of-a-second-affair-surface-222438011.html"
+        },
+        {
+          "name": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-11-12/Nvidia-board-weighs-Jensen-Huang-s-future-as-CEO-1S0jayXdfA4/p.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "युनाइटेड एयरलाइन्सले AI एजेन्टमार्फत टिकट काट्न रोक लगायो",
+      "summary": "अमेरिकाको ठूलो हवाई कम्पनी युनाइटेड एयरलाइन्सले यात्रुका तर्फबाट AI 'एजेन्ट' ले आफ्नो वेबसाइट, एप र ट्राभल एजेन्सीमार्फत टिकट काट्न रोक लगाएको छ। AI एजेन्ट भनेको मानिसको सट्टा आफैं खोज्ने, तुलना गर्ने र किनमेल गर्ने कम्प्युटर प्रोग्राम हो। कम्पनीका अनुसार यस्तो प्रोग्रामलाई खाताको पासवर्ड र भुक्तानी विवरण दिँदा व्यक्तिगत जानकारी जोखिममा पर्न सक्छ, र नचाहेको खरिद वा माइलेज अंक खर्च हुन सक्छ। झोलामा प्रतिबन्धित सामान नभएको यात्रु आफैंले पुष्टि गर्नुपर्ने जस्ता सरकारी नियम पनि AI ले चेक–इन गर्दा उल्लंघन हुन सक्ने कम्पनीको भनाइ छ। फोर्ब्सका अनुसार यस्तो कदम चाल्ने यो पहिलो ठूलो अमेरिकी एयरलाइन्स हो।",
+      "sides": [
+        {
+          "who": "युनाइटेडको भनाइ",
+          "says": "तेस्रो पक्षको AI सहायकलाई खाताको विवरण दिँदा संवेदनशील जानकारी जोखिममा पर्न सक्ने र स्वचालित काम सरकारी नियमविपरीत हुन सक्ने भएकाले रोक लगाइएको हो।"
+        },
+        {
+          "who": "अरू कम्पनी र विश्लेषकको भनाइ",
+          "says": "डेल्टाले ग्राहकको लगइनमार्फत AI सहायकलाई बुकिङ गर्न दिन्छ। एक उड्डयन विश्लेषकका अनुसार युनाइटेड बुकिङमा आफ्नो नियन्त्रण कायम राख्न र AI बटका धेरै खोजीको खर्चबाट बच्न चाहन्छ।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+        },
+        {
+          "name": "Forbes",
+          "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/11/11/united-airlines-blocks-ai-agents-booking-flights/"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVlJLSUtLZnlkQ2FuamtrbzJqMUw5RFVQWnAtV0tyUmI4YVJzeXpSYS0wS2dGSkdvb0RybTR5ck9FRFFGY25pb1V6cm1RbFpSTGhhZUNIN3BjVHFyTmpoYVJOTWhGZjFDb21WNUYtMFFVUWgzUG9CTURNUTFsQWtUcGw5Tmh5TFA3ZHRKZzhRWFVVRjZFaFBWQzZrV0tkYkZSS2FMWGN5OFpTM1JsR0xKSEhkYWFKRFBKcVFTU0hDaktQMEox?oc=5"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+        }
+      ]
+    }
+  ]
+}
