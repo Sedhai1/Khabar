@@ -1,0 +1,286 @@
+{
+  "id": "2026-11-13-am",
+  "generated_at": "2026-11-13T06:16:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार र ब्रेन्ट: बिहीबार, नोभेम्बर १२ को बन्द · NEPSE: शुक्रबार, नोभेम्बर ६ को बन्द (तिहारका कारण बजार बन्द, आज शुक्रबार नोभेम्बर १३ मा खुल्छ) · डलर: बिहीबार, नोभेम्बर १२ (राष्ट्र बैंकको दर)",
+    "items": [
+      {
+        "name": "S&P 500",
+        "value": 7592.40,
+        "change_pct": -0.35,
+        "source": "Reuters (Euronext मार्फत)",
+        "url": "https://live.euronext.com/en/financial-news/wall-street-ends-lower-nvidia-ceo-resigns-us-yields"
+      },
+      {
+        "name": "Nasdaq",
+        "value": 25366.09,
+        "change_pct": -0.39,
+        "source": "Reuters (Euronext मार्फत)",
+        "url": "https://live.euronext.com/en/financial-news/wall-street-ends-lower-nvidia-ceo-resigns-us-yields"
+      },
+      {
+        "name": "डाउ जोन्स",
+        "value": 52297.09,
+        "change_pct": -0.36,
+        "source": "Reuters (Euronext मार्फत)",
+        "url": "https://live.euronext.com/en/financial-news/wall-street-ends-lower-nvidia-ceo-resigns-us-yields"
+      },
+      {
+        "name": "NEPSE",
+        "value": 2655.22,
+        "change_pct": 0.1,
+        "source": "NepseTrading",
+        "url": "https://nepsetrading.com/insights/nepse-today-closing-report-2026-11-06-index-movement-turnover-and-top-gainers-losers-nepal"
+      },
+      {
+        "name": "डलर (राष्ट्र बैंक, खरिद)",
+        "value": 149.61,
+        "unit": "रु",
+        "change_pct": null,
+        "source": "नेपाल राष्ट्र बैंक (नेपालन्युज मार्फत)",
+        "url": "https://english.nepalnews.com/s/business/nepal-news-evening-economic-brief-november-12-2026/"
+      },
+      {
+        "name": "ब्रेन्ट कच्चा तेल",
+        "value": 95.82,
+        "unit": "डलर",
+        "change_pct": 3.3,
+        "source": "Reuters (Euronext मार्फत)",
+        "url": "https://live.euronext.com/en/financial-news/wall-street-ends-lower-nvidia-ceo-resigns-us-yields"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "चीनको कम्युनिस्ट पार्टीको निमन्त्रणामा रास्वपाको २० सदस्यीय टोली कात्तिक २९ देखि चीन जाने",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का महामन्त्री विपिनकुमार आचार्यको नेतृत्वमा २० सदस्यीय टोली नोभेम्बर १५ (कात्तिक २९) देखि चीन भ्रमणमा जाँदैछ। चीनको कम्युनिस्ट पार्टीको औपचारिक निमन्त्रणामा हुन लागेको भ्रमणमा शासन, आर्थिक विकास, सार्वजनिक सेवा प्रवाह, संस्थागत क्षमता विकास र राजनीतिक नेतृत्वबारे अनुभव आदानप्रदान र छलफल हुने पार्टीले जनाएको छ। टोलीमा गणेश पराजुली, हरि ढकाल, लिमा अधिकारी आचार्यलगायत १० जना सांसद छन्। पार्टी प्रवक्ता जगदीश खरेलले बिहीबार विज्ञप्ति जारी गरेर यो जानकारी दिएका हुन्। भ्रमणको विस्तृत कार्यतालिका सार्वजनिक गरिएको छैन।",
+      "sources": [
+        {
+          "name": "काठमाडौं पोस्ट",
+          "url": "https://kathmandupost.com/national/2026/11/12/rsp-delegation-to-visit-china-at-communist-party-s-invitation"
+        },
+        {
+          "name": "नेपालन्युज",
+          "url": "https://english.nepalnews.com/s/politics/rsp-high-level-delegation-to-visit-china-starting-november-15/"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "वर्षौंदेखि अलपत्र सरकारी भवन र सडकका ठेक्का तोड्ने तयारी, ठेकेदार कालोसूचीमा पर्ने",
+      "summary": "भौतिक पूर्वाधार मन्त्रालयअन्तर्गतको सहरी विकास तथा भवन निर्माण विभागले वर्षौंदेखि काम नगरेका ८ ठूला ठेक्का तोड्ने, धरौटी जफत गर्ने र ठेकेदारलाई कालोसूचीमा राख्ने प्रक्रिया सुरु गरेको छ। पुल्चोकस्थित मन्त्री निवासको सुरक्षाकर्मी भवन बनाउने ठेकेदारले ६ वर्षमा पनि काम सुरु नगरेको (प्रगति शून्य) र मुख्य मन्त्री निवास भवनको प्रगति २० प्रतिशत मात्र रहेको रातोपाटीले जनाएको छ। विभागका २ हजार ८ सय ७ आयोजनामध्ये ७२ समस्याग्रस्त छन्, तीमध्ये १८ को म्याद नै सकिएको छ। यीमध्ये राष्ट्रपति कार्यालय, सिंहदरबार, स्वास्थ्य चौकी र सडकका आयोजना छन्। भौतिक पूर्वाधारमन्त्री सुनिल लम्सालले घोषणा गरेको यो नीतिअनुसार काम सम्भव नभएका ठेक्का सिधै तोडेर फेरि ठेक्का लगाइनेछ।",
+      "sources": [
+        {
+          "name": "रातोपाटी",
+          "url": "https://english.ratopati.com/story/86366/these-are-the-18-projects-whose-work-remains-incomplete-despite-repeated-extensions-with-details-of-the-contractors-who-defaulted"
+        },
+        {
+          "name": "रातोपाटी",
+          "url": "https://english.ratopati.com/story/86354/8-contracts-for-rural-roads-from-ministers-residence-to-the-final-stage-of-contract-termination-with-list"
+        },
+        {
+          "name": "नेपालन्युज",
+          "url": "https://english.nepalnews.com/s/business/nepal-news-evening-economic-brief-november-12-2026/"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "अमेरिकी दूतले मस्कोमा पुटिनसँग भेटेपछि डब्लिनमा जेलेन्स्कीसँग वार्ता",
+      "summary": "अमेरिकी दूत स्टिभ विटकफ र जेरेड कुश्नरले बिहीबार मस्कोको क्रेमलिनमा रुसी राष्ट्रपति पुटिनसँग करिब दुई घण्टा वार्ता गरे र त्यसपछि आयरल्यान्डको राजधानी डब्लिनमा युक्रेनी राष्ट्रपति जेलेन्स्कीसँग भेटे। विटकफका अनुसार पुटिनले अर्को चरणको वार्तामा युरोपेली प्रतिनिधि सहभागी हुन सहमति दिएका छन्। अबुधाबीमा सकिएको दुई दिने वार्ता नौ महिनायता रुस र युक्रेनबीचको पहिलो प्रत्यक्ष वार्ता थियो, जसमा ठूलो संख्यामा युद्धबन्दी साटासाट गर्ने सहमति बाहेक ठूलो उपलब्धि भएन। डब्लिनमा ४० भन्दा बढी युरोपेली देशको बैठकमा नेटो महासचिव मार्क रुटेले सुरक्षा ग्यारेन्टीमा अमेरिका, युरोप र युक्रेन एकमत रहेको तर अब शान्ति सम्झौता वा कम्तीमा युद्धविराम चाहिने बताए।",
+      "sides": [
+        {
+          "who": "रुसी राष्ट्रपति पुटिन",
+          "says": "युद्धविरामपछि युक्रेनमा युरोपेली सेना पठाइए त्यो पूर्ण रूपमा अस्वीकार्य हुन्छ, त्यस्तो सेनालाई निशाना बनाइनेछ र युद्ध तुरुन्तै फेरि सुरु हुनेछ।"
+        },
+        {
+          "who": "युक्रेनी राष्ट्रपति जेलेन्स्की",
+          "says": "बन्दी साटासाट सकारात्मक कदम हो, तर शान्तिका लागि रुसले कब्जा गरेको भूभाग छाडिँदैन।"
+        }
+      ],
+      "unverified": "द हिन्दूका अनुसार पुटिनले दोनेत्स्कको एउटा प्रमुख मोर्चाको सहरमा छोटो अवधिको युद्धविराम प्रस्ताव गरेका छन्; यसको विस्तृत विवरण पुष्टि गर्न सकिएन।",
+      "sources": [
+        {
+          "name": "AP (PBS मार्फत)",
+          "url": "https://www.pbs.org/newshour/world/u-s-envoys-meet-with-putin-in-moscow-on-ukraine-talks-then-head-for-dublin-to-see-zelenskyy"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/us-envoys-meet-putin-at-kremlin-following-ukraine-talks-in-abu-dhabi/article71694418.ece"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "'इरानसँग सम्झौता चाहिँदैन' भन्ने ट्रम्पको अभिव्यक्तिपछि तेलको भाउ बढ्यो",
+      "summary": "अमेरिकी राष्ट्रपति ट्रम्पले बिहीबार सामाजिक सञ्जालमा 'हामीलाई इरानसँग सम्झौता चाहिँदैन, ती दिन धेरै पहिले बितिसके' भन्दै युद्ध अन्त्यको सम्झौतामा अब चासो नरहेको लेखे। उनले उपराष्ट्रपति भ्यान्सलाई डेमोक्र्याटहरूले चलाएका अमेरिकी सहर र राज्यमा भ्रष्टाचारको छानबिनमा ध्यान दिन निर्देशन दिएको बताए। उनले इरानको पैसा र होर्मुज जलडमरूमध्य अमेरिकाको नियन्त्रणमा रहेको दाबी पनि गरे। यो अभिव्यक्तिपछि ब्रेन्ट कच्चा तेलको भाउ ३.३ प्रतिशत बढेर प्रतिब्यारेल ९५.८२ डलरमा बन्द भयो। फेब्रुअरीको अन्त्यमा अमेरिका र इजरायलले इरानमाथि युद्ध सुरु गरेयता तेलको भाउ करिब ७० देखि १५० डलरसम्म उतारचढाव भएको छ।",
+      "sides": [
+        {
+          "who": "राष्ट्रपति ट्रम्प",
+          "says": "इरानसँग सम्झौताको आवश्यकता छैन; अमेरिकासँग इरानको पैसा र होर्मुज दुवै नियन्त्रणमा छ।"
+        },
+        {
+          "who": "इरानको सर्वोच्च राष्ट्रिय सुरक्षा परिषद्का सचिव मोहसेन रेजाई",
+          "says": "इरानले परिष्कृत आणविक सामग्री देशबाहिर पठाउँदैन।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "AP (Transport Topics मार्फत)",
+          "url": "https://www.ttnews.com/articles/oil-prices-trump-no-iran-deal"
+        },
+        {
+          "name": "OilPrice.com",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Briefly-Hits-94-After-Trump-Says-US-Has-No-Need-for-Iran-Deal.html"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/trump-says-us-does-not-need-a-deal-with-iran/article71695103.ece"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "गाजाको नासेर अस्पतालमा इजरायली हवाई आक्रमण, सर्जनसहित ६ जनाको मृत्यु",
+      "summary": "दक्षिणी गाजाको खान युनिसस्थित नासेर अस्पतालमा बिहीबार बिहान भएको इजरायली हवाई आक्रमणमा एक सर्जन र १३ वर्षीय बालकसहित ६ जनाको मृत्यु भएको र कम्तीमा २८ जना घाइते भएको गाजाको स्वास्थ्य मन्त्रालयले जनाएको छ। आक्रमण शल्यक्रिया र सघन उपचार कक्ष भएको भवनमा परेको हो; अस्पतालका निर्देशकका अनुसार कुनै चेतावनी दिइएको थिएन र शल्यक्रिया, एक्स–रे तथा प्रयोगशाला सेवा रोकिएका छन्। अक्टोबर २०२५ देखि अमेरिकाको समर्थनमा युद्धविराम लागू भए पनि त्यसयता इजरायली आक्रमणमा १ हजार ६ सय २२ जना मारिएको स्थानीय स्वास्थ्य अधिकारीले जनाएका छन्; सोही अवधिमा ५ इजरायली सैनिक पनि मारिएका छन्।",
+      "sides": [
+        {
+          "who": "इजरायली सेना",
+          "says": "अस्पताल परिसरमा लुकेका हमासका एक कमान्डर र लडाकुलाई निशाना बनाइएको हो, हमासले अस्पताललाई सैन्य गतिविधिको केन्द्र बनाएको छ।"
+        },
+        {
+          "who": "हमास",
+          "says": "इजरायलको दाबी झूटो हो र अस्पतालमाथिको आक्रमण युद्ध अपराध हो।"
+        }
+      ],
+      "unverified": "अस्पतालमा हमासको कमान्डर रहेको इजरायली दाबीको कुनै प्रमाण सार्वजनिक गरिएको छैन।",
+      "sources": [
+        {
+          "name": "AP (KCRA मार्फत)",
+          "url": "https://www.kcra.com/article/israeli-airstrike-hits-nasser-hospital-gaza/74410752"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/International/israeli-airstrike-gaza-hospital-kills-6-people-hamas/story?id=138073754"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "मोदी आसियान र पूर्वी एसिया शिखर सम्मेलनका लागि फिलिपिन्स जाने",
+      "summary": "भारतीय प्रधानमन्त्री मोदी दक्षिणपूर्वी एसियाली राष्ट्रहरूको संगठन (आसियान) को शिखर सम्मेलनमा भाग लिन नोभेम्बर १६ देखि फिलिपिन्सको राजधानी मनिला जाने भारतीय विदेश मन्त्रालयले बिहीबार घोषणा गरेको छ। उनी २३औँ आसियान–भारत शिखर सम्मेलन र २१औँ पूर्वी एसिया शिखर सम्मेलनमा सहभागी हुनेछन् र अन्य नेतासँग छुट्टाछुट्टै भेटवार्ता गर्नेछन्। चीनका प्रधानमन्त्री ली छयाङ, अमेरिकी राष्ट्रपति ट्रम्प र राष्ट्रसंघका महासचिव गुटेरेस पनि मनिला आउने कार्यक्रम छ। द हिन्दूका अनुसार समुद्री सुरक्षा र व्यापार मुख्य विषय हुनेछन्।",
+      "unverified": "मनिलामा भारत, अमेरिका, जापान र अस्ट्रेलियाको 'क्वाड' शिखर बैठक पनि हुने चर्चा छ, तर यसबारे आधिकारिक घोषणा भएको छैन। भ्रमणको अन्तिम मिति स्रोतअनुसार फरक (नोभेम्बर १७ वा १८) छ।",
+      "sources": [
+        {
+          "name": "Reuters (WMBD मार्फत)",
+          "url": "https://wmbdradio.com/2026/11/12/indian-pm-modi-to-attend-asean-summit-in-manila-from-november-16-to-17/"
+        },
+        {
+          "name": "ANI (Open Magazine मार्फत)",
+          "url": "https://openthemagazine.com/world/pm-modi-to-attend-asean-india-east-asia-summits-in-manila-from-november-16-to-18"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/national/modi-to-visit-manila-for-asean-summit-maritime-security-trade-on-agenda/article71694308.ece"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "हुआङको राजीनामापछि चीनलाई AI चिप बिक्रीमा अझ कडाइ गर्न अमेरिकी संसदमा जोड",
+      "summary": "एनभिडियाका प्रमुख जेन्सन हुआङले चिनियाँ जासुस भएको आशंका गरिएकी महिलासँगको सम्बन्धको विवादपछि राजीनामा दिएसँगै अमेरिकी संसदमा दुवै दलका सांसदले चीनलाई उन्नत AI चिप बिक्रीमा थप कडाइ माग गरेका छन्। प्रतिनिधिसभाका सभामुख माइक जोनसनले यसमा संसदमा सहमति बन्दै गएको बताए। प्रस्तावित कानुनमा चिप कहाँ पुग्यो भनेर ट्र्याक गर्नुपर्ने, चिनियाँ कम्पनीले विदेशका डेटा सेन्टर भाडामा लिएर चिप प्रयोग गर्न रोक्ने र निर्यात नियममा संसदको भूमिका बढाउनेजस्ता प्रावधान छन्। रोयटर्सका अनुसार ह्वाइट हाउसले वाणिज्यमन्त्री हावर्ड लुटनिकलाई हटाउने कि नहटाउने भनेर पनि छलफल गरिरहेको छ। एनभिडियाले अगस्टमा चिनियाँ डेटा सेन्टरमा चिप बिक्रीबाट आम्दानी 'लगभग शून्य' रहेको जनाएको थियो।",
+      "sides": [
+        {
+          "who": "अमेरिकी सांसदहरू",
+          "says": "चीनलाई उन्नत चिप पुग्न नदिन निर्यात नियन्त्रण कडा बनाउनुपर्छ।"
+        },
+        {
+          "who": "चीन",
+          "says": "हुआङसँग सम्बन्धित महिला जासुस भएको आरोप अस्वीकार गर्छ।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters (Central Oregon Daily मार्फत)",
+          "url": "https://www.centraloregondaily.com/news/consumer/chinas-access-to-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us-congress/article_762e880e-d669-54a0-9b04-5ba2c5c34523.html"
+        },
+        {
+          "name": "Reuters (Investing.com मार्फत)",
+          "url": "https://www.investing.com/news/stock-market-news/explainertougher-curbs-on-ai-chip-sales-to-china-likely-after-nvidia-ceo-resigns-5022981"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "एनभिडिया ४ प्रतिशतभन्दा बढी घट्दा अमेरिकी सेयर बजार सामान्य घट्यो, एएमडी र ब्रोडकम बढे",
+      "summary": "प्रमुख कार्यकारी जेन्सन हुआङको राजीनामापछि बिहीबार एनभिडियाको सेयर ४.३ प्रतिशत घटेर बन्द भयो, तर दिनको सबैभन्दा तल्लो स्तरबाट केही उठ्यो। यसले अमेरिकी सेयर बजार तान्दा एसएन्डपी ५०० ०.३५ प्रतिशत, नास्डाक ०.३९ प्रतिशत र डाउ जोन्स ०.३६ प्रतिशत घटे। एनभिडियाका प्रतिस्पर्धी चिप कम्पनी एएमडीको सेयर करिब ५.९ प्रतिशत र ब्रोडकमको करिब ५.५ प्रतिशत बढ्यो। ट्रम्पको इरानसम्बन्धी अभिव्यक्तिपछि ब्रेन्ट तेल ३.३ प्रतिशत बढ्यो र अमेरिकी सरकारी ऋणपत्रको ब्याज (यिल्ड) पनि बढ्यो।",
+      "unverified": "१० वर्षे अमेरिकी ऋणपत्रको यिल्ड स्रोतअनुसार फरक छ: रोयटर्सअनुसार ५.१०५ प्रतिशत, मोटली फुलअनुसार ४.९८ प्रतिशत।",
+      "sources": [
+        {
+          "name": "Reuters (Euronext मार्फत)",
+          "url": "https://live.euronext.com/en/financial-news/wall-street-ends-lower-nvidia-ceo-resigns-us-yields"
+        },
+        {
+          "name": "The Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "एनभिडियाका प्रमुख जेन्सन हुआङले राजीनामा दिए, कोलेट क्रेस अन्तरिम प्रमुख",
+      "summary": "AI (कृत्रिम बुद्धिमत्ता) का लागि चाहिने चिप बनाउने विश्वकै ठूलो कम्पनी एनभिडियाका संस्थापक जेन्सन हुआङले ३३ वर्षपछि प्रमुख कार्यकारी पद र सञ्चालक समितिबाट राजीनामा दिएका छन्। सञ्चालक समितिले बुधबार राजीनामा स्वीकार गर्‍यो र कम्पनीले बिहीबार घोषणा गर्‍यो; कम्पनीले राजीनामाको कारण खुलाएको छैन। हुआङले केही दिनअघि विवाहेतर सम्बन्ध स्वीकारेका थिए र चिनियाँ जासुस भएको आशंका गरिएकी एक महिला तथा कम्पनीकै एक वरिष्ठ अधिकारीसँगको सम्बन्धबारे समाचार आएका थिए। २०१३ देखि कम्पनीको वित्त प्रमुख रहेकी कोलेट क्रेस स्थायी प्रमुख नआउन्जेल अन्तरिम प्रमुख हुनेछिन् र पुराना सञ्चालक हार्भे जोन्स पहिलो पटक बोर्ड अध्यक्ष बनेका छन्। रोयटर्सका अनुसार हुआङले नोभेम्बर २६ अघि अमेरिकी संसदमा बयान दिने अपेक्षा छ।",
+      "unverified": "हुआङले जानीजानी चीनलाई सघाएको वा कम्पनीको गोप्य कुरा चुहिएको कुनै प्रमाण भेटिएको छैन; कम्पनीको स्वतन्त्र छानबिन जारी छ र सञ्चालक समितिले राष्ट्रिय सुरक्षामा असर परेको विश्वास गर्ने कारण नभएको जनाएको छ।",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+        },
+        {
+          "name": "Reuters (Central Oregon Daily मार्फत)",
+          "url": "https://www.centraloregondaily.com/news/consumer/chinas-access-to-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us-congress/article_762e880e-d669-54a0-9b04-5ba2c5c34523.html"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "गुगल सर्चमा नयाँ AI मोडेल 'जेमिनी ४ हाइड्रोजन', जटिल प्रश्नको उत्तर राम्रो दिने दाबी",
+      "summary": "गुगलले बिहीबार आफ्नो नयाँ AI मोडेल 'जेमिनी ४ हाइड्रोजन' गुगल सर्चमा विश्वभरका सबै प्रयोगकर्तालाई उपलब्ध गराउन थालेको छ र यसलाई सर्चको अहिलेसम्मकै ठूलो सुधार भनेको छ। कम्पनीका अनुसार यसले धेरै भाग भएका प्रश्न, हिज्जे बिग्रिएका शब्द र निकै विशिष्ट प्रश्न राम्रोसँग बुझ्छ, प्रश्नलाई साना भागमा तोडेर धेरै वेबसाइट खोज्छ र तस्बिर तथा तुलनात्मक तालिकासहित उत्तर दिन्छ। यो सुविधा सर्चको 'AI मोड' मा आउँछ, जहाँ AI ले धेरै स्रोत पढेर एउटै उत्तर तयार पार्छ। गति र क्षमताबारेका दाबी गुगलकै हुन्, स्वतन्त्र रूपमा परीक्षण भइसकेका छैनन्।",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+        },
+        {
+          "name": "Google (आधिकारिक ब्लग)",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+        }
+      ]
+    }
+  ]
+}
