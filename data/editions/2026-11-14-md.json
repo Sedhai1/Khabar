@@ -1,0 +1,277 @@
+{
+  "id": "2026-11-14-md",
+  "generated_at": "2026-11-14T12:18:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार र ब्रेन्ट: शुक्रबार, नोभेम्बर १३ को बन्द · NEPSE: शुक्रबार, नोभेम्बर १३ को बन्द · डलर: शनिबार, नोभेम्बर १४ (राष्ट्र बैंकको दर)",
+    "items": [
+      {
+        "name": "S&P 500",
+        "value": 7561.67,
+        "change_pct": -0.4,
+        "source": "AP",
+        "url": "https://krmg.com/2026/11/13/how-major-us-stock-indexes-fared-friday-11-13-2026/"
+      },
+      {
+        "name": "Nasdaq",
+        "value": 25136.27,
+        "change_pct": -0.91,
+        "source": "AP",
+        "url": "https://krmg.com/2026/11/13/how-major-us-stock-indexes-fared-friday-11-13-2026/"
+      },
+      {
+        "name": "डाउ जोन्स",
+        "value": 52347.55,
+        "change_pct": 0.1,
+        "source": "AP",
+        "url": "https://krmg.com/2026/11/13/how-major-us-stock-indexes-fared-friday-11-13-2026/"
+      },
+      {
+        "name": "NEPSE",
+        "value": 2648.89,
+        "change_pct": -0.24,
+        "source": "हिमालप्रेस",
+        "url": "https://en.himalpress.com/nepse-slips-6-32-points-as-trading-resumes-after-seven-day-gap/"
+      },
+      {
+        "name": "डलर (राष्ट्र बैंक, खरिद)",
+        "value": 150.49,
+        "unit": "रु",
+        "change_pct": null,
+        "source": "नेपाल राष्ट्र बैंक (अनलाइनखबर मार्फत)",
+        "url": "https://www.onlinekhabar.com/2026/11/2057268/this-is-the-foreign-exchange-rate-today-96"
+      },
+      {
+        "name": "ब्रेन्ट कच्चा तेल",
+        "value": 95.84,
+        "unit": "डलर",
+        "change_pct": 0.02,
+        "source": "Rigzone",
+        "url": "https://www.rigzone.com/news/crude_fluctuates_as_iran_tensions_persist-13-nov-2026-185085-article"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "नेपाल र दक्षिण कोरियाबीच जलवायु सहयोग सम्झौता, कार्बन घटाएको उपलब्धि साटफेर गर्न सकिने",
+      "summary": "टर्कीको अन्टाल्यामा चलिरहेको संयुक्त राष्ट्रसंघीय जलवायु सम्मेलन कोप–३१ मा बिहीबार नेपाल र दक्षिण कोरियाले जलवायु परिवर्तनसम्बन्धी सहयोगको रूपरेखा सम्झौतामा हस्ताक्षर गरे। पेरिस सम्झौताको धारा ६ अन्तर्गतको यो सम्झौताले दुवै देशले मिलेर हरितगृह ग्यास घटाउने आयोजना बनाउन र घटाएको उत्सर्जनको उपलब्धि एकअर्कालाई हस्तान्तरण गर्न बाटो खोल्छ। नवीकरणीय ऊर्जा, यातायात, उद्योग, कृषि र वनलगायत क्षेत्रमा सहकार्य हुनेछ र कार्यान्वयन हेर्न दुवै देशको संयुक्त समिति बन्नेछ। सम्झौतामा कुनै रकम तोकिएको छैन।",
+      "impact": "रातोपाटीका अनुसार यसले नेपालमा अन्तर्राष्ट्रिय कार्बन वित्त भित्र्याउन सघाउने अपेक्षा छ।",
+      "sources": [
+        {
+          "name": "रातोपाटी",
+          "url": "https://english.ratopati.com/story/86523/agreement-on-climate-cooperation-and-carbon-finance-between-nepal-and-south-korea"
+        },
+        {
+          "name": "SBS (दक्षिण कोरिया)",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008845920"
+        },
+        {
+          "name": "Onlinekhabar",
+          "url": "https://english.onlinekhabar.com/arjun-kumar-karki-urges-developed-countries-to-provide-climate-finance-as-grants-not-loans.html"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "चालु आर्थिक वर्षको पहिलो तीन महिनामा नेपालका मुख्य निर्यात वस्तु २३.८५ प्रतिशत बढे",
+      "summary": "चालु आर्थिक वर्ष २०८३/८४ को पहिलो तीन महिना (साउनदेखि असोजसम्म) मा सरकारले निर्यात बढाउन छानेका उच्च मूल्यका वस्तुको निर्यात ३६ अर्ब ६५ करोड रुपैयाँ पुगेको छ, जुन गत वर्ष यही अवधिमा २९ अर्ब ५९ करोड थियो। फलाम तथा स्टिल, धागो, तयारी पोसाक, जुट, अलैंची, पस्मिना र गलैँचाको निर्यात बढेको छ। भन्सार विभागका अनुसार कुल निर्यात ५७ प्रतिशत बढेर १ खर्ब १४ अर्ब २८ करोड रुपैयाँ पुग्यो, तर त्यसमध्ये आधाभन्दा बढी (५८ अर्ब ४२ करोड) विदेशबाट ल्याएर फेरि बेचिएको खाने तेल हो। सोही अवधिमा आयात ६ खर्ब ४६ अर्ब ७८ करोड रुपैयाँ र व्यापार घाटा ५ खर्ब ३२ अर्ब ४९ करोड रुपैयाँ पुगेको छ।",
+      "sources": [
+        {
+          "name": "Kathmandu Post",
+          "url": "https://kathmandupost.com/money/2026/11/14/nepal-s-high-value-exports-rise-23-85-percent-in-first-quarter"
+        },
+        {
+          "name": "Onlinekhabar",
+          "url": "https://english.onlinekhabar.com/nepals-exports-cross-114-billion.html"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "अमेरिकामा ४ घण्टाभन्दा लामो देशव्यापी उडान रोक हट्यो, पुरानो प्रणालीमा धेरै भार परेको सरकारको भनाइ",
+      "summary": "अमेरिकाको संघीय उड्डयन प्रशासन (FAA) ले शुक्रबार दिउँसो लगाएको देशव्यापी उडान रोक करिब ४ घण्टा २० मिनेटपछि स्थानीय समय राति ८:१५ बजे हटायो। यातायातमन्त्री सन डफीका अनुसार हवाई नियन्त्रण प्रणालीका पुराना स्विच र राउटरमा धेरै डाटा आएर काम गर्न छाडेपछि यस्तो भएको हो। फ्लाइटराडार२४ का अनुसार ४ हजार ७ सयभन्दा बढी उडान रद्द र करिब १० हजार ढिला भए, र शनिबारका ७ सय उडान पहिल्यै रद्द भइसकेका छन्। सन् २००१ को सेप्टेम्बर ११ को आक्रमणयता यो दोस्रो देशव्यापी रोक हो।",
+      "sides": [
+        {
+          "who": "ट्रम्प सरकारको भनाइ",
+          "says": "साइबर आक्रमण भएको संकेत छैन; प्रणाली धेरै पुरानो छ, त्यसैले पूरै फेर्न संसदले करिब ५० अर्ब डलर दिनुपर्छ।"
+        },
+        {
+          "who": "विपक्षी सांसदको भनाइ",
+          "says": "डेमोक्र्याट नेता हकिम जेफ्रिज र सिनेटर मारिया क्यान्टवेललगायतले के भयो भन्ने जवाफ मागेका छन् र सिनेट समितिले छानबिन गर्ने भएको छ।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next"
+        },
+        {
+          "name": "AP",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "टर्की र कतारबीच पारस्परिक रक्षा सम्झौता, एकमाथि आक्रमण भए संयुक्त अडान लिने",
+      "summary": "टर्कीका राष्ट्रपति रेचेप तैयप एर्दोगान र कतारका अमिर शेख तमिम बिन हमद अल थानीले शुक्रबार इस्तानबुलमा पारस्परिक रक्षा सम्झौतामा हस्ताक्षर गरे। सम्झौताअनुसार दुवैमध्ये कुनैमाथि बाहिरबाट सशस्त्र आक्रमण भए दुवैले संयुक्त अडान लिनेछन्, सुरक्षा खतराबारे परामर्श गर्नेछन् र संयुक्त सैन्य अभ्यास तथा हतियार उद्योगमा सहकार्य बढाउनेछन्। एर्दोगानले खाडी क्षेत्रमा फेरि युद्ध हुन नदिन काम गर्ने बताए। टर्कीले यसअघि अगस्टमा साउदी अरब र पाकिस्तानसँग पनि यस्तै रक्षा सम्झौता गरेको थियो।",
+      "sources": [
+        {
+          "name": "Reuters (Al-Monitor मार्फत)",
+          "url": "https://www.al-monitor.com/originals/2026/11/turkey-qatar-sign-mutual-defence-agreement-pledge-unified-stance-against-attack"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "इरानमाथि थप सैन्य कारबाही आवश्यक नरहेको अमेरिकी विदेशमन्त्री रुबियोको भनाइ",
+      "summary": "अमेरिकी विदेशमन्त्री मार्को रुबियोले शुक्रबार वासिङ्टनमा एक कार्यक्रममा इरानमाथि आर्थिक दबाब यति ठूलो छ कि थप सैन्य कारबाही आवश्यक नरहेको बताए। उनले युद्धले अमेरिकीहरूलाई पनि इन्धन महँगो भएर आर्थिक मार परेको स्वीकार गरे। सोही दिन अमेरिकी सेनाले बहराइनतर्फ आइरहेका इरानका दुई ड्रोन खसालेको जनायो भने इरानले बहराइनमा रहेको अमेरिकी राडारमा आक्रमण गरेको दाबी गर्‍यो। अन्तर्राष्ट्रिय समुद्री संगठनका अनुसार फेब्रुअरीमा युद्ध सुरु भएयता होर्मुज क्षेत्रमा जहाजमाथि करिब १३४ घटना भएका छन् र २५ नाविकको मृत्यु भएको छ।",
+      "sides": [
+        {
+          "who": "अमेरिकी विदेशमन्त्री रुबियोको भनाइ",
+          "says": "इरानलाई आर्थिक रूपमा कमजोर बनाइएको छ; इरानले कहिल्यै आणविक हतियार नबनाओस् भन्ने सुनिश्चित गर्नु नै जित हो।"
+        },
+        {
+          "who": "संयुक्त राष्ट्रसंघमा इरानी उपराजदूतको भनाइ",
+          "says": "फेरि लडाइँ भए आक्रमणको स्रोतमाथि जवाफ दिइनेछ; अमेरिकी धम्की र आक्रमणले वार्तामा गहिरो अविश्वास बढाएको छ।"
+        }
+      ],
+      "unverified": "होर्मुजमा एलपीजी ट्यांकर बारुदी सुरुङमा ठोक्किएको इरानी रिभोलुसनरी गार्डको दाबी स्वतन्त्र रूपमा पुष्टि भएको छैन।",
+      "sources": [
+        {
+          "name": "AP (Arab News मार्फत)",
+          "url": "https://www.arabnews.com/middle-east/rubio-says-further-us-military-action-is-not-needed-against-economically-weakened-iran-3011777"
+        },
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/rubio-no-need-for-further-strikes-on-iran-because-the-economic-pain-is-so-great/"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "प्रधानमन्त्री बालेन शाह नोभेम्बर २२ मा भारत जाँदै, तयारीस्वरूप उद्योगमन्त्री शाहले भारतीय मन्त्री गोयलसँग भेटे",
+      "summary": "प्रधानमन्त्री बालेन्द्र (बालेन) शाह नोभेम्बर २२ (मंसिर ६) मा नयाँ दिल्ली जाँदैछन्, जुन मार्चमा पद सम्हालेपछि उनको पहिलो औपचारिक द्विपक्षीय भ्रमण हुनेछ। काठमाडौं पोस्टका अनुसार नेपालले भारतसँग २ अर्ब डलर (२०० करोड डलर) सहयोग प्रस्ताव गरेको छ, जसमा आधा अनुदान र आधा सहुलियत ऋण छ। शुक्रबार विशाखापत्तनममा उद्योगमन्त्री दीपककुमार शाहले भारतीय वाणिज्यमन्त्री पीयूष गोयलसँग भेटेर नेपाली सामान भारत निर्यात गर्दा गुणस्तर प्रमाणपत्र लिन हुने झन्झट घटाउन आग्रह गरे। नेपालीहरूले भारतमा QR कोडबाट भुक्तानी गर्न अझै पाएका छैनन्।",
+      "sides": [
+        {
+          "who": "सरकारको तयारी",
+          "says": "पञ्चेश्वर आयोजना, पेट्रोलियम पाइपलाइन, व्यापार, ऊर्जा, सडक–रेल सम्पर्क र प्रविधि सहकार्यजस्ता विषय एजेन्डामा राखिएका छन्।"
+        },
+        {
+          "who": "पूर्वपरराष्ट्रसचिव मधुरमण आचार्यको भनाइ",
+          "says": "लामो मागको सूची लिएर नजाऔँ; विश्वास बढाउने र शीर्ष तहमा मात्र टुंगिने विषयमा ध्यान दिऔँ।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Kathmandu Post",
+          "url": "https://kathmandupost.com/politics/2026/11/14/pm-asks-lawmakers-to-advance-nepal-s-interest-in-china-ties"
+        },
+        {
+          "name": "रेडियो नेपाल",
+          "url": "https://radionepalonline.com/en/2026/11/13/438728.html"
+        },
+        {
+          "name": "Republica",
+          "url": "https://myrepublica.nagariknetwork.com/news/minister-shah-meets-indian-counterpart-goyal-72-80.html"
+        },
+        {
+          "name": "Onlinekhabar",
+          "url": "https://english.onlinekhabar.com/balen-shah-india-visit-qr-payment.html"
+        }
+      ],
+      "unverified": "भ्रमणमा QR भुक्तानीको विषय उठ्छ कि उठ्दैन भन्ने टुंगो छैन।"
+    },
+    {
+      "section": "economy",
+      "title": "एनभिडियाको सेयर २०१२ यताकै लामो साप्ताहिक गिरावटमा, नयाँ प्रमुख खोजी सुरु",
+      "summary": "AI चिप बनाउने अमेरिकी कम्पनी एनभिडियाको सेयर यो साता पनि घटेर सन् २०१२ यताकै लामो साप्ताहिक गिरावट भएको छ। CNBC का अनुसार अक्टोबरको सुरुदेखि कम्पनीको बजार मूल्य करिब १ हजार ७ सय अर्ब डलर (१७ खर्ब डलर) घटेको छ; यो साता मात्र करिब ५७३ अर्ब डलर घट्यो। प्रमुख कार्यकारी जेन्सन हुआङले बिहीबार राजीनामा दिएपछि फाइनान्सियल टाइम्सका अनुसार सञ्चालक समितिले चिप डिजाइन कम्पनी आर्मका प्रमुख रेने हासलाई सम्भावित उत्तराधिकारीका रूपमा सम्पर्क गरेको छ। कम्पनीले भने अहिलेसम्म कुनै उम्मेदवारसँग औपचारिक कुरा नभएको र नाम चर्चा गर्नु 'हतार' भएको जनाएको छ।",
+      "unverified": "हुआङलाई फर्काउन कर्मचारीले माग गरेको समाचार छ, तर यस्तो औपचारिक याचिका भएको स्पष्ट छैन।",
+      "sources": [
+        {
+          "name": "Reuters (The Standard मार्फत)",
+          "url": "https://www.thestandard.com.hk/world/article/348478/Nvidia-approaches-Arm-CEO-Haas-as-employees-seek-Huangs-return-media-reports-say"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "अमेरिकी वित्तीय प्रणालीका लागि अहिले सबैभन्दा ठूलो जोखिम AI भएको केन्द्रीय बैंकको सर्वेक्षण",
+      "summary": "अमेरिकी केन्द्रीय बैंक (फेडरल रिजर्भ) ले शुक्रबार सार्वजनिक गरेको वित्तीय स्थिरता प्रतिवेदनमा सोधिएका बजारका ८७ प्रतिशत जानकारले AI लाई मुख्य जोखिम भनेका छन्, जुन मेमा ५० प्रतिशत थियो। उनीहरूका अनुसार AI कम्पनीको कमाइ अपेक्षाभन्दा कम भए सेयर बजार ठूलो गरी झर्न सक्छ, AI का लागि लिइएका जटिल ऋण र साइबर आक्रमण पनि जोखिम हुन्। अक्टोबरसम्म ठूला कम्प्युटिङ (डाटा सेन्टर) सँग जोडिएको ऋण ६८० अर्ब डलर पुगेको छ, जुन सन् २०२३ को पूरा वर्षको करिब पाँच गुणा हो। सर्वेक्षणमा उच्च ब्याजदर (४८ प्रतिशत) र सरकारी ऋण (४३ प्रतिशत) लाई पनि जोखिम मानिएको छ।",
+      "sources": [
+        {
+          "name": "Reuters (AOL मार्फत)",
+          "url": "https://www.aol.com/articles/ai-rockets-top-worries-financial-210222000.html"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html"
+        },
+        {
+          "name": "Startup Fortune",
+          "url": "https://startupfortune.com/fed-names-ai-the-top-risk-to-financial-stability-as-87-of-contacts-flag-it/"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "हुआङ हटेपछि नयाँ AI कम्पनीले लगानी पाउन गाह्रो हुने लगानीकर्ताको चिन्ता",
+      "summary": "एनभिडिया हुआङको नेतृत्वमा नयाँ AI कम्पनी (स्टार्टअप) मा सबैभन्दा ठूलो लगानीकर्तामध्ये एक बनेको थियो। पिचबुकका अनुसार यो वर्ष मात्र एनभिडियाले १०५ वटा लगानी चरणमा भाग लियो र AI मोडेल राख्ने वेबसाइट हगिङ फेस १३ अर्ब डलरमा किन्दैछ। टेकक्रन्चसँग कुरा गरेका लगानीकर्ताका अनुसार अन्तरिम प्रमुख कोलेट क्रेस लगानीमा बढी सावधान हुने अपेक्षा छ, जसले गर्दा नयाँ कम्पनीले सानो रकम र कम मूल्यांकन पाउन सक्छन्। याहू फाइनान्सको हिसाबमा एनभिडियाले ओपनएआई, एन्थ्रोपिक र कोरवीभलगायत कम्पनीसँग करिब ५३० अर्ब डलरका प्रतिबद्धता र जमानत गरेको छ; यीमध्ये धेरै कम्पनी एनभिडियाकै चिप किन्ने ग्राहक हुन्।",
+      "sides": [
+        {
+          "who": "चिन्ता व्यक्त गर्ने लगानीकर्ता",
+          "says": "धेरैजसो ठूला लगानी निर्णय हुआङ आफैँ गर्थे; दिशा बदलिए धेरै साना कम्पनीलाई असर पर्छ।"
+        },
+        {
+          "who": "आशावादी लगानीकर्ता",
+          "says": "यो क्षेत्र एक व्यक्तिभन्दा ठूलो छ; अन्य ठूला प्रविधि कम्पनी एनभिडियाको ठाउँ लिन प्रतिस्पर्धा गर्नेछन्।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/jensen-huangs-exit-puts-nvidias-530-billion-web-of-ai-deals-under-the-microscope-153142269.html"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "करिब २४ घण्टा अवरुद्ध माइक्रोसफ्टका आउटलुक र टिम्स सेवा फेरि चल्न थाले",
+      "summary": "विश्वभर बिहीबारदेखि अवरुद्ध भएका माइक्रोसफ्टका इमेल (आउटलुक), भिडियो बैठक (टिम्स), कोपाइलट र ३६५ सेवा पुनः सञ्चालनमा आएका छन्। द हिन्दुका अनुसार कम्पनीले सबै प्रभावित सेवा पूर्ण रूपमा फर्किएको घोषणा गरेको छ। माइक्रोसफ्टका अनुसार नेटवर्कको क्षमता बढाउँदा भएको गडबडीले समस्या आएको हो, साइबर आक्रमण वा AI ले होइन; कम्पनीले 'गहिरो माफी' मागेको छ। यसले बेलायतका अस्पताल, विद्यालय, प्रहरी र भारतसहित धेरै देशका व्यवसाय तथा सरकारी कार्यालयलाई असर गरेको थियो।",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outlook-outage-status-microsoft-365-services-live-updates-november-14-2026/article71700692.ece"
+        },
+        {
+          "name": "Windows Central",
+          "url": "https://www.windowscentral.com/microsoft/we-are-deeply-sorry-microsoft-apologizes-for-major-outage-that-knocked-outlook-teams-and-microsoft-365-offline-for-24-hours-insists-it-wasnt-ai-that-caused-it"
+        }
+      ]
+    }
+  ]
+}
