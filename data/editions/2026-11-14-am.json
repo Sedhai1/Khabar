@@ -1,0 +1,143 @@
+{
+  "id": "2026-11-14-am",
+  "generated_at": "2026-11-14T06:17:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार र ब्रेन्ट: शुक्रबार, नोभेम्बर १३ को बन्द · NEPSE: शुक्रबार, नोभेम्बर १३ को बन्द · डलर: शुक्रबार, नोभेम्बर १३ (राष्ट्र बैंकको दर)",
+    "items": [
+      {"name": "S&P 500", "value": 7561.67, "change_pct": -0.40,
+       "source": "AP", "url": "https://krmg.com/2026/11/13/how-major-us-stock-indexes-fared-friday-11-13-2026/"},
+      {"name": "Nasdaq", "value": 25136.27, "change_pct": -0.91,
+       "source": "AP", "url": "https://krmg.com/2026/11/13/how-major-us-stock-indexes-fared-friday-11-13-2026/"},
+      {"name": "डाउ जोन्स", "value": 52347.55, "change_pct": 0.10,
+       "source": "AP", "url": "https://krmg.com/2026/11/13/how-major-us-stock-indexes-fared-friday-11-13-2026/"},
+      {"name": "NEPSE", "value": 2648.89, "change_pct": -0.24,
+       "source": "हिमालप्रेस", "url": "https://en.himalpress.com/nepse-slips-6-32-points-as-trading-resumes-after-seven-day-gap/"},
+      {"name": "डलर (राष्ट्र बैंक, खरिद)", "value": 150.18, "unit": "रु", "change_pct": null,
+       "source": "नेपाल राष्ट्र बैंक (रातोपाटी मार्फत)", "url": "https://english.ratopati.com/story/86399/us-dollar-to-qatari-riyal-todays-exchange-rate-with-list"},
+      {"name": "ब्रेन्ट कच्चा तेल", "value": 95.84, "unit": "डलर", "change_pct": 0.02,
+       "source": "Rigzone", "url": "https://www.rigzone.com/news/crude_fluctuates_as_iran_tensions_persist-13-nov-2026-185085-article"}
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "मधेस प्रदेशका मुख्यमन्त्री कृष्णप्रसाद यादवले आज विश्वासको मत लिँदै",
+      "summary": "मधेस प्रदेशका मुख्यमन्त्री कृष्णप्रसाद यादवले आज शनिबार दिउँसो १ बजे प्रदेशसभामा विश्वासको मत लिने कार्यक्रम छ। सरकारमा रहेका एमाले र नेपाली कम्युनिस्ट पार्टी (नेकपा) ले समर्थन फिर्ता लिएपछि उनलाई मत लिनुपर्ने भएको हो। एमालेका चार मन्त्रीले अक्टोबर ११ मा र नेकपाका चार मन्त्रीले नोभेम्बर ६ मा राजीनामा दिएका थिए। १०७ सदस्यीय प्रदेशसभामा बहुमतका लागि कम्तीमा ५४ जनाको समर्थन चाहिन्छ।",
+      "sides": [
+        {"who": "मुख्यमन्त्री यादवको भनाइ", "says": "आवश्यक समर्थन जुटाउन दलहरूसँग कुराकानी भइरहेको छ र मतदानसम्म जारी रहनेछ।"},
+        {"who": "एमाले र नेकपा", "says": "दुवै दलले सरकारबाट आफ्ना मन्त्री फिर्ता बोलाएर समर्थन फिर्ता लिइसकेका छन्।"}
+      ],
+      "unverified": "मतदानमा कुन दलले कसलाई मत दिन्छ भन्ने अझै सार्वजनिक भएको छैन।",
+      "sources": [
+        {"name": "Kathmandu Post", "url": "https://kathmandupost.com/province-no-2/2026/11/12/madhesh-chief-minister-to-seek-confidence-vote-on-november-14"},
+        {"name": "हिमालप्रेस", "url": "https://en.himalpress.com/madhesh-chief-minister-yadav-to-seek-confidence-vote-on-saturday/"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "भारत, चीन र इजरायलले नेपालका प्रस्तावित राजदूतलाई स्वीकृति दिए",
+      "summary": "भारत, चीन र इजरायलले नेपालले प्रस्ताव गरेका राजदूतलाई 'एग्रिमो' अर्थात् औपचारिक स्वीकृति दिएका छन्। भारतका लागि डा. निश्चलनाथ पाण्डे, चीनका लागि डा. कल्याणराज शर्मा र इजरायलका लागि सुरेश कर्ण प्रस्तावित छन्। अब राष्ट्रपतिले नियुक्त गरेपछि उनीहरू पदमा जान सक्नेछन्। संसदीय सुनुवाइ भएका १० जनामध्ये अमेरिका, बेलायत, जर्मनीलगायत सात देशको स्वीकृति अझै आउन बाँकी छ।",
+      "impact": "प्रधानमन्त्री बालेन शाहको आगामी भारत भ्रमणको तयारीका लागि दिल्लीमा राजदूत चाहिने भएकाले सरकारले छिटो नियुक्ति गर्न खोजेको अनलाइनखबरले जनाएको छ।",
+      "unverified": "नियुक्ति सोमबारसम्म हुने अनुमान स्रोतहरूले गरेका छन्, तर आधिकारिक रूपमा पुष्टि भएको छैन।",
+      "sources": [
+        {"name": "Onlinekhabar", "url": "https://english.onlinekhabar.com/india-china-israel-ambassadors.html"},
+        {"name": "Ratopati", "url": "https://english.ratopati.com/story/86474/the-ambassadors-of-three-countries-have-reached-an-agreement"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "सञ्चार प्रणालीमा समस्या आएपछि अमेरिकाभर उडान रोकियो",
+      "summary": "अमेरिकाको संघीय उड्डयन प्रशासन (FAA) ले शुक्रबार दिउँसो देशभरका विमानस्थलबाट उड्ने विमान रोक्ने आदेश दियो। यातायातमन्त्री सन डफीका अनुसार विमानहरूलाई निर्देशन दिने सबै क्षेत्रीय हवाई नियन्त्रण केन्द्रमा सञ्चार समस्या आएको हो। सन् २०२३ जनवरीयता यस्तो देशव्यापी रोक पहिलोपटक लागेको हो। गार्जियनका अनुसार करिब ११ हजार उडान ढिला वा रद्द भए। गृह सुरक्षामन्त्री मार्कवेन मुलिनले अहिलेसम्म यो दूरसञ्चार अवरोध मात्र देखिएको, आक्रमणको संकेत नभएको तर साइबर आक्रमणको सम्भावना नकारिनसकिएको बताए।",
+      "unverified": "समस्याको वास्तविक कारण र रोक कहिले हटाइयो भन्ने यो संस्करण तयार गर्दासम्म पुष्टि हुन सकेको छैन।",
+      "sources": [
+        {"name": "AP (PBS मार्फत)", "url": "https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems"},
+        {"name": "ABC7", "url": "https://abc7news.com/live-updates/faa-ground-stop-live-updates-what-know-nationwide-flights-are-grounded/20038887/entry/20039033/"},
+        {"name": "The Guardian", "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "युक्रेन शान्ति वार्तामा युरोपको तर्फबाट पाँच देश र ईयूको टोली सहभागी हुने",
+      "summary": "आयरल्यान्डको डब्लिनमा शुक्रबार भएको अनौपचारिक बैठकमा युरोपेली संघ (ईयू) का नेताहरूले युक्रेन शान्ति वार्तामा एउटै दूत होइन, टोली पठाउने निर्णय गरे। टोलीमा ईयूका अधिकारीसँगै बेलायत, फ्रान्स, जर्मनी, इटाली र पोल्यान्डका प्रतिनिधि हुनेछन्। ईयूका तर्फबाट को सहभागी हुन्छ भन्ने टुंगो लागेको छैन। अमेरिकी दूत ज्यारेड कुश्नरले युरोप नभई सम्झौता टुंग्याउन नसकिने बताएका छन्।",
+      "sides": [
+        {"who": "युरोपेली परिषद्का अध्यक्ष आन्तोनियो कोस्टा", "says": "युक्रेनको भविष्य र महादेशको सुरक्षाबारे युरोपले एउटै स्पष्ट र एकीकृत आवाजमा बोल्नुपर्छ।"},
+        {"who": "रुस (क्रेमलिन प्रवक्ता पेस्कोभ)", "says": "युरोपले युक्रेनको सेनालाई पैसा र हतियार दिइरहेकाले वार्तामा उसको प्रत्यक्ष सहभागितामा रुसको आपत्ति छ; युरोपेलीहरू आपसमै झगडा गरिरहेका छन्।"}
+      ],
+      "sources": [
+        {"name": "AP (PBS मार्फत)", "url": "https://www.pbs.org/newshour/world/europe-to-send-a-diplomat-team-to-ukraine-talks-as-leaders-push-for-a-voice"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice"},
+        {"name": "EUobserver", "url": "https://euobserver.com/248871/eu-leaders-hand-ukraine-peace-talks-to-france-germany-uk-italy-poland-plus-brussels-instead-of-a-single-envoy/"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "ट्रम्प, सी र पुटिनको त्रिपक्षीय भेट बिहीबार सेन्जेनमा हुने व्हाइट हाउसको पुष्टि",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प, चिनियाँ राष्ट्रपति सी जिनपिङ र रुसी राष्ट्रपति भ्लादिमिर पुटिनबीच आगामी बिहीबार चीनको सेन्जेनमा हुने एपेक सम्मेलनको छेउमा भेट हुने व्हाइट हाउसले शुक्रबार पुष्टि गरेको छ। ट्रम्पका अनुसार भेटमा इरानसँगको युद्ध र तीन देशबीच आणविक हतियार नियन्त्रण सम्झौताबारे कुरा हुनेछ। यसअघि शुक्रबार नै अमेरिका र चीनबीच व्यापारसम्बन्धी नयाँ 'बोर्ड अफ ट्रेड' को पहिलो बैठक बसेको छ, जुन ट्रम्प र सीले मे महिनामा बनाउने सहमति गरेका थिए।",
+      "sides": [
+        {"who": "रुस (क्रेमलिन प्रवक्ता पेस्कोभ)", "says": "रुस, चीन र अमेरिकाका नेताको भेट अत्यन्तै महत्त्वपूर्ण हो।"},
+        {"who": "युक्रेनका राष्ट्रपति जेलेन्स्की", "says": "युक्रेनलाई नराखी उसकै बारेमा सम्झौताको कुरा यो भेटमा हुन सक्ने चिन्ता छ।"}
+      ],
+      "unverified": "चीन सरकारले यो भेटबारे औपचारिक पुष्टि गरेको कुरा स्रोतहरूमा उल्लेख छैन।",
+      "sources": [
+        {"name": "AP", "url": "https://www.clickondetroit.com/news/politics/2026/11/13/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-officials-say/"},
+        {"name": "Reuters (The Standard मार्फत)", "url": "https://www.thestandard.com.hk/world/article/348479/Trump-to-hold-summit-with-Xi-Putin-in-Shenzhen-on-Thursday-NY-Post-reports"},
+        {"name": "Reuters (GV Wire मार्फत)", "url": "https://gvwire.com/2026/11/13/us-china-hold-first-board-of-trade-meeting/"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "चिनियाँ कम्युनिस्ट पार्टीको निम्तोमा रास्वपाको २० सदस्यीय टोली भोलिदेखि ११ दिन चीन भ्रमणमा",
+      "summary": "राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का महामन्त्री विपिनकुमार आचार्यको नेतृत्वमा करिब २० सदस्यीय टोली आइतबार (नोभेम्बर १५) चीन जाँदैछ। चिनियाँ कम्युनिस्ट पार्टीको निम्तोमा हुने यो भ्रमण नोभेम्बर २६ सम्म चल्नेछ। टोलीले सिचुआन, झेजियाङ र बेइजिङमा प्रविधि उद्योग, भूकम्पपछिको पुनर्निर्माण, विपद् व्यवस्थापन र सुशासनबारे अध्ययन गर्ने र बेइजिङमा पार्टीका वरिष्ठ नेतासँग भेट्ने कार्यक्रम छ।",
+      "sources": [
+        {"name": "Onlinekhabar", "url": "https://english.onlinekhabar.com/rsp-technology-disaster-management-china.html"},
+        {"name": "हिमालप्रेस", "url": "https://en.himalpress.com/high-level-rsp-delegation-leaving-for-china-on-sunday/"},
+        {"name": "Kathmandu Post", "url": "https://kathmandupost.com/national/2026/11/12/rsp-delegation-to-visit-china-at-communist-party-s-invitation"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "शुक्रबार अमेरिकी सेयर बजार घट्यो, तर साताभरमा S&P 500 २.५ प्रतिशत बढ्यो",
+      "summary": "शुक्रबार AI सँग जोडिएका ठूला कम्पनीको सेयर घट्दा S&P 500 ०.४ प्रतिशत र Nasdaq ०.९ प्रतिशत घटे, डाउ जोन्स भने ०.१ प्रतिशत बढ्यो। तैपनि साताभरमा S&P 500 २.५ प्रतिशत बढ्यो, जुन अगस्टयताकै ठूलो साप्ताहिक वृद्धि हो। प्रमुख कार्यकारी जेन्सन वाङको राजीनामापछि एनभिडियाको सेयर शुक्रबार २ प्रतिशत घट्यो र यो साता कम्पनीको बजार मूल्य करिब ६०० अर्ब डलर (६ खर्ब डलर) घट्यो। अमेरिकी सरकारको १० वर्षे ऋणपत्रको ब्याज (यिल्ड) ५.१५ प्रतिशत पुग्यो।",
+      "sources": [
+        {"name": "AP (WHDH मार्फत)", "url": "https://whdh.com/news/stocks-fall-but-wall-street-notches-a-winning-week-after-several-turbulent-days/"},
+        {"name": "Reuters (TradingView मार्फत)", "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46U15N:0-s-p-500-nasdaq-end-lower-as-nvidia-uncertainty-weighs-on-tech-shares/"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "अमेरिकामा थोक मूल्य एक वर्षमा ६.५ प्रतिशत बढ्यो, करिब चार वर्षयताकै उच्च",
+      "summary": "अमेरिकी श्रम तथ्यांक ब्युरोका अनुसार अक्टोबरमा थोक मूल्य (उत्पादक मूल्य सूचकांक) अघिल्लो महिनाभन्दा ०.३ प्रतिशत बढ्यो। एक वर्षको तुलनामा वृद्धि ६.५ प्रतिशत पुगेको छ, जुन सन् २०२२ नोभेम्बरयताकै धेरै हो। खाद्यवस्तुको थोक मूल्य एकै महिनामा १.३ प्रतिशत बढ्यो। महँगी नघटेकाले अमेरिकी केन्द्रीय बैंक (फेड) ले डिसेम्बरमा ब्याजदर बढाउने बजारको अनुमान छ।",
+      "unverified": "डिसेम्बरमा ब्याजदर कति बढ्छ (०.२५ वा ०.५ प्रतिशत) भन्नेमा स्रोतअनुसार फरक अनुमान छ।",
+      "sources": [
+        {"name": "Xinhua", "url": "https://english.news.cn/20261114/e562a272d5fb4d23addcb5512a056dd8/c.html"},
+        {"name": "CNN (KSL मार्फत)", "url": "https://www.ksl.com/article/51645652/wholesale-inflation-rose-in-october-to-highest-annual-rate-in-nearly-four-years"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "ChatGPT मा AI सहायकले प्रयोगकर्ताका तर्फबाट किनमेल गर्न सक्ने 'वालेट' सुविधा",
+      "summary": "OpenAI ले शुक्रबार 'ChatGPT Wallet' सुरु गरेको छ, जसले यसका 'डट्स' नामका AI एजेन्टलाई प्रयोगकर्ताका लागि अनलाइन सामान किन्न दिन्छ। AI एजेन्ट भनेको आफैँ काम पूरा गर्न सक्ने कम्प्युटर सहायक हो। कार्डको विवरण एकपटक राखेपछि एजेन्ट वा पसलले वास्तविक कार्ड नम्बर देख्दैनन्; बदलामा एउटा अस्थायी 'टोकन' प्रयोग हुन्छ। हरेक खरिदअघि प्रयोगकर्ताले सामान र रकम हेरेर अनुहार वा औँठाछाप स्क्यान गरी स्वीकृति दिनुपर्छ। अहिले यो अमेरिकाका १८ वर्ष माथिका 'प्रो' ग्राहकलाई मात्र उपलब्ध छ।",
+      "sources": [
+        {"name": "Engadget", "url": "https://www.engadget.com/2316137/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/"},
+        {"name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "एनभिडिया चिप चीन पुग्न रोक्न ढिलाइ गरेको भन्दै अर्थमन्त्री बेसेन्टले वाणिज्य मन्त्रालयलाई दोष दिए",
+      "summary": "अमेरिकी अर्थमन्त्री स्कट बेसेन्टले सिंगापुरको कम्पनी मेगास्पिडलाई निर्यात नियन्त्रण सूचीमा राख्न वाणिज्य मन्त्रालयले ढिलाइ गरेकोमा असन्तुष्टि जनाएका छन्। उनका अनुसार अर्थ, विदेश, रक्षा मन्त्रालय र व्यापार प्रतिनिधि महिनौँदेखि यसको पक्षमा थिए, तर निर्णय गर्ने अधिकार वाणिज्य मन्त्रालयसँग छ। चिनियाँ कम्पनीले मेगास्पिडजस्ता कम्पनीमार्फत एनभिडियाका उन्नत AI चिप पाएको आरोप छ। मेगास्पिडकी पूर्व अधिकारीसँगको सम्बन्ध सार्वजनिक भएपछि एनभिडियाका प्रमुख जेन्सन वाङले बिहीबार राजीनामा दिएका थिए।",
+      "sides": [
+        {"who": "अर्थमन्त्री बेसेन्ट", "says": "राष्ट्रपतिले H100 भन्दा उन्नत चिप चीनले पाउनु हुँदैन भनेका छन्; यसको निर्णय वाणिज्य मन्त्रालयको हातमा छ।"},
+        {"who": "मेगास्पिड", "says": "कम्पनीले निर्यात नियन्त्रणका नियमलाई गम्भीरतापूर्वक लिन्छ र अमेरिकी सरकारसँग पारदर्शी रूपमा काम गर्न चाहन्छ; चीनमा अवैध निर्यातको प्रमाण नभएको भन्दै आएको छ।"}
+      ],
+      "unverified": "वाणिज्यमन्त्री लुटनिकले कडा प्रतिबन्धको विरोध गरेको न्युयोर्क टाइम्सको रिपोर्टबारे वाणिज्य मन्त्रालयले तत्काल प्रतिक्रिया दिएको छैन।",
+      "sources": [
+        {"name": "AP (PBS मार्फत)", "url": "https://www.pbs.org/newshour/politics/bessent-blames-lutnicks-commerce-department-for-not-restricting-nvidia-chips-to-china"},
+        {"name": "SCMP", "url": "https://www.scmp.com/news/china/diplomacy/article/3374409/bessent-blames-us-commerce-department-not-restricting-nvidia-chip-exports-china"}
+      ]
+    }
+  ]
+}
