@@ -1,0 +1,316 @@
+{
+ "id": "2026-11-18-md",
+ "generated_at": "2026-11-18T12:17:00+05:45",
+ "markets": {
+  "as_of": "अमेरिकी बजार: मंगलबार, नोभेम्बर १७ को बन्द · ब्रेन्ट: बुधबार, नोभेम्बर १८ एसियाली कारोबार · NEPSE: मंगलबार, नोभेम्बर १७ को बन्द · डलर: बुधबार, नोभेम्बर १८ (राष्ट्र बैंकको दर)",
+  "items": [
+   {
+    "name": "S&P 500",
+    "value": 7340.53,
+    "change_pct": -1.03,
+    "source": "AP",
+    "url": "https://www.wsmv.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/"
+   },
+   {
+    "name": "Nasdaq",
+    "value": 24328.38,
+    "change_pct": -0.74,
+    "source": "AP",
+    "url": "https://mymotherlode.com/news/national/11318894/how-major-us-stock-indexes-fared-tuesday-11-17-2026.html"
+   },
+   {
+    "name": "डाउ जोन्स",
+    "value": 50759.42,
+    "change_pct": -1.64,
+    "source": "AP",
+    "url": "https://mymotherlode.com/news/national/11318894/how-major-us-stock-indexes-fared-tuesday-11-17-2026.html"
+   },
+   {
+    "name": "NEPSE",
+    "value": 2636.1,
+    "change_pct": -0.48,
+    "source": "नेपाल न्युज / रिपब्लिका",
+    "url": "https://english.nepalnews.com/s/business/nepse-drops-by-12-79-points-with-rs-4-73-billion-turnover/"
+   },
+   {
+    "name": "डलर (राष्ट्र बैंक, खरिद)",
+    "value": 149.26,
+    "unit": "रु",
+    "change_pct": null,
+    "source": "नेपाल राष्ट्र बैंक (रातोपाटी मार्फत)",
+    "url": "https://www.ratopati.com/story/605918/this-is-the-foreign-exchange-rate-on-wednesday"
+   },
+   {
+    "name": "ब्रेन्ट कच्चा तेल",
+    "value": 92.6,
+    "unit": "डलर",
+    "change_pct": -0.6,
+    "source": "रोयटर्स (द स्टार मार्फत)",
+    "url": "https://www.thestar.com.my/business/business-news/2026/11/18/asia-stocks-choppy-after-nvidia-earnings-as-anthropic-pricing-looms"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "section": "nepal",
+   "title": "विपक्षी दलहरूले संसदीय समितिको बैठक माग्दै निवेदन दिए, इनाम सापकोटा प्रकरणमा प्रधानमन्त्रीलाई बोलाउन माग",
+   "summary": "नेपाली कांग्रेसले राज्य व्यवस्था तथा सुशासन समिति र सार्वजनिक लेखा समितिको बैठक बोलाउन छुट्टाछुट्टै निवेदन दिएको छ। राप्रपा र नेकपाका सांसदले पनि राज्य व्यवस्था समितिको बैठक मागेका छन्। उनीहरूले बिचौलिया इनाम सापकोटासँग जोडिएको अडियो, प्रहरी प्रमुख र सरकारबीचको मतभेद तथा पत्रकारको पक्राउजस्ता विषय उठाएका छन्। संसदको नियमअनुसार समितिका एक चौथाइ सदस्यले लिखित माग गरे सभापतिले पाँच दिनभित्र बैठक बोलाउनुपर्छ, तर राज्य व्यवस्था समितिका सभापति हरि ढकाल नोभेम्बर २६ सम्म चीन भ्रमणमा छन्।",
+   "sides": [
+    {
+     "who": "विपक्षी दल",
+     "says": "राप्रपाले प्रधानमन्त्री, गृहमन्त्री, गृहसचिव र प्रहरी प्रमुखलाई समितिमा बोलाउन माग गरेको छ। कांग्रेसले संघीय संसदको अधिवेशन नै बोलाउन पनि माग गर्दै आएको छ।"
+    },
+    {
+     "who": "संसद सचिवालय",
+     "says": "प्रवक्ता एकराम गिरीका अनुसार एक चौथाइभन्दा कम सदस्यको माग दर्ता हुन्छ तर बाध्यकारी हुँदैन, र बैठकका लागि गणपूरक संख्या चाहिन्छ।"
+    }
+   ],
+   "sources": [
+    {
+     "name": "अनलाइनखबर इङ्लिस",
+     "url": "https://english.onlinekhabar.com/opposition-parties-press-for-house-and-parliamentary-committee-meetings.html"
+    },
+    {
+     "name": "इपर्दाफास",
+     "url": "https://english.pardafas.com/opposition-lawmakers-push-for-committee-meetings-under-parliament-rules/"
+    },
+    {
+     "name": "अनलाइनखबर (शीर्षक)",
+     "url": "https://www.onlinekhabar.com/2026/11/2060023/opposition-pressure-to-convene-house-of-representatives-and-parliamentary-committee-meetings"
+    }
+   ]
+  },
+  {
+   "section": "nepal",
+   "title": "फास्ट ट्र्याकको सबैभन्दा लामो महादेवटार सुरुङको दोस्रो भाग पनि छेडियो, राष्ट्रपति उपस्थित",
+   "summary": "काठमाडौं–तराई/मधेस द्रुतमार्ग (फास्ट ट्र्याक) को मकवानपुरस्थित महादेवटार सुरुङको दायाँ भाग बुधबार आरपार भयो। बायाँ भाग भदौमै छेडिएको थियो। करिब साढे तीन किलोमिटर लामो यो सुरुङ द्रुतमार्गको सबैभन्दा लामो हो। नेपाली सेनाले आयोजना गरेको कार्यक्रममा राष्ट्रपति रामचन्द्र पौडेल हेलिकप्टरबाट पुगेका थिए। द्रुतमार्गमा जम्मा सातवटा सुरुङ (कुल ११.२ किलोमिटर) छन् र असोजसम्म भौतिक प्रगति ५० प्रतिशत पुगेको थियो।",
+   "unverified": "सुरुङको लम्बाइ स्रोतअनुसार फरक: ३,४४५ देखि ३,४५५ मिटर।",
+   "sources": [
+    {
+     "name": "खबरहब",
+     "url": "https://english.khabarhub.com/2026/18/576008/"
+    },
+    {
+     "name": "नेपाल न्युज",
+     "url": "https://english.nepalnews.com/s/nation/president-paudel-in-makawanpur-to-attend-breakthrough-of-fast-track-tunnel/"
+    },
+    {
+     "name": "अनलाइनखबर (शीर्षक)",
+     "url": "https://www.onlinekhabar.com/2026/11/2059976/fast-tracks-mahadevtar-tunnel-breakthrough-today"
+    }
+   ]
+  },
+  {
+   "section": "nepal",
+   "title": "अर्थमन्त्री वाग्ले: ब्याज कम र बैंकमा पैसा प्रशस्त, तर लगानी किन बढेन भनेर छलफल गर्नुपर्छ",
+   "summary": "राष्ट्रिय कर दिवसको कार्यक्रममा अर्थमन्त्री स्वर्णिम वाग्लेले ब्याजदर कम र स्थिर रहेको, बैंकमा पैसा प्रशस्त भएको र महँगी नियन्त्रणमा रहेको बताए। उनका अनुसार विदेशी मुद्रा सञ्चिति करिब ३० अर्ब डलर छ, तैपनि त्यही अनुपातमा लगानी बढेको छैन। उनले चालु आर्थिक वर्षको पहिलो चार महिनामा भन्सार राजस्व उत्साहजनक रहेको र असोजको लक्ष्य पूरा भएको पनि बताए। सरकारले लगानी बढाउन करका दर र तह पुनरावलोकन गरिरहेको उनले जनाए।",
+   "sides": [
+    {
+     "who": "अर्थमन्त्री",
+     "says": "आर्थिक सूचक अनुकूल छन्, सुधारको नतिजा देखिन थालेको छ; लगानी किन बढेन भनेर सबै मिलेर छलफल गर्नुपर्छ।"
+    },
+    {
+     "who": "उद्योगी–व्यवसायी",
+     "says": "बजारको अनिश्चितता, झन्झटिलो प्रक्रिया, नीति फेरबदल र कमजोर पूर्वाधारले लगानी रोकेको बताउँछन्; महासंघ अध्यक्ष अञ्जन श्रेष्ठले करका दर घटाउन माग गरे।"
+    }
+   ],
+   "sources": [
+    {
+     "name": "काठमाडौं पोस्ट",
+     "url": "https://kathmandupost.com/money/2026/11/18/at-nepal-tax-awards-finance-minister-raises-low-investment-paradox"
+    },
+    {
+     "name": "नेपाल न्युज",
+     "url": "https://english.nepalnews.com/s/business/policy-reforms-and-governance-boost-revenue-collection-finance-minister-wagle/"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "title": "अमेरिकामा बैंक, उडान र गोप्य सञ्जालमा लगातार अवरोध; रुबियोले साइबर आक्रमणको प्रमाण 'शून्य' भने",
+   "summary": "गत साता अमेरिकामा एकपछि अर्को प्रविधि अवरोध भयो: माइक्रोसफ्टको इमेल बन्द भयो, राउटर समस्याले देशभर उडान रोकियो, सोमबार ठूला बैंक र पैसा पठाउने 'Zelle' सेवा चलेनन्, र मंगलबार राष्ट्रिय सुरक्षा एजेन्सी (NSA) को गोप्य सञ्जाल बन्द भयो। एप्पलका केही सेवा पनि आन्तरिक अपडेटपछि अवरुद्ध भए। सबै संस्थाले यी आन्तरिक प्राविधिक समस्या भएको र साइबर आक्रमण नभएको बताएका छन्। विदेशमन्त्री मार्को रुबियोले यी घटना आपसमा जोडिएको वा कुनै दुष्ट पक्षले गरेको 'शून्य' जानकारी रहेको बताए।",
+   "sides": [
+    {
+     "who": "सरकार",
+     "says": "रुबियो र राष्ट्रिय गुप्तचर निर्देशक जे क्लेटनका अनुसार सुरक्षा अपग्रेड अपेक्षाभन्दा लामो भएर समस्या आएको हो, साइबर आक्रमण होइन; ट्रम्पले यस्तो 'हुन्छ' भने।"
+    },
+    {
+     "who": "आलोचक",
+     "says": "दुवै दलका केही नेता र पूर्वअधिकारीले सरकारलाई थप पारदर्शी हुन र के थाहा छ स्पष्ट पार्न माग गरेका छन्; डेमोक्र्याट सिनेटर मार्क वार्नरले छानबिन आवश्यक रहेको बताए।"
+    }
+   ],
+   "sources": [
+    {
+     "name": "AP (डीटीनेक्स्ट मार्फत)",
+     "url": "https://www.dtnext.in/news/world/rubio-says-zero-information-that-us-outages-are-linked-or-caused-by-a-malign-actor"
+    },
+    {
+     "name": "एएनआई (द ट्रिब्युन मार्फत)",
+     "url": "https://www.tribuneindia.com/news/cyberattack-allegations/us-secy-of-state-rubio-says-there-is-zero-evidence-linking-us-outages-to-cyberattacks"
+    },
+    {
+     "name": "अल जजिरा (शीर्षक)",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "title": "अलास्कामा डेमोक्र्याट मेरी पेल्टोला सिनेटमा विजयी, सिनेटमा डेमोक्र्याटिक पक्षको सिट ५६ पुग्यो",
+   "summary": "अमेरिकाको अलास्का राज्यमा डेमोक्र्याट मेरी पेल्टोलाले रिपब्लिकन सिनेटर ड्यान सुलिभानलाई हराएको AP ले मंगलबार राति घोषणा गर्‍यो। करिब ९९ प्रतिशत मत गन्दा पेल्टोलाले ५०.१ प्रतिशत र सुलिभानले ४५.८ प्रतिशत मत पाएका थिए। नतिजा अझै आधिकारिक भएको छैन; राज्यले नोभेम्बर २५ मा प्रमाणित गर्ने लक्ष्य राखेको छ। यो जितसँगै डेमोक्र्याटसँग जोडिएका सिनेटर ५६ पुगेका छन्, र AP का अनुसार डेमोक्र्याटले यस निर्वाचनमा ९ सिट रिपब्लिकनबाट खोसे।",
+   "sources": [
+    {
+     "name": "न्युजविक (AP को गणना)",
+     "url": "https://www.newsweek.com/mary-peltola-wins-alaska-senate-election-in-final-democratic-flip-12638493"
+    },
+    {
+     "name": "द गार्डियन (शीर्षक)",
+     "url": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race"
+    },
+    {
+     "name": "AP (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTkVLZlFfMk1SeWVQNGxXcHhCZjJ5M3pKUm4tQWxkbHQyaHJRbGZ3dlpyNkZYRnIxczFMdm85LW01UWQtckpmeUs4NTl5OXcybnlvUVZYUmY2VDZYcVZEM2xVUUphMFlyRXlhSlRrYjNmRFc5TXkyaElqczBQLVRkZFJaMm5mOFoyT3N4RTEwUjA?oc=5"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "title": "इजरायली संसदमा नेतन्याहुविरोधी पक्षका मतान काहाना सभामुख निर्वाचित",
+   "summary": "इजरायलको १२० सदस्यीय संसद (क्नेसेट) ले मंगलबार गादी आइजेनकोटको यशार पार्टीका मतान काहानालाई ६६–५२ मतले सभामुख चुन्यो। उनले नेतन्याहुको लिकुड पार्टीका उम्मेदवारलाई हराए। अक्टोबरको निर्वाचनमा नेतन्याहु पक्षले बहुमत गुमाएको थियो र अहिले उनी कामचलाउ प्रधानमन्त्री छन्। राष्ट्रपति हर्जोगले आइजेनकोटलाई सरकार बनाउने जिम्मा दिएका छन्; सरकार बन्न नसके अर्को वर्ष फेरि निर्वाचन हुनेछ।",
+   "sides": [
+    {
+     "who": "लिकुड पार्टी",
+     "says": "काहाना 'आतंक समर्थकको मत' ले चुनिएको भन्दै मतदानको निन्दा गर्‍यो।"
+    },
+    {
+     "who": "काहाना / आइजेनकोट पक्ष",
+     "says": "काहानाले संसद सबै नागरिकको घर भएको र अदालतको फैसला पूर्ण रूपमा मानिने बताए; उनी आइजेनकोट पक्ष र अरब दलहरूको मतले चुनिएका हुन्।"
+    }
+   ],
+   "sources": [
+    {
+     "name": "रोयटर्स (एबीसी अस्ट्रेलिया मार्फत)",
+     "url": "https://www.abc.net.au/news/2026-11-18/eisenkot-bloc-replaces-netanyahu-ally-as-knesset-speaker/107397646"
+    },
+    {
+     "name": "जेटीए",
+     "url": "https://www.jta.org/2026/11/17/israel/knesset-elects-speaker-from-the-change-bloc-opposing-netanyahu"
+    }
+   ]
+  },
+  {
+   "section": "india_china",
+   "title": "प्रधानमन्त्री शाहको भारत भ्रमण करिब २५ घण्टाको मात्र हुने, भारतसँग २ खर्ब रुपैयाँ सहयोग माग",
+   "summary": "प्रधानमन्त्री बालेन्द्र शाह नोभेम्बर २२ दिउँसो दिल्ली पुगेर २३ गते साँझ फर्कने तयारी छ, अर्थात् दिल्लीमा करिब २५ घण्टा मात्र बस्नेछन्। पहिले तीन दिनको भ्रमण सोचिएको थियो, तर भ्रमण अझै औपचारिक रूपमा घोषणा भएको छैन। सरकारी स्रोतका अनुसार नेपालले २ खर्ब (२०० अर्ब) रुपैयाँ सहयोग मागेको छ: आधा सहुलियत ऋण र आधा अनुदान। अनुदानमध्ये ५० अर्ब रसुवा बाढीपछिको पुनर्निर्माण र ५० अर्ब बुटवल–पोखरा द्रुतमार्गका लागि प्रस्ताव छ। रक्सौल–काठमाडौं रेल, पञ्चेश्वर र चिनियाँ ठेकेदार भएका आयोजनाको बिजुली भारतले किन्ने विषय पनि एजेन्डामा छन्।",
+   "unverified": "भारतले सहयोग मागमा सकारात्मक जवाफ दिएको कुरा परराष्ट्र मन्त्रालयको एक स्रोतले मात्र भनेको हो। भ्रमण छोट्याउनुको कारण सार्वजनिक भएको छैन।",
+   "sources": [
+    {
+     "name": "अनलाइनखबर इङ्लिस",
+     "url": "https://english.onlinekhabar.com/balen-delhi-india-visit.html"
+    },
+    {
+     "name": "टाइम्स अफ इन्डिया (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVmNmRmQtVzBRZVNwd2Z2T1BnVVlTSExjWmVhVjhFN3RrQVZDOVhuU2gyaU9pT0UxTWk0RGFCQi1pUXUyRkdGWW5RdTVvMDhTTmlqWlBER0dpajQyd0pHR2puTzdaYVktYURlbWR5d1pyZ3RPZjl4aVc2Sk5RTVBESS1ya2xYOVZZZ2pvNU8xYmM4Nm1yR3N4NWhOWF9TNmZBOXdCX0FxWXFCTmFKaWx2YlJSRW1FVlp5WnJsbzBfM0FlZWhzaENKaGlBVEljZ2l6dVhjTlpLTEpZS3PSAeABQVVfeXFMT1g4azFwTElES0w0SkVKdTlNYjFHR3R2OWE0NzVzWU45YjFweEJTak9KeHQ2R2lsYlEtbnBPX09sZ2JfUEpNeHVmVzlsQjlQLUwyMkNqV2hqXzNQUjFYdlBVWS12S19XYUFHdG5vVDYycGpiVk5NVTRDWGwzQlhDektVWVlvUkNQdFJFTFFGeUt2RnlpOFRTSVAyYzhrSWhKTHVSRS04NVh2QkpDc09kVGZ0X1N4Y1gwTU5MOGhSbVBuZnNia1BNV054MzRRZ2Q5LXFKTGUtYnJOQ0pRVW4tOEE?oc=5"
+    }
+   ]
+  },
+  {
+   "section": "india_china",
+   "title": "सेन्जेनमा APEC: सी जिनपिङले खुला व्यापारको वकालत गरे, भोलि ट्रम्प र पुटिनसँग वार्ता",
+   "summary": "चीनको सेन्जेनमा बुधबार APEC (एसिया–प्रशान्त आर्थिक सहयोग) अन्तर्गतको व्यवसायी सम्मेलनमा राष्ट्रपति सी जिनपिङले लगानी अवरोधबिनाको 'स्वतन्त्र र खुला व्यापार' र विश्व व्यापार संगठन केन्द्रमा रहेको नियममा आधारित प्रणालीको रक्षा गर्न आग्रह गरे। उनले AI मा विश्वव्यापी सहकार्य बढाउनुपर्ने पनि बताए। अमेरिकी राष्ट्रपति ट्रम्प मनिलाबाट बुधबारै सेन्जेन पुग्ने कार्यक्रम छ र पुटिन अघिल्लो रात नै पुगिसकेका छन्। तीन नेताबीच बिहीबार इरान र युक्रेन युद्ध, व्यापार, AI र आणविक हतियारबारे वार्ता हुने रोयटर्सले जनाएको छ।",
+   "sides": [
+    {
+     "who": "पश्चिमी व्यापार साझेदार",
+     "says": "चीनको वार्षिक १ खर्ब (१ हजार अर्ब) डलरभन्दा बढीको व्यापार बचत र उत्पादनमुखी नीतिको आलोचना गर्छन्; अमेरिकाले हालै चीनलाई उन्नत AI चिपमा थप रोक लगाएको छ।"
+    },
+    {
+     "who": "चीन",
+     "says": "आफ्नो आर्थिक मोडेल अझै धनी देशलाई भेट्टाउन खोजिरहेको अर्थतन्त्रका लागि उपयुक्त भएको बताउँछ, र चिप रोकको जवाफ दिने चेतावनी दिएको छ।"
+    }
+   ],
+   "sources": [
+    {
+     "name": "रोयटर्स (द प्रिन्ट मार्फत)",
+     "url": "https://theprint.in/world/chinas-xi-calls-for-free-and-open-trade-at-apec-summit/3101654/"
+    },
+    {
+     "name": "फ्रान्स २४ (शीर्षक)",
+     "url": "https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-on-ai-and-free-trade-at-apec-summit"
+    }
+   ]
+  },
+  {
+   "section": "economy",
+   "title": "एनभिडियाको बोर्डले हुआङलाई फर्काउँदैन; एसियाली बजार सुस्त, तेलको मूल्य घट्यो",
+   "summary": "एनभिडियाका बोर्ड अध्यक्ष हार्वे जोन्सले राजीनामा दिएका जेन्सेन हुआङलाई फेरि CEO बनाउने योजना नभएको बताए; कोलेट क्रेस अन्तरिम CEO रहनेछिन्। कम्पनीको तेस्रो त्रैमासिक आम्दानी ११५.८ अर्ब डलर (११ हजार ५८० करोड डलर) पुग्यो, जुन एक वर्षअघिभन्दा १०३ प्रतिशत बढी हो, र अर्को त्रैमासिकमा करिब १३० अर्ब डलर अनुमान गरिएको छ। बुधबार एसियाली सेयर बजार सुस्त रहे, जापानको निक्केई ०.३ प्रतिशत घट्यो। अमेरिकामा कच्चा तेलको मौज्दात बढेपछि ब्रेन्ट तेल ०.६ प्रतिशत घटेर ९२.६० डलर प्रति ब्यारेल पुग्यो।",
+   "unverified": "अमेरिकी धितोपत्र नियामक (SEC) ले एनभिडियाको छानबिन गरिरहेको वाल स्ट्रिट जर्नलले लेखेको छ; SEC ले टिप्पणी गरेन।",
+   "sources": [
+    {
+     "name": "अल जजिरा",
+     "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings"
+    },
+    {
+     "name": "रोयटर्स (द स्टार मार्फत)",
+     "url": "https://www.thestar.com.my/business/business-news/2026/11/18/asia-stocks-choppy-after-nvidia-earnings-as-anthropic-pricing-looms"
+    },
+    {
+     "name": "बीबीसी (शीर्षक)",
+     "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "section": "ai",
+   "title": "AI कम्पनी एन्थ्रोपिकको सेयर आज मूल्य तय हुँदै, बिहीबारदेखि Nasdaq मा कारोबार",
+   "summary": "Claude नामको AI च्याटबोट बनाउने अमेरिकी कम्पनी एन्थ्रोपिकले पहिलो पटक आम जनतालाई सेयर बेच्दै (IPO) छ। प्रति सेयर ७० देखि ७८ डलरको दायरा तोकिएको छ र बुधबार साँझ (अमेरिकी समय) मूल्य तय गरी बिहीबार नोभेम्बर १९ देखि Nasdaq मा 'ANT' नाममा कारोबार सुरु हुने छ। ७८ डलरमा कम्पनीको मूल्य करिब १४ खर्ब डलर (१.४ ट्रिलियन) पुग्ने ब्लूमबर्गले जनाएको छ। IPO पछि अमेजनसँग करिब १४.७ र गुगलसँग १३.७ प्रतिशत सेयर हुनेछ।",
+   "unverified": "मूल्य दायराको माथिल्लो सीमा वा त्योभन्दा माथि तय हुने कुरा ब्लूमबर्ग र CNBC का स्रोतले भनेका हुन्; अन्तिम मूल्य अझै तय भएको छैन।",
+   "sources": [
+    {
+     "name": "द नेक्स्ट वेब",
+     "url": "https://thenextweb.com/news/anthropic-ipo-price-top-of-range-amazon-google-stakes-coatue"
+    },
+    {
+     "name": "स्टकट्विट्स",
+     "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-s-new-ipo-filing-shows-amazon-google-will-own-over-a-quarter-of-the-claude-maker/cNbaxuHR9Ws"
+    },
+    {
+     "name": "टेकक्रन्च (शीर्षक)",
+     "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+    },
+    {
+     "name": "CNBC (शीर्षक)",
+     "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html"
+    }
+   ]
+  },
+  {
+   "section": "ai",
+   "title": "क्यालिफोर्नियाले रोकेपछि वेमोले चालकरहित ट्याक्सी अमेरिकाका सबै राजमार्गबाट हटायो",
+   "summary": "गुगलको मातहत कम्पनी वेमो (Waymo) ले चालकबिना कम्प्युटरले चलाउने ट्याक्सी (रोबोट्याक्सी) को राजमार्ग सेवा अमेरिकाका सबै सहरमा रोकेको छ। क्यालिफोर्नियाको यातायात विभाग (DMV) ले नोभेम्बर ११ मा यी गाडी बारम्बार चलिरहेको निर्माण क्षेत्रमा पसेको भन्दै राजमार्गमा 'सार्वजनिक सुरक्षाका लागि तत्काल खतरा' ठहर गरेर रोक लगाएको थियो। सान फ्रान्सिस्को क्षेत्रमा एउटा गाडीले ट्राफिक रोकिरहेका प्रहरीलाई उछिन्न खोजेको र तीनवटा गाडी बन्द गरिएको निर्माण क्षेत्रमा पसेको विभागले जनाएको छ। सहरभित्रका सामान्य सडकमा सेवा भने चलिरहेको छ।",
+   "sides": [
+    {
+     "who": "क्यालिफोर्निया DMV",
+     "says": "समस्या समाधान नभएसम्म राजमार्गमा रोक रहन्छ; यसअघि पनि यस्तै घटनापछि कम्पनीमाथि रोक लगाइएको थियो।"
+    },
+    {
+     "who": "वेमो",
+     "says": "निर्माण क्षेत्रका घटनामा कोही घाइते नभएको र ठोक्किने घटना नभएको बताउँदै नियम पालना गर्दै छिट्टै र सुरक्षित रूपमा राजमार्ग सेवा फेरि सुरु गर्ने बताएको छ।"
+    }
+   ],
+   "sources": [
+    {
+     "name": "एनबीसी न्युज (याहु मार्फत)",
+     "url": "https://www.yahoo.com/news/us/articles/waymo-robotaxis-banned-california-freeways-232430771.html"
+    },
+    {
+     "name": "बीबीसी (शीर्षक)",
+     "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "रोयटर्स (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkw0bE5kQUlYTVp4amxvbkwtbnc3ZmZTc0FUaWtiUmtmbkF6SldmOXpGOUt0T3BHRk0zOVN3QXpLQ0d3UDRwakVSblEwT3h1NHV5ekdyVHhCMDJBOGtsZEdaZDJzUGlYTlMxRGxXWjZmRDU5dnh1Y1NyY0duUlFmNEF5YjVxQV85aVBhTUw3UGptQ1hBSFJQSXpVRkg4VXd4VEdlak9MTDdjM1FOTVdzaHB4djl1Y21VSGtLU1hLcS1OTTdl?oc=5"
+    }
+   ]
+  }
+ ]
+}
