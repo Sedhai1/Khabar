@@ -1,0 +1,382 @@
+{
+  "id": "2026-11-20-pm",
+  "generated_at": "2026-11-20T18:45:00+05:45",
+  "markets": {
+    "as_of": "डाउ जोन्स: बिहीबार, नोभेम्बर १९ को बन्द · NEPSE: शुक्रबार, नोभेम्बर २० (मंसिर ४) को बन्द · ब्रेन्ट: शुक्रबार, नोभेम्बर २० को कारोबार · डलर: बिहीबार, नोभेम्बर १९ (राष्ट्र बैंकको दर; शुक्रबारको दर पुष्टि हुन सकेन) · S&P 500 र Nasdaq को अंक मिति सहित पुष्टि हुन सकेन; बिहीबार S&P 500 लगातार छैटौँ दिन र Nasdaq करिब २.२ प्रतिशत घटेका थिए",
+    "items": [
+      {
+        "name": "डाउ जोन्स",
+        "value": 49097.06,
+        "change_pct": -2.19,
+        "source": "बीबीएन टाइम्स / नासियोनाले",
+        "url": "https://www.bbntimes.com/global-economy/dow-jones-djia-plunges-to-49-097-06-amid-anthropic-s-ipo-and-the-historic-meeting-of-trump-xi-and-putin"
+      },
+      {
+        "name": "NEPSE",
+        "value": 2621.29,
+        "change_pct": -0.28,
+        "source": "अनलाइनखबर / हिमाल प्रेस",
+        "url": "https://english.onlinekhabar.com/stock-market-falls-7-points.html"
+      },
+      {
+        "name": "डलर (राष्ट्र बैंक, खरिद)",
+        "value": 149.21,
+        "unit": "रु",
+        "change_pct": null,
+        "source": "नेपाल राष्ट्र बैंक (रातोपाटी मार्फत)",
+        "url": "https://english.ratopati.com/story/87206/this-is-the-foreign-exchange-rate-on-thursday"
+      },
+      {
+        "name": "ब्रेन्ट कच्चा तेल",
+        "value": 92.22,
+        "unit": "डलर",
+        "change_pct": null,
+        "source": "फाइनान्सफिड्स (शीर्षक)",
+        "url": "https://financefeeds.com/brent-crude-oil-price-92-22-friday-third-weekly-drop-before-opec-plus-bull-96-bear-88/"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "निर्वाचन आयोगको प्रस्ताव: स्थानीय तहको चुनाव वैशाखमा, प्रदेशको मंसिरमा",
+      "summary": "निर्वाचन आयोगले आगामी वर्ष (सन् २०२७) वैशाख (अप्रिल) मा स्थानीय तह र मंसिर (नोभेम्बर) मा प्रदेशसभाको निर्वाचन गर्ने तालिका प्रस्ताव गरेको छ। शुक्रबार राष्ट्रिय मान्यताप्राप्त दलका शीर्ष नेतासँगको छलफलमा यो प्रस्ताव राखिएको हो; छलफलमा कांग्रेस सभापति गगन थापा, एमाले अध्यक्ष केपी शर्मा ओली र नेकपा संयोजक पुष्पकमल दाहाल प्रचण्डलगायत पुगेका थिए। दुवै चुनाव एकै मितिमा गर्ने कि छुट्टाछुट्टै भन्नेबारे दलहरूबीच राजनीतिक सहमति गर्न आयोगले आग्रह गरेको छ। प्रचण्डले विदेशमा रहेका नेपालीलाई मताधिकार सुनिश्चित गर्न माग गरे भने थापाले स्वच्छ चुनाव गराउने सबैभन्दा ठूलो जिम्मेवारी सरकारको भएको बताए।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2061822/commission-proposes-to-hold-local-elections-in-april-provincial-elections-in-november"
+        },
+        {
+          "name": "बीबीसी नेपाली",
+          "url": "https://www.bbc.com/nepali/articles/cqkg7nzyrzyjo"
+        },
+        {
+          "name": "अनलाइनखबर इङ्लिस",
+          "url": "https://english.onlinekhabar.com/election-commission-elections-dates.html"
+        },
+        {
+          "name": "रातोपाटी इङ्लिस (शीर्षक)",
+          "url": "https://english.ratopati.com/story/87474/commission-proposes-to-hold-local-elections-in-april-and-provincial-elections-in-november"
+        },
+        {
+          "name": "अनलाइनखबर (प्रचण्ड)",
+          "url": "https://english.onlinekhabar.com/prachanda-voting-rights-nepali-abroad.html"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "मधेशमा सरकार गठनको दाबी पेस गर्ने समय सकियो, तीन दलले थप समय मागे",
+      "summary": "मधेश प्रदेशमा नयाँ सरकार गठनका लागि प्रदेश प्रमुख कार्यालयले शुक्रबार अपराह्न ४ बजेसम्म दिएको समय सकिँदा कसैले पनि दाबी पेस गरेनन्। समय सकिने बेलामा तीन दलले प्रदेश प्रमुखसँग थप समय मागेका छन्। एमाले संसदीय दलका नेता सरोजकुमार यादव आफ्नो नेतृत्वमा सरकार बनाउन लागिपरेका छन्, तर कांग्रेसले त्यसलाई मानिसकेको छैन। उपेन्द्र यादव भने एमालेबाहेकको गठबन्धन बनाउने प्रयासमा छन्।",
+      "sides": [
+        {
+          "who": "एमाले (सरोजकुमार यादव)",
+          "says": "आफ्नो नेतृत्वमा नयाँ प्रदेश सरकार बनाउन अन्य दलसँग समर्थन जुटाइरहेको।"
+        },
+        {
+          "who": "उपेन्द्र यादव",
+          "says": "एमालेबाहेकका दलको सहयोगमा मधेशमा सरकार बनाउनुपर्ने; अघि लुम्बिनीमा एमालेबाट धोका पाएको अनुभव रहेको।"
+        }
+      ],
+      "unverified": "थप समय माग्ने तीन दल कुन-कुन हुन् र प्रदेश प्रमुखले कति समय थपे भन्ने स्रोतमा स्पष्ट भएन।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2061954/three-parties-request-extension-of-time-to-submit-claims-for-government-formation-in-madhesh"
+        },
+        {
+          "name": "रातोपाटी इङ्लिस (शीर्षक)",
+          "url": "https://english.ratopati.com/story/87494/parties-failed-to-submit-claims-to-madhesh-government-within-stipulated-time-request-for-more-time"
+        },
+        {
+          "name": "अनलाइनखबर (दाबी पेस भएन)",
+          "url": "https://www.onlinekhabar.com/2026/11/2061922/the-deadline-for-forming-the-madhesh-government-has-passed-but-no-claim-has-been-submitted"
+        },
+        {
+          "name": "काठमाडौं पोस्ट (बुधबार)",
+          "url": "https://kathmandupost.com/province-no-2/2026/11/18/madhesh-government-formation-remains-uncertain-as-deadline-approaches"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "अनलाइन ठगीको आशंकामा नेपाल प्रहरीले ३५ जापानी नागरिकलाई नियन्त्रणमा लियो",
+      "summary": "अनलाइनमार्फत ठगी गरेको आशंकामा नेपाल प्रहरीले ३५ जना जापानी नागरिकलाई नियन्त्रणमा लिएको जापानका सञ्चारमाध्यमले जनाएका छन्। जापानको सार्वजनिक प्रसारक NHK, द जापान टाइम्स र निप्पोन डटकमले यो खबर दिएका छन्।",
+      "unverified": "उनीहरू कहाँ र कहिले नियन्त्रणमा लिइए, कस्तो ठगीको आरोप छ र नेपाल प्रहरीको आधिकारिक भनाइ के छ भन्ने विवरण खोलिएका स्रोतमा भेटिएन।",
+      "sources": [
+        {
+          "name": "NHK (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wVlJPRlVELXhIcWJRS2I3NUY2SFRwcHNHMkxCNnYteGlpNS1obzlpdW84dlpUS3BfMXFzMElldk5TcFhDYWxnWkVIZmVMalItekNYMkZFeGZodkFqc0RKOVA1NA?oc=5"
+        },
+        {
+          "name": "द जापान टाइम्स (शीर्षक)",
+          "url": "https://www.japantimes.co.jp/news/2026/11/20/japan/crime-legal/nepal-detain-japan-fraud/"
+        },
+        {
+          "name": "निप्पोन डटकम (शीर्षक)",
+          "url": "https://www.nippon.com/en/articles/-/57775"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "रुसी मिसाइल आक्रमणमा किएभका तीन पुलमा क्षति, पोल्याण्डमा पनि रुसी मिसाइल खस्यो",
+      "summary": "रुसले शुक्रबार युक्रेनमाथि ठूलो मिसाइल र ड्रोन आक्रमण गर्दा राजधानी किएभका तीन पुलमा क्षति पुगेको छ; मृत्यु हुनेको संख्या स्रोतअनुसार फरक (५ देखि ८ जनासम्म) छ। युक्रेनले क्रिमियाको पुलमा प्रहार गरेपछि पुटिनले 'पीडादायी' जवाफ दिने चेतावनी दिएका थिए। पोल्याण्डले यही आक्रमणका क्रममा एउटा रुसी मिसाइल आफ्नो दक्षिणपूर्वी भूभागमा खसेको र कोही घाइते नभएको जनाएको छ; तीन पटक हवाई सीमा मिचिएकोलाई उसले रुसको 'उक्साहट' भनेको छ। यसैबीच, युक्रेनलाई नेटोजस्तै सुरक्षा ग्यारेन्टी दिने अमेरिकी विचारलाई रुसले अस्वीकार गरेको छ।",
+      "sides": [
+        {
+          "who": "रुस",
+          "says": "युक्रेनले क्रिमियाको पुलमा गरेको आक्रमणको जवाफ दिने; नेटोजस्तो सुरक्षा ग्यारेन्टीको अमेरिकी विचार स्वीकार्य नभएको।"
+        },
+        {
+          "who": "युक्रेन र पोल्याण्ड",
+          "says": "रुसी आक्रमणले सर्वसाधारण र पुलजस्ता संरचनामा क्षति पुर्‍यायो; पोल्याण्डको भूभागमा मिसाइल खस्नु उक्साहट हो।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "बीबीसी",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o"
+        },
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges"
+        },
+        {
+          "name": "फ्रान्स २४ (पोल्याण्ड)",
+          "url": "https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine"
+        },
+        {
+          "name": "रोयटर्स (पोल्याण्ड, शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejRoNTB3Y2hjdXRxMmNON0lac2xkWldNSmQ5RXFTM0NrMDFJaEE3QWxsOHJoYTgwLTFUN1A5MGRkU0h6ejNsLXdraFB0MjhNTkVROEJjNG5WWm00azhpbUNDN2FRUW1uRXplazJmU08za2gtYlc"
+        },
+        {
+          "name": "रोयटर्स (द मस्को टाइम्स मार्फत, शीर्षक)",
+          "url": "https://www.themoscowtimes.com/2026/11/20/russia-pushes-back-against-us-idea-of-nato-style-security-guarantees-for-ukraine-a94326"
+        },
+        {
+          "name": "किएभ इन्डिपेन्डेन्ट (शीर्षक)",
+          "url": "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "बेलायत र युरोपेली संघबीच सम्बन्ध सुधार सम्झौता, युवालाई काम र बसोबासको अवसर",
+      "summary": "ब्रसेल्समा शुक्रबार भएको शिखर बैठकमा बेलायत र युरोपेली संघ (EU) ले ब्रेक्जिटपछि बिग्रेको सम्बन्ध सुधार्ने सम्झौता गरेका छन्। यसमा खाद्य व्यापार सहज बनाउने र युवा आवागमन योजना पर्छन्; यो योजनाअनुसार १८ देखि ३२ वर्ष उमेरका करिब १ लाख युवाले एकअर्काको देशमा बस्न र काम गर्न पाउनेछन्। बेलायती प्रधानमन्त्री एन्डी बर्नहमले युरोपेली आयोगकी अध्यक्ष उर्सुला भोन डेर लेयेन र एन्टोनियो कोस्टासँग भेटेका थिए। तर विश्वविद्यालय शुल्कबारे थप सहमति नभएसम्म सम्झौता लागू नहुने EU ले बताएको छ।",
+      "sides": [
+        {
+          "who": "बेलायत सरकार",
+          "says": "सम्झौता भइसकेको छ, केही विषयमा भने वार्ता जारी रहनेछ।"
+        },
+        {
+          "who": "युरोपेली संघ",
+          "says": "EU का विद्यार्थीको विश्वविद्यालय शुल्कबारे अर्को सहमति नभई सम्झौता लागू हुँदैन।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal"
+        },
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates"
+        },
+        {
+          "name": "द हिन्दु",
+          "url": "https://www.thehindu.com/news/international/uk-european-union-summit-meeting-on-november-20-2026/article71723782.ece"
+        },
+        {
+          "name": "फ्रान्स २४",
+          "url": "https://www.france24.com/en/video/20261120-rare-eu-uk-summit-as-andy-burnham-seeks-to-mend-brexit-damage"
+        },
+        {
+          "name": "रोयटर्स (साइप्रस मेल मार्फत, शीर्षक)",
+          "url": "https://cyprus-mail.com/2026/11/20/britain-and-eu-launch-reset-with-food-and-youth-mobility-deals"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "इरानको चेतावनी: अमेरिकाले सर्त नमाने फेरि युद्ध, नेतन्याहुले इरानमाथि आक्रमण 'अपरिहार्य' भने",
+      "summary": "इरानको इस्लामिक रिभोल्युसनरी गार्ड (IRGC) का प्रवक्ता ब्रिगेडियर जनरल हुसेन मोहेबीले बिहीबार अमेरिकाले इरानका सर्त मान्नुपर्ने, नत्र अर्को युद्धको सामना गर्नुपर्ने चेतावनी दिएका छन्। न युद्ध न शान्तिको अन्योल अवस्था सहन नसकिने र कुनै पनि नयाँ आक्रमणको कडा जवाफ दिने उनले बताए। अर्कोतर्फ इजरायली प्रधानमन्त्री नेतन्याहुले इरानमाथि आक्रमण 'अपरिहार्य' भएको बताएका छन्। अमेरिकी समुद्री प्रशासनको एक आन्तरिक पत्रमा इरानविरुद्धको नौसैनिक नाकाबन्दीले खाडीमा ढुवानीको बिमा शुल्क बढाएको स्वीकार गरिएको अल जजिराले जनाएको छ।",
+      "sides": [
+        {
+          "who": "इरान (IRGC)",
+          "says": "अमेरिकाले इरानका सर्त मान्नुपर्छ; नयाँ आक्रमण भए कडा जवाफ दिइनेछ र युद्ध एकैपटक टुंग्याइनेछ।"
+        },
+        {
+          "who": "इजरायल (नेतन्याहु)",
+          "says": "इरानमाथि आक्रमण गर्नु अपरिहार्य छ।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "अनलाइनखबर इङ्लिस",
+          "url": "https://english.onlinekhabar.com/iran-warns-us-to-accept-its-terms-or-face-renewed-conflict.html"
+        },
+        {
+          "name": "एएनआई (शीर्षक)",
+          "url": "https://aninews.in/news/world/middle-east/8220we-will-settle-the-war-once-and-for-all8221-iran-tells-us-to-accept-its-terms-or-face-battlefield-decision20261120105428/"
+        },
+        {
+          "name": "रिपब्लिका (नेतन्याहु, शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcFVnNGN0VC1UdW8xOXVqTXJjQmR1R2pnbk1DTTZQSnVuS0pWaVFLTlUySkdYMzBib2F3dGlmcGpLQjY5cUg0S09SUXUtR0UyczNvSmZYUlNBM3NwSkxCbXhfN2pvaGxiM3BONnc4S3l1SGpIc2RZTkR5b1RjRXVuVGRFeU5HbGdNa3B1MzFBdldTb056WjZXYWtpZEd4OXRqa0ZxTUN3QlhUZUVpRFZoV2pxdFU0bjBQTVc5emRHTTc2Yy1kT3BVZ2pB?oc=5"
+        },
+        {
+          "name": "अल जजिरा (नाकाबन्दी)",
+          "url": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "सन् २०२५ को युद्धपछि पहिलो पटक पाकिस्तानी मन्त्री भारत पुगे",
+      "summary": "पाकिस्तानका जलवायु मन्त्री शाङ्घाई सहयोग संगठन (SCO) को 'सभ्यता संवाद फोरम' मा भाग लिन नयाँ दिल्ली पुगेका छन्। सन् २०२५ मा दुई देशबीच भएको युद्धपछि पाकिस्तानी मन्त्रीको यो पहिलो भारत भ्रमण हो। प्रधानमन्त्री मोदीले उद्घाटन गर्ने यो कार्यक्रम दिल्लीको पुराना किल्लामा हुँदैछ; पाकिस्तान अहिले SCO राष्ट्रप्रमुख परिषद्को अध्यक्ष छ। दुवै देशले यो भ्रमण बहुपक्षीय कार्यक्रमका लागि मात्र भएको बताएका छन्।",
+      "sides": [
+        {
+          "who": "भारत र पाकिस्तान सरकार",
+          "says": "भ्रमण SCO को बहुपक्षीय कार्यक्रमका लागि मात्र हो।"
+        },
+        {
+          "who": "विश्लेषक",
+          "says": "कतिपयले सम्पर्कको बाटो खुल्ने आशा गरे पनि यसले द्विपक्षीय वार्ता सुरु भएको संकेत नगर्ने।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss"
+        },
+        {
+          "name": "द हिन्दु",
+          "url": "https://www.thehindu.com/news/international/pakistan-climate-minister-in-delhi-to-attend-sco-meeting/article71723340.ece"
+        },
+        {
+          "name": "डीडब्लु",
+          "url": "https://www.dw.com/en/pakistan-minister-to-visit-india-but-no-breakthrough-expected/a-79991717?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "name": "स्क्रोल (शीर्षक)",
+          "url": "https://scroll.in/latest/1097203/first-time-since-operation-sindoor-pakistan-minister-visits-india-for-sco-meeting"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "भोटेकोशी बाढीपीडितका लागि चीनको २० लाख डलर अनुदान, मन्त्रिपरिषद्‌ले स्वीकार्‍यो",
+      "summary": "भोटेकोशी बाढीपीडितको उद्धार र राहतका लागि चीनले दिने २० लाख डलर अनुदान मन्त्रिपरिषद्‌ले स्वीकार गरेको छ। सोही बैठकले प्रधानमन्त्री बालेन शाहको आइतबारदेखि हुने भारत भ्रमण पनि स्वीकृत गरेको हो। यसैबीच नेपालका लागि चिनियाँ राजदूत चाङले चीन नेपालको आर्थिक विकास र समृद्धिको पक्षमा रहेको बताएका छन्।",
+      "sources": [
+        {
+          "name": "रिपब्लिका (शीर्षक)",
+          "url": "https://myrepublica.nagariknetwork.com/news/cabinet-approves-pm-balen-shahs-india-visit-accepts-2-million-chinese-grant-28-46.html"
+        },
+        {
+          "name": "रातोपाटी (शीर्षक)",
+          "url": "https://www.ratopati.com/story/606472/china-to-provide-2-million-in-grant-for-rescue-and-relief-of-bhotekoshi-flood-victims"
+        },
+        {
+          "name": "खबरहब (शीर्षक)",
+          "url": "https://english.khabarhub.com/2026/20/576324/"
+        },
+        {
+          "name": "रिपब्लिका (राजदूत, शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYm9rWkhxVTRWRkpoblBRWVpTV3lhYUNnR0RnWjRKdS1LSTEzQ0N2dlZUelp4VFlYN09lLXVsN3NFdmZIUm5YODVncUpUNkRXU050QUo1V3g5aDFuUk45aDRCZFAzcnZuYmlYdXVzNFJ3UGpWM2pXNy1KSFByZkRpYlhoemFpcDItWXd3R0ZWSG1XTXoyQ0xqTnJmTjZlRUoxLWdIWlJmdVVlc3JWcXp1M3Bha2k0Z3J2bG9FNGU4a3pJdmpFWEJWSTZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "AI सेयरको गिरावट युरोप र अमेरिकासम्म फैलियो, ताइवान ६.७ र निक्केई ५ प्रतिशत घटे",
+      "summary": "एन्थ्रोपिकको रेकर्ड सेयर बजार प्रवेशले पनि AI कम्पनीका सेयरको बिक्री रोक्न नसक्दा शुक्रबार विश्वभरका सेयर बजार घटे। एसियाली बजार सन् २०२० यताकै सबैभन्दा खराब हप्तातर्फ छन्; ताइवानको बजार ६.७ प्रतिशत र जापानको निक्केई ५ प्रतिशत घट्यो। युरोप र अमेरिकाका सेयर पनि दिनभरको कारोबारमा निकै तल रहे। यसको उल्टो, AI कम्पनी कम भएको भारतीय बजारमा विदेशी लगानी भित्रिँदा भारतीय रुपैयाँ बलियो भएर १ डलर बराबर ९३ रुपैयाँभन्दा माथि पुगेको रोयटर्सले जनाएको छ।",
+      "sources": [
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        },
+        {
+          "name": "NHK (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53dEx5enJycU04UFJueUtkRVc3b0xSRTJBNWNYamVxUXFCTk9XcGl5aUhYR1poc0hQdXd4UG5ZQ2JxNlliaDMyWHNmanN3MDZRVl9YaGVPWXBHODU0a3FYc21CNA?oc=5"
+        },
+        {
+          "name": "AP (सीपी२४ मार्फत, शीर्षक)",
+          "url": "https://www.cp24.com/news/money/2026/11/20/global-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/"
+        },
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears"
+        },
+        {
+          "name": "रोयटर्स (युरोनेक्स्ट मार्फत, शीर्षक)",
+          "url": "https://live.euronext.com/en/financial-news/stocks-slide-ai-selloff-deepens-asia-set-worst-week-2020"
+        },
+        {
+          "name": "रोयटर्स (रुपैयाँ, शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2pFbUd4enR6VTI3UkVVSllkdl92SkJ3d2hNVkZkQTBlQW9FMnBEMHBmUkRkdkhUUFB2NHV0UHNaYUlKS05JaDJOaEswOXF5N0hlaEo3anZHRHdnSU43cEltdkJfM3lEM1VfSWZLTUwxa3MxM3VRZmlhMkxYRWJjVXRxMGh3TW9uZEJFMG1mXzR0MDZuVXo3ejRMQ1FjSXFZRHMwWHczSURscU56TUVFcDV1dHFMdWgxQ0tn?oc=5"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "हप्ताको अन्तिम कारोबार दिन नेप्से ७.३८ अंक घट्यो, बैंकिङ समूह बढ्यो",
+      "summary": "शुक्रबार नेप्से परिसूचक ७.३८ अंक घटेर करिब २६२१ अंकमा पुगेको छ। अघिल्लो दिन नेप्से ३.६२ अंक बढेको थियो। आज ८९ कम्पनीको सेयर मूल्य बढ्यो, १८१ को घट्यो र ९ को स्थिर रह्यो। बैंकिङ समूहको सूचकाङ्क भने बढेको छ र कारोबार रकम अघिल्लो दिनभन्दा थोरै बढी रह्यो।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://english.onlinekhabar.com/stock-market-falls-7-points.html"
+        },
+        {
+          "name": "हिमाल प्रेस (शीर्षक)",
+          "url": "https://en.himalpress.com/nepse-returns-to-losing-ways-closes-7-38-points-lower/"
+        },
+        {
+          "name": "खबरहब (शीर्षक)",
+          "url": "https://english.khabarhub.com/2026/20/576343/"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "AI एजेन्टले सन्देश पढ्न नपाउन सिग्नल एपले स्क्रिनसट रोक्ने व्यवस्था गर्‍यो",
+      "summary": "गोप्य सन्देश पठाउने एप सिग्नलले AI एजेन्ट (प्रयोगकर्ताका लागि आफैं काम गर्ने AI सहायक) ले च्याट पढ्न नसकून् भनेर स्क्रिनसट लिन कडाइ गरेको छ। यो खबर रोयटर्सले पहिलो पटक सार्वजनिक गरेको हो। केही समाचारअनुसार सिग्नलले एप्पल, गुगल र माइक्रोसफ्टजस्ता कम्पनीमाथि यस विषयमा नियमन हुनुपर्ने आग्रह पनि गरेको छ।",
+      "unverified": "सिग्नलले नियमनको माग गरेको कुरा एउटा स्रोतको शीर्षकमा मात्र देखियो।",
+      "sources": [
+        {
+          "name": "रोयटर्स (टाइम्सलाइभ मार्फत, शीर्षक)",
+          "url": "https://www.timeslive.co.za/news/sci-tech/2026-11-20-signal-restricts-screenshots-to-block-ai-agents-from-reading-messages/"
+        },
+        {
+          "name": "डिजिटल ट्रेन्ड्स (शीर्षक)",
+          "url": "https://www.digitaltrends.com/phones/signal-adds-screenshot-protections-to-stop-ai-agents-reading-chats/"
+        },
+        {
+          "name": "द हान्स इन्डिया (शीर्षक)",
+          "url": "https://www.thehansindia.com/tech/signal-adds-screenshot-restrictions-to-block-ai-from-reading-private-chats-1144060"
+        },
+        {
+          "name": "बिगगो फाइनान्स (शीर्षक)",
+          "url": "https://finance.biggo.com/news/23241a04-3c09-448a-a76b-efa518c55d97"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "AI चिप चीन पुगे कि भनेर क्यालिफोर्नियाले एनभिडियामाथि छानबिन थाल्यो",
+      "summary": "AI का लागि चाहिने उन्नत चिप बनाउने अमेरिकी कम्पनी एनभिडियाका सह-संस्थापक तथा लामो समयका प्रमुख जेन्सेन हुआङ एक प्रकरणपछि पदबाट हटेपछि क्यालिफोर्निया राज्यले कम्पनीमाथि छानबिन सुरु गरेको छ। राज्यका महान्यायाधिवक्ता रोब बोन्टाले कम्पनीलाई छानबिनको आदेशपत्र पठाएका छन्। कम्पनीका उन्नत चिप वा गोप्य जानकारी चीन पुगेको हो कि र कम्पनीले लगानीकर्ता तथा जनतालाई भ्रममा पारेको हो कि भनेर छानबिन हुनेछ।",
+      "sources": [
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
+        },
+        {
+          "name": "बीबीसी",
+          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no"
+        },
+        {
+          "name": "द हिन्दु",
+          "url": "https://www.thehindu.com/news/international/california-attorney-general-subpoenas-nvidia-over-chips-former-ceos-affair/article71722914.ece"
+        }
+      ]
+    }
+  ]
+}
