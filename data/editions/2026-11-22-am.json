@@ -1,0 +1,283 @@
+{
+ "id": "2026-11-22-am",
+ "generated_at": "2026-11-22T06:16:20+05:45",
+ "markets": {
+  "as_of": "NEPSE: शुक्रबार, नोभेम्बर २० (मंसिर ४) को बन्द · ब्रेन्ट: शुक्रबार, नोभेम्बर २० को बन्द · डलर: शनिबार, नोभेम्बर २१ (मंसिर ५) को राष्ट्र बैंकको दर (खरिद १४७.९८, बिक्री १४८.५८ रुपैयाँ) · अमेरिकी बजार (शुक्रबार, नोभेम्बर २०): S&P 500 ३.७ प्रतिशत र Nasdaq करिब ५ प्रतिशत घटे; सूचकांकको अंक मिति सहित पुष्टि हुन सकेन",
+  "items": [
+   {
+    "name": "NEPSE",
+    "value": 2621.29,
+    "change_pct": -0.28,
+    "source": "अनलाइनखबर / हिमाल प्रेस",
+    "url": "https://english.onlinekhabar.com/stock-market-falls-7-points.html"
+   },
+   {
+    "name": "डलर (राष्ट्र बैंक, खरिद)",
+    "value": 147.98,
+    "unit": "रु",
+    "change_pct": null,
+    "source": "नेपाल राष्ट्र बैंक (अनलाइनखबर मार्फत)",
+    "url": "https://www.onlinekhabar.com/2026/11/2062239/foreign-currency-exchange-rates-set-for-today-7"
+   },
+   {
+    "name": "ब्रेन्ट कच्चा तेल",
+    "value": 92.57,
+    "unit": "डलर",
+    "change_pct": null,
+    "source": "एनर्जीनाउ (शीर्षक)",
+    "url": "https://energynow.com/2026/11/oil-prices-rebound-friday-on-middle-east-tensions-but-fall-for-third-straight-week-wti-closes-at-83-98-brent-at-92-57/"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "section": "nepal",
+   "title": "प्रधानमन्त्री शाह आज दुई दिने भारत भ्रमणमा, दिल्लीको व्यापारिक बैठकमा भारतीय मन्त्री नआउने",
+   "summary": "प्रधानमन्त्री बालेन्द्र शाह आज (आइतबार, मंसिर ६) दुई दिने राजकीय भ्रमणमा भारत जाँदैछन्। प्रधानमन्त्री भएपछिको यो उनको पहिलो द्विपक्षीय विदेश भ्रमण हो र उनीसँग ३४ सदस्यीय सरकारी टोली जाँदैछ। बीबीसीका अनुसार व्यापार, सम्पर्क (कनेक्टिभिटी) र क्षेत्रीय सहयोग मुख्य विषय हुनेछन् भने द हिन्दूका अनुसार केही समझदारी (MoU) मा हस्ताक्षर र आयोजनाको उद्घाटन हुने अपेक्षा छ। आज हुने नेपाल–भारत व्यापारिक गोलमेज बैठकमा कुनै भारतीय मन्त्री सहभागी नहुने काठमाडौं पोस्टले जनाएको छ।",
+   "impact": "सुख्खा याममा बिजुली अपुग हुने भएकाले नेपाल विद्युत् प्राधिकरणले भारतसँग १५० मेगावाट बिजुली किन्ने सम्झौता खोजिरहेको रिपब्लिकाले जनाएको छ।",
+   "sources": [
+    {
+     "name": "काठमाडौं पोस्ट",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRkpQd0FRM3ctd2NTREZsai0zSkhnNVlpSWpRel9Rc3R4dEVLNlFzQ3JXaFR5YjFNWUF2ZkVGRGhtczdFVjEwZlpNVzBkMzFlR2dfY0FjY3hsbWk5S0tlTjB3THlQRXlsTDhzNE1zYnlHUHhwWk1HZmMwYWdXd1d1X2lrbllYS01MbU9ua244M3dyZ001U2UxRHlieWo3NzMxZWJ1S01lQkRxT2VieG9GTjhhWjFSdjBtZ09zMTlHYm9nZ2E2dnFZZmhmYmc?oc=5"
+    },
+    {
+     "name": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLXVXTDFRaUJ4V1JpX1Vha0VtSlhwOF9Ga3QzZ1pMbmh2eTRndEZrV1IwZng2TmVDWVRUSXdnTlVBUEktV1ZfXy1YZmg2eU80dk10RWtTQU9oMWtOTHZBaEwzaEFDQVVfTWlJT19ncE1Jbi1FWFlqTHJTeW80V3QxdXVGTnRNaS0wNm5rNXNNdWRoMXBqVXNrdDQxZHA4eDFzRDdaYnlrclQ3M1E?oc=5"
+    },
+    {
+     "name": "द हिन्दू",
+     "url": "https://www.thehindu.com/news/national/nepal-pm-balendra-shah-to-visit-india-on-november-2223/article71723493.ece"
+    },
+    {
+     "name": "रिपब्लिका (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTFFtYlFCQXpNelhvWjNsSDdFaUV5YUdGS1dDMDZ1NmxFb2gwVmFsMmJZZEJocjAtSGRvWGNsNElxdkFuRlE1Uk5MV3JOdWtKVk4zVDBuMXkxVlZnU01fS0VMN1o1TDdrVFp5TzZJMDR5NTEtbWVncjJqR1c0YXBfU1U5emgzTEt6VHJSaXBDR1pKeFA4VTRHTEdFV0FTTUk3R05kejJMWDVtcUZtMW9ENG0wNUN2RExoR1duWFBmVU4?oc=5"
+    }
+   ]
+  },
+  {
+   "section": "nepal",
+   "title": "पृथ्वी राजमार्गका केही खण्डमा मर्मतका लागि दैनिक पाँच घण्टा सवारी बन्द",
+   "summary": "सडक मर्मत र निर्माणका लागि पृथ्वी राजमार्गका केही खण्डमा शनिबार (मंसिर ५) देखि हरेक दिन बिहान ११ बजेदेखि दिउँसो ४ बजेसम्म सवारी रोकिन थालेको छ। चितवन जिल्ला ट्राफिक प्रहरी कार्यालयका प्रमुख अनिल थापाका अनुसार घोप्टेभिरलगायतका क्षेत्रमा सवारी रोकिन्छ। रिपब्लिकाले नागढुंगा–मुग्लिन सडक दैनिक पाँच घण्टा बन्द रहने जनाएको छ।",
+   "unverified": "मर्मत काम कहिलेसम्म चल्ने भन्ने मिति स्रोतमा उल्लेख भएको पाइएन।",
+   "sources": [
+    {
+     "name": "अनलाइनखबर",
+     "url": "https://english.onlinekhabar.com/prithvi-highway-halted-five-hour.html"
+    },
+    {
+     "name": "रिपब्लिका (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGVpNkxFWThlVm1LZ1Nqa1ZLRnVZZml4LXJfWVFIZXNsYkJKcG1CMG9DWlNGYkxRMlB6YjdWUXRpZTF0YzRkUS13OGF6UG9CZ3FMcUdReVYtWFRqQnF2a1NrZmVCbzNpdjBPQ0Ria3RYbDB2Tk5OX01UVFNadHhHQ0FwWGZzU09taVhFdDZlVEhSNmFZNXloeGoyR205NC1xVGdEY0o5dnh6N3hMR2ROWHBKSzUxd3k0NW5LcDFyWGtnQnhLWERtYnhxZEk?oc=5"
+    }
+   ]
+  },
+  {
+   "section": "nepal",
+   "title": "सुदूरपश्चिम रोयल्स पहिलो पटक एनपीएल च्याम्पियन, सबै क्लबका लागि रंगशाला बनाउने प्रधानमन्त्रीको घोषणा",
+   "summary": "शनिबार त्रिवि (टीयू) क्रिकेट मैदानमा भएको नेपाल प्रिमियर लिग (NPL) तेस्रो संस्करणको फाइनलमा सुदूरपश्चिम रोयल्सले गत वर्षको विजेता लुम्बिनी लायन्सलाई १० विकेटले हरायो। पहिले ब्याटिङ गरेको लुम्बिनीले ६ विकेटमा १५५ रन बनाएको थियो, सुदूरपश्चिमले १३.३ ओभरमै विकेट नगुमाई १५८ रन बनायो। जर्ज मन्सेले अविजित १२५ रन बनाए। प्रधानमन्त्री शाहले एनपीएलको छैटौँ संस्करणदेखि आफ्नै र विपक्षीको मैदानमा (होम एन्ड अवे) खेल गराउन आठवटै क्लबका लागि फ्लडलाइटसहितका रंगशाला बनाइने बताए।",
+   "sources": [
+    {
+     "name": "काठमाडौं पोस्ट",
+     "url": "https://kathmandupost.com/cricket/2026/11/21/munsey-s-century-powers-sudurpaschim-to-maiden-npl-title"
+    },
+    {
+     "name": "अनलाइनखबर",
+     "url": "https://www.onlinekhabar.com/2026/11/2062703/george-manses-century-makes-sudurpaschim-champions-taking-revenge-against-lumbini"
+    },
+    {
+     "name": "अनलाइनखबर",
+     "url": "https://www.onlinekhabar.com/2026/11/2062709/all-clubs-to-have-floodlit-stadiums-home-and-away-games-from-the-sixth-edition-of-npl"
+    },
+    {
+     "name": "रिपब्लिका (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNVQ2V3VEZ25uNUxwVlE5bkxQVXlrb2RHSHBlWXJwbTQ1LWk5Vmp4aFJkU0x0WjZSYUFnUnZhRXU4UnE4T01uOFp5Vm5Md0t5TS1LSi1XWl9Ka25zMy1SdzlIbWZYcDRIcG9FTWpCZnJxT3VrWWFvc1BzVnNCRUdoU3JJX2dqVHRzQnNEWXkwMUlmcUd4SVR2ZVd5M3JqS3pIVExHdG1SVGQ5NzRRS0lRdWkySFVVVjk1M3laT1VRQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "title": "फिनल्याण्डको खाडीमा रुसी मालवाहक जहाजमा ड्रोन आक्रमण, युक्रेनमा रुसी मिसाइलले २ जनाको मृत्यु",
+   "summary": "शनिबार बाल्टिक सागरको फिनल्याण्डको खाडीमा रुसको कालिनिनग्राद जाँदै गरेको एउटा मालवाहक जहाजमा ड्रोन आक्रमण हुँदा आगो लाग्यो र जहाज बगेर फिनल्याण्डको समुद्री सीमाभित्र पुग्यो। फिनल्याण्डले नेटोलाई जानकारी दिँदै त्यस क्षेत्रमा अस्थायी हवाई र समुद्री प्रतिबन्ध लगाएको छ। जहाज अमेरिकी प्रतिबन्ध सूचीमा रहेको र रुसी सेनासँग जोडिएको बताइएको छ। फिनल्याण्डको रक्षा मन्त्रालयले यही घटनासँग जोडिएर एउटा रुसी हेलिकप्टरले आफ्नो हवाई सीमा मिचेको आशंका गरेको छ। उता युक्रेनी राष्ट्रपति जेलेन्स्कीको गृहनगर क्रिभी रिहमा रुसी मिसाइल आक्रमणमा २ जनाको मृत्यु भयो र ६० जना घाइते भए।",
+   "sides": [
+    {
+     "who": "फिनल्याण्ड",
+     "says": "रक्षा बलका अनुसार आक्रमणमा युक्रेनको हात हुन सक्छ; प्रधानमन्त्री पेत्तेरी ओर्पोले युद्ध नजिकसम्म फैलिँदै गरेको र युक्रेनलाई आक्रमणकारीविरुद्ध लड्ने अधिकार भएको बताए।"
+    },
+    {
+     "who": "रुस",
+     "says": "राष्ट्रपति पुटिनले यसै साता क्रिमिया जोड्ने केर्च पुलमा युक्रेनले गरेको आक्रमणको 'पीडादायी' जवाफ दिने चेतावनी दिएका थिए।"
+    }
+   ],
+   "unverified": "जहाजमा कसले आक्रमण गर्‍यो भन्ने आधिकारिक पुष्टि भएको छैन; युक्रेनले यस्ता आक्रमण सामान्यतया स्वीकार वा अस्वीकार गर्दैन।",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "द हिन्दू",
+     "url": "https://www.thehindu.com/news/international/finland-detects-drone-attack-on-russian-cargo-ship-in-baltic/article71728516.ece"
+    },
+    {
+     "name": "DW",
+     "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-world-4025-xml-mrss"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "title": "इरानमा आणविक नीति बदल्नेबारे बहस चलेको परराष्ट्रमन्त्रीको भनाइ, ट्रम्पले 'स्थायी' सम्झौता चाहे",
+   "summary": "इरानका परराष्ट्रमन्त्री अराघचीले देशको आणविक नीतिको भविष्यबारे 'ठूलो रणनीतिक बहस' चलिरहेको बताएका छन्। इरानले अहिलेसम्म आफ्नो आणविक कार्यक्रम नागरिक प्रयोजनका लागि मात्र भएको भन्दै आएको छ। अराघचीका अनुसार इरानका मित्र चीन र रुस यो नीति बदल्ने पक्षमा छैनन्। इरानले सुरक्षाको कारण देखाउँदै अन्तर्राष्ट्रिय आणविक ऊर्जा निकाय (IAEA) लाई आफ्ना आणविक केन्द्र निरीक्षण गर्न रोकेको छ। अमेरिकी उपराष्ट्रपति जेडी भ्यान्सले फेब्रुअरीमा इरान आणविक हतियार बनाउन नजिक पुगेको ट्रम्पको दाबीलाई खुलेर समर्थन गरेनन्।",
+   "sides": [
+    {
+     "who": "इरानको भनाइ",
+     "says": "युद्ध अन्त्यका लागि कूटनीति चाहन्छ, तर अमेरिका वार्ताप्रति गम्भीर छ भन्ने ग्यारेन्टी चाहिन्छ; उच्च प्रशोधित युरेनियम इरानभित्रै राखिनुपर्छ।"
+    },
+    {
+     "who": "अमेरिकाको भनाइ",
+     "says": "राष्ट्रपति ट्रम्पले इरानलाई आणविक हतियार बनाउनबाट रोक्ने 'स्थायी' सम्झौता चाहेको बताए; अमेरिकाले इरानका सर्त अस्वीकार गरेको छ।"
+    }
+   ],
+   "sources": [
+    {
+     "name": "द हिन्दू",
+     "url": "https://www.thehindu.com/news/international/iran-says-allies-china-russia-oppose-change-in-nuclear-doctrine/article71728084.ece"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss"
+    },
+    {
+     "name": "द हिन्दू",
+     "url": "https://www.thehindu.com/news/international/iran-wants-diplomacy-to-end-war-says-araghchi-as-us-rejects-terms/article71729396.ece"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "title": "युरोपेली संघको नयाँ बजेट प्रस्ताव: ठूला डिजिटल कम्पनीमाथि ३ प्रतिशत कर, फ्रान्स असन्तुष्ट",
+   "summary": "युरोपेली परिषद्का अध्यक्ष एन्टोनियो कोस्टाले सन् २०२८ देखि २०३४ सम्मका लागि युरोपेली संघ (EU) को सानो बजेट प्रस्ताव गरेका छन्। यो प्रस्तावले युरोपेली आयोगले सुरुमा अघि सारेको योजनाभन्दा २०४ अर्ब युरो (२० हजार ४ सय करोड युरो) कटौती गरेको छ। सदस्य देशले तिर्नुपर्ने रकम घटाउन ठूला डिजिटल कम्पनीमाथि ३ प्रतिशत कर लगाउने प्रस्ताव पनि यसमा छ।",
+   "sides": [
+    {
+     "who": "युरोपेली परिषद्का अध्यक्ष कोस्टा",
+     "says": "ठूला प्रविधि कम्पनीमाथिको करले सदस्य देशको योगदानको भार घटाउँछ।"
+    },
+    {
+     "who": "फ्रान्स",
+     "says": "नयाँ प्रस्ताव 'निकै निराशाजनक' र अपर्याप्त छ।"
+    }
+   ],
+   "sources": [
+    {
+     "name": "DW",
+     "url": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-world-4025-xml-mrss"
+    },
+    {
+     "name": "द हिन्दू",
+     "url": "https://www.thehindu.com/news/international/european-union-proposes-tax-on-big-tech-to-boost-budget/article71728111.ece"
+    },
+    {
+     "name": "Reuters (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaDFMQVdaYU9BLTJOQnRyR3RRNXpVdWZjNW1wZGtVLUl6M3VRenZfX0UzbTFKai11NHNHVUw5dEg0R0pOanVYMFBJeW9oUlBOa0s2Qlc0TWR6Q1BiVmxRZEpCWWhWVlR5OTFYSDFHV3pCQko4bDdBalNYemtDVVBJUEtWN0FGelFlbzE1Mjh0ZE01UnMwZkJlWlFSYV9kb0pzbDVEYzZRXzlQeDlDVVZkV2NR?oc=5"
+    }
+   ]
+  },
+  {
+   "section": "india_china",
+   "title": "भारतमा खाता हटाइएको विरोधमा कांग्रेसको मेटाविरुद्ध प्रदर्शन, युवा कांग्रेसको सात दिने अल्टिमेटम",
+   "summary": "भारतको विपक्षी दल कांग्रेसले अमेरिकी प्रविधि कम्पनी मेटा (फेसबुक र इन्स्टाग्रामको मालिक कम्पनी) ले खाता हटाएको विरोधमा प्रदर्शन गरेको छ। प्रहरीसँग झडप भएपछि कांग्रेसले थप प्रदर्शन गर्ने चेतावनी दिएको रोयटर्सले जनाएको छ। भारतीय युवा कांग्रेसले सबै प्रतिबन्ध हटाउन मेटालाई सात दिनको 'अल्टिमेटम' दिएको अल जजिराले जनाएको छ।",
+   "unverified": "कति र कुन खाता किन हटाइए, र मेटाको जवाफ के छ भन्ने विवरण पुष्टि हुन सकेन।",
+   "sources": [
+    {
+     "name": "Reuters (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmdhX3h3bjctYVFyRXFLZHQ5Zm9aTmQ3cS15R01pWHFxdnRySDBDa1JJbFBHVEZmMm9scHV0VW1xOVlHT19FWlpWaWcxN25aZ3NUQjR6SkFRU2RwQ3Y0YVg5X3A3bTZDT0FXV0JBeEF0SHRjUUM5UWg0cm80YVNyT2JlWHVYR0Iwc2pDZGZKcFNyaG1EWmEtenViMnBDajltODNOUUg2QWo4Yk5sdTllelNGUEdiNGxPWjNKYkthdkg?oc=5"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss"
+    }
+   ]
+  },
+  {
+   "section": "economy",
+   "title": "एक हप्तामा नेप्से २७.६० अंक घट्यो, लगानीकर्ताले ४७ अर्ब ६० करोड रुपैयाँ गुमाए",
+   "summary": "गत हप्ता नेपाल स्टक एक्सचेन्ज (नेप्से) परिसूचक २७.६० अंक घट्दा लगानीकर्ताले ४७ अर्ब ६० करोड रुपैयाँ गुमाएको रिपब्लिकाले जनाएको छ। शुक्रबार नेप्से ७.३८ अंक घटेर २,६२१ अंकमा बन्द भयो; त्यो दिन ८९ कम्पनीको भाउ बढ्यो भने १८१ को घट्यो। काठमाडौं पोस्टका अनुसार बैंक र केही जलविद्युत् कम्पनीका सेयर तुलनात्मक रूपमा बलिया देखिए पनि दैनिक कारोबार घट्नु र अर्थतन्त्रको कमजोर वृद्धिको अनुमानले बजार उकास्न सकेको छैन।",
+   "sources": [
+    {
+     "name": "रिपब्लिका (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORHF4di13VndPNG5QRWlsdlZ2cG5FbUdpRzZxajFTaThESmxyNkl5eHFnMFJmQ3hCUEJzR1ZYS0Z2YmlWS18tdkYySlBiczJvc3NseXZJcVZIWmQwUnVSeDl3UmpVVjdHQW1mRThMQTRCbUtHcVpTYWVCVFBJS2p5TEoxS01mMjVtVjNUV2hoSXBwYzFZazJ3eFR1bTBteWd0OE55LWxBdGVhTEpBM0gzR1Z5RkIwNTdrVUtwaGpTNTZvUQ?oc=5"
+    },
+    {
+     "name": "काठमाडौं पोस्ट",
+     "url": "https://kathmandupost.com/money/2026/11/21/nepse-loses-ground-as-trading-slows-and-investors-favour-select-stocks"
+    },
+    {
+     "name": "अनलाइनखबर",
+     "url": "https://english.onlinekhabar.com/stock-market-falls-7-points.html"
+    }
+   ]
+  },
+  {
+   "section": "economy",
+   "title": "अमेरिकी बजारमा प्रविधि सेयरको सन् २०२० यताकै खराब हप्ता, एनभिडियाको सेयर लगातार ७ हप्ता घट्यो",
+   "summary": "AI कम्पनीका सेयरमा भएको भारी बिक्रीले गत हप्ता अमेरिकी बजारमा प्रविधि सेयरका लागि सन् २०२० यताकै सबैभन्दा खराब हप्ता रह्यो। शुक्रबार S&P 500 ३.७ प्रतिशत घट्यो र Nasdaq Composite यस वर्ष कमाएको सबै बढोत्तरी गुमाएर नकारात्मकमा पुग्यो। बीबीसीका अनुसार S&P 500 र Dow Jones 'करेक्सन' (उच्च बिन्दुबाट करिब १० प्रतिशत वा बढी गिरावट) मा पुगेका छन्। AI चिप बनाउने एनभिडियाको सेयर १४ प्रतिशत खस्यो र सन् २००८ को वित्तीय संकटयताकै लामो साप्ताहिक गिरावटमा पुग्यो। रोयटर्सका अनुसार लगानीकर्ता प्रविधिबाट हटेर सस्ता मानिने 'भ्यालु' सेयरतिर गएका छन्।",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "AP (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5"
+    },
+    {
+     "name": "Reuters (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDhJbUROT2pNZjBobFFBeFlGWU5HRS1PZFNydV9OdHpJbEttV2ZDVElPaGNhNnE3cGlnYUlZOTR3ZC1KZGNIX0pJbExiMzBWa3lxTHpZeUtBYjFtSXJwN3FpZWhjNnUwSklvVmZlRGdEQmNFSlFVcldhXzJsbk1hUlNUMXY0Q0Fjajc0c1ZlQTY0a0FFdUlyRzg4UWQ3M1d5WjFMTjhzRWtlS2VxMnc?oc=5"
+    }
+   ]
+  },
+  {
+   "section": "ai",
+   "title": "अमेरिकी प्रहरी निकाय FBI को अपराध सूचना प्रणालीमा ह्याकिङ: अनुसन्धान सुरु, ट्रम्पले 'राम्रो भएन' भने",
+   "summary": "अमेरिकी संघीय अनुसन्धान ब्युरो (FBI) ले आफ्नो राष्ट्रिय अपराध सूचना केन्द्र (NCIC) डेटाबेसमा भएको भनिएको साइबर आक्रमणको अनुसन्धान गरिरहेको एपी र बीबीसीले जनाएका छन्। अमेरिकाका संघीय र स्थानीय प्रहरीले सूचना आदानप्रदान गर्ने यो डेटाबेसमा फरार व्यक्ति, बेपत्ता मानिस, आपराधिक इतिहास र चोरी भएका सामानको विवरण हुन्छ। जानकारी पाएपछि राष्ट्रपति ट्रम्पले घटना 'राम्रो भएन' भने, तर यसबाट 'सकारात्मक पक्ष' पनि निस्कन सक्ने बताए। CNBC का अनुसार यो FBI को प्रणालीमा हालै भएको दोस्रो घुसपैठ हो।",
+   "unverified": "आक्रमण कसले गर्‍यो र कति सूचना चोरियो भन्ने पुष्टि भएको छैन।",
+   "sources": [
+    {
+     "name": "AP (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3JOVy03eEI4NG1USFRxZkwtd0FLc0tfWk1zMWJSX0xDeHR1Rmwwd0hoQ2RXMG15ejRzWEJJZFh5WU5la2tvWE9kNjJQOG9rVEh4MUlUQl9Cam5KR1FKNnl4UWhLRmVBMGVfT3Q1dXlsZ2lfUHlXLUV3a0ZjaE16ZzJTMFBSbW9RRHc?oc=5"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/fbi-criminal-database-hacked"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html"
+    }
+   ]
+  }
+ ]
+}
