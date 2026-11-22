@@ -1,0 +1,256 @@
+{
+  "id": "2026-11-22-md",
+  "generated_at": "2026-11-22T12:12:00+05:45",
+  "markets": {
+    "as_of": "NEPSE: शुक्रबार, नोभेम्बर २० (मंसिर ४) को बन्द · ब्रेन्ट: शुक्रबार, नोभेम्बर २० को बन्द · डलर: आइतबार, नोभेम्बर २२ (मंसिर ६) को राष्ट्र बैंकको दर (खरिद १४७.९८, बिक्री १४८.५८ रुपैयाँ) · अमेरिकी बजार (शुक्रबार, नोभेम्बर २०): S&P 500 ३.७ प्रतिशत घट्यो र Nasdaq यो वर्षको सुरुभन्दा तल पुग्यो; सूचकांकको अंक मिति सहित पुष्टि हुन सकेन",
+    "items": [
+      {
+        "name": "NEPSE",
+        "value": 2621.29,
+        "change_pct": -0.28,
+        "source": "अनलाइनखबर / हिमाल प्रेस",
+        "url": "https://english.onlinekhabar.com/stock-market-falls-7-points.html"
+      },
+      {
+        "name": "डलर (राष्ट्र बैंक, खरिद)",
+        "value": 147.98,
+        "unit": "रु",
+        "change_pct": null,
+        "source": "नेपाल राष्ट्र बैंक (अनलाइनखबर मार्फत)",
+        "url": "https://www.onlinekhabar.com/2026/11/2062796/todays-foreign-exchange-rate-is-53"
+      },
+      {
+        "name": "ब्रेन्ट कच्चा तेल",
+        "value": 92.57,
+        "unit": "डलर",
+        "change_pct": null,
+        "source": "एनर्जीनाउ (शीर्षक)",
+        "url": "https://energynow.com/2026/11/oil-prices-rebound-friday-on-middle-east-tensions-but-fall-for-third-straight-week-wti-closes-at-83-98-brent-at-92-57/"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "प्रधानमन्त्री बालेन आज दिल्ली पुग्दै, भोलि मोदीसँग वार्ता; २ अर्ब डलरको सहायता प्रस्तावमा भारत सकारात्मक",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाह (बालेन) आज (आइतबार, मंसिर ६) दिउँसो दुई दिने राजकीय भ्रमणमा नयाँदिल्ली पुग्दैछन्। नेपाली राजदूतावासका प्रवक्ता अम्बिका जोशीका अनुसार भारतका उद्योग तथा वाणिज्य राज्यमन्त्री जितिन प्रसादले विमानस्थलमा स्वागत गर्नेछन्। प्रधानमन्त्री शाहले भोलि (सोमबार) भारतीय प्रधानमन्त्री नरेन्द्र मोदीसँग वार्ता गर्नेछन्। काठमाडौं पोस्टका अनुसार नेपालको २ अर्ब डलर (२०० करोड डलर) बराबरको सहायता प्रस्तावप्रति दिल्ली सकारात्मक छ, तर नयाँ हवाई मार्गबारे सहमति भइसकेको छैन।",
+      "unverified": "२ अर्ब डलरको प्रस्ताव कुन रूपमा (अनुदान, ऋण वा लगानी) र कुन क्षेत्रका लागि हो भन्ने विवरण पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2062777/prime-minister-balen-to-visit-india-today-meet-modi-tomorrow"
+        },
+        {
+          "name": "अनलाइनखबर इङ्लिस",
+          "url": "https://english.onlinekhabar.com/balen-shah-diplomatic-tradition.html"
+        },
+        {
+          "name": "काठमाडौं पोस्ट (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWxRZkFRcGNTcTE4b0VUVHdOYlVRSmVnWWRjeG9QeTBMNW5GLVQ3TEQ4YllPRXItR0lCanJSQlZaeVlKdUxrZU5RWlhYVzllU"
+        },
+        {
+          "name": "एएनआई (शीर्षक)",
+          "url": "https://www.aninews.in/news/world/asia/nepal-pm-balendra-shah-to-arrive-in-india-today-on-two-day-state-visit-hold-talks-with-pm-modi-tomorrow20261122094620/"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "मधेश प्रदेशका मुख्यमन्त्री सरोजकुमार यादवले शपथ लिए",
+      "summary": "मधेश प्रदेशका नवनियुक्त मुख्यमन्त्री सरोजकुमार यादवले आज (आइतबार) पद तथा गोपनीयताको शपथ लिएका छन्। प्रदेश प्रमुख कार्यालयले शपथ बिहान १० बजेका लागि तय गरेको थियो। जनता समाजवादी पार्टी (जसपा) नेपालका यादव शनिबार संविधानको धारा १६८ (३) अनुसार ठूलो दलको नेताका हैसियतमा मुख्यमन्त्री नियुक्त भएका थिए।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2062805/newly-appointed-chief-minister-of-madhesh-yadav-taking-oath-today-2"
+        },
+        {
+          "name": "काठमाडौं पोस्ट (शीर्षक)",
+          "url": "https://kathmandupost.com/politics/2026/11/22/saroj-kumar-yadav-takes-oath-as-madhesh-chief-minister"
+        },
+        {
+          "name": "हिमाल प्रेस (शीर्षक)",
+          "url": "https://en.himalpress.com/saroj-kumar-yadav-of-jsp-nepal-sworn-in-as-madhesh-chief-minister/"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "इरानी आक्रमणले बहराइनको औद्योगिक क्षेत्रमा आगलागी, कतारी मध्यस्थकर्तासँग इरानको वार्ता",
+      "summary": "बहराइनले इरानी आक्रमणले एउटा औद्योगिक संरचनामा आगलागी भएको तर कोही घाइते नभएको जनाएको छ। रोयटर्सका अनुसार बहराइनको हवाई सुरक्षा प्रणालीले केही आक्रमण रोकेको थियो। होर्मुज जलमार्गमा थप ट्याङ्कर जहाजमा आक्रमण भएको खबर छ। यसैबीच कतारी प्रतिनिधिमण्डल वार्ताका लागि तेहरान पुगेको इरानी अधिकारीले बताएका छन्।",
+      "sides": [
+        {
+          "who": "इरान",
+          "says": "इरानको रेभोलुसनरी गार्ड (IRGC) ले बहराइनका दुई अड्डामा रहेका अमेरिकी सैनिक ठाउँलाई निशाना बनाएको बताएको छ। परराष्ट्रमन्त्री अब्बास अराघचीले अमेरिकाले 'उचित सर्त' माने होर्मुज खोल्न गाह्रो नभएको, तर इरानका माग पूरा नभएसम्म त्यसबारे छलफल अर्थहीन भएको बताएका छन्।"
+        },
+        {
+          "who": "बहराइन",
+          "says": "बहराइनले आफ्नो भूमिमा रहेका अमेरिकी सैनिक संरचनामाथिको इरानी आक्रमणको निन्दा गरेको छ र आक्रमणले औद्योगिक क्षेत्रमा आगलागी भएको जनाएको छ।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/article71730497.ece"
+        },
+        {
+          "name": "अल जजिरा (कतारी वार्ता)",
+          "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss"
+        },
+        {
+          "name": "रोयटर्स (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxR"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "जलवायु सम्मेलन COP31 दोस्रो दिन पनि थपिएको समयमा, जीवाश्म इन्धनमा अझै मतभेद",
+      "summary": "टर्कीमा भइरहेको संयुक्त राष्ट्रसंघीय जलवायु सम्मेलन COP31 तोकिएको समयभन्दा दोस्रो दिन पनि लम्बिएको छ। सम्मेलनका अध्यक्षले अन्तिम सम्झौता नजिक पुगेको बताएको रोयटर्सले जनाएको छ। तर फ्रान्स २४ का अनुसार नयाँ मस्यौदाबाट जीवाश्म इन्धन (कोइला, तेल, ग्यास) को उल्लेख नै हटाइएको छ। जलवायु कोष र विश्वव्यापी बिजुलीकरणको लक्ष्यमा पनि देशहरू विभाजित छन्। युरोपेली संघ र करिब एक दर्जन देशले जीवाश्म इन्धन चरणबद्ध रूपमा हटाउने स्पष्ट प्रतिबद्धता माग गरेका छन्।",
+      "sources": [
+        {
+          "name": "फ्रान्स २४",
+          "url": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science"
+        },
+        {
+          "name": "बीबीसी",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "अल जजिरा (शीर्षक)",
+          "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime"
+        },
+        {
+          "name": "रोयटर्स (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3FQanMtV3N5N3NtMFp4WmVBTHpwMlo4empMNlhGaGprWFJFZ1VDSFFxcUhUVnQzcUJNVFB5dDNEeUgwY19WaXRGcnhYNEpfa"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "इजरायलमा नयाँ सरकार बनाउन आइजनकोटले नेतन्याहुको लिकुद पार्टीलाई वार्तामा बोलाए",
+      "summary": "इजरायलका विपक्षी नेता गादी आइजनकोटको मध्यमार्गी यशर पार्टीले कामचलाउ प्रधानमन्त्री बेन्जामिन नेतन्याहुको दक्षिणपन्थी लिकुद पार्टीलाई गठबन्धन वार्तामा बोलाएको छ। लगातार चल्ने वार्ता आइतबारदेखि सुरु हुने पार्टीले जनाएको छ। अक्टोबरमा भएको निर्वाचनमा कुनै दलले स्पष्ट बहुमत पाएको थिएन। यशर पार्टीले नयाँ सरकार बनाउने हरेक विकल्प खोज्न र 'सकेसम्म फराकिलो सरकार' बनाउन यो कदम चालेको बताएको छ।",
+      "sources": [
+        {
+          "name": "फ्रान्स २४",
+          "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/eisenkot-invites-netanyahus-party-for-israeli-coalition-talks/article71729470.ece"
+        },
+        {
+          "name": "आरटीई (शीर्षक)",
+          "url": "https://www.rte.ie/news/world/2026/1121/1600152-israeli-coalition-talks/"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "फ्रान्समा महँगीविरुद्ध लगातार छैटौं शनिबार प्रदर्शन, सहभागी संख्या घट्यो",
+      "summary": "फ्रान्समा महँगी र सार्वजनिक सेवाबारे शनिबार लगातार छैटौं हप्ता प्रदर्शन भयो। गृह मन्त्रालयका अनुसार देशभर ८२ हजार ५०० जना सहभागी भए भने आयोजकले १ लाख ५० हजार भनेका छन्, जुन अघिल्लो हप्ताको २ लाखभन्दा कम हो। रोयटर्सका अनुसार प्रदर्शन धेरैजसो शान्तिपूर्ण रहे, तर अल जजिराका अनुसार राति केही ठाउँमा प्रहरीले भीड तितरबितर पार्‍यो। पोर्चुगलको लिस्बनमा पनि बढ्दो खर्चविरुद्ध हजारौं मानिसले प्रदर्शन गरे।",
+      "sources": [
+        {
+          "name": "फ्रान्स २४",
+          "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout"
+        },
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss"
+        },
+        {
+          "name": "रोयटर्स (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQ"
+        },
+        {
+          "name": "द हिन्दू (लिस्बन)",
+          "url": "https://www.thehindu.com/news/international/thousands-march-in-lisbon-as-living-costs-fuel-anger/article71730501.ece"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "अमेरिकामा सिख अलगाववादी नेताको हत्याको षड्यन्त्र: भारतीय नागरिक निखिल गुप्तालाई १९ वर्षभन्दा बढी कैद",
+      "summary": "अमेरिकी अदालतले सिख अलगाववादी नेता गुरपतवन्त सिंह पन्नुनको हत्याको षड्यन्त्र गरेको अभियोगमा भारतीय नागरिक निखिल गुप्तालाई २३५ महिना (१९ वर्षभन्दा बढी) जेल सजाय सुनाएको छ। गुप्तालाई यसअघि चेक गणतन्त्रबाट अमेरिका सुपुर्दगी गरिएको थियो।",
+      "sources": [
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot"
+        },
+        {
+          "name": "द स्टेट्सम्यान (शीर्षक)",
+          "url": "https://www.thestatesman.com/world/nikhil-gupta-sentenced-to-235-months-in-us-prison-over-pannun-murder-plot-1503665070.html"
+        },
+        {
+          "name": "बिजनेस टुडे (शीर्षक)",
+          "url": "https://www.businesstoday.in/world/us/story/nikhil-gupta-sentenced-to-over-19-years-in-us-prison-over-gurpatwant-pannun-murder-plot-568868-2026-11-21"
+        },
+        {
+          "name": "अल जजिरा (२०२४, सुपुर्दगी)",
+          "url": "https://www.aljazeera.com/amp/news/2024/6/17/czechia-extradites-indian-suspect-in-plot-to-kill-sikh-separatist-to-us"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "युरोपेली संघ र इन्डोनेसियाबीच १० वर्षको वार्तापछि मुक्त व्यापार सम्झौता",
+      "summary": "युरोपेली संघ (EU) र इन्डोनेसियाले करिब १० वर्षको वार्तापछि व्यापार सम्झौतामा हस्ताक्षर गरेका छन्। फ्रान्स २४ का अनुसार यसले दुई पक्षबीचको ९८.५ प्रतिशत भन्सार महसुल हटाउँछ। युरोपलाई २८ करोड जनसंख्याको बजार र ब्याट्री बनाउन चाहिने निकल सजिलै पाइनेछ भने इन्डोनेसियालाई पाम तेल, कपडा र जुत्ता निर्यात गर्न सजिलो हुनेछ। डीडब्लूका अनुसार सम्झौताले करिब ७३ करोड मानिसलाई समेट्छ र EU ले व्यापार साझेदार विविध बनाउन खोजेको छ।",
+      "sources": [
+        {
+          "name": "डीडब्लू",
+          "url": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "name": "फ्रान्स २४",
+          "url": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations"
+        },
+        {
+          "name": "युरोन्युज (शीर्षक)",
+          "url": "https://www.euronews.com/2026/11/21/european-union-and-indonesia-sign-free-trade-deal-after-decade-of-talks"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "गणितको डेढ सय वर्ष पुरानो 'रिम्यान परिकल्पना' AI को सहयोगमा प्रमाणित भएको दाबी, दुई समूहले जाँचेर सही भने",
+      "summary": "AI कम्पनी एन्थ्रोपिकका गणितज्ञ लेभेन्ट अल्पोगेले कम्पनीकै AI 'क्लड' (Claude) को सहयोगमा गणितको सबैभन्दा महत्त्वपूर्ण नसुल्झिएका समस्यामध्ये एक, १९औं शताब्दीको 'रिम्यान परिकल्पना' प्रमाणित गरेको दाबी गरेका छन्। उनका अनुसार यो काममा छ हप्ता लाग्यो। द गार्डियनका अनुसार दुई छुट्टै समूहले दाबी जाँचेर सही पाएका छन्। केही रिपोर्टका अनुसार प्रमाणलाई कम्प्युटरले जाँच्ने 'लिन' (Lean) नामक प्रणालीमा पनि पुष्टि गरिएको छ।",
+      "unverified": "दाबी AI बनाउने कम्पनीकै कर्मचारीबाट आएको हो। गणितज्ञहरूको व्यापक समीक्षा र औपचारिक प्रकाशनको अवस्था पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+        },
+        {
+          "name": "साइन्टिफिक अमेरिकन (शीर्षक)",
+          "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
+        },
+        {
+          "name": "आईबीएम थिंक (शीर्षक)",
+          "url": "https://www.ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "मोबाइलको AI ले निजी सन्देश पढ्न नसकोस् भनेर सिग्नल एपले स्क्रिनसट रोक्यो",
+      "summary": "गोप्य सन्देश पठाउने एप 'सिग्नल' (Signal) ले एन्ड्रोइड र आईफोन दुवैमा च्याटको स्क्रिनसट लिन सीमित गरेको छ। रोयटर्सका अनुसार यसको उद्देश्य फोनभित्रै चल्ने AI सहायक (एजेन्ट) ले स्क्रिन हेरेर सन्देश पढ्न नसकून् भन्ने हो। सिग्नलले यस्तो AI निगरानीलाई आफ्नो लागि 'अस्तित्वकै खतरा' भनेको छ।",
+      "sources": [
+        {
+          "name": "टेकक्रन्च",
+          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+        },
+        {
+          "name": "रोयटर्स (इन्भेस्टिङ डटकम मार्फत, शीर्षक)",
+          "url": "https://www.investing.com/news/stock-market-news/exclusivesignal-restricts-screenshots-to-block-ai-agents-from-reading-messages-5040998"
+        },
+        {
+          "name": "डिजिटल ट्रेन्ड्स (शीर्षक)",
+          "url": "https://www.digitaltrends.com/phones/signal-adds-screenshot-protections-to-stop-ai-agents-reading-chats/"
+        }
+      ]
+    }
+  ]
+}
