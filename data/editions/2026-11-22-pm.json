@@ -1,0 +1,310 @@
+{
+  "id": "2026-11-22-pm",
+  "generated_at": "2026-11-22T18:12:00+05:45",
+  "markets": {
+    "as_of": "NEPSE: शुक्रबार, नोभेम्बर २० (मंसिर ४) को बन्द · ब्रेन्ट: शुक्रबार, नोभेम्बर २० को बन्द · डलर: आइतबार, नोभेम्बर २२ (मंसिर ६) को राष्ट्र बैंकको दर (खरिद १४७.९८, बिक्री १४८.५८ रुपैयाँ) · अमेरिकी बजार (शुक्रबार, नोभेम्बर २०): S&P 500 ३.७ प्रतिशत घट्यो र Nasdaq यो वर्षको सुरुभन्दा तल पुग्यो; सूचकांकको अंक मिति सहित पुष्टि हुन सकेन",
+    "items": [
+      {
+        "name": "NEPSE",
+        "value": 2621.29,
+        "change_pct": -0.28,
+        "source": "अनलाइनखबर / हिमाल प्रेस",
+        "url": "https://english.onlinekhabar.com/stock-market-falls-7-points.html"
+      },
+      {
+        "name": "डलर (राष्ट्र बैंक, खरिद)",
+        "value": 147.98,
+        "unit": "रु",
+        "change_pct": null,
+        "source": "नेपाल राष्ट्र बैंक (अनलाइनखबर मार्फत)",
+        "url": "https://www.onlinekhabar.com/2026/11/2062796/todays-foreign-exchange-rate-is-53"
+      },
+      {
+        "name": "ब्रेन्ट कच्चा तेल",
+        "value": 92.57,
+        "unit": "डलर",
+        "change_pct": null,
+        "source": "एनर्जीनाउ (शीर्षक)",
+        "url": "https://energynow.com/2026/11/oil-prices-rebound-friday-on-middle-east-tensions-but-fall-for-third-straight-week-wti-closes-at-83-98-brent-at-92-57/"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "प्रधानमन्त्री बालेन नयाँदिल्ली पुगे, भोलि मोदीसँग वार्ता; सीमा विवाद एजेन्डामा परेन",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाह (बालेन) आज (आइतबार, मंसिर ६) दिउँसो दुई दिने राजकीय भ्रमणमा नयाँदिल्ली पुगेका छन्। इन्दिरा गान्धी विमानस्थलमा भारतका उद्योग तथा वाणिज्य राज्यमन्त्री जितिन प्रसादले स्वागत गरे। टोलीमा अर्थमन्त्री स्वर्णिम वाग्ले र परराष्ट्रमन्त्री शिशिर खनाल पनि छन्। काठमाडौं पोस्टका अनुसार भ्रमणमा विदेशमन्त्री एस. जयशंकर, प्रधानमन्त्री नरेन्द्र मोदी र राष्ट्रपति द्रौपदी मुर्मुसँग भेट तय छ, र सोमबार प्रतिनिधिमण्डलस्तरको वार्तापछि केही सम्झौतामा हस्ताक्षर हुने कार्यक्रम छ। परराष्ट्र मन्त्रालयका एक उच्च अधिकारीका अनुसार सीमा विवादको विषय वार्ताको एजेन्डामा समेटिएको छैन।",
+      "sides": [
+        {
+          "who": "भारत सरकारका स्रोत",
+          "says": "नेपालको हवाई क्षेत्र भएर सैनिक विमान बागडोगरा लैजान अनुमति मागेको भन्ने समाचार गलत हो, यस्तो कुनै प्रस्ताव गरिएको छैन।"
+        },
+        {
+          "who": "सत्तारुढ रास्वपा",
+          "says": "प्रधानमन्त्रीको भ्रमणले दुई देशबीचको विश्वास, सहकार्य र साझेदारी बढाउन योगदान पुर्‍याउने अपेक्षा छ।"
+        }
+      ],
+      "unverified": "टोलीमा ३४ वा ३५ सदस्य रहेको स्रोतअनुसार फरक छ। कुन कुन सम्झौतामा हस्ताक्षर हुनेछन् भन्ने पुष्टि भएको छैन।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर इङ्लिस",
+          "url": "https://english.onlinekhabar.com/pm-balen-arrives-in-new-delhi.html"
+        },
+        {
+          "name": "काठमाडौं पोस्ट",
+          "url": "https://kathmandupost.com/national/2026/11/22/indian-minister-welcomes-shah-as-he-arrives-in-delhi"
+        },
+        {
+          "name": "अनलाइनखबर (सीमा विवाद)",
+          "url": "https://www.onlinekhabar.com/2026/11/2063166/prime-ministers-visit-to-india-border-dispute-not-on-agenda"
+        },
+        {
+          "name": "द ट्रिब्युन (शीर्षक)",
+          "url": "https://www.tribuneindia.com/news/india/india-denies-seeking-nepalese-airspace-for-military-flights-to-bagdogra/"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "बागमतीका पूर्वमुख्यमन्त्री इन्द्र बानियाँविरुद्ध बैंकिङ कसुर मुद्दामा पक्राउ पुर्जी",
+      "summary": "बागमती प्रदेशका पूर्वमुख्यमन्त्री इन्द्र बानियाँविरुद्ध बैंकिङ कसुर मुद्दामा पक्राउ पुर्जी जारी भएको केन्द्रीय अनुसन्धान ब्युरो (सीआईबी) का एक अधिकारीले बताएका छन्। उनका छोरा दीक्षान्त बानियाँ कात्तिक १६ देखि सीआईबीको हिरासतमा छन्। उनीहरूमाथि बैंकबाट लिएको करिब ३४ करोड रुपैयाँ ऋण दुरुपयोग गरेको आरोप छ।",
+      "unverified": "आरोपबारे पूर्वमुख्यमन्त्री बानियाँको भनाइ भेटिएन। उनी अहिले कहाँ छन् भन्ने पनि स्पष्ट छैन।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर इङ्लिस",
+          "url": "https://english.onlinekhabar.com/arrest-warrant-indra-baniya.html"
+        },
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2063210/why-was-an-arrest-warrant-issued-against-former-chief-minister-baniya"
+        },
+        {
+          "name": "रातोपाटी (शीर्षक)",
+          "url": "https://www.ratopati.com/story/606901/arrest-warrant-issued-against-former-bagmati-province-chief-minister-baniya"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "शुल्क पुनरावलोकन नभएसम्म विद्यार्थी भर्ना नलिने निजी मेडिकल कलेजहरूको चेतावनी",
+      "summary": "निजी मेडिकल तथा डेन्टल कलेजहरूको संघले चिकित्सा शिक्षा ऐनअनुसार शिक्षण शुल्क पुनरावलोकन नभएसम्म स्नातक (एमबीबीएस लगायत) र स्नातकोत्तर तहमा विद्यार्थी भर्ना नगर्ने चेतावनी दिएको छ। कलेजहरूले शुल्कसँगै सिट संख्या पनि बढाउनुपर्ने माग राखेका छन्।",
+      "unverified": "यो मागबारे सरकार वा चिकित्सा शिक्षा आयोगको प्रतिक्रिया भेटिएन।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2063126/private-medical-colleges-warn-against-mbbs-admissions-unless-fees-and-seats-increase"
+        },
+        {
+          "name": "नेपाल प्रेस (शीर्षक)",
+          "url": "https://nepalpress.com/2026/11/22/783393/private-medical-colleges-stance-no-student-admissions-until-fees-are-reviewed/"
+        },
+        {
+          "name": "पर्दाफास (शीर्षक)",
+          "url": "https://english.pardafas.com/private-medical-colleges-refuse-admissions-until-fees-and-seats-are-reviewed/"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "जलवायु सम्मेलन COP31 सहमतिबिना टुंगियो, जीवाश्म इन्धन नलेखिएको मस्यौदा युरोपेली संघले अस्वीकार गर्‍यो",
+      "summary": "टर्कीको अन्तल्यामा भएको संयुक्त राष्ट्रसंघीय जलवायु सम्मेलन COP31 थपिएको समयमा पनि सहमति नजुटी टुंगिएको छ। आयोजक टर्कीको अन्तिम मस्यौदामा तापमान बढाउने मुख्य कारण 'जीवाश्म इन्धन' (कोइला, तेल, ग्यास) शब्द नै नराखिएपछि युरोपेली संघ र अन्य केही देशले त्यसलाई अस्वीकार गरे। युरोपेली संघले यस्तो मस्यौदाले सम्मेलनलाई 'जीवाश्म इन्धनको सम्मेलन' बनाउने चेतावनी दिएको थियो। सम्मेलनका अध्यक्ष मुरात कुरुमले वार्ताकारलाई आपत्ति जनाउन करिब तीन घण्टा मात्र दिएका थिए। मस्यौदाले पहिलो पटक पृथ्वीको तापमान १.५ डिग्री सेल्सियसको सीमा नाघ्ने बाटोमा रहेको स्वीकार्ने प्रस्ताव गरेको थियो।",
+      "impact": "अनलाइनखबरका अनुसार सम्मेलनमा नेपालले उठाउँदै आएको हिमाल र जलवायु परिवर्तनसम्बन्धी दुई वर्षे कार्यक्रम सुरु गर्ने विषयमा सहमति भएको थियो।",
+      "unverified": "सम्पूर्ण सम्मेलन सहमतिबिना टुंगिएपछि हिमालसम्बन्धी कार्यक्रम औपचारिक रूपमा पारित भयो कि भएन भन्ने पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "रोयटर्स (साइप्रस मेल मार्फत, शीर्षक)",
+          "url": "https://cyprus-mail.com/2026/11/22/cop31-climate-talks-break-down-as-eu-others-reject-deal"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/cop31-turkiyes-final-draft-doesnt-mention-the-words-fossil-fuels-that-cause-global-warming/article71730648.ece"
+        },
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss"
+        },
+        {
+          "name": "फ्रान्स २४",
+          "url": "https://www.france24.com/en/countries-race-to-secure-cop31-deal"
+        },
+        {
+          "name": "अनलाइनखबर (हिमाल कार्यक्रम)",
+          "url": "https://english.onlinekhabar.com/cop31-agrees-to-launch-2-year-programme-on-mountains-and-climate-change.html"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "किभ क्षेत्रमा रुसी ड्रोनले पाँचतले आवासीय भवन ध्वस्त, कम्तीमा १४ जना बेपत्ता",
+      "summary": "युक्रेनको राजधानी किभ नजिकको डिमेर शहरमा रुसी ड्रोनले पाँचतले आवासीय भवनमा आक्रमण गर्दा कम्तीमा १४ जना बेपत्ता भएको र दुई जना घाइते भएको राष्ट्रपति भोलोदिमिर जेलेन्स्कीले बताएका छन्। उद्धारकर्मीले भग्नावशेषमा खोजी गरिरहेका छन् र भवनमा फसेका बासिन्दालाई भर्‍याङ र क्रेनबाट निकालिएको छ। यसैबीच फिनल्याण्ड नजिक शनिबार ड्रोन आक्रमण भएको रुसी मालवाहक जहाजमा आगो अझै निभेको छैन।",
+      "unverified": "युक्रेनी सञ्चारमाध्यमले एक जनाको मृत्यु भएको जनाएका छन्, तर अन्तर्राष्ट्रिय समाचार संस्थाबाट पुष्टि भएको छैन।",
+      "sources": [
+        {
+          "name": "फ्रान्स २४",
+          "url": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskyy-says/article71731042.ece"
+        },
+        {
+          "name": "रोयटर्स (शीर्षक)",
+          "url": "https://ca.news.yahoo.com/least-14-people-missing-russian-085938398.html"
+        },
+        {
+          "name": "अल जजिरा (जहाज, शीर्षक)",
+          "url": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "इन्डोनेसियामा मिठाई कारखानामा आगलागी, कम्तीमा ३ जनाको मृत्यु, दर्जनौं बेपत्ता",
+      "summary": "इन्डोनेसियाको राजधानी जकार्ता नजिकको बान्टेन प्रदेशको सेराङ जिल्लामा रहेको एक मिठाई (क्यान्डी) कारखानामा आगलागी हुँदा कम्तीमा ३ जनाको मृत्यु भएको छ। उद्धार अधिकारीका अनुसार ३६ जना बेपत्ता छन्। कम्तीमा १५ जनाको उद्धार गरिएको छ, जसमध्ये ४ जनालाई अस्पताल पुर्‍याइएको छ। कारखानाको धेरै भाग जलेको छ र आगलागीको कारणबारे अनुसन्धान भइरहेको छ।",
+      "unverified": "बेपत्ता संख्या स्रोतअनुसार फरक छ: धेरै स्रोतले ३६ भनेका छन्, रोयटर्सको एक शीर्षकमा ५० जना बेपत्ता भनिएको छ।",
+      "sources": [
+        {
+          "name": "बीबीसी",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "डीडब्लू",
+          "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/rescuers-say-many-missing-after-indonesia-factory-fire/article71730558.ece"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "चिनियाँ दूरसञ्चार कम्पनीलाई अमेरिकी फोन नम्बरमा सिधा पहुँच रोक्ने निर्णयको चीनद्वारा विरोध",
+      "summary": "अमेरिकी सञ्चार आयोग (FCC) ले बिहीबार चाइना मोबाइल, चाइना टेलिकम र चाइना युनिकमलगायत चिनियाँ दूरसञ्चार कम्पनीलाई अमेरिकी फोन नम्बरमा सिधा पहुँच दिन रोक्ने प्रस्ताव पारित गर्‍यो। यो निर्णय अमेरिकी राष्ट्रपति ट्रम्प र चिनियाँ राष्ट्रपति सी जिनपिङको भेटको केही घण्टापछि आएको थियो। यसअघि अमेरिकाले चीनलगायत देशका कम्पनीलाई विदेशमा रहेका डेटा सेन्टरमार्फत उन्नत अमेरिकी AI चिप टाढैबाट प्रयोग गर्न पनि रोक लगाएको छ।",
+      "sides": [
+        {
+          "who": "अमेरिकी सञ्चार आयोग (FCC)",
+          "says": "यो कदम अनावश्यक स्वचालित फोन कल (रोबोकल) रोक्ने प्रयासको हिस्सा हो।"
+        },
+        {
+          "who": "चीन सरकार",
+          "says": "यो प्रतिबन्ध 'दुर्भावनापूर्ण' हो, अमेरिकाले फिर्ता लिनुपर्छ र चीनले आफ्नो हित जोगाउन कदम चाल्नेछ।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "एससीएमपी",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375364/beijing-vows-defend-interests-us-bars-chinese-telecoms-accessing-phone-numbers"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/china-slams-malicious-us-ban-on-telecom-firms-phone-number-access/article71730683.ece"
+        },
+        {
+          "name": "रोयटर्स (याहु मार्फत, शीर्षक)",
+          "url": "https://sg.news.yahoo.com/fcc-votes-ban-chinese-telecoms-163035983.html"
+        },
+        {
+          "name": "फक्स बिजनेस (शीर्षक)",
+          "url": "https://www.foxbusiness.com/politics/fcc-bans-chinese-firms-direct-access-us-phone-numbers-bid-curb-robocalls"
+        },
+        {
+          "name": "द हिन्दू (AI चिप)",
+          "url": "https://www.thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "चार महिनामा कोरला नाकाबाट चीनबाट करिब ७ हजार विद्युतीय गाडी भित्रिए",
+      "summary": "चालु आर्थिक वर्षको पहिलो चार महिनामा मुस्ताङको कोरला नाका हुँदै चीनबाट करिब ७ हजार विद्युतीय गाडी (EV) नेपाल भित्रिएका छन्। अरू नाका बन्द भएपछि यो उत्तरी नाकाबाट आयात ह्वात्तै बढेको हो। मुस्ताङ भन्सार कार्यालय कोरलाका अनुसार यस अवधिमा भन्सार राजस्व लक्ष्यभन्दा बढी उठेको छ।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर इङ्लिस",
+          "url": "https://english.onlinekhabar.com/ev-imports-surge-korala-border.html"
+        },
+        {
+          "name": "नेपालन्युज (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZjhSUTBuakk3QlppNXBRd29faXdmUExlbUVUTjZxLWlGdWRGaWV4YWV6MWpEMHlSUDZZay0tVE5YeWhXOS1DclBVTzkxR2d5cThrSmh2OUx"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "सुनको भाउ आज तोलामा २ हजार ८ सय रुपैयाँ घट्यो, विश्व बजारमा सुन, तामा र एल्युमिनियम ७ महिनाकै कम",
+      "summary": "नेपाली बजारमा आज (आइतबार) सुनको मूल्य प्रतितोला २ हजार ८ सय रुपैयाँ घटेर २ लाख ४२ हजार ६ सय रुपैयाँ पुगेको छ। अनलाइनखबरका अनुसार मंसिर लागेयता सुन प्रतितोला २४ हजार ६ सय रुपैयाँ सस्तो भएको छ। चाँदीको भाउ पनि घटेको छ। विश्व बजारमा अमेरिकी केन्द्रीय बैंक (फेड) ले ब्याजदर कडा राख्ने संकेत र विश्व अर्थतन्त्रको वृद्धिबारेको चिन्ताले सुन, तामा र एल्युमिनियमको मूल्य कम्तीमा ७ महिनायताकै न्यून बिन्दुमा झरेको छ।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2063029/the-price-of-gold-has-fallen-by-24600-since-the-beginning-of-mangsir-how-mu"
+        },
+        {
+          "name": "अनलाइनखबर इङ्लिस (शीर्षक)",
+          "url": "https://english.onlinekhabar.com/gold-silver-prices-fall-further-in-nepal.html"
+        },
+        {
+          "name": "रिपब्लिका (शीर्षक)",
+          "url": "https://myrepublica.nagariknetwork.com/news/gold-prices-extend-decline-fall-by-rs-2800-per-tola-66-14.html"
+        },
+        {
+          "name": "आईसीटी फ्रेम (शीर्षक)",
+          "url": "https://ictframe.com/gold-price-drops-2800-npr/"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "AI प्रयोग गरेर परीक्षामा चिट चोर्ने डरबीच दक्षिण कोरियाका शिक्षामन्त्रीको राजीनामा",
+      "summary": "दक्षिण कोरियाका शिक्षामन्त्री चोइ क्यो-जिनले आइतबार राजीनामा दिएका छन् र राष्ट्रपति ली जे-म्युङले एक घण्टाभित्रै स्वीकृत गरे। गत आइतबार (नोभेम्बर १५) एक राष्ट्रिय कर लेखापाल परीक्षाका सर्वोच्च अंक ल्याउने परीक्षार्थीले लुकाएर राखेको सानो क्यामेरा र स्मार्टफोन प्रयोग गरेको स्वीकारेपछि देशभर AI को सहयोगमा चिट चोरिने डर फैलियो। त्यसपछि विश्वविद्यालय प्रवेश परीक्षामा अन्तिम समयमा फोन प्रतिबन्ध र लुगामा लुकाइएको क्यामेराको जाँचजस्ता कडा नियम लागू गर्दा विद्यार्थी र शिक्षकमा अन्योल भयो। मन्त्री चोइले परीक्षाको तयारी राम्रोसँग गर्न नसकेको स्वीकारेका छन्।",
+      "sources": [
+        {
+          "name": "बीबीसी",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/south-korea-education-minister-resigns-amid-ai-cheating-scandal/article71730601.ece"
+        },
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2063136/south-koreas-education-minister-resigns-after-ai-cheating-scandal-exposed"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "मानिसको निर्णयबिना आक्रमण गर्ने 'किलर रोबोट' नियन्त्रणबारे राष्ट्रसंघीय वार्ता थप दुई वर्ष लम्बियो",
+      "summary": "AI ले आफैं निशाना छानेर आक्रमण गर्न सक्ने हतियार र ड्रोन (जसलाई 'किलर रोबोट' भनिन्छ) नियन्त्रण गर्ने नियम बनाउन जेनेभामा भएको राष्ट्रसंघीय वार्ता शनिबार ठोस प्रतिबद्धताबिना टुंगियो। देशहरूले सन् २०२८ सम्म नियम बनाउने लक्ष्यसहित थप दुई वर्ष छलफल गर्ने सहमति गरे। करिब १०० देशले कडा नियमको पक्ष लिए पनि अमेरिका, रुस र इजरायलजस्ता ठूला हतियार उत्पादक देशले विरोध गरे। त्यसैले भविष्यका नियम कानुनी रूपमा बाध्यकारी हुने कि नहुने भन्ने प्रश्न खुलै छ। युक्रेन, सुडान र मध्यपूर्वका युद्धमा यस्ता हतियारको प्रयोग बढेपछि चिन्ता बढेको छ।",
+      "sources": [
+        {
+          "name": "एपी (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3JlX1Q4VXpOM1lnZ2s3aUdnSmxhOExuMl9PUlVwSUpZclY1R3RSb04wdzljcmNaQzJoOENYYmxCQ2tLaXpma2RhQ3hHeWdwYURDN2ZBaGx"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/states-agree-toun-talks-aiming-to-regulate-killer-robots-by-2028/article71729173.ece"
+        },
+        {
+          "name": "काठमाडौं पोस्ट",
+          "url": "https://kathmandupost.com/science-technology/2026/11/21/states-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028"
+        },
+        {
+          "name": "द भर्ज",
+          "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+        }
+      ]
+    }
+  ]
+}
