@@ -1,0 +1,320 @@
+{
+  "id": "2026-11-23-pm",
+  "generated_at": "2026-11-23T18:14:00+05:45",
+  "markets": {
+    "as_of": "NEPSE: सोमबार, नोभेम्बर २३ (मंसिर ७) को बन्द · ब्रेन्ट: सोमबार, नोभेम्बर २३ को कारोबार · डलर: आइतबार, नोभेम्बर २२ (मंसिर ६) को राष्ट्र बैंकको दर (खरिद १४७.९८, बिक्री १४८.५८ रुपैयाँ) · अमेरिकी बजार (शुक्रबार, नोभेम्बर २०): S&P 500 ३.७ प्रतिशत घट्यो; Nasdaq गत हप्ता करिब १० प्रतिशत घट्यो। सूचकांकको अंक मिति सहित पुष्टि हुन सकेन। आज सोमबार राति अमेरिकी बजार खुल्नेछ।",
+    "items": [
+      {
+        "name": "NEPSE",
+        "value": 2623.56,
+        "change_pct": 0.09,
+        "source": "रातोपाटी / अनलाइनखबर",
+        "url": "https://english.ratopati.com/story/87956/nepse-index-rises-marginally"
+      },
+      {
+        "name": "डलर (राष्ट्र बैंक, खरिद)",
+        "value": 147.98,
+        "unit": "रु",
+        "change_pct": null,
+        "source": "नेपाल राष्ट्र बैंक (अनलाइनखबर मार्फत)",
+        "url": "https://www.onlinekhabar.com/2026/11/2062796/todays-foreign-exchange-rate-is-53"
+      },
+      {
+        "name": "ब्रेन्ट कच्चा तेल",
+        "value": 92.32,
+        "unit": "डलर",
+        "change_pct": -0.5,
+        "source": "फाइनान्सफिड्स / एचडीएफसी स्काई (शीर्षक)",
+        "url": "https://financefeeds.com/brent-crude-oil-price-92-32-monday-houthi-refinery-claim-opec-plus-29-november-bull-96-bear-89/"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "भारतले नेपाललाई करिब १ अर्ब ६२ करोड डलरको सहयोग प्याकेज घोषणा गर्‍यो",
+      "summary": "प्रधानमन्त्री बालेन शाहको भारत भ्रमणका क्रममा सोमबार भारतीय प्रधानमन्त्री नरेन्द्र मोदीले बाढीपछिको पुनर्निर्माण र विकासका लागि नेपाललाई करिब १ अर्ब ६२ करोड डलरको प्याकेज घोषणा गरे। नेपाली रुपैयाँमा यो करिब २ खर्ब ४० अर्ब (२४ हजार करोड) रुपैयाँ हो। संयुक्त प्रेस विज्ञप्तिअनुसार यसमध्ये ५६ अर्ब रुपैयाँ अनुदान र १ खर्ब ८४ अर्ब रुपैयाँ सहुलियतपूर्ण ऋण हुनेछ। मोदीले नेपालमा भारतको प्रविधि संस्थान IIT को शाखा क्याम्पस, स्टार्टअप केन्द्र र व्यावसायिक तालिम प्रतिष्ठान खोल्ने पनि घोषणा गरे।",
+      "impact": "रकम पुनर्निर्माण र विकास आयोजनामा खर्च हुने बताइएको छ; ऋणको भाग भने नेपालले फिर्ता तिर्नुपर्नेछ।",
+      "sources": [
+        {
+          "name": "रोयटर्स (इन्टरनाजियोनाले मार्फत, शीर्षक)",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/23/india-to-give-1-62-billion-economic-package-to-flood-hit-nepal"
+        },
+        {
+          "name": "अनलाइनखबर इङ्लिस (अनुदान र ऋण)",
+          "url": "https://english.onlinekhabar.com/india-to-provide-nepal-concessional-loan.html"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/national/india-announces-development-package-of-24000-crore-nepalese-rupees-for-nepals-development/article71734100.ece"
+        },
+        {
+          "name": "अनलाइनखबर इङ्लिस (IIT)",
+          "url": "https://english.onlinekhabar.com/india-to-establish-iit-campus-startup-incubator-and-vocational-training-institute-in-nepal.html"
+        },
+        {
+          "name": "एपी (एबीसी न्युज मार्फत, शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWUZrYXJvcHQwRHlTTFloX2E2T1lHX0ZCQS1XOXJ2aGx1cHdpYjFtTEJ5TVBZS2MyN1ZrNUJNRlBNS1hjR25CTVFXdEM1UWRDeFJlbHo0TThxQXJiY2NiSFpvS2c3UTRjNV9BN0ZIOGhCd1k0QVNObTNvYjZMbkRKUlZ6STN3Y3p0ZmFyWHd2cWh2cjZwOFZvSzhnd0lqZ0NfM1VRZ1JvakfSAa4BQVVfeXFMTWYzMDZNeUliXzFKSnJib1ZkSmZWdjVaTGFRSEJwcHBYdW9oYllwSkNpVHQxZlhMSEJlWGotYUwtSElmcmttbjhrMW9TU3FoR3c5Wkpna0tGbnl0dkFmejRuZDlxY1hmeGVISVVkdWtZNmxoQ3BRMXdaQnktdF9xZE1GWUFSOHA4eVZ4ay1aRGE2b0Y0Z1VETXV0V190Nnp5b3FaTFUxZmpBcnE0LTl3?oc=5"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "सन् १९५० को सन्धि पुनरावलोकन गर्न र भैरहवा हवाई मार्ग दुईतर्फी बनाउन नेपाल–भारत सहमत",
+      "summary": "भ्रमणका क्रममा जारी 'विकसित भारत र समुन्नत नेपाल' संयुक्त दस्तावेजमा सन् १९५० को शान्ति तथा मैत्री सन्धिसहित अन्य द्विपक्षीय सम्झौता दुवै पक्षको सहमतिमा पुनरावलोकन गर्ने उल्लेख छ। अहिले एकतर्फी रहेको काठमाडौं–भैरहवा–लखनऊ हवाई मार्ग दुईतर्फी बनाउन भारत सहमत भएको छ, जसका लागि नेपालले एक दशकभन्दा बढी समयदेखि माग गर्दै आएको थियो। पञ्चेश्वर, सप्तकोसी र सुनकोसी बहुउद्देश्यीय आयोजनाको काम छिटो गर्ने र सम्झौता कार्यान्वयन अनुगमन गर्न उच्चस्तरीय संयन्त्र सक्रिय पार्ने सहमति पनि भएको छ। दुई दिने भ्रमण सकेर प्रधानमन्त्री शाह सोमबार स्वदेश फर्किए।",
+      "unverified": "सन्धि पुनरावलोकन कहिले र कुन प्रक्रियाबाट हुन्छ भन्ने विवरण हेरिएका स्रोतमा भेटिएन।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर इङ्लिस (सन्धि)",
+          "url": "https://english.onlinekhabar.com/nepal-india-review-1950-treaty.html"
+        },
+        {
+          "name": "रातोपाटी इङ्लिस (शीर्षक)",
+          "url": "https://english.ratopati.com/story/87958/existing-bilateral-agreements-including-the-1950-treaty-of-peace-and-friendship-could-be-reviewed"
+        },
+        {
+          "name": "अनलाइनखबर इङ्लिस (हवाई मार्ग)",
+          "url": "https://english.onlinekhabar.com/india-agrees-air-entry-route.html"
+        },
+        {
+          "name": "रिपब्लिका (हवाई मार्ग, शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVDhRbzZKcjZUa0lRWjY2RTkxanZFa3RBVmxFX2hGZGN4MDNoLWY5U1NQQTA5eS0ybGdYb0dpOTNrbl96UW02ckp5SzNQaGpyR0NZU2ZvUU5tMld5UC1GaWlJZzlkR2hjVjdKT1hla1JYbjNpa2VBU2hvWnh4dHNndFlFQjQ2TXQ3d29TOXRkcVhEWTNMeV9JZ09HdWd3cU9WSU1KYnlMalZQRTJSa1NXbVFFTDItVFBvSnI2aHRmRGV6YjliUmtWNlpR?oc=5"
+        },
+        {
+          "name": "अनलाइनखबर (पञ्चेश्वर)",
+          "url": "https://www.onlinekhabar.com/2026/11/2063910/agreement-to-accelerate-work-on-pancheshwor-multipurpose-project"
+        },
+        {
+          "name": "नेपाल प्रेस (२४ बुँदे संयुक्त विज्ञप्ति, शीर्षक)",
+          "url": "https://english.nepalpress.com/2026/11/23/nepal-india-24-point-joint-statement-full-text/"
+        },
+        {
+          "name": "अनलाइनखबर इङ्लिस (स्वदेश फिर्ती)",
+          "url": "https://english.onlinekhabar.com/prime-minister-shah-returns-home-after-india-visit.html"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "मोबाइलमा आपतकालीन सतर्कता सन्देशको परीक्षण, सरकारको आग्रह: नआत्तिनुहोस्",
+      "summary": "सरकारले सोमबार काठमाडौं उपत्यकाका मोबाइल प्रयोगकर्तामाझ 'सेल ब्रोडकास्ट प्रणाली' को परीक्षण गर्ने भएको छ। यो प्रणालीबाट विपद्‌को बेला एकैपटक धेरै मोबाइलमा चेतावनी सन्देश पठाउन सकिन्छ। परीक्षणका क्रममा कतिपय मोबाइलमा आपतकालीन सतर्कता सन्देश आउन सक्छ। सूचना तथा सञ्चार मन्त्रालय र गृह मन्त्रालयले संयुक्त सूचना जारी गरेर त्यस्तो सन्देश आए नआत्तिन आग्रह गरेका छन्।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2063958/government-message-high-alert-notification-may-come-on-mobile-dont-panic"
+        },
+        {
+          "name": "रिपब्लिका (शीर्षक)",
+          "url": "https://myrepublica.nagariknetwork.com/news/home-ministry-urges-public-not-to-panic-over-emergency-test-alerts-on-mobil-10-27.html"
+        },
+        {
+          "name": "रेडियो नेपाल (शीर्षक)",
+          "url": "https://radionepalonline.com/en/2026/11/19/439030.html"
+        },
+        {
+          "name": "नेपाली टेलिकम (शीर्षक)",
+          "url": "https://www.nepalitelecom.com/2026/11/nepal-to-test-cell-broadcast-system-for-emergency-alerts-in-kathmandu.html"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "लिबियामा रुसी युद्धपोत डुबाएको युक्रेनले स्वीकार्‍यो, किभ क्षेत्रमा रुसी आक्रमणमा १५ जनाको मृत्यु",
+      "summary": "लिबियाको बेनगाजी बन्दरगाहमा आइतबार रुसी नौसेनाको युद्धपोत 'मर्करी' मा भएको आक्रमण आफ्नो सेनाले गरेको युक्रेनी राष्ट्रपति भोलोदिमिर जेलेन्स्कीले सोमबार पुष्टि गरे। युक्रेनी सुरक्षा सेवाका अनुसार स्वदेशमै बनेका ७ वटा समुद्री ड्रोन प्रयोग गरिएको थियो र युद्धपोत डुबेको छ। जेलेन्स्कीका अनुसार हतियार ओसार्न प्रयोग भएको रुसी मालवाहक जहाज 'अंगारा' मा पनि आक्रमण गरिएको थियो। यता युक्रेनका अनुसार किभ क्षेत्रमा रुसी आक्रमणमा कम्तीमा १५ जनाको मृत्यु भएको छ।",
+      "sides": [
+        {
+          "who": "युक्रेन (जेलेन्स्की)",
+          "says": "समुद्री ड्रोनको यो कारबाही 'उदाहरणीय' थियो र रुसले हतियार ओसार्ने जहाजलाई निशाना बनाइएको हो।"
+        },
+        {
+          "who": "रुस (क्रेमलिन)",
+          "says": "लिबियाको आक्रमणबारे सिधा टिप्पणी गरेन, तर क्षेत्रमा तनाव बढ्ने चेतावनी दियो।"
+        }
+      ],
+      "unverified": "ड्रोन कहाँबाट प्रहार गरियो भन्ने स्पष्ट छैन; अल्बानियाले आफ्नो भूमिबाट प्रहार नभएको बताएको छ।",
+      "sources": [
+        {
+          "name": "बीबीसी",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
+        },
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+        },
+        {
+          "name": "फ्रान्स २४",
+          "url": "https://www.france24.com/en/video/20261123-zelensky-says-ukraine-sank-russian-warship-off-libya"
+        },
+        {
+          "name": "एपी (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1VjenRaWHFSYy04RXNZOGtGZ21ldWg3a1B4WVp3dk1OY2pPZ2pRcXFCLTk0YnJjalVEMnBqV2M2UnpCSENVWVNPVDhEZXhNQTdPZnlPWDJhNXR5VThOTVdKT2JRYmJfOW9hTzdqRUdMakNOUEFHVmdwWnNNOEx6ZmFiRVc5Z1JyZE5nNHFwODlkTkp5aHRVNUZxZVo2aDR0TnN6U2VRTlE?oc=5"
+        },
+        {
+          "name": "द हिन्दू (किभ क्षेत्र)",
+          "url": "https://www.thehindu.com/news/international/ukraine-says-russian-strikes-kill-several-in-kyiv-region/article71733677.ece"
+        },
+        {
+          "name": "अल जजिरा (किभ क्षेत्र)",
+          "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine"
+        },
+        {
+          "name": "द गार्डियन (अल्बानिया, लाइभ)",
+          "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "युद्धले गाजालाई 'विषाक्त उजाड भूमि' बनाएको अक्सफामको प्रतिवेदन",
+      "summary": "बेलायतमा आधारित सहायता संस्था अक्सफामको नयाँ प्रतिवेदनले इजरायली आक्रमणका कारण गाजाको लगभग सबै भागमा प्रदूषण भएको संकेत देखिएको जनाएको छ। द गार्डियनका अनुसार प्रतिवेदनमा पानी विषाक्त भएको, माटो दूषित भएको र हावा प्रदूषित भएको उल्लेख छ, जसले पुस्तौंसम्म जनस्वास्थ्यमा खतरा पुर्‍याउन सक्ने चेतावनी दिइएको छ। अल जजिराका अनुसार प्रतिवेदनले गाजाको ९९ प्रतिशत भागमा विषाक्त प्रदूषणका लागि इजरायललाई दोष दिएको छ।",
+      "unverified": "प्रतिवेदनबारे इजरायली सरकारको प्रतिक्रिया हेरिएका स्रोतमा भेटिएन।",
+      "sources": [
+        {
+          "name": "बीबीसी",
+          "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o"
+        },
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report"
+        },
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza"
+        },
+        {
+          "name": "अक्सफाम (प्रतिवेदन, शीर्षक)",
+          "url": "https://www.oxfam.org/en/research/environmental-war-crimes"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "भारतीय व्यवसायीलाई भिसा दिन सहज बनाउन भारतसँग काम गर्न तयार रहेको चीनको भनाइ",
+      "summary": "चिनियाँ नियोगहरूले भारतीय नागरिकलाई व्यापारिक भिसासहित भिसा दिन घटाएको खबर आएपछि चीनले भारतीय व्यवसायीको भिसा प्रक्रिया सहज बनाउन भारतसँग काम गर्न तयार रहेको जनाएको छ। द हिन्दूका अनुसार चिनियाँ प्रवक्ताले यस्तो भनाइ राखेका हुन्। ब्लुमबर्गले पनि भारतीय समाचार संस्था पीटीआईको हवाला दिँदै चीनले भारतीयको व्यापारिक भिसा सहज बनाउने प्रस्ताव गरेको लेखेको छ।",
+      "unverified": "भिसा कति घटेको थियो र किन भन्ने आधिकारिक विवरण भेटिएन।",
+      "sources": [
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/national/china-says-ready-to-work-with-india-to-facilitate-visa-issuance-for-business-people/article71734314.ece"
+        },
+        {
+          "name": "ब्लुमबर्ग (पीटीआई, शीर्षक)",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/china-offers-to-ease-business-visas-for-indians-pti-reports"
+        },
+        {
+          "name": "डेक्कन हेराल्ड (शीर्षक)",
+          "url": "https://www.deccanherald.com/world/china/china-says-ready-to-work-with-india-to-facilitate-visa-issuance-for-businessmen-4228298"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "दलाई लामाको उत्तराधिकारबारे भारतसँग उच्चस्तरीय संवाद गर्न अमेरिकी आयोगको सिफारिस",
+      "summary": "अमेरिकी कांग्रेस (संसद) को एक आयोगले १४औं दलाई लामाको उत्तराधिकारको तयारीबारे भारतसँग उच्चस्तरीय संवाद गर्ने माध्यम बनाउन सिफारिस गरेको छ। द हिन्दूका अनुसार आयोगको तर्क छ कि चीनले उत्तराधिकारको प्रक्रियालाई कसको छनोट मान्य हुने भन्ने अन्तर्राष्ट्रिय प्रतिस्पर्धामा बदल्न सक्छ। ट्रिब्युन इन्डियाले पनि यो सिफारिस चीनको प्रभाव रोक्ने उद्देश्यले आएको लेखेको छ।",
+      "sources": [
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/us-panel-urges-india-dialogue-for-dalai-lama-succession-warns-of-china-legitimacy-contest/article71733447.ece"
+        },
+        {
+          "name": "द ट्रिब्युन (शीर्षक)",
+          "url": "https://www.tribuneindia.com/news/india/dalai-lama-succession-us-proposes-senior-level-channel-with-india-to-counter-chinas-influence"
+        },
+        {
+          "name": "USCC वार्षिक प्रतिवेदन (शीर्षक)",
+          "url": "https://www.uscc.gov/sites/default/files/2026-11/2026_Annual_Report_to_Congress.pdf"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "खराब हप्तापछि अमेरिकी सेयर फ्युचर्समा सुधार, युरोपेली बजार पनि उकालो",
+      "summary": "गत हप्ता Nasdaq करिब १० प्रतिशत घटेर सन् २०२० को कोभिडको सुरुवातयताकै खराब हप्ता बिताएपछि सोमबार अमेरिकी सेयर फ्युचर्स (बजार खुल्नुअघिको कारोबार) बढेका छन्। रोयटर्सका अनुसार AI सम्बन्धी कम्पनीका सेयर फेरि उक्लिँदा फ्युचर्स बढेको हो; केही स्रोतअनुसार Nasdaq १०० फ्युचर्स करिब ३ प्रतिशतसम्म बढेको छ। युरोपको STOXX ६०० सूचकांक पनि प्रविधि सेयरको सुधारसँगै बढेको छ। CNBC का अनुसार दक्षिण कोरिया, चीन र ताइवानका नियामकले आफ्ना बजारलाई सहारा दिन नयाँ उपाय ल्याएका छन् भने एन्थ्रोपिक र एनभिडियाका सेयर पनि बजार खुल्नुअघि बढेका छन्।",
+      "unverified": "फ्युचर्स कति प्रतिशत बढ्यो भन्ने स्रोतअनुसार फरक छ (करिब २.८ देखि ३.५ प्रतिशत)।",
+      "sources": [
+        {
+          "name": "रोयटर्स (इन्भेस्टिङ मार्फत, शीर्षक)",
+          "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-rebound-after-rough-week-for-ailinked-shares-5044594"
+        },
+        {
+          "name": "CNBC (एन्थ्रोपिक, एनभिडिया)",
+          "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
+        },
+        {
+          "name": "CNBC (एसियाली बजार)",
+          "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html"
+        },
+        {
+          "name": "रोयटर्स (युरोप, शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdDFuaFRyaktlcVA5TVR0eXF2QlktZ3ZVU3JkbzZycU8zTU90WEhFSlhuVTc5RTRCdVctYVpuQzZhdUJnN1BlZWdOYkZEQXg5alR6d1BDVWEwMEszRTlRUFB1aG9ueFhHWmZmbkI1dmFSSmNZMVF6VzlhZFpBOG5BaVJ0QlprZnRVRmVIZ2djcXFzM3VrU2VQa3FQelVLU2Qzd2MwT19jTUdkRnVWYmc?oc=5"
+        },
+        {
+          "name": "ट्रेडिङभ्यु / मनिकन्ट्रोल (शीर्षक)",
+          "url": "https://www.tradingview.com/news/moneycontrol:8b1a18d38094b:0-us-stock-futures-rebound-as-tech-stocks-recover-from-ai-sell-off-nasdaq-100-jumps-3-5-s-p-500-climbs-2-8/"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "धेरै कम्पनीको सेयर मूल्य घटे पनि नेप्से २.२६ अंक बढ्यो",
+      "summary": "सोमबार नेपाल स्टक एक्सचेन्जको परिसूचक नेप्से २.२६ अंक बढेर २६२३.५६ अंकमा पुगेको छ। अनलाइनखबरका अनुसार कारोबार भएका कम्पनीमध्ये १६५ को मूल्य घट्यो, १०५ को बढ्यो र १० को स्थिर रह्यो। रिपब्लिकाका अनुसार दिनभरको कारोबार रकम घटेर ३ अर्ब ८२ करोड रुपैयाँमा झरेको छ।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2063846/nepse-rises-despite-decline-in-share-prices-of-most-companies"
+        },
+        {
+          "name": "रातोपाटी इङ्लिस (शीर्षक)",
+          "url": "https://english.ratopati.com/story/87956/nepse-index-rises-marginally"
+        },
+        {
+          "name": "रिपब्लिका (शीर्षक)",
+          "url": "https://myrepublica.nagariknetwork.com/news/nepse-inches-up-226-points-as-daily-turnover-down-to-rs-382-billion-60-99.html"
+        },
+        {
+          "name": "खबरहब (शीर्षक)",
+          "url": "https://english.khabarhub.com/2026/23/576766/"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "मानिसको सट्टा AI ले अनलाइन किनमेल गरिदिने: वालमार्टले मेटाको 'म्युज' लाई अनुमति दियो",
+      "summary": "अमेरिकाको ठूलो खुद्रा कम्पनी वालमार्टले मेटा कम्पनीको AI सहायक 'म्युज' लाई आफ्नो वेबसाइटमा ग्राहकको तर्फबाट सामान खोजेर किन्न दिने भएको छ। द भर्जका अनुसार मंगलबार (नोभेम्बर २४) देखि यो सुविधा सुरु हुनेछ, जसमा AI ले 'ब्ल्याक फ्राइडे' छुटका सामान खोजेर किनिदिन सक्छ। यस्तो AI लाई 'एजेन्ट' भनिन्छ, अर्थात् प्रयोगकर्ताको आदेशमा आफैं काम गर्ने सफ्टवेयर। फोर्ब्सका अनुसार अमेजनले भने म्युजलाई आफ्नो साइटमा रोकेको छ।",
+      "sources": [
+        {
+          "name": "द भर्ज",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"
+        },
+        {
+          "name": "फोर्ब्स (शीर्षक)",
+          "url": "https://www.forbes.com/sites/pamdanziger/2026/10/26/meta-muses-10-million-users-why-walmart-wants-them-and-amazon-doesnt/"
+        },
+        {
+          "name": "टेकबज (शीर्षक)",
+          "url": "https://www.techbuzz.ai/articles/meta-muse-gets-walmart-checkout-access-for-black-friday-deals"
+        },
+        {
+          "name": "क्रिप्टो ब्रिफिङ (शीर्षक)",
+          "url": "https://cryptobriefing.com/walmart-meta-muse-black-friday-agent/"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "अमेरिकामा लगातार प्रविधि अवरोधपछि थप समस्या आउन सक्ने गुप्तचर प्रमुखको चेतावनी",
+      "summary": "पछिल्लो एक हप्तामा अमेरिकामा हवाई उडान रोकिने, माइक्रोसफ्टको इमेल सेवा आउटलुक धेरै दिन बन्द हुने र जेपी मोर्गन चेज बैंकको कारोबारमा अवरोध आउने घटना भए। द भर्जका अनुसार राष्ट्रिय गुप्तचर निर्देशक जे क्लेटनले अमेरिकी जनतालाई यस्ता अवरोध अझै आउन सक्ने चेतावनी दिएका छन्। CNBC का अनुसार उनको चेतावनी थ्याङ्क्सगिभिङ चाडको यात्राअघि आएको हो।",
+      "unverified": "अवरोधहरूको कारण साइबर आक्रमण थियो वा प्राविधिक गल्ती भन्ने हेरिएका स्रोतमा स्पष्ट भएन।",
+      "sources": [
+        {
+          "name": "द भर्ज",
+          "url": "https://www.theverge.com/tech/1039851/major-tech-outages"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
+        }
+      ]
+    }
+  ]
+}
