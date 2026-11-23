@@ -1,0 +1,264 @@
+{
+  "id": "2026-11-23-am",
+  "generated_at": "2026-11-23T06:15:00+05:45",
+  "markets": {
+    "as_of": "NEPSE: शुक्रबार, नोभेम्बर २० (मंसिर ४) को बन्द · ब्रेन्ट: शुक्रबार, नोभेम्बर २० को बन्द · डलर: आइतबार, नोभेम्बर २२ (मंसिर ६) को राष्ट्र बैंकको दर (खरिद १४७.९८, बिक्री १४८.५८ रुपैयाँ) · अमेरिकी बजार (शुक्रबार, नोभेम्बर २०): CNBC का अनुसार S&P 500 र Dow आफ्नो सर्वोच्च बिन्दुभन्दा १० प्रतिशत तल झरे र Nasdaq ले यो वर्षको सबै बढोत्तरी गुमायो; सूचकांकको अंक मिति सहित पुष्टि हुन सकेन। आज सोमबार अमेरिकी बजार फेरि खुल्नेछ।",
+    "items": [
+      {
+        "name": "NEPSE",
+        "value": 2621.29,
+        "change_pct": -0.28,
+        "source": "अनलाइनखबर / हिमाल प्रेस",
+        "url": "https://english.onlinekhabar.com/stock-market-falls-7-points.html"
+      },
+      {
+        "name": "डलर (राष्ट्र बैंक, खरिद)",
+        "value": 147.98,
+        "unit": "रु",
+        "change_pct": null,
+        "source": "नेपाल राष्ट्र बैंक (अनलाइनखबर मार्फत)",
+        "url": "https://www.onlinekhabar.com/2026/11/2062796/todays-foreign-exchange-rate-is-53"
+      },
+      {
+        "name": "ब्रेन्ट कच्चा तेल",
+        "value": 92.57,
+        "unit": "डलर",
+        "change_pct": null,
+        "source": "एनर्जीनाउ (शीर्षक)",
+        "url": "https://energynow.com/2026/11/oil-prices-rebound-friday-on-middle-east-tensions-but-fall-for-third-straight-week-wti-closes-at-83-98-brent-at-92-57/"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "प्रधानमन्त्री बालेन र मोदीबीच आज दिल्लीमा वार्ता; हिजो जयशंकरसँग २५ मिनेट भेट",
+      "summary": "भारत भ्रमणमा रहेका प्रधानमन्त्री बालेन शाह र भारतीय प्रधानमन्त्री नरेन्द्र मोदीबीच आज सोमबार नयाँदिल्लीमा वार्ता हुँदैछ। आइतबार साँझ भारतीय विदेशमन्त्री एस जयशंकरले होटल ताज महलमा पुगेर प्रधानमन्त्री शाहसँग करिब २५ मिनेट भेट गरे र नेपालसँगको 'विशेष मित्रता'लाई भारतले महत्व दिने बताए। अनलाइनखबरले प्राप्त गरेको कागजातअनुसार मोदी–शाहको ३० मिनेटको एक्लो भेटमा सहयोगका १० क्षेत्रबारे कुरा हुनेछ। नेपालले अनुदान र ऋणसहित करिब २ अर्ब डलर (२०० करोड डलर) को प्रस्ताव लगेको छ, जसमा भारत सकारात्मक देखिए पनि थप हवाई प्रवेश मार्गबारे सहमति भइसकेको छैन। आज प्रधानमन्त्री शाहले राष्ट्रपति द्रौपदी मुर्मुलाई पनि भेट्ने कार्यक्रम छ।",
+      "sides": [
+        {
+          "who": "भारत सरकारका स्रोत",
+          "says": "भारतीय सैनिक विमानका लागि नेपालको आकाश प्रयोग गर्ने कुनै प्रस्ताव नराखिएको भन्दै त्यसबारेका समाचार गलत भएको बताएका छन्।"
+        },
+        {
+          "who": "नेपाली कांग्रेसका महामन्त्री प्रदीप पौडेल",
+          "says": "सरकारसँग गम्भीर असहमति भए पनि भ्रमणमा देशको हितलाई सबैभन्दा माथि राख्नुपर्ने भन्दै भ्रमण सफल होस् भनेका छन्।"
+        }
+      ],
+      "unverified": "आज हुने वार्तापछि कुन-कुन सम्झौता हुन्छन् भन्ने आधिकारिक रूपमा सार्वजनिक भइसकेको छैन।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर इङ्लिस (जयशंकर भेट)",
+          "url": "https://english.onlinekhabar.com/balen-jaishankar-meeting-delhi.html"
+        },
+        {
+          "name": "अनलाइनखबर इङ्लिस (१० क्षेत्र)",
+          "url": "https://english.onlinekhabar.com/balen-modi-nepal-india-partnership.html"
+        },
+        {
+          "name": "काठमाडौं पोस्ट",
+          "url": "https://kathmandupost.com/national/2026/11/22/pm-shah-meets-jaishankar-on-first-state-visit-to-india"
+        },
+        {
+          "name": "काठमाडौं पोस्ट (२ अर्ब डलर प्रस्ताव)",
+          "url": "https://kathmandupost.com/national/2026/11/22/shah-leaves-for-india-visit-with-2bn-financial-proposal-air-access-on-agenda"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/national/nepal-pm-balendra-shah-arrives-in-delhi-for-first-official-visit-to-india/article71731829.ece"
+        },
+        {
+          "name": "द ट्रिब्युन (शीर्षक)",
+          "url": "https://www.tribuneindia.com/news/india/india-denies-seeking-nepalese-airspace-for-military-flights-to-bagdogra/"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "एनसेलले पुस २ (डिसेम्बर १७) भित्र देशभर 3G सेवा बन्द गर्ने",
+      "summary": "दूरसञ्चार कम्पनी एनसेलले डिसेम्बर १७ (पुस २) सम्ममा देशभर 3G सेवा बन्द गर्ने जनाएको छ। कम्पनीले ग्राहकलाई 4G मा चल्ने VoLTE (इन्टरनेटमार्फत फोन गर्ने प्रविधि) मा सर्न आग्रह गरेको छ। पुरानो फोन वा सिम प्रयोग गर्नेहरूले समयमै आफ्नो फोन 4G/VoLTE चल्ने हो कि होइन भनेर जाँच गर्नुपर्ने हुन्छ।",
+      "sources": [
+        {
+          "name": "रिपब्लिका (शीर्षक)",
+          "url": "https://myrepublica.nagariknetwork.com/news/ncell-to-phase-out-3g-services-nationwide-by-december-17-17-85.html"
+        },
+        {
+          "name": "नेपालन्युज (शीर्षक)",
+          "url": "https://english.nepalnews.com/s/science-technology/ncell-to-phase-out-3g-service-urges-users-to-switch-to-volte/"
+        },
+        {
+          "name": "आईसीटी फ्रेम (शीर्षक)",
+          "url": "https://ictframe.com/ncell-3g-phase-out-by-december-17/"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "अमेरिकी प्रतिनिधिसभामा डेमोक्र्याटको कम्तीमा २५८ सिट, सन् १९९२ यताकै ठूलो बहुमत",
+      "summary": "अमेरिकाको मध्यावधि निर्वाचनको अन्तिम नतिजामा डेमोक्र्याटिक पार्टीले प्रतिनिधिसभामा कम्तीमा २५८ सिट जितेको छ, जुन सन् १९९२ यताकै सबैभन्दा ठूलो बहुमत हो। उत्तर क्यारोलिनामा पुनर्गणनापछि डेमोक्र्याट चक हबार्डले रिपब्लिकन सांसद भर्जिनिया फक्सलाई हराए। डेमोक्र्याटले सिनेटमा पनि ठूलो जित हासिल गरेका छन्। प्रतिनिधिसभाका आगामी सभामुख हकिम जेफ्रिजले महँगी घटाउने, स्वास्थ्य सेवा विस्तार र अध्यागमन प्रणाली सुधारमा ध्यान दिने बताएका छन्।",
+      "sides": [
+        {
+          "who": "आगामी सभामुख हकिम जेफ्रिज (डेमोक्र्याट)",
+          "says": "आफ्नो एजेन्डा पूरा गर्न विपक्षी दलसँग पनि मिलेर काम गर्न तयार रहेको बताएका छन्।"
+        },
+        {
+          "who": "राष्ट्रपति डोनाल्ड ट्रम्प (रिपब्लिकन)",
+          "says": "सिनेटको नेतृत्व चक शुमरले गरे अगाडि काम गर्न कठिनाइ हुने देखेको बताएका छन्।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "एपी (केएसएल मार्फत, शीर्षक)",
+          "url": "https://www.ksl.com/article/news/us/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992/51647492"
+        },
+        {
+          "name": "सीबीएस न्युज (शीर्षक)",
+          "url": "https://www.cbsnews.com/news/democrats-historic-house-majority-since-1992/"
+        },
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda"
+        },
+        {
+          "name": "फक्स न्युज (शीर्षक)",
+          "url": "https://www.foxnews.com/politics/democrats-clinch-historic-house-majority-chuck-hubbard-defeats-longtime-gop-rep-virginia-foxx"
+        },
+        {
+          "name": "रोयटर्स (ट्रम्प–शुमर, शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMG5BRkNWNzJ4alhTazFUeExrT1RMSjczaE1NOF8yNEVja1ROZ2xBakszdXdjTHZDMzlDY29Qc1ZKYTVHZDFQbFVhazVqYjNLVFVPMVdNM0praFAxem9IUW9JZnRuRU9MdkxBbEJBQklfc250SV9tQWtrV29VeHJrZTZfYlNzODNQU2FsMTg2R092dExYV2ktc1R1RXdQT0k?oc=5"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "लिबियाको बेनगाजी बन्दरगाहमा रुसी युद्धपोतमा शंकास्पद ड्रोन आक्रमण",
+      "summary": "लिबियाको बेनगाजीस्थित नौसैनिक अड्डामा रोकिएको रुसी नौसेनाको युद्धपोत 'मेर्कुरी' मा आइतबार शंकास्पद ड्रोन आक्रमणपछि विस्फोट भएको लिबियाली अधिकारीहरूले जनाएका छन्। उनीहरूका अनुसार जहाजमा ठूलो क्षति पुग्यो र अड्डामा आगलागी भयो। जहाज रुस फर्कने क्रममा इन्धन र सामान लिन रोकिएको थियो। एपीले यसलाई युक्रेनी समुद्री ड्रोनको शंका गरिएको आक्रमण भनेको छ, तर कसैले जिम्मेवारी लिएको छैन र रुसको तत्काल प्रतिक्रिया आएको छैन। यसअघि शनिबार फिनल्याण्डको खाडीमा रुसतर्फ जाँदै गरेको एउटा मालवाहक जहाजमा पनि ड्रोन आक्रमण भएको थियो, जसमा युक्रेनको हात हुनसक्ने फिनल्याण्डको सेनाले बताएको छ।",
+      "unverified": "दुवै आक्रमणबारे युक्रेनले केही भनेको छैन।",
+      "sources": [
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+        },
+        {
+          "name": "बीबीसी",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
+        },
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
+        },
+        {
+          "name": "एपी (एबीसी न्युज मार्फत, शीर्षक)",
+          "url": "https://abcnews.com/International/wireStory/suspected-drone-strike-hits-russian-vessel-libya-138359178"
+        },
+        {
+          "name": "बीबीसी (फिनल्याण्ड खाडी)",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "वेस्ट बैंकका प्यालेस्टिनी गाउँमा बस्तीवासीको आगजनी, इजरायली विपक्षी नेता आइजनकोटले 'आतंकवाद' भने",
+      "summary": "इजरायलको कब्जामा रहेको वेस्ट बैंकका प्यालेस्टिनी गाउँहरूमा शनिबार राति दर्जनौं इजरायली बस्तीवासीले गाडी र केही घरमा आगो लगाएका छन्। फ्रान्स २४ का अनुसार करिब आठवटा गाडी जलाइए र भित्तामा जातिवादी नारा लेखिए; प्रभावित गाउँको संख्या तीन वा चार भनिएको छ (स्रोतअनुसार फरक)। इजरायली अधिकारीहरूले छानबिन सुरु गरेका छन् र घटनास्थलमा सेना र प्रहरी खटाइएको छ। इजरायलमा नयाँ सरकार बनाउने प्रयासमा रहेका विपक्षी नेता गादी आइजनकोटले यसलाई 'यहुदी आतंकवाद' भन्दै निन्दा गरेका छन्।",
+      "sources": [
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank"
+        },
+        {
+          "name": "फ्रान्स २४",
+          "url": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism"
+        },
+        {
+          "name": "फ्रान्स २४ (छानबिन)",
+          "url": "https://www.france24.com/en/israel-investigates-west-bank-fires"
+        },
+        {
+          "name": "रोयटर्स (एनबीसी मार्फत, शीर्षक)",
+          "url": "https://www.nbcnews.com/world/israel/israels-eisenkot-condemns-arson-attacks-jewish-settlers-west-bank-rcna610661"
+        },
+        {
+          "name": "अल जजिरा (शीर्षक)",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "अरुणाचल सीमामा तनाव घटाउन भारत र चीनबीच १० दिन सैनिक वार्ता",
+      "summary": "भारत र चीनका सैनिक अधिकारीहरूले अरुणाचल प्रदेशको सीमा क्षेत्रमा तनाव घटाउन करिब १० दिन वार्ता गरेका छन्। द हिन्दूका अनुसार वार्तामा सीमामा खटिएका सैनिकबीच भेटघाटका नियम बनाउने, आमनेसामने झडप र गलतफहमी रोक्ने तथा सञ्चारको माध्यम खुला राख्ने विषयमा छलफल भयो। केही भारतीय सञ्चारमाध्यमले यसलाई दोस्रो चरणको वार्ता भनेका छन्।",
+      "sources": [
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/national/india-china-hold-10-day-talks-to-ease-loac-tensions-in-arunachal-pradesh/article71731819.ece"
+        },
+        {
+          "name": "आउटलुक इन्डिया (शीर्षक)",
+          "url": "https://www.outlookindia.com/national/india-china-hold-10-day-military-talks-to-ease-tensions-along-arunachal-border-report"
+        },
+        {
+          "name": "द पायोनियर (शीर्षक)",
+          "url": "https://dailypioneer.com/india/india-china-hold-second-round-of-military-talks-to-ease-arunachal-border-tensions"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "भारत र युरोपेली संघबीच मुक्त व्यापार सम्झौतामा डिसेम्बर १६ मा हस्ताक्षर हुने सम्भावना",
+      "summary": "भारत र युरोपेली संघ (EU) बीचको मुक्त व्यापार सम्झौतामा डिसेम्बर १६ मा हस्ताक्षर हुने सम्भावना रहेको भारतीय अधिकारीहरूले बताएका छन्। भारतका लागि EU का राजदूत जाँ-एरिक पाकेका अनुसार डिसेम्बरमा प्रधानमन्त्री मोदीको ब्रसेल्स भ्रमणका क्रममा सम्झौतामा हस्ताक्षर हुनेछ र यो सन् २०२७ देखि लागु हुनेछ।",
+      "sources": [
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece"
+        },
+        {
+          "name": "एएनआई (शीर्षक)",
+          "url": "https://aninews.in/news/world/asia/india-eu-fta-likely-to-be-signed-during-pm-modis-europe-visit-in-december-official20261122214650/"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "अमेरिकी सेयर बजार १० प्रतिशतको गिरावटमा; नेतृत्व संकटबीच एनभिडियामाथि लेखा छानबिन",
+      "summary": "शुक्रबार (नोभेम्बर २०) अमेरिकी सेयर बजारमा ठूलो बिक्रीपछि S&P 500 र Dow Jones आफ्नो सर्वोच्च बिन्दुभन्दा १० प्रतिशत तल पुगे र प्रविधि कम्पनीहरूको सूचकांक Nasdaq ले यो वर्षको सबै बढोत्तरी गुमायो। CNBC का अनुसार यो सन् २०२० यताकै प्रविधि सेयरका लागि सबैभन्दा नराम्रो हप्ता थियो। AI चिप बनाउने कम्पनी एनभिडियाका प्रमुख कार्यकारी जेन्सेन हुआङको राजीनामा र शुक्रबार कम्पनीको सेयर १४ प्रतिशत झरेपछि अमेरिकी धितोपत्र नियामक (SEC) ले कम्पनीको लेखा प्रणालीबारे प्रारम्भिक छानबिन थालेको अमेरिकी सञ्चारमाध्यमले जनाएका छन्। अमेरिकी अर्थमन्त्री स्कट बेसेन्टले एनभिडियाका चिप चीन कसरी पुगे भन्ने जवाफ चाहिएको बताएका छन्। यो हप्ता अमेरिकामा महँगी, आर्थिक वृद्धि र उपभोक्ताको मनोभावसम्बन्धी तथ्यांक आउँदैछन्।",
+      "unverified": "SEC छानबिनबारेको जानकारी सञ्चारमाध्यमको रिपोर्टमा आधारित हो; SEC ले आधिकारिक पुष्टि गरेको भेटिएन।",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+        },
+        {
+          "name": "CNBC (प्रविधि सेयर)",
+          "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/nvidia-faces-us-accounting-probe-amid-deepening-turmoil-media/article71732128.ece"
+        },
+        {
+          "name": "रोयटर्स (कोरिया टाइम्स मार्फत, शीर्षक)",
+          "url": "https://www.koreatimes.co.kr/world/20261123/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "विश्वविद्यालयले AI पत्ता लगाउने सफ्टवेयर प्रयोग गरेविरुद्धको रिट सर्वोच्चले दर्ता गरेन",
+      "summary": "सर्वोच्च अदालत प्रशासनले विश्वविद्यालयहरूले AI डिटेक्सन सफ्टवेयर प्रयोग गरेविरुद्ध परेको रिट निवेदन दर्ता गर्न अस्वीकार (दरपीठ) गरेको छ। AI डिटेक्सन सफ्टवेयरले कुनै लेख मानिसले लेखेको हो कि AI ले भनेर अनुमान गर्छ। कानुनका विद्यार्थीहरूले राज्यको स्पष्ट नीति र कानुन नबनी त्रिभुवन विश्वविद्यालयलगायतका संस्थाले आफूखुसी यस्तो सफ्टवेयर प्रयोग गरेर विद्यार्थीका शोधपत्र र परियोजना अस्वीकार गरेको भन्दै रोक्न माग गरेका थिए।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2063357/supreme-court-rejects-writ-seeking-ai-usage-standards"
+        },
+        {
+          "name": "रातोपाटी इङ्लिस (शीर्षक)",
+          "url": "https://english.ratopati.com/story/87602/supreme-court-dismisses-writ-petition-filed-alleging-rejection-of-thesis-based-on-ai-report"
+        },
+        {
+          "name": "इलेट्स ई-गभ (शीर्षक)",
+          "url": "https://egov.eletsonline.com/2026/11/nepal-supreme-court-rejects-students-writ-over-ai-plagiarism/"
+        }
+      ]
+    }
+  ]
+}
