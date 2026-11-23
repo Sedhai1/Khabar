@@ -1,0 +1,158 @@
+{
+  "id": "2026-11-23-md",
+  "generated_at": "2026-11-23T12:15:00+05:45",
+  "markets": {
+    "as_of": "NEPSE: शुक्रबार, नोभेम्बर २० (मंसिर ४) को बन्द · डलर: आइतबार, नोभेम्बर २२ (मंसिर ६) को राष्ट्र बैंकको दर (खरिद १४७.९८, बिक्री १४८.५८ रुपैयाँ) · ब्रेन्ट: सोमबार, नोभेम्बर २३ को एसियाली कारोबार (WAM) · अमेरिकी बजार (शुक्रबार, नोभेम्बर २०): S&P 500 ३.७ प्रतिशत घट्यो र Nasdaq यो वर्षको सुरुभन्दा तल पुग्यो; सूचकांकको अंक मिति सहित पुष्टि हुन सकेन। आज सोमबार राति अमेरिकी बजार खुल्नेछ।",
+    "items": [
+      {"name": "NEPSE", "value": 2621.29, "change_pct": -0.28, "source": "अनलाइनखबर / हिमाल प्रेस", "url": "https://english.onlinekhabar.com/stock-market-falls-7-points.html"},
+      {"name": "डलर (राष्ट्र बैंक, खरिद)", "value": 147.98, "unit": "रु", "change_pct": null, "source": "नेपाल राष्ट्र बैंक (अनलाइनखबर मार्फत)", "url": "https://www.onlinekhabar.com/2026/11/2062796/todays-foreign-exchange-rate-is-53"},
+      {"name": "ब्रेन्ट कच्चा तेल", "value": 92.29, "unit": "डलर", "change_pct": null, "source": "WAM (शीर्षक)", "url": "https://www.wam.ae/en/article/17jfxxf-oil-prices-fall-brent-us9229-per-barrel"}
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "प्रधानमन्त्री बालेन र मोदीबीच दिल्लीको हैदराबाद हाउसमा वार्ता",
+      "summary": "भारत भ्रमणको दोस्रो दिन सोमबार राष्ट्रपति भवनमा औपचारिक स्वागतपछि प्रधानमन्त्री बालेन शाह र भारतीय प्रधानमन्त्री नरेन्द्र मोदीबीच नयाँदिल्लीको हैदराबाद हाउसमा द्विपक्षीय वार्ता भयो। भारतीय सञ्चारमाध्यमका अनुसार ऊर्जा, जलविद्युत्, यातायात सम्पर्क, व्यापार र लगानी वार्ताका मुख्य विषय थिए। दुवै प्रधानमन्त्रीले आज अयोध्या र जनकपुर जोड्ने नयाँ रेल सेवा 'सरयू–कमला एक्सप्रेस' सुरु गर्ने कार्यक्रम छ।",
+      "unverified": "काठमाडौं पोस्टले भारतले नेपालका लागि करिब १ अर्ब ५० करोड डलर (१.५ अर्ब डलर) को सहयोग प्याकेज घोषणा गर्न सक्ने लेखेको थियो। रातोपाटीका अनुसार सीमा विवाद र नयाँ हवाई मार्गमा सहमति भएको छैन। वार्ताको आधिकारिक नतिजा र सम्झौताको सूची यो संस्करण तयार हुँदासम्म पुष्टि हुन सकेन।",
+      "sources": [
+        {"name": "अनलाइनखबर इङ्लिस", "url": "https://english.onlinekhabar.com/pm-balen-and-modi-talks.html"},
+        {"name": "रिपब्लिका (शीर्षक)", "url": "https://myrepublica.nagariknetwork.com/news/meeting-between-pm-shah-and-indian-counterpart-modi-begins-at-hyderabad-hou-99-47.html"},
+        {"name": "द ट्रिब्युन (शीर्षक)", "url": "https://www.tribuneindia.com/news/balen-shah/pm-modi-holds-high-level-bilateral-talks-with-his-nepali-counterpart-balen-shah-bilateral-ties-investment-on-cards"},
+        {"name": "मिलेनियम पोस्ट (शीर्षक)", "url": "https://www.millenniumpost.in/big-stories/energy-hydropower-and-connectivity-top-agenda-for-modi-balen-shah-talks-684259"},
+        {"name": "इन्डिया टिभी (रेल, शीर्षक)", "url": "https://www.indiatvnews.com/news/india/ayodhya-to-janakpur-train-new-india-nepal-service-to-be-flagged-off-on-november-23-check-full-schedule-2026-11-22-1060103"},
+        {"name": "रातोपाटी इङ्लिस (शीर्षक)", "url": "https://english.ratopati.com/story/87807/balens-visit-to-india-no-agreement-on-border-dispute-and-air-route-what-is-being-agreed-upon"},
+        {"name": "काठमाडौं पोस्ट (१.५ अर्ब डलर, शीर्षक)", "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaHUzQUhjeGRCZTk3U0FWb0VGaXFRX05Fb2JGemh1OU9aR1NpbFY2aWlCLVUzY3kyWC01ZlNhY2dUcUU3LUNLUWJtWUdjaGRLd"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "स्थानीय र प्रदेश चुनाव एकैपटक गर्ने विषयमा दलहरू विभाजित",
+      "summary": "अर्को वर्ष हुने स्थानीय तह र प्रदेशसभाको निर्वाचन एकैपटक गर्ने कि छुट्टाछुट्टै भन्नेमा दलहरूबीच मत बाझिएको छ। अनलाइनखबरका अनुसार सत्तारुढ राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) एकैपटक चुनाव गर्ने पक्षमा छ भने प्रमुख विपक्षी नेपाली कांग्रेस पनि सोहीतर्फ ढल्केको देखिन्छ। विपक्षी नेकपा एमाले र नेपाली कम्युनिस्ट पार्टी (नेकपा) भने छुट्टाछुट्टै चुनाव हुनुपर्ने अडानमा छन्।",
+      "sides": [
+        {"who": "रास्वपा (र कांग्रेस)", "says": "दुवै तहको चुनाव एकैपटक गर्नुपर्छ।"},
+        {"who": "एमाले र नेकपा", "says": "संविधानको व्यवस्थाअनुसार दुई चुनाव छुट्टाछुट्टै गर्नुपर्छ।"}
+      ],
+      "sources": [
+        {"name": "अनलाइनखबर इङ्लिस", "url": "https://english.onlinekhabar.com/rsp-nc-simultaneous-local-provincial-election-uml-ncp-oppose.html"},
+        {"name": "काठमाडौं पोस्ट (शीर्षक)", "url": "https://kathmandupost.com/politics/2026/11/22/nepal-has-two-major-elections-next-year-search-on-for-ways-to-hold-them-together"},
+        {"name": "अन्नपूर्ण एक्सप्रेस (शीर्षक)", "url": "https://theannapurnaexpress.com/story/68936/"},
+        {"name": "नेपालन्युज (शीर्षक)", "url": "https://english.nepalnews.com/s/politics/political-parties-consulted-on-chances-of-simultaneous-elections/"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "वैदेशिक रोजगार ठगीका फरार आरोपीको बैंक खाता र सम्पत्ति रोक्का गरिँदै",
+      "summary": "पक्राउ पुर्जी जारी भए पनि फरार रहेका वैदेशिक रोजगार ठगीका आरोपीहरूको बैंक खाता र सम्पत्ति रोक्का गर्ने तयारी वैदेशिक रोजगार विभागले गरेको छ। अनलाइनखबरका अनुसार पहिलो चरणमा १ हजारभन्दा बढी फरार आरोपीको नामसूची सार्वजनिक गरिनेछ। कान्तिपुरका अनुसार उनीहरूलाई दिइएको ३५ दिने समयसीमा सकिन लागेको छ भने नेपाल प्रेसले उनीहरूको यात्रा अनुमति पनि रोक्ने तयारी भएको लेखेको छ।",
+      "sources": [
+        {"name": "अनलाइनखबर इङ्लिस", "url": "https://english.onlinekhabar.com/bank-accounts-assets-of-fugitive-foreign-employment-fraud-suspects-to-be-frozen.html"},
+        {"name": "कान्तिपुर (शीर्षक)", "url": "https://ekantipur.com/news/2026/11/22/bank-account-of-absconding-foreign-employment-fraud-accused-to-be-frozen-as-35-day-ultimatum-expires-38-38.html"},
+        {"name": "नेपाल प्रेस (शीर्षक)", "url": "https://nepalpress.com/2026/11/22/783406/preparations-to-freeze-bank-accounts-and-travel-permits-of-fugitive-foreign-employment-fraud-suspect/"},
+        {"name": "रिपब्लिका (शीर्षक)", "url": "https://myrepublica.nagariknetwork.com/news/govt-to-freeze-accounts-of-absconding-foreign-job-fraud-suspects-46-43.html"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "इजरायलमा नेतन्याहु र आइजनकोटका दलबीच सरकार गठन वार्ता सहमतिबिना टुंगियो",
+      "summary": "इजरायलमा नयाँ सरकार बनाउन नेतन्याहुको लिकुड र गादी आइजनकोटको यशर पार्टीबीच भएको वार्ता आइतबार सहमतिबिना टुंगियो। संयुक्त विज्ञप्तिमा दुवै पक्षले विभिन्न विषयमा आ–आफ्नो अडान राखेर विस्तृत छलफल गरेको बताएका छन्। अल जजिराका अनुसार अर्को सरकारको नेतृत्व कसले गर्ने र अति दक्षिणपन्थी मन्त्री इतामार बेन–ग्भिर सरकारमा आउने कि नआउने भन्नेमा मतभेद छ। करिब एक महिनाअघिको चुनावमा नेतन्याहुले बहुमत गुमाएका थिए र आइजनकोटसँग सरकार बनाउन डिसेम्बर ६ सम्म समय छ।",
+      "sides": [
+        {"who": "लिकुड", "says": "एकीकृत सरकारमा अरब दलहरू नहुने र प्यालेस्टिनी राज्य अस्वीकार गर्ने सर्त राखेको छ।"},
+        {"who": "आइजनकोटको यशर पार्टी", "says": "सरकार बनाउन हरेक विकल्प खोज्ने भन्दै लिकुडलाई लगातार वार्तामा बोलाएको थियो।"}
+      ],
+      "sources": [
+        {"name": "अल जजिरा", "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal"},
+        {"name": "द हिन्दू", "url": "https://www.thehindu.com/news/international/netanyahu-eisenkot-parties-end-talks-without-deal-on-forming-israel-government/article71732431.ece"},
+        {"name": "द हिन्दू (लिकुडका सर्त)", "url": "https://www.thehindu.com/news/international/netanyahu-eisenkot-parties-resume-talks-to-form-israel-government/article71732120.ece"},
+        {"name": "फ्रान्स २४", "url": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank"},
+        {"name": "अरब न्युज (शीर्षक)", "url": "https://www.arabnews.com/middle-east/netanyahu-eisenkot-parties-end-talks-without-deal-on-forming-israel-govt-3013569"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "होर्मुज नजिक तेल ट्यांकरमा आगो, हुथीले साउदी रिफाइनरीमा आक्रमण गरेको दाबी",
+      "summary": "इरानी नौसेनाले होर्मुज जलडमरूमध्य नजिक आफ्ना नियम नमान्ने ट्यांकरहरूमा आगो लागेको दाबी गरेको छ। इरानी सरकारी टेलिभिजन प्रेस टिभीका अनुसार दुई ट्यांकर समुद्री माइनमा ठोक्किएपछि आगो लागेको हो। यमनका इरान–समर्थित हुथी विद्रोहीले साउदी अरबको राबिघ तेल रिफाइनरीमा आक्रमण गरेको दाबी गरेका छन्; साउदी नेतृत्वको गठबन्धनले पश्चिमी क्षेत्रमा एउटा हुथी मिसाइल रोकेको जनाएको थियो। CNBC का अनुसार युद्ध रोक्ने कूटनीतिक प्रयास सफल हुने सम्भावना कम देखिएको छ र ट्रम्पले अर्को वर्ष नयाँ आक्रमणको चेतावनी दिएका छन्।",
+      "unverified": "ट्यांकरमा आगो लागेको विवरण इरानी पक्षको दाबीमा आधारित छ; स्वतन्त्र पुष्टि भेटिएन।",
+      "sources": [
+        {"name": "अल जजिरा", "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?update=5178386"},
+        {"name": "प्रेस टिभी (इरानी सरकारी पक्ष, शीर्षक)", "url": "https://www.presstv.co.uk/Detail/2026/11/22/781348/irans-army-two-violating-tankers-catch-fire-after-striking-naval-mines-in-strait-of-hormuz"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html"},
+        {"name": "रोयटर्स (शीर्षक)", "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSjZLZW5ua05hQkRTLVhvZnNHZnpUM05mT3ZxNl9FUUoyMEhMN0gtTUVfT0Zhb0g2eUxaeHlvZWlIWXNTVGlSMlczMHdBUERvR"},
+        {"name": "द हिन्दू", "url": "https://www.thehindu.com/news/international/saudi-led-coalition-says-it-intercepted-houthi-missile-in-western-region/article71731039.ece"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "सुडानको राजधानी खार्तुममा ड्रोन आक्रमण, राष्ट्रसंघको भवनमा क्षति",
+      "summary": "आइतबार बिहान सुडानको राजधानी खार्तुममा भएका ड्रोन आक्रमणले घरहरू र संयुक्त राष्ट्रसंघको एउटा भवनमा क्षति पुर्‍यायो। एबीसी न्युजका अनुसार आक्रमणमा ४ जनाको मृत्यु भएको छ। सुडानी सेनाले ड्रोन छिमेकी इथियोपियाबाट प्रहार गरिएको आरोप लगाएको छ। चौथो वर्षमा पुगेको सुडानको युद्धमा ड्रोनको प्रयोग बढ्दै गएको छ।",
+      "unverified": "इथियोपियाको प्रतिक्रिया हेरिएका स्रोतहरूमा उल्लेख भएन।",
+      "sources": [
+        {"name": "फ्रान्स २४", "url": "https://www.france24.com/en/africa/20261122-drone-strikes-hit-homes-and-un-building-in-sudan-s-khartoum"},
+        {"name": "द हिन्दू", "url": "https://www.thehindu.com/news/international/drone-strikes-hit-homes-un-premises-in-sudans-capital/article71731677.ece"},
+        {"name": "एबीसी न्युज अस्ट्रेलिया (शीर्षक)", "url": "https://www.abc.net.au/news/2026-11-23/deadly-drone-strikes-in-khartoum-sudan-war/107415908"},
+        {"name": "कोरिया हेराल्ड (शीर्षक)", "url": "https://www.koreaherald.com/article/10946287"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "चीनलाई चिप बिक्रीबारे अमेरिकाले एनभिडियासँग जवाफ माग्यो",
+      "summary": "अमेरिकी अर्थमन्त्री स्कट बेसेन्टले आइतबार चीनलाई गरिएको चिप बिक्रीबारे एनभिडियासँग जवाफ मागिएको र कम्पनीमा नियम पालनाको जिम्मेवारी कसको थियो भन्ने पत्ता लगाइने बताए। कम्पनीका संस्थापक जेन्सेन हुआङले शंकास्पद चिनियाँ जासुससँगको सम्बन्धको विवादपछि प्रमुख कार्यकारी पदबाट राजीनामा दिएका छन्। न्युयोर्क टाइम्सको हवाला दिँदै द हिन्दूले सिंगापुरको कम्पनी मेगास्पिडकी प्रमुख एलिस हुआङ चिनियाँ जासुसी निकायको सम्पर्कमा रहेको लेखेको छ। एनभिडिया, जेन्सेन हुआङ र चिनियाँ दूतावासले तत्काल प्रतिक्रिया दिएनन्।",
+      "sources": [
+        {"name": "एससीएमपी", "url": "https://www.scmp.com/news/world/united-states-canada/article/3375404/us-seeks-answers-nvidias-sale-chips-china-bessent-says"},
+        {"name": "द हिन्दू (न्युयोर्क टाइम्स)", "url": "https://www.thehindu.com/news/international/alice-huang-in-touch-with-chinese-spy-agency-during-affair-with-nvidia-ceo-says-nyt/article71733237.ece"},
+        {"name": "द हिन्दू (मेगास्पिड)", "url": "https://www.thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece"},
+        {"name": "रोयटर्स (कोरिया टाइम्स मार्फत, शीर्षक)", "url": "https://www.koreatimes.co.kr/world/20261123/us-seeks-answers-on-nvidias-sale-of-chips-to-china-bessent-says"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "AI सेयरमा गिरावटको असर एसियाली बजारमा, अमेरिकी फ्युचर्स भने केही उकालो",
+      "summary": "शुक्रबार (नोभेम्बर २०) अमेरिकाको S&P 500 सूचकांक ३.७ प्रतिशत घटेपछि सोमबार दक्षिण कोरिया, ताइवान, चीन र हङकङका सेयर बजार घटे। अल जजिराका अनुसार AI कम्पनीहरूको मूल्य बढी नै फुलिएको (बबल) डरले प्रविधि सेयर बेच्ने क्रम बढेको हो। रोयटर्सका अनुसार अमेरिकी सेयर फ्युचर्स (बजार खुल्नुअघिको कारोबार) भने केही बढेको छ र विदेशी लगानी भित्रिँदा भारतीय सेयर बजार बढेर खुल्ने अनुमान थियो। तेलको मूल्य पनि घटेको छ, तर इरान युद्धसम्बन्धी आक्रमणले गिरावट सीमित बनाएको रोयटर्सले जनाएको छ।",
+      "sources": [
+        {"name": "अल जजिरा", "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount"},
+        {"name": "एपी (स्पेक्ट्रम न्युज मार्फत, शीर्षक)", "url": "https://spectrumlocalnews.com/us/snplus/business/2026/11/20/wall-street-nov-20-2026"},
+        {"name": "रोयटर्स (फ्युचर्स, शीर्षक)", "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR2c4ZVNmcHBzVFctOTBkRUd2d0VHTklseUhCcEtZT2VHbU1WbWprMUk2aDZSQ2tkZHNYVE9EWUgyaEkxeWtyN0M2V2NzR2ZCT"},
+        {"name": "रोयटर्स (भारतीय बजार, शीर्षक)", "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDVfby1VRHZ6aGZYVDB2dU9SSjlQRGlJcUUxQm5Gdk9vWkU4UG15RFdHeTZxVjZQUzVNLXRmX3FjVndPRFJQQzdoNWNsUlRMe"},
+        {"name": "रोयटर्स (तेल, शीर्षक)", "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb016TW1Rc3N2Q0h6TVJZUFBSeXZqWklRWXgwZ2QyUnRCa0tnWnI4b0Z2YkVVZlVGWTJwa0E3SEVqNnotSE4zOFpOdjJUSE5Gc"},
+        {"name": "अशर्क अल–अवसत (एपी, शीर्षक)", "url": "https://english.aawsat.com/business/5344500-asian-shares-mostly-fall-after-sp-500-drops-37-correction"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "सेयर धितो राखेर लिइने कर्जा पहिलो त्रैमासिकमा २.९ प्रतिशत बढ्यो",
+      "summary": "बैंक तथा वित्तीय संस्थाले सेयर धितो राखेर दिएको कर्जा पहिलो त्रैमासिकमा २.९ प्रतिशत बढेर १ खर्ब ७१ अर्ब ३८ करोड रुपैयाँ पुगेको रिपब्लिकाले जनाएको छ। अर्को समाचारअनुसार कर्जाको माग सुस्त रहँदा एक वर्षमा बैंकहरूको आधार ब्याजदर १.७४ प्रतिशत बिन्दुसम्म घटेको छ।",
+      "sources": [
+        {"name": "रिपब्लिका (शीर्षक)", "url": "https://myrepublica.nagariknetwork.com/news/bfis-loans-against-share-collateral-rise-29-to-rs-17138-billion-in-first-qu-85-52.html"},
+        {"name": "रिपब्लिका (आधार दर, शीर्षक)", "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSDUzR1p1VXBGT3pZT09NUjdKTkFhRGRRbFZUU0l0MlZoM2prSDlCSmNYN3FqRXFwS3lNMVNvbnJHUk9zb1M2cjh1U2NTeFBFZ"},
+        {"name": "नेप्से ट्रेडिङ (शीर्षक)", "url": "https://nepsetrading.com/blog/nepals-banking-sector-sees-decline-in-loan-interest-rates-increasing-share-loan-activity"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "AI को सहयोगले गणितको १६७ वर्ष पुरानो 'रिम्यान परिकल्पना' प्रमाणित गरेको दाबी",
+      "summary": "AI कम्पनी एन्थ्रोपिकका गणितज्ञ लेभेन्ट अल्पोगेले शुक्रबार गणितको सबैभन्दा चर्चित अनुत्तरित समस्यामध्ये एक 'रिम्यान परिकल्पना' को प्रमाण प्रकाशित गरेको दाबी गरेका छन्। यो प्रमाण तयार गर्न कम्पनीको AI 'क्लड' को सहयोग लिइएको बताइएको छ। फ्रान्स २४ का अनुसार प्रमाण १ करोड ७० लाख लाइन कम्प्युटर कोडमा छ, जुन कुनै मानिसले पूरै पढेका छैनन्। चीनको सेन्जेनमा रिम्यानको २०० औं जन्मजयन्तीमा भइरहेको गणितज्ञहरूको सम्मेलनका बेला यो खबर आएको एससीएमपीले जनाएको छ।",
+      "sides": [
+        {"who": "अल्पोगेको दाबी", "says": "AI को सहयोगमा रिम्यान परिकल्पनाको पूरा प्रमाण तयार भएको छ।"},
+        {"who": "भौतिकशास्त्री टोनी पाडिला (फ्रान्स २४ सँग)", "says": "प्रमाण जाँच्न वर्षौं लाग्न सक्छ र यो कसरी तयार भयो भनेर सार्वजनिक गर्नुपर्छ।"}
+      ],
+      "unverified": "केही सञ्चारमाध्यमका शीर्षकले स्वतन्त्र गणितज्ञहरूले प्रमाण सही ठहर्‍याएको लेखेका छन्, तर यो पुष्टि हुन सकेन।",
+      "sources": [
+        {"name": "फ्रान्स २४", "url": "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled"},
+        {"name": "एससीएमपी", "url": "https://www.scmp.com/news/china/science/article/3375386/has-ai-solved-riemann-hypothesis-claim-makes-waves-200th-birthday-event-china"},
+        {"name": "इन्डियन एक्सप्रेस (शीर्षक)", "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkx0LUhWZUIxUzcxWkJ1QXhETTVwWjF1NXlleV96RTU4MUdiSlNINUFLMFdwUl9nZGdaQ2pDSUNKMGJSWVBlRzVlREl5OVQyS"},
+        {"name": "नेचर (शीर्षक)", "url": "https://www.nature.com/articles/d41586-026-03812-7"},
+        {"name": "साइन्टिफिक अमेरिकन (शीर्षक)", "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "AI विकासको गतिमा सीमा तोक्न OpenAI का प्रमुख वैज्ञानिकको प्रस्ताव",
+      "summary": "ChatGPT बनाउने कम्पनी OpenAI का प्रमुख वैज्ञानिक याकुब पाचोकीले AI मोडल कति सक्षम छ भनेर नाप्ने एउटा मापदण्डका आधारमा सम्पूर्ण उद्योगले विकासमा सीमा तोक्नुपर्ने प्रस्ताव गरेका छन्। टेकक्रन्चका अनुसार AI विकासको 'गति सीमा' तोक्न पहिले गति कसरी नाप्ने भन्नेमा सहमति चाहिन्छ भन्ने उनको तर्क छ। केही प्रविधि सञ्चारमाध्यमका अनुसार उनले यसका लागि 'पर्प्लेक्सिटी' (perplexity) नामको मापदण्ड प्रस्ताव गरेका छन्।",
+      "sources": [
+        {"name": "रोयटर्स (याहु मार्फत, शीर्षक)", "url": "https://ca.finance.yahoo.com/news/openai-scientist-proposes-industry-ai-230920731.html"},
+        {"name": "टेकक्रन्च", "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"},
+        {"name": "सिफ्टडिलिट (शीर्षक)", "url": "https://shiftdelete.net/en/openai-pachocki-perplexity-ai-limits"},
+        {"name": "क्रिप्टो ब्रिफिङ (शीर्षक)", "url": "https://cryptobriefing.com/openai-pachocki-perplexity-ai-benchmark/"}
+      ]
+    }
+  ]
+}
