@@ -1,0 +1,367 @@
+{
+ "id": "2026-11-24-md",
+ "generated_at": "2026-11-24T12:35:00+05:45",
+ "markets": {
+  "as_of": "अमेरिकी बजार: सोमबार, नोभेम्बर २३ को बन्द (S&P 500 ४.७३ प्रतिशत, Nasdaq करिब ६.५ प्रतिशत र डाउ जोन्स १,४४८ अंकले बढे; Nasdaq को अंक मिति सहित पुष्टि हुन सकेन) · NEPSE: सोमबार, नोभेम्बर २३ (मंसिर ७) को बन्द, मंगलबारको कारोबार चलिरहेको · डलर: मंगलबार, नोभेम्बर २४ (मंसिर ८) को राष्ट्र बैंकको दर (खरिद १४८.३६, बिक्री १४८.९६ रुपैयाँ) · ब्रेन्ट तेलको मूल्य मिति सहित पुष्टि हुन सकेन।",
+  "items": [
+   {
+    "name": "S&P 500",
+    "value": 7237.17,
+    "change_pct": 4.73,
+    "source": "बीबीएन टाइम्स (शीर्षक)",
+    "url": "https://www.bbntimes.com/global-economy/s-p-500-soars-4-73-to-7-237-17-in-best-day-since-april-2025-on-huang-s-nvidia-comeback"
+   },
+   {
+    "name": "Dow Jones",
+    "value": 49595.31,
+    "change_pct": null,
+    "source": "बीबीएन टाइम्स (शीर्षक)",
+    "url": "https://www.bbntimes.com/financial/dow-jones-djia-surges-to-49-595-31-as-nvidia-leads-blue-chip-rebound"
+   },
+   {
+    "name": "NEPSE",
+    "value": 2623.56,
+    "change_pct": 0.09,
+    "source": "खबरहब / रातोपाटी (शीर्षक)",
+    "url": "https://english.khabarhub.com/2026/23/576766/"
+   },
+   {
+    "name": "डलर (राष्ट्र बैंक, खरिद)",
+    "value": 148.36,
+    "unit": "रु",
+    "change_pct": null,
+    "source": "नेपाल राष्ट्र बैंक (लोकान्तर मार्फत, शीर्षक)",
+    "url": "https://lokaantar.com/story/333883/2026/11/24/economy/exchange-rates-333883"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "section": "nepal",
+   "title": "पूर्वी नेपालको कोशी प्रदेशमा मंगलबार बिहान भूकम्प, भारतसम्म धक्का महसुस",
+   "summary": "मंगलबार बिहान पूर्वी नेपालको कोशी प्रदेशमा भूकम्प गएको छ। युरोपेली–भूमध्यसागरीय भूकम्प केन्द्र (EMSC) ले यसको शक्ति ५.३ म्याग्निच्युड बताएको छ भने अनलाइनखबर र चीनको सरकारी समाचार संस्था सिन्ह्वाले ५.६ म्याग्निच्युड उल्लेख गरेका छन्, अर्थात् स्रोतअनुसार फरक छ। अनलाइनखबरका अनुसार भूकम्प पूर्वी नेपालको उत्तरी सीमा क्षेत्रमा, चीन सीमा नजिक गएको हो। भारतका दार्जिलिङ, जलपाइगुडी र सिक्किमका साथै भुटान र बंगलादेशसम्म धक्का महसुस भएको भारतीय सञ्चारमाध्यमले जनाएका छन्।",
+   "unverified": "क्षति वा हताहतबारे विवरण यो संस्करण तयार गर्दासम्म स्रोतहरूमा पुष्टि हुन सकेन।",
+   "sources": [
+    {
+     "name": "रोयटर्स (मार्केटस्क्रिनर मार्फत, शीर्षक)",
+     "url": "https://www.marketscreener.com/news/magnitude-5-3-earthquake-strikes-nepal-s-koshi-province-emsc-says-ce7851dade8df121"
+    },
+    {
+     "name": "अनलाइनखबर इङ्लिस (शीर्षक)",
+     "url": "https://english.onlinekhabar.com/5-6-magnitude-earthquake-hits-northern-border-area-of-eastern-nepal.html"
+    },
+    {
+     "name": "सिन्ह्वा (शीर्षक)",
+     "url": "https://english.news.cn/20261124/4c3f876546e74c42941260a1a39c2794/c.html"
+    },
+    {
+     "name": "द प्रिन्ट (शीर्षक)",
+     "url": "https://theprint.in/world/5-6-magnitude-earthquake-strikes-nepals-koshi-province-close-to-china-border/3107076/"
+    },
+    {
+     "name": "इन्डिया टिभी (शीर्षक)",
+     "url": "https://www.indiatvnews.com/news/world/5-6-magnitude-earthquake-hits-nepal-tremors-felt-across-parts-of-eastern-india-bhutan-bangladesh-2026-11-24-1060208"
+    },
+    {
+     "name": "इन्डिया डटकम (शीर्षक)",
+     "url": "https://www.india.com/news/india/nepal-earthquake-nov-24-latest-5-3-magnitude-sends-shockwaves-across-india-tremors-felt-in-darjeeling-jalpaiguri-sikkim-residents-rush-out-8547534/"
+    }
+   ]
+  },
+  {
+   "section": "nepal",
+   "title": "भ्रमणमा लिपुलेक, ईपीजी र गोर्खा भर्तीबारे कुरा नभएको भारतको भनाइ, सीमा वार्ता अघि बढाउने सहमति",
+   "summary": "प्रधानमन्त्री बालेन शाहको भारत भ्रमणका क्रममा लिपुलेक र प्रख्यात व्यक्तिहरूको समूह (ईपीजी) को प्रतिवेदनबारे कुराकानी नभएको भारतीय विदेश सचिव विक्रम मिश्रीले बताएका छन्। रातोपाटीका अनुसार उनले ईपीजी प्रतिवेदनको सान्दर्भिकता सकिएको बताए, र गोर्खा भर्तीको विषय पनि भ्रमणमा उठेन। काठमाडौं पोस्टले पनि लिपुलेक र गोर्खा भर्ती शाह–मोदी वार्तामा नपरेको जनाएको छ। तर द वायरका अनुसार सार्वजनिक रूपमा नबोलिए पनि दुई देशले सीमा विवादबारे छलफल गरी अहिलेकै संयन्त्रमार्फत वार्ता जारी राख्ने सहमति गरेका छन्।",
+   "sources": [
+    {
+     "name": "रातोपाटी (मिश्रीको भनाइ, शीर्षक)",
+     "url": "https://www.ratopati.com/story/607200/there-was-no-discussion-on-lipulekh-the-relevance-of-the-epg-report-has-ended-secretary-mishri"
+    },
+    {
+     "name": "रातोपाटी (गोर्खा भर्ती, शीर्षक)",
+     "url": "https://www.ratopati.com/story/607199/prime-minister-shahs-visit-to-india-was-not-allowed-due-to-the-issue-of-gorkha-recruitment"
+    },
+    {
+     "name": "काठमाडौं पोस्ट (शीर्षक)",
+     "url": "https://kathmandupost.com/national/2026/11/23/lipulekh-gurkha-recruitment-absent-from-shah-modi-talks"
+    },
+    {
+     "name": "द वायर (शीर्षक)",
+     "url": "https://m.thewire.in/article/diplomacy/despite-public-silence-india-nepal-discuss-boundary-dispute-agree-talks-existing-mechanism"
+    },
+    {
+     "name": "पिपल्स रिभ्यु (शीर्षक)",
+     "url": "https://peoplesreview.com.np/2026/11/24/nepal-india-agree-to-push-forward-border-talks/"
+    }
+   ]
+  },
+  {
+   "section": "nepal",
+   "title": "स्थानीय र प्रदेश चुनावको तयारीमा दलहरू: कांग्रेस कार्यसमिति बैठक बस्यो, एमालेको राष्ट्रिय भेला",
+   "summary": "नेपाली कांग्रेसको केन्द्रीय कार्यसमितिको बैठक मंगलबार बसेको छ। लोकान्तरका अनुसार बैठकलाई महामन्त्री थापाले सम्बोधन गर्ने कार्यक्रम छ। यसैबीच एमालेले चुनावको तयारीका लागि राष्ट्रिय भेला गरिरहेको रिपब्लिकाले जनाएको छ, र काठमाडौं पोस्टका अनुसार भेलाको मुख्य विषय स्थानीय र प्रदेश चुनाव हो। एमाले अध्यक्ष केपी शर्मा ओलीले स्थानीय चुनाव वैशाखको अन्त्यतिर गराउन आग्रह गरेका छन्। काठमाडौं पोस्टका अनुसार सत्तारुढ रास्वपा पनि स्थानीय चुनावको तयारीमा लागेको छ।",
+   "unverified": "कांग्रेस बैठकको निर्णय यो संस्करण तयार गर्दासम्म सार्वजनिक भएको भेटिएन।",
+   "sources": [
+    {
+     "name": "अनलाइनखबर (शीर्षक)",
+     "url": "https://www.onlinekhabar.com/2026/11/2064130/congress-central-committee-meeting-underway-2"
+    },
+    {
+     "name": "लोकान्तर (शीर्षक)",
+     "url": "https://lokaantar.com/story/333904/2026/11/24/politics/congress-central-working-committee"
+    },
+    {
+     "name": "रिपब्लिका (शीर्षक)",
+     "url": "https://myrepublica.nagariknetwork.com/news/uml-gears-up-for-elections-with-national-gathering-53-29.html"
+    },
+    {
+     "name": "काठमाडौं पोस्ट (एमाले भेला, शीर्षक)",
+     "url": "https://kathmandupost.com/politics/2026/11/16/uml-puts-local-provincial-elections-at-centre-of-national-gathering"
+    },
+    {
+     "name": "इपर्दाफास (ओली, शीर्षक)",
+     "url": "https://english.pardafas.com/uml-chair-oli-calls-for-local-polls-in-late-baisakh/"
+    },
+    {
+     "name": "काठमाडौं पोस्ट (रास्वपा, शीर्षक)",
+     "url": "https://kathmandupost.com/politics/2026/11/21/rsp-joins-local-polls-race-as-old-parties-move-to-guard-their-base"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "title": "होर्मुजमा तीन तेल ट्याङ्कर माइनमा ठोक्किएर आगो लागेको इरानको दाबी, कतारले वार्ता ब्युँताउने प्रयास",
+   "summary": "इरानको रिभोल्युसनरी गार्डले होर्मुज जलडमरूमध्यमा तीनवटा तेल ट्याङ्कर समुद्री माइनमा ठोक्किएर आगो लागेको दाबी गरेको छ। CNBC का अनुसार अमेरिकी सुरक्षामा हिँडेका जहाजमा यस्तो भएको इरानको भनाइ छ, र यसैबीच अमेरिकी अर्थ मन्त्रालयले इरानमाथिको प्रतिबन्ध फराकिलो बनाएको छ। वाल स्ट्रिट जर्नललाई उद्धृत गर्दै रोयटर्सले अमेरिकाले जहाजमाथि भएका दर्जनौं नयाँ साइबर आक्रमणमा इरानको हात हुनसक्ने आशंका गरेको जनाएको छ। अर्कोतर्फ कतारका प्रधानमन्त्रीले अमेरिकी विदेशमन्त्री मार्को रुबियोसँग भेटपछि अमेरिका–इरान वार्ता फेरि सुरु गराउने प्रयास गरिरहेको बताएका छन्।",
+   "sides": [
+    {
+     "who": "इरानको भनाइ",
+     "says": "रिभोल्युसनरी गार्डका अनुसार अमेरिकी सुरक्षा हुँदाहुँदै तीन ट्याङ्कर माइनमा ठोक्किएर आगो लाग्यो।"
+    },
+    {
+     "who": "अमेरिकाको कदम",
+     "says": "अमेरिकाले इरानसँग जोडिएका थप संस्थामाथि प्रतिबन्ध लगायो र जहाजमाथिका साइबर आक्रमणमा इरानको भूमिका हेरिरहेको छ।"
+    }
+   ],
+   "unverified": "ट्याङ्करमा आगो लागेको इरानी दाबीको स्वतन्त्र पुष्टि भेटिएन।",
+   "sources": [
+    {
+     "name": "अल जजिरा",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines"
+    },
+    {
+     "name": "CNBC (शीर्षक)",
+     "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html"
+    },
+    {
+     "name": "मिडल इस्ट आई (शीर्षक)",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-three-tankers-hit-mines-hormuz-fire"
+    },
+    {
+     "name": "रोयटर्स (साइबर आक्रमण, शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjR1WG9RTVdfSTNnS1RTOWcwVlhpeGMtaUdMZGVIU1I0ZWt1ZlhtQ2F1ODJZOEwxVzB2ZHBYNDIxMkEtdjdMY1Z2X050QjY2VjYwR1VmTDZSbWxiQTNwZ09nZTRHYzdweXEzajYxcnZxTUp3eWdSdEtvX2RMTllnY205N3VoTlJnTEQtOEYySEVHNDZMa0p5bHdPWG9KTUw1Zzg3VnZuVEVGV3czanhjQUJxdDNqTXFvMXlZT1k4bmlQYkJfYXUya0lsbzRoUQ?oc=5"
+    },
+    {
+     "name": "अल जजिरा (कतार)",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "title": "जेलेन्स्कीको चारपक्षीय शान्ति वार्ताको आग्रह, युरोपले रुसमाथि २२औं प्रतिबन्ध प्याकेज ल्यायो",
+   "summary": "युक्रेनी राष्ट्रपति भोलोदिमिर जेलेन्स्कीले युक्रेन, रुस, अमेरिका र युरोपबीच 'सकेसम्म चाँडो' शान्ति वार्ता गर्न आग्रह गरेका छन्। फ्रान्स २४ का अनुसार किभ मंगलबारै भेट्न तयार रहेको उनले बताए। द हिन्दूका अनुसार गत हप्ता बर्लिनमा अमेरिकी दूत जारेड कुश्नरले शान्ति सम्झौताको भागका रूपमा युक्रेनलाई नेटोको धारा ५ जस्तै सुरक्षा ग्यारेन्टी दिनेबारे अमेरिकाले विचार गर्न सक्ने बताएका थिए। यसैबीच युरोपेली आयोगले रुसमाथि २२औं प्रतिबन्ध प्याकेज प्रस्ताव गरेको छ, जसमा बैंक, क्रिप्टो मुद्रा र रुसी खेलाडीलाई निशाना बनाइएको एपी र रोयटर्सले जनाएका छन्।",
+   "unverified": "वार्ताको आग्रहमा रुसको प्रतिक्रिया स्रोतहरूमा भेटिएन।",
+   "sources": [
+    {
+     "name": "फ्रान्स २४",
+     "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible"
+    },
+    {
+     "name": "द हिन्दू",
+     "url": "https://www.thehindu.com/news/international/zelenskyy-calls-for-four-way-talks-with-russia-as-soon-as-possible/article71734890.ece"
+    },
+    {
+     "name": "एपी (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1FWT0FKN3NFS3JoRG0zYnZvTkpjNEZqR240QzdMQVJDM1lmUklKeHpLeUl4bmFNUnlSa29kaU13WmhBdkNmVkt1WVZDUkdycVl3elQ1c1BwelFsLWVJeDhNNVBORWZBLWlhd0VqQ1QzLXFaNEZjRHEydWY1MGJYcDlYeWc5RjE4UEVEekJDYURuTWJfbk1WMGo1dWR3Zl84TUs1NEFJemZPZHVOVEE?oc=5"
+    },
+    {
+     "name": "अल जजिरा",
+     "url": "https://aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal"
+    },
+    {
+     "name": "द गार्डियन",
+     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "title": "ताजिकिस्तानले अन्तर्राष्ट्रिय फौजदारी अदालत छाड्ने सूचना दियो",
+   "summary": "मध्य एसियाली देश ताजिकिस्तानले अन्तर्राष्ट्रिय फौजदारी अदालत (ICC) बाट बाहिरिने सूचना राष्ट्रसंघलाई दिएको छ। रोयटर्सका अनुसार अमेरिकाले कूटनीतिक दबाब सुरु गरेयता ICC छाड्ने यो चौथो देश हो। द हिन्दूका अनुसार बुर्किना फासो, माली र नाइजरले गत वर्ष अदालतलाई 'नवउपनिवेशवादी दमनको साधन' भन्दै बाहिरिने घोषणा गरेका थिए। एपीले यसअघि नै ट्रम्प प्रशासनले ICC माथि दबाब बढाएसँगै थप देश बाहिरिन थालेको रिपोर्ट गरेको थियो।",
+   "sources": [
+    {
+     "name": "रोयटर्स (GMA मार्फत, शीर्षक)",
+     "url": "https://www.gmanetwork.com/news/topstories/world/1010527/tajikistan-becomes-fourth-country-to-withdraw-from-icc-since-us-diplomatic-push/story/"
+    },
+    {
+     "name": "द हिन्दू",
+     "url": "https://www.thehindu.com/news/international/tajikistan-becomes-fourth-country-to-withdraw-from-international-criminal-court/article71735286.ece"
+    },
+    {
+     "name": "NHK (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZdFF6MUxudlIxRGJnZ2U4MGROOGtxN01CUGpSMG9DUWF5NDdkanphVFNjNWJxSEVBckdxMGQzQWR6T1dQdkF4eDZuRkVKNE5WZVlaSW0wM1EyZVBIMHBYUGhCYw?oc=5"
+    },
+    {
+     "name": "UPI (शीर्षक)",
+     "url": "https://www.upi.com/Top_News/World-News/2026/11/23/tajikistan-icc-withdrawal/8371795453557"
+    },
+    {
+     "name": "एपी (पीबीएस मार्फत, शीर्षक)",
+     "url": "https://pbs.org/newshour/world/as-trump-squeezes-the-international-criminal-court-more-countries-are-leaving"
+    }
+   ]
+  },
+  {
+   "section": "india_china",
+   "title": "अरुणाचलमा सीमा तनाव घटाउन भारत–चीन सैनिक कमान्डरबीच १० दिने वार्ता",
+   "summary": "भारत र चीनका सैनिक कमान्डरबीच अरुणाचल प्रदेशको वास्तविक नियन्त्रण रेखा (LAC) मा तनाव घटाउन १० दिने वार्ता भएको छ। द हिन्दूका अनुसार वार्तामा दुवै सेनाबीच व्यवहारका नियम बनाउने, आमनेसामने भिडन्त र गलतफहमी रोक्ने तथा सम्पर्कका माध्यम खुला राख्नेमा ध्यान दिइएको थियो। डेली पायोनियरका अनुसार अरुणाचल सीमा तनावबारे दुई देशबीच भएको यो दोस्रो चरणको सैन्य वार्ता हो।",
+   "sources": [
+    {
+     "name": "द हिन्दू",
+     "url": "https://www.thehindu.com/news/national/india-china-hold-10-day-talks-to-ease-loac-tensions-in-arunachal-pradesh/article71731819.ece"
+    },
+    {
+     "name": "डेली पायोनियर (शीर्षक)",
+     "url": "https://dailypioneer.com/india/india-china-hold-second-round-of-military-talks-to-ease-arunachal-border-tensions"
+    },
+    {
+     "name": "बिजनेस अपटर्न (शीर्षक)",
+     "url": "https://businessupturn.com/nation/india-and-china-conclude-second-round-of-corps-commander-level-talks-on-arunachal-lac/"
+    },
+    {
+     "name": "नर्थइस्ट लाइभ (शीर्षक)",
+     "url": "https://northeastlivetv.com/around-ne/arunachalpradesh/india-china-hold-10-day-commanders-meet-to-ease-border-tensions-in-arunachal-pradesh/"
+    }
+   ]
+  },
+  {
+   "section": "india_china",
+   "title": "चीनको अन्तरिक्ष स्टेसनमा पहिलो विदेशी यात्री: पाकिस्तानी अन्तरिक्ष यात्री बुधबार उड्ने",
+   "summary": "चीनले शेनझाउ–२४ अन्तरिक्ष यानमा पाकिस्तानका मुहम्मद जीशान अलीलाई पठाउने घोषणा गरेको छ। साउथ चाइना मर्निङ पोस्टका अनुसार उनी चीनको तियानगोङ अन्तरिक्ष स्टेसन पुग्ने पहिलो विदेशी अन्तरिक्ष यात्री हुनेछन्। पाकिस्तानी सेनाका पूर्व पाइलट अली चिनियाँ अन्तरिक्ष यात्री ताङ होङबो र वु यीसँग जानेछन्। चिनियाँ प्रवक्ताका अनुसार यान बुधबार बिहान ८:१८ बजे (चीनको समय) उड्ने तालिका छ।",
+   "sources": [
+    {
+     "name": "एससीएमपी",
+     "url": "https://www.scmp.com/news/china/science/article/3375536/pakistani-astronaut-joins-shenzhou-24-crew-heading-chinas-tiangong-space-station"
+    },
+    {
+     "name": "GMA न्युज (शीर्षक)",
+     "url": "https://www.gmanetwork.com/news/scitech/science/1010579/china-to-launch-shenzhou-24-spaceship-with-first-foreign-astronaut/story/"
+    },
+    {
+     "name": "जियो टिभी (शीर्षक)",
+     "url": "https://www.geo.tv/latest/692393-pakistans-first-astronaut-set-for-historic-liftoff-aboard-chinas-shenzhou-24-tomorrow"
+    },
+    {
+     "name": "एस्ट्रोनोमी (शीर्षक)",
+     "url": "https://www.astronomy.com/whats-launching-this-week/pakistans-first-astronaut-heads-for-chinas-space-station/"
+    }
+   ]
+  },
+  {
+   "section": "economy",
+   "title": "अमेरिकामा ब्याजदर अझै बढ्न सक्ने फेड अधिकारीको संकेत, एसियाली सेयर बजार उकालो",
+   "summary": "अमेरिकी केन्द्रीय बैंक फेडरल रिजर्भका प्रभावशाली अधिकारी तथा न्युयोर्क फेडका प्रमुख जोन विलियम्सले महँगी (मुद्रास्फीति) अझै धेरै उच्च रहेको भन्दै ब्याजदर थप बढाउन सकिने संकेत दिएका छन्। CNBC का अनुसार उनले ब्याजदर 'समयक्रममा' बढ्ने सम्भावना देखाए र सन् २०२७ मा महँगी फेडको २ प्रतिशत लक्ष्यको नजिक पुग्नेमा विश्वास व्यक्त गरे। सोमबार अमेरिकी बजारको ठूलो उछालपछि मंगलबार एसियाली सेयर बजार पनि उक्लिएका छन्। एपीका अनुसार एनभिडियामा जेन्सन हुआङ फर्किएपछि यो उछाल आएको हो, र CNBC का अनुसार ताइवानका एनभिडियासँग जोडिएका सेयर एक दिनमा बढ्न पाउने अधिकतम सीमा नजिक पुगे।",
+   "sources": [
+    {
+     "name": "रोयटर्स (मार्केटस्क्रिनर मार्फत, शीर्षक)",
+     "url": "https://www.marketscreener.com/news/fed-s-williams-says-inflation-still-too-high-signals-more-rate-hikes-possible-ce7851dadf81f62c"
+    },
+    {
+     "name": "CNBC (विलियम्स)",
+     "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
+    },
+    {
+     "name": "एपी (कोरिया टाइम्स मार्फत, शीर्षक)",
+     "url": "https://www.koreatimes.co.kr/world/20261124/asian-stocks-rally-after-wall-street-rebound-as-jensen-huang-returns-as-nvidias-ceo"
+    },
+    {
+     "name": "CNBC (एसियाली बजार)",
+     "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html"
+    }
+   ]
+  },
+  {
+   "section": "economy",
+   "title": "क्राउडस्ट्राइकले जिस्केलर कम्पनी ४४ अर्ब डलरमा किन्ने",
+   "summary": "अमेरिकी साइबर सुरक्षा कम्पनी क्राउडस्ट्राइकले अर्को साइबर सुरक्षा कम्पनी जिस्केलरलाई ४४ अर्ब डलर (४ हजार ४०० करोड डलर) मा किन्ने सम्झौता गरेको छ। एपीका अनुसार यो सम्झौताले साइबर सुरक्षा क्षेत्रमा एउटा विशाल कम्पनी बनाउनेछ। CNBC का अनुसार AI को प्रयोगले साइबर आक्रमण बढेपछि यस क्षेत्रका कम्पनीहरूले सुरक्षा बलियो बनाउन अर्बौं डलर खर्च गरिरहेका छन्। क्राउडस्ट्राइकका प्रमुख कार्यकारी जर्ज कर्ट्जले यो खरिदलाई 'जित्ने संयोजन' भन्दै बचाउ गरेका छन्।",
+   "sources": [
+    {
+     "name": "एपी (WRAL मार्फत, शीर्षक)",
+     "url": "https://www.wral.com/news/ap/cf5a6-crowdstrike-to-acquire-zscaler-in-a-44-billion-deal-that-would-create-a-cybersecurity-giant/"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
+    },
+    {
+     "name": "CNBC (कर्ट्ज)",
+     "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html"
+    },
+    {
+     "name": "टेकक्रन्च (शीर्षक)",
+     "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"
+    }
+   ]
+  },
+  {
+   "section": "ai",
+   "title": "कोड जाँच्ने र स्वीकृत गर्ने काम AI लाई: एन्थ्रोपिकले 'क्लड सिप' ल्यायो",
+   "summary": "AI कम्पनी एन्थ्रोपिकले 'क्लड सिप' नामको नयाँ सेवा सार्वजनिक गरेको छ। टेकक्रन्चका अनुसार यसले AI एजेन्ट (मानिसले दिएको काम आफैं गर्ने AI सफ्टवेयर) लाई कम्प्युटर प्रोग्रामको कोडमा गरिएका परिवर्तन जाँच्ने, त्रुटि सच्याउने र स्वीकृत गर्ने काम गर्न दिन्छ। AI ले लेखेको कोड थुप्रिँदै गएपछि सामान्य स्वीकृतिको काम पनि एजेन्टलाई दिएर ढिलाइ घटाउन यो ल्याइएको टेकक्रन्चले जनाएको छ। रोयटर्सका अनुसार यसको उद्देश्य प्रोग्रामरलाई छिटो काम सक्न मद्दत गर्नु हो, र अन्य प्रविधि सञ्चारमाध्यमका अनुसार एजेन्टले टोलीले तोकेका नियमअनुसार मात्र स्वीकृति दिन्छ।",
+   "sources": [
+    {
+     "name": "टेकक्रन्च",
+     "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+    },
+    {
+     "name": "रोयटर्स (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVURIRFNoWllBMDkzLVhtNFloSkdUTFZ2ZmZWN2pMMm52ckI0N1dXT3pVX0VDa3NZYW1YNW5NMVlVdkJCSXVTTGJVc0RxVVNndnhCdTA2dDRIVFIyempCd0MxTEc4SzJoTHJsZGVNTTNDRUlmN1RWb0tzRWRzX2RBZzFkLTlFQkF3VllOUV9ReHg0VHQ4cWtld3psMWpiYTVDZER3UUJ0cXpseWpj?oc=5"
+    },
+    {
+     "name": "मार्कटेकपोस्ट (शीर्षक)",
+     "url": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/"
+    },
+    {
+     "name": "सुपरपावर डेली (शीर्षक)",
+     "url": "https://superpowerdaily.com/posts/anthropic-launches-claude-ship-to-fix-code-and-approve-changes-under-team-rules"
+    }
+   ]
+  },
+  {
+   "section": "ai",
+   "title": "ग्रोक AI ले बनाएका नक्कली यौनजन्य तस्बिरबारे दुई अमेरिकी राज्यले स्पेसएक्सविरुद्ध मुद्दा हाले",
+   "summary": "अमेरिकाका भर्जिनिया र ओरेगन राज्यले इलोन मस्कको कम्पनी स्पेसएक्सविरुद्ध छुट्टाछुट्टै मुद्दा दायर गरेका छन्। द भर्जका अनुसार दुवै राज्यका महान्यायाधिवक्ताले कम्पनीले उद्योगमा चलेका सुरक्षा उपाय बेवास्ता गरेको र सामाजिक सञ्जाल X तथा AI च्याटबट ग्रोकका सुविधा सुरक्षित भएको झूटो प्रचार गरेको आरोप लगाएका छन्। एपीका अनुसार ग्रोकबाट बनाइएका यौनजन्य नक्कली तस्बिर (डिपफेक) को बाढी आएपछि मुद्दा परेको हो, र अल जजिराका अनुसार मुद्दामा बालबालिकासम्बन्धी दुर्व्यवहारजन्य सामग्री बनाएको आरोप पनि छ। CNBC का अनुसार राज्यहरूले जरिवाना र सहमतिबिना यस्ता तस्बिर बनाउन–फैलाउन रोक्ने आदेश माग गरेका छन्।",
+   "unverified": "आरोपबारे स्पेसएक्सको प्रतिक्रिया स्रोतहरूमा भेटिएन।",
+   "sources": [
+    {
+     "name": "द भर्ज",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+    },
+    {
+     "name": "एपी (शीर्षक)",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORmt4N1d4MGFnXzJiOXBseVl4SExXOGZ4YkVoXzdMV0RCd1dnMHc5RWpJNTNCOTFxb2VSa3I1M19rZnRYaG4zOTZHZWtoQmRyc2RIdURGUEFnRWlaZkhSNi1aTXQyRmpQaGc4aHptWnRoTmQ1M3dIQlZrRDhIck8zQm1TNmdmUVdOVTg2SmJLdTlLbk1oMDZUdDFxTHFPbWc?oc=5"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
+    },
+    {
+     "name": "अल जजिरा",
+     "url": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss"
+    },
+    {
+     "name": "साइबरस्कुप (शीर्षक)",
+     "url": "https://cyberscoop.com/virginia-oregon-sue-spacex-grok-deepfakes/"
+    }
+   ]
+  }
+ ]
+}
