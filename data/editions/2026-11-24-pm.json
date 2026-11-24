@@ -1,0 +1,165 @@
+{
+  "id": "2026-11-24-pm",
+  "generated_at": "2026-11-24T18:13:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार: सोमबार, नोभेम्बर २३ को बन्द (मंगलबारको कारोबार नेपाल समयअनुसार बेलुकी मात्र सुरु हुन्छ) · NEPSE: मंगलबार, नोभेम्बर २४ (मंसिर ८) को बन्द, कारोबार ५ अर्ब ५५ करोड रुपैयाँ · डलर: मंगलबार, नोभेम्बर २४ (मंसिर ८) को राष्ट्र बैंकको दर (खरिद १४८.३६, बिक्री १४८.९६ रुपैयाँ) · ब्रेन्ट तेल मंगलबार ९० डलरभन्दा तल झरेको एउटा स्रोतले जनाएको छ, ठ्याक्कै मूल्य मिति सहित पुष्टि हुन सकेन।",
+    "items": [
+      {"name": "S&P 500", "value": 7237.17, "change_pct": 4.73,
+       "source": "बीबीएन टाइम्स (शीर्षक)",
+       "url": "https://www.bbntimes.com/global-economy/s-p-500-soars-4-73-to-7-237-17-in-best-day-since-april-2025-on-huang-s-nvidia-comeback"},
+      {"name": "Nasdaq", "value": 24089.56, "change_pct": 6.51,
+       "source": "बीबीएन टाइम्स / एड-हक न्युज (शीर्षक)",
+       "url": "https://www.bbntimes.com/technology/nasdaq-rockets-6-51-to-24-089-56-as-nvidia-soars-31-on-jensen-huang-s-reinstatement"},
+      {"name": "Dow Jones", "value": 49595.31, "change_pct": null,
+       "source": "बीबीएन टाइम्स (शीर्षक)",
+       "url": "https://www.bbntimes.com/financial/dow-jones-djia-surges-to-49-595-31-as-nvidia-leads-blue-chip-rebound"},
+      {"name": "NEPSE", "value": 2638.95, "change_pct": 0.59,
+       "source": "हाम्रो पात्रो / अनलाइनखबर / हिमाल प्रेस (शीर्षक)",
+       "url": "https://www.hamropatro.com/en/news/detail/1795514734759206556-mangalabar-15-39-ankale-badhyo-nepse-parisuchak-bajar-2638-95"},
+      {"name": "डलर (राष्ट्र बैंक, खरिद)", "value": 148.36, "unit": "रु", "change_pct": null,
+       "source": "नेपाल राष्ट्र बैंक (लोकान्तर मार्फत, शीर्षक)",
+       "url": "https://lokaantar.com/story/333883/2026/11/24/economy/exchange-rates-333883"}
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "सुनकोशी–मरिण डाइभर्सनको ठेक्का रद्दबारे संसदीय समितिमा छलफल, सात दिनभित्र कागजात माग",
+      "summary": "प्रतिनिधिसभाको सार्वजनिक लेखा समितिले मंगलबार सुनकोशी–मरिण डाइभर्सन बहुउद्देश्यीय आयोजनाको ठेक्का रद्द गरिएको विषयमा छलफल गर्‍यो। टेन्डरका सबै प्रक्रिया पूरा भइसकेपछि अन्तिम चरणमा ठेक्का रद्द गरिएको र यो प्रक्रियागत रूपमा त्रुटिपूर्ण भएको भन्दै समितिमा उजुरी परेको थियो। समितिका सभापति भरतबहादुर खड्काले ठेक्का रद्दसँग सम्बन्धित कागजात सात दिनभित्र बुझाउन सरकारी निकायलाई निर्देशन दिए।",
+      "sides": [
+        {"who": "जलस्रोत तथा सिँचाइ विभागका महानिर्देशक दिनेश रजौरिया", "says": "संशोधित सार्वजनिक खरिद नियमावलीअनुसार प्रक्रिया अघि बढाउनु उपयुक्त ठानेर बोलपत्र रद्द गरिएको हो, निर्णय कानुनसम्मत छ।"},
+        {"who": "उजुरीकर्ता र केही सांसद", "says": "आर्थिक प्रस्ताव खोल्ने चरणमा पुगेको ठेक्का अन्तिम समयमा रद्द गर्नु प्रक्रियागत त्रुटि हो। रास्वपा सांसद मनिष झाले आयोजना रोकिए मधेशमा आन्दोलन हुन सक्ने चेतावनी दिँदै स्पष्ट योजना र समयसीमा माग गरे।"}
+      ],
+      "sources": [
+        {"name": "अनलाइनखबर", "url": "https://www.onlinekhabar.com/2026/11/2064272/instructions-to-provide-contract-cancellation-documents-for-sunkoshi-marin-diversion-project-within-7-days"},
+        {"name": "अनलाइनखबर (महानिर्देशकको दाबी)", "url": "https://www.onlinekhabar.com/2026/11/2064261/director-general-claims-that-canceling-the-bid-for-sunkoshi-marin-diversion-was-legal"},
+        {"name": "अनलाइनखबर इङ्लिस (मनिष झा)", "url": "https://english.onlinekhabar.com/manish-jha-unrest-sunkoshi-marin-diversion-project.html"},
+        {"name": "हिमाल प्रेस (शीर्षक)", "url": "https://en.himalpress.com/pac-tells-govt-to-submit-sunkoshi-marin-tender-files-within-seven-days/"},
+        {"name": "रातोपाटी (शीर्षक)", "url": "https://english.ratopati.com/story/88027/audit-committee-directs-to-submit-all-documents-related-to-sunkoshi-marina-contract-cancellation-process-within-seven-days"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "भोटेकोशी बाढी प्रभावित क्षेत्रका लागि बागमती प्रदेश सरकारले ६ अर्ब रुपैयाँ परिचालन गर्ने",
+      "summary": "बागमती प्रदेशका मुख्यमन्त्री किरण थापामगरले भोटेकोशी बाढीले क्षति पुर्‍याएका क्षेत्रको पुनर्स्थापना र पुनर्निर्माणका लागि प्रदेश सरकारले ६ अर्ब रुपैयाँ परिचालन गर्ने बताएका छन्। सोमबार ललितपुरमा भएको समन्वय बैठकमा उनले यसका लागि विभिन्न बजेटको १० देखि २० प्रतिशत रकम सारिएको जानकारी दिए। यसैबीच, विपद्को जोखिम भएका क्षेत्रका मानिसलाई मोबाइलमार्फत समयमै चेतावनी पठाउन नेपालमै बनाइएको 'सेल ब्रोडकास्ट' प्रणालीको सोमबार सफल परीक्षण भएको अनलाइनखबरले जनाएको छ।",
+      "sources": [
+        {"name": "अनलाइनखबर इङ्लिस", "url": "https://english.onlinekhabar.com/bagmati-govt-to-mobilise-rs-6-billion-for-disaster-hit-areas.html"},
+        {"name": "खबरहब (शीर्षक)", "url": "https://english.khabarhub.com/2026/24/576867/"},
+        {"name": "नेपाल प्रेस (शीर्षक)", "url": "https://english.nepalpress.com/2026/11/24/bagmati-province-government-to-mobilize-rs-6-billion-for-disaster-affected-areas/"},
+        {"name": "अन्नपूर्ण एक्सप्रेस (शीर्षक)", "url": "https://theannapurnaexpress.com/story/69030/"},
+        {"name": "अनलाइनखबर इङ्लिस (सेल ब्रोडकास्ट)", "url": "https://english.onlinekhabar.com/test-of-locally-developed-cell-broadcast-system-successful.html"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "निर्वासित पूर्वप्रधानमन्त्री शेख हसिनाले डिसेम्बर १६ मा बंगलादेश फर्किने योजना सार्वजनिक गरिन्",
+      "summary": "बंगलादेशकी पूर्वप्रधानमन्त्री शेख हसिनाले डिसेम्बर १६ मा भारतबाट स्वदेश फर्किने योजना बनाएको उनका प्रवक्ताले जनाएका छन्। बीबीसीका अनुसार उनले फर्किने इच्छा पटक–पटक व्यक्त गरे पनि मिति तोकेको यो पहिलो पटक हो। रोयटर्स र इन्डियन एक्सप्रेसका अनुसार उनले सरकारी विमान पठाउन तारिक रहमान नेतृत्वको सरकारसँग आग्रह गरेकी छन्। विद्यार्थी नेतृत्वको आन्दोलनपछि १५ वर्षको शासन अन्त्य भएर उनी अगस्ट ५, २०२४ देखि भारतमा निर्वासनमा छिन्।",
+      "sides": [
+        {"who": "हसिना पक्ष", "says": "उनी डिसेम्बर १६ मा देश फर्किने योजनामा छन् र यसका लागि सरकारसँग व्यवस्था मिलाउन आग्रह गरिएको छ।"},
+        {"who": "बंगलादेश सरकार", "says": "परराष्ट्र राज्यमन्त्री शमा ओबेद इस्लामले हसिना फर्किए पक्राउ गरिने र भारतले सुपुर्दगी सन्धि पालना गर्नुपर्ने बताएकी छन्।"}
+      ],
+      "sources": [
+        {"name": "बीबीसी", "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss"},
+        {"name": "एपी (शीर्षक)", "url": "https://www.yahoo.com/news/world/articles/sheikh-hasina-plans-return-bangladesh-073502334.html"},
+        {"name": "द हिन्दू", "url": "https://www.thehindu.com/news/international/former-bangladesh-pm-sheikh-hasina-return-to-bangladesh/article71737182.ece"},
+        {"name": "द हिन्दू (सरकारको भनाइ)", "url": "https://www.thehindu.com/news/international/bangladesh-vows-to-arrest-ex-pm-hasina-if-she-returns-from-india/article71734092.ece"},
+        {"name": "रोयटर्स (शीर्षक)", "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTZ3QXNQYmJqMENPRDZLVFAyS3JkUmhjaWxHLUF6TkwzejRmTTZHaERqdmd5NkZmMVVOMEZCaW1MWnlIS3hMVE5BUjJiRTNoMy1RdXUtUVpibnhicDgxZ0JHOUNuYmRDVTNrLVpTVUFaUVM5UDVaZExqR3hTSkxrNU9nSG5aMG9sc2hsMmFvTkstR2g4Qk1UZDMzM2JSaE1yTHVtSV9qaTRPbzN1U2F3UWM4S0hyT2FpaWc?oc=5"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "रुसी सैनिक विमान नजिक आएपछि दक्षिण कोरियाले एउटा टापुका बासिन्दालाई सुरक्षित स्थानमा जान भन्यो",
+      "summary": "दक्षिण कोरियाले मंगलबार बिहान केही रुसी सैनिक विमान आफ्नो हवाई रक्षा पहिचान क्षेत्रमा पसेको जनाएको छ। गार्डियनका अनुसार विमान उल्लेउङ्दो टापुमाथिको आकाशसम्म नजिकिएपछि सेनाले त्यहाँका बासिन्दालाई सुरक्षित स्थानमा जान पूर्वचेतावनी जारी गरेको थियो। फ्रान्स २४ का अनुसार सुरुमा उत्तर कोरियाली विमान पसेको भनिएको सूचनालाई पछि सच्याइएको थियो।",
+      "unverified": "रुसले यस घटनाबारे के भन्यो भन्ने कुरा यो संस्करण तयार गर्दासम्म स्रोतहरूमा भेटिएन।",
+      "sources": [
+        {"name": "द गार्डियन", "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach"},
+        {"name": "एपी (शीर्षक)", "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSS12cWZyNHNoNWpmOTNnVWhuWWQwSmY1SDU5SjR5YXdxOWJtakJSVGl1RlZlZ09tbDdEUWVXTVc4dHhmN3RnVzFVRDVQSnR5UnBoTjNMOXJqLWxPUWJpSGdTZDQ2VldRVGd2LWN5bEZuYmoxQVdPcnNxemZGQXNya2p3RkpBVlFhWDlvYzJSWmtuZXFXSWxLYkRxSGpRSTJINjlCRFNpR3BDU1lpTVpJ?oc=5"},
+        {"name": "रोयटर्स (द प्रिन्ट मार्फत, शीर्षक)", "url": "https://theprint.in/world/south-korea-issues-take-shelter-warning-after-russia-aircraft-fly-near-airspace/3107091/"},
+        {"name": "फ्रान्स २४", "url": "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "रुसले आणविक हतियारसहितको भू–उपग्रह प्रक्षेपण गर्न सक्ने रिपोर्टपछि नेटोले अन्तरिक्षमा पनि रक्षा गर्ने बतायो",
+      "summary": "जर्मन सेना र गुप्तचर संस्था बीएनडीका नाम नखुलेका स्रोत उद्धृत गर्दै जर्मन सञ्चारमाध्यमले रुसले आगामी केही हप्तामै आणविक हतियार राखिएको भू–उपग्रह अन्तरिक्षमा पठाउने योजना बनाएको रिपोर्ट गरेका छन्। फ्रान्स २४ का अनुसार यस्तो उपग्रहले अरू भू–उपग्रह नष्ट गर्न सक्ने क्षमता दिन सक्छ। यसबारे सोधिँदा नेटो प्रमुख मार्क रुटेले सोमबार गठबन्धनले अन्तरिक्षबाट आउने खतराविरुद्ध पनि रक्षा गर्ने बताए। रोयटर्सका अनुसार अमेरिकी राष्ट्रपति ट्रम्पले बुधबार रुटेसँग भेट्दैछन्।",
+      "unverified": "रुसले यस्तो उपग्रह पठाउने योजना साँच्चै बनाएको हो कि होइन भन्ने कुरा आधिकारिक रूपमा पुष्टि भएको छैन; यो जर्मन सञ्चारमाध्यमको रिपोर्टमा आधारित छ।",
+      "sources": [
+        {"name": "बीबीसी", "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"},
+        {"name": "फ्रान्स २४", "url": "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report"},
+        {"name": "एएफपी (अशर्क अल–अवसत मार्फत, शीर्षक)", "url": "https://english.aawsat.com/world/5344590-nato-vows-space-defense-after-russia-nuclear-satellite-report"},
+        {"name": "रोयटर्स (ट्रम्प–रुटे भेट, शीर्षक)", "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnFJU2tabWVwRnU2YnozaFFRTWZ4VWc4TmNseXdPRGZoa25Zc0RXZ251ODdJQ3ZxYl9fWVhlSkwtU0xhajZpeHNRSXQyclM0WUdKT1Y2cHh1OExteDRnVUlfcFVMaXc1X3NnNk15QTczVklYMHR5dVZldGJBcGtnRjhlaDczNFQ0RnZoMWFlRC1rZ1pfWGUwYlNGMmNuNVlXam9peE5xb0NKWTQ?oc=5"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "चीनले भारतको उदयलाई आर्थिक बाटोबाट रोक्न खोजिरहेको अमेरिकी आयोगको रिपोर्ट",
+      "summary": "अमेरिका–चीन आर्थिक तथा सुरक्षा समीक्षा आयोगको नयाँ रिपोर्टले चीनले भारतलाई रोक्ने तरिका बदलेको तर प्रयास जारी राखेको दाबी गरेको छ। CNBC का अनुसार रिपोर्टले चीन अहिले सैनिक कारबाहीभन्दा आर्थिक रूपमा भारतलाई सीमित गर्नेतर्फ बढी केन्द्रित भएको जनाएको छ। बिजनेस स्ट्यान्डर्डका अनुसार रिपोर्टले भारत उद्योगका कच्चा पदार्थ र आपूर्तिमा चीनमाथि निर्भर रहेको कुरालाई चीनले प्रयोग गरिरहेको उल्लेख गरेको छ। डेक्कन हेराल्डका अनुसार रिपोर्टमा 'अपरेशन सिन्दुर' का बेला चीनले पाकिस्तानलाई गरेको सहयोगलाई पनि यही प्रयासको हिस्सा भनिएको छ।",
+      "unverified": "चिनियाँ सरकारको प्रतिक्रिया यो संस्करण तयार गर्दासम्म स्रोतहरूमा भेटिएन।",
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html"},
+        {"name": "बिजनेस स्ट्यान्डर्ड (शीर्षक)", "url": "https://www.business-standard.com/amp/world-news/us-panel-china-using-control-industrial-inputs-curb-india-rise-126112400488_1.html"},
+        {"name": "डेक्कन हेराल्ड (शीर्षक)", "url": "https://www.deccanherald.com/world/us/china-backing-pakistan-during-operation-sindoor-part-of-effort-to-curb-indias-rise-us-panel-4227310"},
+        {"name": "डेली एक्सेलसियर (शीर्षक)", "url": "https://www.dailyexcelsior.com/china-using-pak-indian-ocean-expansion-to-contain-indias-rise-us-report"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "विदेशी मुलुकका लागि जासुसी गरेको अभियोगमा चीनले एक सरकारी अधिकारीलाई मृत्युदण्ड दियो",
+      "summary": "चीनले राष्ट्रिय गोपनीयता चुहाएको र विदेशी मुलुकका लागि जासुसी गरेको अभियोगमा एक सरकारी अधिकारीलाई मृत्युदण्डको सजाय सुनाएको छ। गार्डियनका अनुसार चीनको राज्य गोपनीयता संरक्षण प्रशासनसँग जोडिएको प्रकाशन संस्था 'गोल्ड वाल प्रेस' ले यो जानकारी दिएको हो। ती अधिकारीले नाम नखुलाइएको एउटा देशलाई गोप्य सूचना दिएर १ लाख ५० हजार डलरभन्दा बढी रकम लिएको उक्त प्रकाशकले जनाएको छ।",
+      "sources": [
+        {"name": "द गार्डियन", "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets"},
+        {"name": "एपी (शीर्षक)", "url": "https://www.washingtonpost.com/world/2026/11/23/china-spy-death-sentence/af82dbac-e788-11f1-8db0-6f1e3c389e7c_story.html"},
+        {"name": "द स्ट्यान्डर्ड, हङकङ (शीर्षक)", "url": "https://thestandard.com.hk/china/article/349453/China-sentences-official-to-death-for-spying-report"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "नेपालमा सुन दुई दिनमा तोलाको ५ हजार ३ सय रुपैयाँ महँगियो, सेयर बजार पनि उकालो",
+      "summary": "नेपाली बजारमा मंगलबार सुनको मूल्य प्रतितोला ५ सय रुपैयाँ बढेर २ लाख ४७ हजार ९ सय रुपैयाँ पुगेको छ। सोमबार मात्र तोलाको ४ हजार ८ सय रुपैयाँ बढेकाले दुई दिनमा सुन ५ हजार ३ सय रुपैयाँले महँगिएको हो। विश्व बजारमा पनि मंगलबार सुनको मूल्य थोरै बढेको रोयटर्सले जनाएको छ। यता मंगलबार नेप्से परिसूचक १५.३९ अंक बढेर २,६३८.९५ मा पुग्यो र कारोबार रकम ५ अर्ब ५५ करोड रुपैयाँ नाघ्यो।",
+      "sources": [
+        {"name": "अनलाइनखबर", "url": "https://www.onlinekhabar.com/2026/11/2064270/gold-price-increased-by-5300-in-two-days"},
+        {"name": "अन्नपूर्ण पोस्ट (शीर्षक)", "url": "https://www.annapurnapost.com/story/511895/"},
+        {"name": "रेडियो नेपाल (शीर्षक)", "url": "https://radionepalonline.com/2026/11/24/750673.html"},
+        {"name": "रोयटर्स (विश्व बजार, शीर्षक)", "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5"},
+        {"name": "हिमाल प्रेस (नेप्से, शीर्षक)", "url": "https://en.himalpress.com/nepse-up-15-39-points-turnover-improves-to-rs-5-55-billion/"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "होर्मुजको खतराबीच पनि आपूर्ति बढेकाले तेलको मूल्य तीन महिनायताकै न्यून स्तर नजिक",
+      "summary": "होर्मुज जलमार्गमा तनाव भए पनि बजारमा तेलको आपूर्ति बढेकाले मंगलबार कच्चा तेलको मूल्य तीन महिनायताकै न्यून स्तर नजिक रहेको रोयटर्सले जनाएको छ। एउटा भारतीय वित्तीय स्रोतका अनुसार ब्रेन्ट तेल प्रतिब्यारेल ९० डलरभन्दा तल झरेको छ र अमेरिका–इरान वार्ताको सम्भावनाले बजारलाई प्रभाव पारिरहेको छ। यसैबीच, एआई कम्पनीका सेयर फेरि बढेपछि अमेरिकी केन्द्रीय बैंक (फेड) ले ब्याजदर बढाउन सक्ने अनुमानले डलर बलियो भएको रोयटर्सले जनाएको छ।",
+      "sources": [
+        {"name": "रोयटर्स (बिजनेस रेकर्डर मार्फत, शीर्षक)", "url": "https://www.brecorder.com/news/40450477/oil-touches-three-month-lows-as-rising-supply-offsets-hormuz-threat?v=kPN9WUHUCMRQTjFVXU2kngx6"},
+        {"name": "सेमाफोर (शीर्षक)", "url": "https://www.semafor.com/article/11/24/2026/oil-prices-near-three-month-low"},
+        {"name": "कोटक निओ (शीर्षक)", "url": "https://www.kotakneo.com/news/commodities/oil-price-today-24-november-2026-brent-falls-below-90-us-iran-talks-supply-risks/"},
+        {"name": "रोयटर्स (डलर, शीर्षक)", "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWk01SnRnY1hzWHBOdlQ5eGdldmlIQkd5QUM4SFJ5S3Z5YWtVQnlYWVp3LXlqajM1QTA5UTBBSFNrOFdjVGdWME54WUJYdFRGUXJDYlVmUDFETjlITTZtYkFiWW9IcU9sVTM0R0otbjlmMXNCdC1HSEVNOXJMaDlIMC1YUnFBUDZNMXh6RlRwMVM5MDFRTy1YQXc3U21zYU0?oc=5"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "अस्ट्रेलियामा ठूला प्रविधि कम्पनीलाई आम्दानीको ५ प्रतिशतसम्म जरिवाना गर्ने विधेयक",
+      "summary": "अस्ट्रेलियाको संसदमा यसै हप्ता पारित हुने अपेक्षा गरिएको इन्टरनेट सुरक्षा विधेयकले अनलाइनमा हानि रोक्न नसक्ने ठूला प्रविधि कम्पनीलाई तिनको विश्वव्यापी आम्दानीको ५ प्रतिशतसम्म जरिवाना गर्न सक्ने व्यवस्था गरेको छ। गार्डियनका अनुसार लेबर र ग्रीन्स पार्टीबीच यसबारे सहमति भएको हो। यससँगै एआई (कृत्रिम बुद्धि) कम्पनीले अरूका रचना बिनाअनुमति प्रयोग गर्नेबारे पनि अस्ट्रेलियामा बहस चलिरहेको छ: केट बुश, ग्रेस जोन्सलगायत विश्वभरका ७ हजार कलाकार र लेखकले सरकारलाई प्रतिलिपि अधिकार कानुन कमजोर नबनाउन आग्रह गरेका छन्।",
+      "sides": [
+        {"who": "अस्ट्रेलियाली सरकार", "says": "अनलाइनमा हुने हानिका लागि प्रविधि कम्पनीलाई जिम्मेवार बनाउन ठूलो जरिवानाको व्यवस्था गरिएको हो।"},
+        {"who": "कलाकार र समाचार संस्था", "says": "एआई कम्पनीले अनुमति र भुक्तानीबिना रचना प्रयोग गर्नु 'चोरी' हो, यसलाई कानुनी मान्यता दिनु हुँदैन।"}
+      ],
+      "unverified": "प्रविधि कम्पनीहरूको प्रतिक्रिया यो संस्करण तयार गर्दासम्म स्रोतहरूमा भेटिएन।",
+      "sources": [
+        {"name": "अल जजिरा", "url": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm"},
+        {"name": "रोयटर्स (शीर्षक)", "url": "https://tribune.com.pk/story/2642053/big-tech-could-face-billions-of-dollars-in-fines-under-australian-internet-safety-bill"},
+        {"name": "द गार्डियन (कलाकार)", "url": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai"},
+        {"name": "द गार्डियन (समाचार संस्था)", "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "मेटाले किनमेल र यात्रा बुकिङ आफैं गर्ने एआई सहायक 'म्युज' बेलायतमा ल्यायो",
+      "summary": "फेसबुकको मातृ कम्पनी मेटाले आफ्नो एआई सहायक 'म्युज' बेलायतमा सुरु गरेको छ। यो 'एआई एजेन्ट' हो, अर्थात् प्रयोगकर्ताले भनेपछि यसले उपहार किन्ने वा यात्रा बुक गर्नेजस्ता काम आफैं गर्न सक्छ। गार्डियनका अनुसार अमेरिकामा यो लोकप्रिय भए पनि केही गडबडी भएको रिपोर्ट पनि आएका छन्। द इन्डस्ट्री फेसनका अनुसार एम एन्ड एस, डेबेनह्याम्स र जेडी स्पोर्ट्सजस्ता पसल बेलायती सुरुवातमा सामेल छन्।",
+      "sources": [
+        {"name": "द गार्डियन", "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping"},
+        {"name": "द इन्डस्ट्री फेसन (शीर्षक)", "url": "https://www.theindustry.fashion/ms-debenhams-and-jd-sports-join-uk-launch-of-metas-ai-agent-muse/"},
+        {"name": "टी३ (शीर्षक)", "url": "https://www.t3.com/tech/ai/meta-muse-arrives-in-the-uk-just-in-time-to-help-with-your-black-friday-shopping-and-its-completely-free"}
+      ]
+    }
+  ]
+}
