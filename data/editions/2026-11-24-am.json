@@ -1,0 +1,160 @@
+{
+  "id": "2026-11-24-am",
+  "generated_at": "2026-11-24T06:35:00+05:45",
+  "markets": {
+    "as_of": "NEPSE: सोमबार, नोभेम्बर २३ (मंसिर ७) को बन्द · अमेरिकी बजार (सोमबार, नोभेम्बर २३ को बन्द): S&P 500 करिब ४.७ प्रतिशत, Nasdaq करिब ६.५ प्रतिशत र डाउ जोन्स करिब १,४०० अंकले बढे; सूचकांकको अंक मिति सहित पुष्टि हुन सकेन · डलरको राष्ट्र बैंक दर र ब्रेन्ट तेलको मूल्य यस पटक मिति सहित पुष्टि हुन सकेन।",
+    "items": [
+      {"name": "NEPSE", "value": 2623.56, "change_pct": 0.09,
+       "source": "रातोपाटी / खबरहब (शीर्षक)",
+       "url": "https://english.ratopati.com/story/87956/nepse-index-rises-marginally"}
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "भारत भ्रमणबाट प्रधानमन्त्री फर्किए: सरकार भन्छ 'नयाँ ढोका खुल्यो', विपक्षी भन्छन् 'औसत'",
+      "summary": "दुई दिने राजकीय भारत भ्रमण सकेर प्रधानमन्त्री बालेन शाह सोमबार स्वदेश फर्किएका छन्। भ्रमणमा भारतीय प्रधानमन्त्री नरेन्द्र मोदीले तेस्रो देशसँगको आयात–निर्यातका लागि नेपाललाई ओडिशाको पारादीप र गुजरातको कान्डला बन्दरगाह प्रयोग गर्न दिने घोषणा गरे। नेपालले भने धाम्रा र मुन्द्रा बन्दरगाह मागेको थियो। भैरहवा हवाई मार्गमा नीतिगत सहमति भए पनि प्राविधिक सहमति हुन बाँकी रहेको अनलाइनखबरमा प्रकाशित विश्लेषणमा उल्लेख छ।",
+      "sides": [
+        {"who": "सरकार (परराष्ट्रमन्त्री खनाल)", "says": "लामो समयपछि यो भ्रमणले नेपाल–भारत सम्बन्धलाई सकारात्मक लयमा फर्काएको र नयाँ ढोका खोलेको सरकारको भनाइ छ।"},
+        {"who": "विपक्षी दलका नेता", "says": "भ्रमण औसत रहेको र भ्रमणअघि राष्ट्रपति, संसद र विपक्षी दलसँग परामर्श नगरिएको विपक्षीको भनाइ छ।"}
+      ],
+      "impact": "नयाँ बन्दरगाह पहुँचले तेस्रो देशसँगको नेपालको आयात–निर्यातका लागि थप समुद्री बाटो खुलेको छ।",
+      "sources": [
+        {"name": "अनलाइनखबर (सरकार र विपक्षी)", "url": "https://www.onlinekhabar.com/2026/11/2064096/government-says-prime-ministers-visit-opened-new-doors-opposition-says-it-was-average"},
+        {"name": "अनलाइनखबर इङ्लिस (बन्दरगाह)", "url": "https://english.onlinekhabar.com/access-paradip-kandla-port-nepal.html"},
+        {"name": "बीबीसी नेपाली", "url": "https://www.bbc.com/nepali/articles/cvze712eyd52o"},
+        {"name": "नेपाली टाइम्स (शीर्षक)", "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rNWpsSlhRTlFwZFdDMFlVbi1wTXNBeFA4SGpJenllaDBpRmZ3dFFCSjhXY2NFeUJXeTZjVXR6cVEwVmwxeDZSSW5EWHh5Y2F2Rk13LU1yZ0tRaXdHeDBFVXFkMzROSnlDQzBsMXd2U1kzUQ?oc=5"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "स्थानीय र प्रदेश चुनावमा एमालेसँग सहकार्य गर्ने सहमति भएको दाहालको भनाइ, एमालेभित्र ओली–पोखरेल विवाद",
+      "summary": "पुष्पकमल दाहालले आगामी स्थानीय र प्रदेश चुनावमा एमालेसँग सहकार्य गर्ने सहमति भएको बताएका छन्। सत्तारुढ रास्वपाले दुवै चुनाव एकैपटक गर्ने प्रस्ताव ल्याएको छ, तर विपक्षी दलहरूबीच यसमा एउटै धारणा बनेको छैन। यसैबीच एमालेभित्र अध्यक्ष केपी शर्मा ओली र महासचिव शंकर पोखरेलबीच दूरी बढेको छ। पार्टी पुनर्गठन, ७० वर्षे उमेर हद र दुई कार्यकालको अडान पोखरेलले नछोडेपछि ओलीले उनलाई काम गर्न नसके पद छाड्न सुझाव दिएको अनलाइनखबरले जनाएको छ।",
+      "sources": [
+        {"name": "रिपब्लिका", "url": "https://myrepublica.nagariknetwork.com/news/dahal-says-agreement-reached-to-cooperate-with-uml-in-local-provincial-elec-38-24.html"},
+        {"name": "सेतोपाटी इङ्लिस (शीर्षक)", "url": "https://en.setopati.com/political/167567"},
+        {"name": "अनलाइनखबर (चुनाव मिति)", "url": "https://www.onlinekhabar.com/2026/11/2063375/should-local-and-provincial-elections-be-held-at-the-same-time-or-on-different-dates"},
+        {"name": "अनलाइनखबर (ओली–पोखरेल)", "url": "https://www.onlinekhabar.com/2026/11/2063615/oli-suggests-pokharel-resign-after-he-refuses-to-back-down"},
+        {"name": "अनलाइनखबर इङ्लिस (च्यासल)", "url": "https://english.onlinekhabar.com/oli-pokharel-rift-deepens-uml.html"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "भर्ना अघि निजी मेडिकल कलेजको अडान: सिट र शुल्क नबढाए भर्ना नलिने",
+      "summary": "चिकित्सा शिक्षा आयोगले यस वर्षको सिट संख्या र शुल्क तोकेपछि निजी मेडिकल कलेजका सञ्चालक असन्तुष्ट भएका छन्। उनीहरूले सिट र शुल्क पुनरावलोकन नभएसम्म भर्ना नलिने भन्दै दबाब दिइरहेका छन्। यसैबीच वीरगन्जको नेसनल मेडिकल कलेजमा स्नातकोत्तर पहिलो वर्षका आवासीय चिकित्सकहरूले दुई महिनादेखिको आन्दोलनमा माग पूरा नभएको भन्दै सामूहिक राजीनामा दिएका छन्।",
+      "sources": [
+        {"name": "अनलाइनखबर", "url": "https://www.onlinekhabar.com/2026/11/2064029/private-medical-colleges-in-trouble-ahead-of-admissions-increase-seats-and-fees-otherwise-we-wont-teach"},
+        {"name": "इपर्दाफास (शीर्षक)", "url": "https://english.pardafas.com/private-medical-colleges-refuse-admissions-until-fees-and-seats-are-reviewed/"},
+        {"name": "अनलाइनखबर (नेसनल मेडिकल कलेज)", "url": "https://www.onlinekhabar.com/2026/11/2064093/resident-doctors-of-national-medical-college-resign-en-masse"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "टर्कीमा भएको जलवायु सम्मेलन COP31 सम्झौताबिनै टुंगियो",
+      "summary": "टर्कीको अन्ताल्यामा भएको राष्ट्रसंघीय जलवायु सम्मेलन COP31 आइतबार कुनै मुख्य सम्झौताबिनै सकियो। गार्डियनका अनुसार १७ वर्षमा पहिलो पटक यस्तो भएको हो। सम्मेलन तोकिएभन्दा दुई दिन लम्बिएर इतिहासकै सबैभन्दा लामो बन्यो। मुख्य विवाद पेट्रोल, डिजेल, कोइलाजस्ता जीवाश्म इन्धन क्रमशः हटाउने भाषा र जलवायु जोखिममा परेका देशलाई दिइने आर्थिक सहयोगमा थियो। बीबीसीका अनुसार अमेरिकाले सम्मेलन बहिष्कार गरेको थियो।",
+      "sides": [
+        {"who": "युरोपेली संघ, पानामासहित करिब १३० पक्ष", "says": "जीवाश्म इन्धन हटाउने कुरा नभएको प्रस्तावित पाठले जीवाश्म इन्धनलाई 'हरियो देखाउन' खोजेको भन्दै उनीहरूले त्यसलाई अस्वीकार गरे।"},
+        {"who": "तेल उत्पादक देश", "says": "फ्रान्स २४ का अनुसार तेल उत्पादक देशहरूले जीवाश्म इन्धन हटाउने उल्लेख रोके; द हिन्दूका अनुसार भारत, चीन र साउदी अरब पनि यस विषयमा युरोपेली संघभन्दा फरक पक्षमा थिए।"}
+      ],
+      "sources": [
+        {"name": "बीबीसी", "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo"},
+        {"name": "द गार्डियन", "url": "https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest"},
+        {"name": "द हिन्दू", "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece"},
+        {"name": "फ्रान्स २४", "url": "https://www.france24.com/en/tv-shows/down-to-earth/20261123-behind-cop31-failure-a-showdown-over-fossil-fuel-interests"},
+        {"name": "अल जजिरा", "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/why-did-cop31-climate-talks-collapse-without-a-deal"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "रुसले इस्टोनियालाई 'खुला युद्ध' को चेतावनी दियो, फिनल्यान्डले रुसी राजदूत बोलायो",
+      "summary": "रुसले इस्टोनियाका कदमहरू 'खुला युद्ध' निम्त्याउने अवस्थामा पुगेको आरोप लगाएको छ। अल जजिराका अनुसार मस्कोले इस्टोनियाले सीमा बन्द गरेको र युक्रेनलाई आफ्नो भूमिबाट आक्रमण गर्न दिएको दाबी गरेको छ। फिनल्यान्डले रुसी हेलिकप्टरले आफ्नो हवाई सीमा मिचेको आशंका र फिनल्यान्डको खाडीमा रुसी मालवाहक जहाजमाथि ड्रोन आक्रमणपछि सोमबार रुसी राजदूतलाई बोलाएको छ; फिनल्यान्डको सेनाका अनुसार उक्त आक्रमणमा युक्रेनको हात हुन सक्छ। मिसाइल घटनापछि नेटोले पोल्यान्डमा पूर्वचेतावनी दिने निगरानी विमान पठाउने भएको छ।",
+      "unverified": "इस्टोनिया सरकारको जवाफ खोलिएका स्रोतमा भेटिएन।",
+      "sources": [
+        {"name": "अल जजिरा", "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war"},
+        {"name": "रोयटर्स (शीर्षक)", "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3hoekpkTmwxcjE1NnNid3RFSXVsVGtob3A3dFNKVjRNZzVnaXMxRnV6N3pIellLeVdQRHNjUVpMR0R3aUpWaFV1MHBWRWljclZQbTdKakEzcUZ5cTBFNE5xVTlWSFNzTXlWN2tqRlpvbnk1M2RuUWRxclZMNmw2a01laUM0c09QNHRSY0c4amtsQS1XeV8zV3JCb2VFUzMwRUNqYVhrTHVIQQ?oc=5"},
+        {"name": "आरटीई (शीर्षक)", "url": "https://www.rte.ie/news/world/2026/1123/1600353-russia-estonia-finland/"},
+        {"name": "फ्रान्स २४ (फिनल्यान्ड)", "url": "https://www.france24.com/en/europe/20261123-finland-summons-russian-ambassador-after-suspected-airspace-violation"},
+        {"name": "बीबीसी (जहाज)", "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "खाडी क्षेत्रमा इरानको आक्रमण फेरि बढ्यो, अमेरिकाले थप प्रतिबन्ध लगायो",
+      "summary": "केही समय शान्त रहेपछि इरानले खाडी क्षेत्रका अमेरिकी सैनिक अड्डा र सर्वसाधारणका स्थानमा फेरि आक्रमण गरेको छ। अल जजिराका अनुसार अमेरिकाको समुद्री नाकाबन्दी र प्रतिबन्धले इरानलाई असर गरेपछि केही दिनयता आक्रमण बढेका हुन्; कुवेत र बहराइनका अमेरिकी अड्डामा आक्रमण भएको समाचार छ। सोमबार अमेरिकी अर्थ मन्त्रालयले इरानको 'छाया बैंकिङ' अर्थात् अनौपचारिक रकम कारोबार सञ्जालसँग जोडिएका दुई दर्जनभन्दा बढी संस्थामाथि प्रतिबन्ध लगायो। अमेरिका र इरानबीच फेब्रुअरी २८ मा युद्ध सुरु भएको थियो।",
+      "sides": [
+        {"who": "इरान", "says": "अमेरिकी नाकाबन्दीको सामना गर्न आफूले 'उपलब्ध सबै उपाय' प्रयोग गर्ने इरानको भनाइ छ।"},
+        {"who": "अमेरिका", "says": "नयाँ प्रतिबन्धले इरानको विश्वव्यापी आर्थिक कारोबार अवरुद्ध गर्ने अमेरिकी अर्थ मन्त्रालयको भनाइ छ।"}
+      ],
+      "sources": [
+        {"name": "अल जजिरा", "url": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull"},
+        {"name": "अल जजिरा (प्रतिबन्ध)", "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks"},
+        {"name": "रोयटर्स (प्रतिबन्ध, शीर्षक)", "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5"},
+        {"name": "द हिन्दू", "url": "https://www.thehindu.com/news/international/will-use-all-available-means-to-counter-us-blockade-iran/article71735993.ece"},
+        {"name": "द हिल (शीर्षक)", "url": "https://thehill.com/policy/defense/6227812-iran-attacks-us-air-base-kuwait/"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "नेपालको विपद्पछिको पुनर्निर्माणमा सक्रिय सहयोग गर्ने चीनको भनाइ",
+      "summary": "चिनियाँ विदेश मन्त्रालयका प्रवक्ताले सोमबार नेपालको विपद्पछिको पुनर्निर्माणमा चीनले सक्रिय रूपमा सहयोग गर्ने बताएका छन्। यो भनाइ प्रधानमन्त्री बालेन शाहको भारत भ्रमणकै दिन र भारतले नेपाललाई सहयोग प्याकेज घोषणा गरेकै दिन आएको हो। प्रधानमन्त्रीको भारत भ्रमणअघि नै चीनले काठमाडौंसँग सम्पर्क बढाएको अन्नपूर्ण एक्सप्रेसले जनाएको थियो।",
+      "sources": [
+        {"name": "सिन्ह्वा (चिनियाँ सरकारी पक्ष, शीर्षक)", "url": "https://english.news.cn/20261123/f0235c94e97d41d4b31e12495c23ee3f/c.html"},
+        {"name": "अन्नपूर्ण एक्सप्रेस (शीर्षक)", "url": "https://theannapurnaexpress.com/story/68915/"},
+        {"name": "इन्क्वायरर (शीर्षक)", "url": "https://globalnation.inquirer.net/336049/nepal-seeks-answers-on-flash-flood-as-india-china-us-wb-offer-support"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "चीनमा AI चिप पुर्‍याएको आरोप लागेको कम्पनी मेगास्पिडलाई अमेरिकाले कालोसूचीमा राख्यो",
+      "summary": "अमेरिकी वाणिज्य मन्त्रालयले सिंगापुरमा आधारित कम्पनी मेगास्पिडलाई व्यापारिक कालोसूचीमा राखेको छ। बीबीसीका अनुसार यो कम्पनीमाथि अमेरिकी AI चिप चीन पुर्‍याएको आरोप छ। अब अमेरिकी सरकारको विशेष अनुमतिबिना अमेरिकी कम्पनीले मेगास्पिडसँग कारोबार गर्न पाउने छैनन्। यो कम्पनीकी पूर्वअधिकारी एलिस हुआङसँग एनभिडियाका प्रमुख जेन्सन हुआङको सम्बन्ध सार्वजनिक भएपछि यो विषय चर्चामा आएको थियो। अमेरिकी गुप्तचर निकायले एलिस हुआङमाथि चीनका लागि जासुसी गरेको आशंका गरेका छन्।",
+      "sources": [
+        {"name": "बीबीसी", "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo"},
+        {"name": "रोयटर्स (शीर्षक)", "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3ZUR1ZCZXpLTkNjVFA5cm1ueHd6VjlHUzZSZWUtNE40NndKNFNWQVJqV3k4WHA5SU5BQTBvWmw5dlN3S1RZZHQ5WG5LRGhWMDFxUk83RjdGV0dqWUtjU3c4RlVkdkFBVlhfbXdiVm1WWW44dEtpUXY0Yjk0ZndBN2w3MURmNkVJLUlvM3ZpSmRfV3RTeUJYNHQtS29HaUFwejF2SlVtR2lpY0NqX3BYMg?oc=5"},
+        {"name": "टेकक्रन्च", "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"},
+        {"name": "एससीएमपी", "url": "https://www.scmp.com/news/us/economy-trade-business/article/3375531/jensen-huangs-stunning-return-11-days-5-key-takeaways"},
+        {"name": "फ्रान्स २४", "url": "https://www.france24.com/en/nvidia-reinstates-huang-as-ceo-after-trump-intervention"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "हुआङ एनभिडियामा फर्किएपछि अमेरिकी सेयर बजार अप्रिल २०२५ यताकै ठूलो उछाल",
+      "summary": "जेन्सन हुआङ एनभिडियाको प्रमुख कार्यकारी पदमा फर्किएपछि सोमबार अमेरिकी सेयर बजार बलियो रूपमा उक्लियो। S&P 500 करिब ४.७ प्रतिशत, प्रविधि कम्पनी बढी भएको Nasdaq करिब ६.५ प्रतिशत र डाउ जोन्स करिब १,४०० अंकले बढे; यो अप्रिल २०२५ यताकै सबैभन्दा राम्रो दिन हो। एनभिडियाको सेयर ३१ प्रतिशत बढ्यो र बीबीसीका अनुसार कम्पनीको मूल्य करिब १ ट्रिलियन (१० खर्ब) डलर बढ्यो। एपीका अनुसार गत हप्ताको गिरावटको करिब आधा भाग फिर्ता भएको छ। यसैबीच अमेरिकी केन्द्रीय बैंकका अधिकारी जोन विलियम्सले महँगी नियन्त्रण गर्न समयक्रममा ब्याजदर बढाउनुपर्ने संकेत दिएका छन्।",
+      "unverified": "डाउ जोन्सको वृद्धि स्रोतअनुसार करिब १,४०० देखि १,४४८ अंकसम्म फरक छ; सूचकांकको अन्तिम अंक पुष्टि हुन सकेन।",
+      "sources": [
+        {"name": "एपी (शीर्षक)", "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNF9ZLU84V2VPZHBHcGx0V3p5TVVoV21zbUYyQWFOWU96ZjBmcExvQ1lpVmtFRzl5RVpXdFg3TGhUM3ZHM282MkdnMVgxZ2lwUTRkcm9KaWlHMEcyZ3R6amZIM25vMFRRM0l1OXNxMFFSQVVnR3hzY3BNb1NyUWwxa2hLMndRMkpVZ2l2X0N2Z3JFcmRVMzRMZldCbzlEZkpGZjNmTVJZdw?oc=5"},
+        {"name": "बीबीसी", "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko"},
+        {"name": "CNBC (शीर्षक)", "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"},
+        {"name": "याहु फाइनान्स (शीर्षक)", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html"},
+        {"name": "एड-हक न्युज (S&P ४.७३%, शीर्षक)", "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/s-und-p-500-rebounds-4-73-prozent-as-nvidia-sparks-ai-rally/70547873"},
+        {"name": "CNBC (फेड)", "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "ट्रम्पको हस्तक्षेपपछि जेन्सन हुआङ फेरि एनभिडियाको प्रमुख, दुवै दलका सांसदको आलोचना",
+      "summary": "AI का लागि चाहिने चिप बनाउने विश्वकै प्रमुख कम्पनी एनभिडियाले सोमबार जेन्सन हुआङलाई फेरि प्रमुख कार्यकारी बनायो। विवाहेतर सम्बन्धको विवादमा उनले नोभेम्बर १२ मा राजीनामा दिएका थिए। राष्ट्रपति ट्रम्पले आफूले कम्पनीको सञ्चालक समितिसँग कुरा गरेर 'मनाएको' बताएका छन्। हुआङ अर्को हप्ता अमेरिकी सिनेटमा बयान दिने कार्यक्रम छ।",
+      "sides": [
+        {"who": "राष्ट्रपति ट्रम्प र ह्वाइट हाउस", "says": "हुआङ राष्ट्रिय सुरक्षाका लागि खतरा नभएको र उनको गलत कामको प्रमाण अमेरिकी सरकारसँग नभएको ट्रम्पको भनाइ छ।"},
+        {"who": "डेमोक्र्याट र रिपब्लिकन सांसद", "says": "दुवै दलका सांसदले यो निर्णयमा राष्ट्रिय सुरक्षाको प्रश्न उठाएका छन्; सिनेटका डेमोक्र्याट नेता चक शुमरले छानबिन गर्ने बताएका छन्।"}
+      ],
+      "sources": [
+        {"name": "द गार्डियन", "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"},
+        {"name": "टेकक्रन्च", "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"},
+        {"name": "टेकक्रन्च (सिनेट)", "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"},
+        {"name": "फ्रान्स २४", "url": "https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe"},
+        {"name": "द भर्ज", "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "AI का खतरा व्यवस्थापन गर्न एक वर्षभित्र विश्वव्यापी ढाँचा बनाउन राष्ट्रसंघ महासचिवको आग्रह",
+      "summary": "राष्ट्रसंघका महासचिव एन्टोनियो गुटेरेसले सोमबार बार्बाडोसमा भएको एक सम्मेलनमा देशहरूलाई AI बाट आउन सक्ने खतरा व्यवस्थापन गर्ने विश्वव्यापी ढाँचा एक वर्षभित्र तयार गर्न आग्रह गरे। उनका अनुसार मानिसले आफ्नो भविष्यमाथिको नियन्त्रण कायम राख्न यो प्रविधिलाई नियममा राख्नु जरुरी छ। राष्ट्रसंघ समाचारका अनुसार उनले AI ले विश्वमा शक्ति सन्तुलन ठूलो रूपमा बदल्न सक्ने चेतावनी पनि दिए।",
+      "sources": [
+        {"name": "फ्रान्स २४", "url": "https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year"},
+        {"name": "राष्ट्रसंघ समाचार (शीर्षक)", "url": "https://news.un.org/en/story/2026/11/1168861"},
+        {"name": "सीटीभी न्युज (शीर्षक)", "url": "https://www.ctvnews.ca/sci-tech/article/un-chief-calls-for-ai-risk-management-framework-within-a-year/"}
+      ]
+    }
+  ]
+}
