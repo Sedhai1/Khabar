@@ -1,0 +1,321 @@
+{
+  "id": "2026-11-25-pm",
+  "generated_at": "2026-11-25T18:16:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार: मंगलबार, नोभेम्बर २४ को बन्द (बुधबारको कारोबार अझै सुरु भएको छैन) — समाचार शीर्षकअनुसार · NEPSE: बुधबार, नोभेम्बर २५ (मंसिर ९) को बन्द · ब्रेन्ट तेल बुधबार कारोबारका क्रममा करिब ९० डलर प्रतिब्यारेल (शीर्षकअनुसार, बन्द मूल्य होइन) · आजको डलर दर यस संस्करणमा मिति सहित पुष्टि हुन सकेन।",
+    "items": [
+      {
+        "name": "S&P 500",
+        "value": 7201.09,
+        "change_pct": null,
+        "source": "एड-हक न्युज (शीर्षक)",
+        "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/s-und-p-500-closed-tuesday-at-7-201-09-as-ai-rally-faded/70553344"
+      },
+      {
+        "name": "Nasdaq",
+        "value": 23733.54,
+        "change_pct": -1.48,
+        "source": "बीबीएन टाइम्स / जीएसएम ग्लोबल न्युज (शीर्षक)",
+        "url": "https://www.bbntimes.com/technology/nasdaq-today-composite-drops-1-48-to-23-733-54-as-nvidia-and-chip-stocks-retreat"
+      },
+      {
+        "name": "Dow Jones",
+        "value": 50019,
+        "change_pct": 0.85,
+        "source": "बिगो फाइनान्स / विजभोटर (शीर्षक)",
+        "url": "https://finance.biggo.com/news/efa4550f-327b-4612-b151-77555e7d62dd"
+      },
+      {
+        "name": "NEPSE",
+        "value": 2647.61,
+        "change_pct": 0.33,
+        "source": "खबरहब / नेपालन्युज (शीर्षक)",
+        "url": "https://english.khabarhub.com/2026/25/577028/"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "बालश्रम विधेयक: १३ वर्ष पुगेका बालबालिकालाई सर्तसहित हल्का काम गर्न दिने प्रस्तावको सरकारद्वारा बचाउ",
+      "summary": "प्रतिनिधिसभाको उद्योग तथा वाणिज्य र श्रम तथा उपभोक्ता हित समितिमा बुधबार बालश्रम (निषेध तथा नियमित गर्ने) विधेयकमाथि छलफल भयो। विधेयकमा १३ देखि १५ वर्षका बालबालिकालाई निश्चित सर्तमा हल्का काम गर्न दिने प्रस्ताव छ। श्रममन्त्री रामजी यादवले बालश्रम पूर्ण रूपमा निषेध मात्र गर्दा व्यवहारिक नहुने र बालश्रम घटाउन विधेयक ल्याइएको बताए। सांसदहरूले उमेरको हदसँगै परिवारको आर्थिक अवस्था पनि हेर्नुपर्ने सुझाव दिए।",
+      "sides": [
+        {
+          "who": "सरकार (श्रममन्त्री यादव)",
+          "says": "पूर्ण निषेध मात्र व्यवहारिक हुँदैन, उमेर र कामको प्रकृति छुट्याएर नियमन गर्दा बालश्रम घट्छ।"
+        },
+        {
+          "who": "समितिका सांसदहरू",
+          "says": "काममा प्रवेश गर्ने उमेर संविधान र अन्तर्राष्ट्रिय मापदण्डअनुसार हुनुपर्छ, परिवारको आर्थिक अवस्था पनि सुधार्नुपर्छ।"
+        }
+      ],
+      "unverified": "विधेयक कहिले पारित हुन्छ भन्ने तय भएको छैन।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2064961/government-defends-proposal-to-allow-children-from-13-years-old-to-do-light-work"
+        },
+        {
+          "name": "रातोपाटी (शीर्षक)",
+          "url": "https://www.ratopati.com/story/607558/proposal-to-allow-children-aged-13-to-15-to-do-light-work-under-certain-conditions"
+        },
+        {
+          "name": "खबरहब (शीर्षक)",
+          "url": "https://khabarhub.com/2026/25/1051364/"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "कोशी प्रदेश १५ दिनदेखि प्रदेश प्रमुखविहीन, संघीय सरकारले नयाँ नियुक्ति गरेन",
+      "summary": "कोशी प्रदेशका प्रदेश प्रमुख परशुराम खापुङ पाँच वर्षको कार्यकाल पूरा गरेर कात्तिक २४ गते बिदा भए। उनी २०७८ कात्तिक २५ मा नियुक्त भएका थिए। त्यसयता १५ दिनसम्म संघीय सरकारले नयाँ प्रदेश प्रमुख नियुक्त गरेको छैन। अनलाइनखबरका अनुसार यसले प्रदेश प्रमुखले गर्नुपर्ने संवैधानिक काममा असर परेको छ।",
+      "unverified": "सरकारले नयाँ नियुक्ति कहिले गर्छ भन्ने पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2064952/koshi-province-has-been-without-a-chief-for-15-days"
+        },
+        {
+          "name": "कान्तिपुर (शीर्षक)",
+          "url": "https://ekantipur.com/koshi-pradesh/2026/11/24/koshi-province-has-been-without-a-chief-for-two-weeks-when-will-a-new-appointment-be-made-26-11.html"
+        },
+        {
+          "name": "हिमाल प्रेस (शीर्षक)",
+          "url": "https://himalpress.com/2026/11/khapung-becomes-first-provincial-chief-to-complete-five-year-term/"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "खाना पकाउने ग्यासको आपूर्ति नियमित गर्न आयल निगमको निर्देशन",
+      "summary": "नेपाल आयल निगमले ग्यास उद्योगहरूलाई आयातदेखि बजार वितरणसम्मका सबै काम पूर्ण क्षमतामा चलाउन निर्देशन दिएको छ। निगमको एलपी ग्यास तथा हवाई इन्धन विभागले यसबारे परिपत्र जारी गरेको हो। उद्योगहरूलाई भन्सारमा रहेको ग्यास छिटो निकाल्न र बिक्रेता तथा बजारमा रहेका सिलिन्डर पूर्ण क्षमतामा भरेर उपभोक्तासम्म पुर्‍याउन भनिएको छ।",
+      "unverified": "बजारमा अहिले ग्यासको अभाव कति छ भन्ने तथ्यांक पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://english.onlinekhabar.com/noc-asks-to-ease-lpg-supply.html"
+        },
+        {
+          "name": "राजधानी दैनिक (शीर्षक)",
+          "url": "https://rajdhanidaily.com/id/152056/"
+        },
+        {
+          "name": "एभरेस्ट पोस्ट (शीर्षक)",
+          "url": "https://www.theeverestpost.com/2026/11/25/542211/"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "रुससँग व्यापारिक सम्झौताको प्रस्ताव अमेरिकाले थाती राख्यो, लुकासेन्कोको प्रस्ताव जेलेन्स्कीले ठुकराए",
+      "summary": "फाइनान्सियल टाइम्सलाई उद्धृत गर्दै रोयटर्सले अमेरिकाले युद्ध अन्त्य गराउन रुससँग व्यापारिक सम्झौता गर्ने प्रस्ताव थाती राखेको जनाएको छ। ट्रम्पका दूत स्टिभ विटकफ र जारेड कुश्नरले युरोपेली अधिकारीलाई अब कम्पनीबीचको साझेदारी अमेरिकी प्रस्तावको मुख्य अंश नरहेको बताएका थिए। बेलारुसका राष्ट्रपति लुकासेन्कोले पुटिनसँग वार्ताका लागि जेलेन्स्कीलाई साथै लिएर मस्को उड्ने प्रस्ताव गरे। जेलेन्स्कीले युक्रेनलाई आगामी वर्ष ११५ अर्ब युरो (११ हजार ५ सय करोड युरो) बाह्य सहायता चाहिने र युरोपेली संघबाट करिब ९० अर्ब युरोको प्रतिबद्धता पाइसकेको बताए।",
+      "sides": [
+        {
+          "who": "बेलारुसका राष्ट्रपति लुकासेन्को",
+          "says": "जेलेन्स्कीसँगै मस्को उडेर पुटिनसँग वार्ता गराउन र सुरक्षाको जिम्मा लिन तयार छु।"
+        },
+        {
+          "who": "युक्रेनी राष्ट्रपति जेलेन्स्की",
+          "says": "म उनको सुटकेस हो र? उनले यस प्रस्तावलाई व्यंग्य गर्दै अस्वीकार गरे।"
+        }
+      ],
+      "unverified": "अमेरिकाको नयाँ प्रस्ताव अब भूभाग र सुरक्षामा केन्द्रित भएको युक्रेनी सञ्चारमाध्यमको भनाइ छ, तर यसको विवरण पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "द हिन्दू / Reuters",
+          "url": "https://www.thehindu.com/news/international/us-shelves-proposals-to-use-business-deals-with-russia-to-end-ukraine-war-ft-reports/article71741201.ece"
+        },
+        {
+          "name": "मस्को टाइम्स (शीर्षक)",
+          "url": "https://www.themoscowtimes.com/2026/11/25/us-shelves-plans-for-business-deals-with-russia-to-end-ukraine-war-ft-a94370"
+        },
+        {
+          "name": "द प्रिन्ट / Reuters (शीर्षक)",
+          "url": "https://theprint.in/world/belaruss-lukashenko-proposes-flying-with-ukraines-zelenskiy-to-moscow-for-talks/3108102/"
+        },
+        {
+          "name": "मेदुजा (शीर्षक)",
+          "url": "https://meduza.io/en/news/2026/11/25/lukashenko-offers-to-fly-zelensky-to-moscow-for-peace-talks-with-putin-what-am-i-his-suitcase-zelensky-responds"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "बंगलादेशमा कपडा कामदारको न्यूनतम तलब ३६ प्रतिशत बढेर १७ हजार टाका, कतिपय कामदार अझै असन्तुष्ट",
+      "summary": "अक्टोबरदेखि चलेको विरोधपछि बंगलादेशले तयारी पोशाक उद्योगका कामदारको न्यूनतम मासिक तलब ३६ प्रतिशत बढाएको छ। नयाँ न्यूनतम तलब १७ हजार टाका तोकिएको छ। चीनपछि बंगलादेश संसारको दोस्रो ठूलो तयारी पोशाक निर्यातक देश हो। अल जजिराका अनुसार विरोधले देशलाई करोडौं डलर नोक्सानी भएको छ, तर कामदारले प्रस्ताव अझै स्वीकारेका छैनन्।",
+      "sides": [
+        {
+          "who": "सरकार र तलब निर्धारण पक्ष",
+          "says": "हप्तौंको विरोधपछि न्यूनतम तलब ३६ प्रतिशत बढाइएको छ।"
+        },
+        {
+          "who": "कामदार र युनियनका एक पक्ष",
+          "says": "नयाँ तलब मागभन्दा कम छ, त्यसैले विरोध जारी राख्ने।"
+        }
+      ],
+      "unverified": "कामदारले नयाँ तलब स्वीकारे कि अस्वीकारे भन्नेमा स्रोतअनुसार फरक छ।",
+      "sources": [
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/bangladesh-garment-workers-win-36-wage-rise/article71741049.ece"
+        },
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest"
+        },
+        {
+          "name": "AP (एबीसी न्युज मार्फत, शीर्षक)",
+          "url": "https://abcnews.com/International/wireStory/bangladesh-raises-minimum-wage-garment-workers-after-weeks-138432725"
+        },
+        {
+          "name": "फेसनयुनाइटेड (शीर्षक)",
+          "url": "https://fashionunited.uk/news/business/new-bangladesh-minimum-wage-falls-short-of-workers-demands-prompts-renewed-protests/2026112591556"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "रुपन्देहीको सालझण्डीमा नेपाल–भारत संयुक्त सैनिक अभ्यास 'सूर्यकिरण' सुरु",
+      "summary": "नेपाली सेना र भारतीय सेनाबीचको संयुक्त सैनिक तालिम अभ्यास 'सूर्यकिरण' बुधबारदेखि रुपन्देहीको सालझण्डीमा सुरु भएको छ। यो अभ्यासको २०औं संस्करण हो र नेपाली सेनाको ब्याटल स्कुलमा भइरहेको छ। नेपाली सेनाका अनुसार अभ्यासमा मुख्य गरी विपद् व्यवस्थापन, जंगल युद्धकला र मानवीय सहयोगबारे दुवै देशका सैनिकले सैद्धान्तिक र व्यावहारिक तालिम लिनेछन्।",
+      "unverified": "अभ्यास कति दिन चल्छ र कति सैनिक सहभागी छन् भन्ने पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2064930/nepal-india-joint-military-exercise-suryakiran-begins-in-saljhandi"
+        },
+        {
+          "name": "द हिन्दू (शीर्षक)",
+          "url": "https://www.thehindu.com/news/international/india-nepal-joint-military-exercise-begins-in-rupandehi/article71741260.ece"
+        },
+        {
+          "name": "द ट्रिब्युन (शीर्षक)",
+          "url": "https://www.tribuneindia.com/news/world/india-nepal-begin-20th-edition-of-joint-military-exercise-suryakiran"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "हिन्द महासागरमा क्षेत्रीय सुरक्षा सहकार्य बढाउन भारतीय सुरक्षा सल्लाहकार डोभालको आह्वान",
+      "summary": "भारतका राष्ट्रिय सुरक्षा सल्लाहकार अजित डोभालले माल्दिभ्समा भएको कोलम्बो सुरक्षा सम्मेलन (कोलम्बो सेक्युरिटी कन्क्लेभ) मा हिन्द महासागरका देशबीच सुरक्षा सहकार्य बढाउन आग्रह गरे। उनले हिन्द महासागरले देशहरूलाई जोड्नुपर्ने, छुट्याउने होइन भने। डोभालका अनुसार यो सम्मेलन भारतको 'छिमेक पहिलो' नीति र 'महासागर' दृष्टिकोणको संगम हो।",
+      "sources": [
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/national/nsa-doval-calls-for-closer-regional-security-cooperation-to-counter-challenges-in-indian-ocean/article71741299.ece"
+        },
+        {
+          "name": "एएनआई (शीर्षक)",
+          "url": "https://aninews.in/news/world/asia/indian-ocean-must-connect-not-divide-nations-nsa-ajit-doval-at-colombo-security-conclave-in-maldives20261125123605/"
+        },
+        {
+          "name": "स्ट्राटन्युज ग्लोबल (शीर्षक)",
+          "url": "https://stratnewsglobal.com/india/doval-calls-for-collective-security-in-indian-ocean/"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "नेप्से लगातार तेस्रो दिन बढ्यो, ६ अर्ब रुपैयाँभन्दा बढीको कारोबार",
+      "summary": "नेपाल स्टक एक्सचेन्जको परिसूचक नेप्से बुधबार (मंसिर ९) ८.६६ अंक बढेर २,६४७.६१ अंकमा बन्द भयो। हिमाल प्रेसका अनुसार यो लगातार तेस्रो दिनको वृद्धि हो। बुधबार करिब ६ अर्ब १४ करोड रुपैयाँको सेयर कारोबार भयो। मंगलबार नेप्से १५.३९ अंक बढेको थियो र ५ अर्ब ५५ करोड रुपैयाँको कारोबार भएको थियो।",
+      "unverified": "बढेको अंक कतिपय स्रोतमा ८.७० उल्लेख छ, स्रोतअनुसार सामान्य फरक छ।",
+      "sources": [
+        {
+          "name": "खबरहब (शीर्षक)",
+          "url": "https://english.khabarhub.com/2026/25/577028/"
+        },
+        {
+          "name": "हिमाल प्रेस (शीर्षक)",
+          "url": "https://en.himalpress.com/nepse-extends-gaining-streak-to-third-session-closes-8-7-points-higher/"
+        },
+        {
+          "name": "परदाफास (शीर्षक)",
+          "url": "https://english.pardafas.com/nepse-rises-8-66-points-with-turnover-of-rs-6-14-billion/"
+        },
+        {
+          "name": "रिपब्लिका (शीर्षक)",
+          "url": "https://myrepublica.nagariknetwork.com/news/nepse-inclines-870-points-as-daily-turnover-crosses-rs-6-billion-16-78.html"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "आपूर्ति धेरै हुने अनुमानले कच्चा तेल सस्तियो, ब्रेन्ट ९० डलर प्रतिब्यारेल नजिक",
+      "summary": "बजारमा माग भन्दा बढी तेल आपूर्ति हुने अनुमानले मध्यपूर्वमा आपूर्ति अवरोधको डरलाई पनि उछिनेपछि बुधबार कच्चा तेलको मूल्य घटेको रोयटर्स र सीएनबीसीले जनाएका छन्। रोयटर्सको शीर्षकअनुसार तेल १ प्रतिशतभन्दा बढी घट्यो। बजार समाचार वेबसाइटहरूका अनुसार ब्रेन्ट कच्चा तेल कारोबारका क्रममा करिब ९०.१० डलर प्रतिब्यारेलसम्म झर्‍यो। यसअघि इरानले होर्मुज जलमार्गमा तीन तेल ट्याङ्कर समुद्री माइनमा ठोक्किएको बताएको थियो।",
+      "unverified": "ब्रेन्टको बुधबारको बन्द मूल्य यो संस्करण तयार हुँदासम्म आएको छैन।",
+      "sources": [
+        {
+          "name": "Reuters (इन्भेस्टिङ डटकम मार्फत, शीर्षक)",
+          "url": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-supply-glut-concerns-offset-middle-east-disruption-fears-5049537"
+        },
+        {
+          "name": "CNBC (शीर्षक)",
+          "url": "https://www.cnbc.com/2026/11/25/oil-wti-brent-hormuz-middle-east.html"
+        },
+        {
+          "name": "फिनस्क्यान्स (शीर्षक)",
+          "url": "https://finscans.com/news/2026/11/25/brent-crude-slides-to-9010-as-oversupply-fears-outweigh"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/iran-rules-out-talks-with-us-until-its-seven-conditions-are-met/article71739875.ece"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "AI कम्पनी एन्थ्रोपिकको सेयर बजारमा आएको चार दिनमै सुरुको बिक्री मूल्यभन्दा तल",
+      "summary": "AI च्याटबट 'क्लड' बनाउने कम्पनी एन्थ्रोपिकले सेयर पहिलो पटक सर्वसाधारणलाई बेच्दा (IPO) प्रतिसेयर ८३ डलर मूल्य तोकेको थियो। नोभेम्बर १९ मा Nasdaq मा कारोबार सुरु हुँदा सेयर १११.५० डलरमा खुलेको थियो। तर चौथो कारोबार दिन मंगलबार सेयर ८३ डलरभन्दा तल बन्द भयो। रोयटर्सका अनुसार कम्पनीको मूल्य झन्डै २ खर्ब डलर (२० हजार करोड डलर) घट्ने बाटोमा छ। टेकक्रन्चले यसलाई अन्य AI स्टार्टअपको मूल्यांकनका लागि चिन्ताको संकेत भनेको छ।",
+      "sides": [
+        {
+          "who": "सीएनबीसीले उद्धृत गरेका विश्लेषक",
+          "says": "सेयर घटे पनि कम्पनीबारे धेरैजसो विश्लेषक अझै सकारात्मक छन्।"
+        },
+        {
+          "who": "टेकक्रन्च र केही कारोबारी",
+          "says": "यो गिरावट AI स्टार्टअपको मूल्यांकनका लागि चिन्ताजनक संकेत हो, थप घट्न सक्छ।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+        },
+        {
+          "name": "Reuters (इन्भेस्टिङ डटकम मार्फत, शीर्षक)",
+          "url": "https://www.investing.com/news/economy-news/anthropic-breaks-below-83-ipo-price-as-debut-rally-unravels-5047654"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "एलिस हुआङसँग जोडिएका कम्पनीले चीनमा २७ करोड डलरका AI सर्भर सूचीकृत गरेको रोयटर्सको खुलासा",
+      "summary": "एनभिडिया प्रमुख जेन्सन हुआङसँगको सम्बन्धका कारण चर्चामा आएकी एलिस हुआङसँग जोडिएका कम्पनीले चीनमा २७ करोड डलर बराबरका AI सर्भर सूचीकृत गरेको कागजातले देखाएको रोयटर्सले जनाएको छ। AI सर्भर भनेको AI चलाउन चाहिने शक्तिशाली कम्प्युटर हो, जसमा एनभिडियाजस्ता कम्पनीका चिप हुन्छन्। यसअघि अमेरिकाले एलिस हुआङले नेतृत्व गरेको कम्पनी मेगास्पिडलाई कालोसूचीमा राखेको थियो। मेगास्पिडमाथि चीनमा AI चिप पठाएको आरोप छ।",
+      "unverified": "यी कम्पनी वा एलिस हुआङले रोयटर्सको समाचारबारे के भनेका छन् भन्ने पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "Reuters (कोरिया टाइम्स मार्फत, शीर्षक)",
+          "url": "https://www.koreatimes.co.kr/world/20261125/alice-huang-linked-firms-listed-270-mil-in-ai-servers-in-china-records-show"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/us-blacklists-megaspeed-chip-firm-linked-to-nvidia-scandal/article71739692.ece"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
+        }
+      ]
+    }
+  ]
+}
