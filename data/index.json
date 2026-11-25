@@ -1,6 +1,12 @@
 {
  "editions": [
   {
+   "id": "2026-11-25-am",
+   "file": "data/editions/2026-11-25-am.json",
+   "generated_at": "2026-11-25T06:20:00+05:45",
+   "count": 12
+  },
+  {
    "id": "2026-11-24-pm",
    "file": "data/editions/2026-11-24-pm.json",
    "generated_at": "2026-11-24T18:13:00+05:45",
@@ -119,12 +125,6 @@
    "file": "data/editions/2026-11-18-md.json",
    "generated_at": "2026-11-18T12:17:00+05:45",
    "count": 11
-  },
-  {
-   "id": "2026-11-18-am",
-   "file": "data/editions/2026-11-18-am.json",
-   "generated_at": "2026-11-18T06:16:00+05:45",
-   "count": 10
   }
  ]
 }

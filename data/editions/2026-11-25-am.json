@@ -1,0 +1,318 @@
+{
+ "id": "2026-11-25-am",
+ "generated_at": "2026-11-25T06:20:00+05:45",
+ "markets": {
+  "as_of": "NEPSE: मंगलबार, नोभेम्बर २४ (मंसिर ८) को बन्द (बुधबारको कारोबार दिउँसो मात्र सुरु हुन्छ) · डलर: बुधबार, नोभेम्बर २५ (मंसिर ९) को राष्ट्र बैंकको दर (खरिद १४८.३६, बिक्री १४८.९६ रुपैयाँ) · अमेरिकी बजार: मंगलबार, नोभेम्बर २४ को बन्दको ठ्याक्कै अंक मिति सहित पुष्टि हुन सकेन; समाचार शीर्षकअनुसार S&P 500 ०.५३ प्रतिशत घट्यो र डाउ जोन्स ४२३ अंक बढेर ५० हजारमाथि बन्द भयो · ब्रेन्ट तेलको मूल्य मिति सहित पुष्टि हुन सकेन।",
+  "items": [
+   {
+    "name": "NEPSE",
+    "value": 2638.95,
+    "change_pct": 0.59,
+    "source": "अनलाइनखबर / रिपब्लिका",
+    "url": "https://english.onlinekhabar.com/nepse-gains-15-39-points.html"
+   },
+   {
+    "name": "डलर (राष्ट्र बैंक, खरिद)",
+    "value": 148.36,
+    "unit": "रु",
+    "change_pct": null,
+    "source": "नेपाल राष्ट्र बैंक (अनलाइनखबर मार्फत)",
+    "url": "https://www.onlinekhabar.com/2026/11/2064775/what-is-the-exchange-rate-of-which-foreign-currency-today-29"
+   }
+  ]
+ },
+ "stories": [
+  {
+   "section": "nepal",
+   "title": "सरकारले पठाएका अध्यादेश राष्ट्रपति कार्यालयमा रोकिए, राष्ट्रपति र प्रधानमन्त्रीबीच दूरीको चर्चा",
+   "summary": "सरकारले सिफारिस गरेका अध्यादेश राष्ट्रपति कार्यालयमा 'होल्ड' भएका छन्। कान्तिपुरले मंगलबार अध्यादेश किन रोकिए भन्ने विषयमा समाचार प्रकाशित गरेको छ। काठमाडौं पोस्टले अध्यादेशमा ढिलाइलाई राष्ट्रपति रामचन्द्र पौडेल र प्रधानमन्त्री बालेन शाहबीचको दूरीको संकेतका रूपमा लेखेको छ। यसअघि लोकान्तरले प्रधानमन्त्री राष्ट्रपतिलाई जानकारी नगराई भारत भ्रमणमा गएको समाचार दिएको थियो।",
+   "unverified": "कुन कुन अध्यादेश रोकिएका छन् र राष्ट्रपति कार्यालयले रोक्नुको आधिकारिक कारण के हो भन्ने विवरण पुष्टि हुन सकेन।",
+   "sources": [
+    {
+     "name": "काठमाडौं पोस्ट",
+     "url": "https://kathmandupost.com/national/2026/11/24/delayed-ordinances-signal-a-rift-between-nepal-president-and-prime-minister"
+    },
+    {
+     "name": "कान्तिपुर",
+     "url": "https://ekantipur.com/news/2026/11/24/why-was-the-ordinance-held-at-the-presidents-office-24-58.html"
+    },
+    {
+     "name": "लोकान्तर",
+     "url": "https://lokaantar.com/story/333759/2026/11/22/main-news/prime-minister-india-visit-333759"
+    }
+   ]
+  },
+  {
+   "section": "nepal",
+   "title": "रोमानियामा काम र तलब नपाएको भन्दै करिब ६ सय नेपाली श्रमिक आन्दोलनमा, म्यानपावरमाथि अनुसन्धान",
+   "summary": "रोमानियाको बिसार लजिस्टिक एसआरएल कम्पनीमा काम गर्ने करिब ६ सय नेपाली श्रमिकले सम्झौताअनुसार काम, तलब र सुविधा नपाएको भन्दै शनिबारदेखि आन्दोलन गरिरहेका छन्। अनलाइनखबरका अनुसार उनीहरूमध्ये धेरैले रोमानिया पुग्न १० लाख रुपैयाँसम्म तिरेका थिए। काठमाडौं पोस्टले तलब र बस्ने ठाउँबारे विवाद भएको जनाएको छ। समस्या समाधानका लागि पहल सुरु भएको र श्रमिक पठाउने म्यानपावर कम्पनीमाथि अनुसन्धान थालिएको अनलाइनखबरले जनाएको छ।",
+   "sources": [
+    {
+     "name": "अनलाइनखबर",
+     "url": "https://www.onlinekhabar.com/2026/11/2064577/600-nepali-workers-who-arrived-in-romania-after-paying-up-to-1-million-are-protesting"
+    },
+    {
+     "name": "अनलाइनखबर",
+     "url": "https://www.onlinekhabar.com/2026/11/2064732/initiative-launched-to-solve-problems-of-nepali-workers-in-romania-investigation-into-manpower"
+    },
+    {
+     "name": "काठमाडौं पोस्ट",
+     "url": "https://kathmandupost.com/nepali-diaspora/2026/11/24/over-600-nepali-workers-in-romania-report-pay-and-accommodation-dispute"
+    },
+    {
+     "name": "रातोपाटी",
+     "url": "https://www.ratopati.com/story/607396/nepali-workers-protest-in-romania-after-not-receiving-work-and-salary"
+    }
+   ]
+  },
+  {
+   "section": "nepal",
+   "title": "एक महिनाभित्र नेपालीले भारतमा क्यूआर कोडबाट भुक्तानी गर्न सक्ने",
+   "summary": "नेपालीहरूले करिब एक महिनाभित्र भारतमा मोबाइलबाट क्यूआर कोड स्क्यान गरेर भुक्तानी गर्न पाउने भएका छन्। प्रधानमन्त्री बालेन शाहको भारत भ्रमणपछि नेपालको फोनपे र भारतको राष्ट्रिय भुक्तानी निगम (NPCI) का अधिकारीबीच सोमबार छलफल भएको अनलाइनखबरले जनाएको छ। दुई देशका भुक्तानी कम्पनीबीच यसबारे अनौपचारिक सहमति भएको हो। भारतीयहरूले नेपालमा क्यूआरबाट तिर्न पाए पनि नेपालीले भारतमा यो सुविधा लामो समयदेखि पाएका थिएनन्।",
+   "impact": "भारत जाने नेपाली यात्री, विद्यार्थी र बिरामीले नगद नबोकी भुक्तानी गर्न सक्नेछन्।",
+   "sources": [
+    {
+     "name": "अनलाइनखबर इङ्लिस",
+     "url": "https://english.onlinekhabar.com/nepali-make-qr-payments-india.html"
+    },
+    {
+     "name": "अनलाइनखबर",
+     "url": "https://www.onlinekhabar.com/2026/11/2064655/nepalis-will-be-able-to-pay-via-qr-in-india-from-next-month"
+    },
+    {
+     "name": "वैखरी",
+     "url": "https://www.waikhari.com/2026/11/160337/"
+    },
+    {
+     "name": "कान्तिपुर (पृष्ठभूमि, मे २०२६)",
+     "url": "https://ekantipur.com/business/2026/05/10/nepalis-still-not-getting-qr-payment-service-in-india-42-40.html"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "title": "इजरायलमा सरकार बनाउन आइजनकोटको पहिलो गठबन्धन सम्झौता, अर्को दलले वार्ता रोक्यो",
+   "summary": "इजरायलमा सरकार बनाउने प्रयास गरिरहेका आइजनकोटले मंगलबार पहिलो गठबन्धन सम्झौता गरेका छन्। रोयटर्स र द हिन्दुका अनुसार उनले अभिग्डोर लिबरम्यानको 'इजरायल अवर होम' पार्टीसँग भेट गरेपछि सम्झौता भएको हो। तर इजरायली सञ्चारमाध्यम वाईनेटका अनुसार यायर गोलानको डेमोक्र्याट्स पार्टीले आइजनकोटसँगको वार्ता रोकेको छ।",
+   "sources": [
+    {
+     "name": "द हिन्दु",
+     "url": "https://www.thehindu.com/news/international/israels-eisenkot-clinches-first-coalition-agreement-in-bid-to-form-government/article71740200.ece"
+    },
+    {
+     "name": "रोयटर्स (एनएसटी मार्फत)",
+     "url": "https://www.nst.com.my/world/world/2026/11/1585175/israels-eisenkot-clinches-first-coalition-agreement-bid-form-government"
+    },
+    {
+     "name": "वाईनेट",
+     "url": "https://www.ynetnews.com/article/r1k4gdxy7e"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "title": "हुथीले रियादको सबैभन्दा अग्लो भवनमा फेरि आक्रमण गरे, ११ घाइते; यमनमा अदनतर्फ लडाइँ",
+   "summary": "इरान समर्थित हुथी विद्रोहीले साउदी अरबको राजधानी रियादको सबैभन्दा अग्लो भवनमा आक्रमण गर्दा ११ जना घाइते भएको साउदी नागरिक सुरक्षा विभागले जनाएको छ। केही दिनभित्रै यो भवनमा भएको यो दोस्रो आक्रमण हो। यमनको सेनाले हुथी लडाकु सरकारको मुख्य गढ अदनबाट करिब ६० किलोमिटर नजिक पुगेको बताएको छ, तर सरकारी पक्षले अदन कब्जा हुन नदिने दाबी गरेको छ। यमनका अधिकारीका अनुसार बस र ट्रकमा भएको एउटा आक्रमणमा २६ जनाको मृत्यु भएको छ।",
+   "sides": [
+    {
+     "who": "यमन सरकारको सेना",
+     "says": "हुथी लडाकु अदन नजिक आएका छन्, तर प्रतिरक्षा तयार छ र आक्रमण रोकिनेछ।"
+    },
+    {
+     "who": "साउदी नागरिक सुरक्षा विभाग",
+     "says": "रियादको भवनमा हुथी आक्रमणमा ११ जना घाइते भए।"
+    }
+   ],
+   "sources": [
+    {
+     "name": "रोयटर्स",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT2lRbHFjYmphSTFEMlhhRmVYd0dzWklmWmxFZFhMVG41LTJWdEZpNW9oYU5JUy1NS1ZORl80Wml6clJ6UnJOenN2TDBjSUpDb"
+    },
+    {
+     "name": "आनादोलु",
+     "url": "https://www.aa.com.tr/en/middle-east/11-injured-in-houthi-attack-on-riyadh-s-financial-district-tower-saudi-civil-defense/4136093"
+    },
+    {
+     "name": "एसबीएस",
+     "url": "https://www.sbs.com.au/news/article/riyadh-saudi-arabia-houthis-us-condemnation/vqi5vb2eb"
+    },
+    {
+     "name": "फ्रान्स २४",
+     "url": "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden"
+    },
+    {
+     "name": "द हिन्दु",
+     "url": "https://www.thehindu.com/news/international/yemen-officials-say-strike-on-buses-trucks-kills-26/article71739839.ece"
+    }
+   ]
+  },
+  {
+   "section": "world",
+   "title": "अमेरिकी गुप्तचर संस्था सीआईएको गोप्य नभएको कम्प्युटर प्रणालीमा साइबर आक्रमण",
+   "summary": "अमेरिकी गुप्तचर संस्था सीआईए र राष्ट्रिय गुप्तचर निर्देशक कार्यालय (ODNI) को गोप्य वर्गमा नपर्ने केही सूचना साइबर आक्रमणमा परेको छ। रोयटर्सले न्युयोर्क टाइम्सलाई उद्धृत गर्दै र एपीले एक स्रोतलाई उद्धृत गर्दै यो खबर दिएका छन्। कुन सामग्री चोरिएको हो भन्ने स्पष्ट छैन, र अरू सरकारी निकायका सूचना पनि यसमा परेको अनुमान गरिएको छ।",
+   "unverified": "आक्रमण कसले गर्‍यो भन्ने आधिकारिक रूपमा पुष्टि भएको छैन।",
+   "sources": [
+    {
+     "name": "द हिन्दु (रोयटर्स)",
+     "url": "https://www.thehindu.com/news/international/us-cia-odni-suffer-cybersecurity-breach-of-some-unclassified-information-nyt-reports/article71740185.ece"
+    },
+    {
+     "name": "एपी",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORFJXS0ZrRlpQVzZydVYtcFMzeVpIYU1UeThIZzFsZkt0Y2dSeEszT3g5eWpqSk9UTnhFb0RYbFlrX1hDczI5cmk5XzRIdzZ5e"
+    },
+    {
+     "name": "नेक्स्टगभ",
+     "url": "https://www.nextgov.com/cybersecurity/2026/11/cia-odni-unclassified-intelligence-system-hacked/417438/"
+    }
+   ]
+  },
+  {
+   "section": "india_china",
+   "title": "अमेरिकी अदालतमा चिनियाँ कम्पनी ह्वावे व्यापारिक गोप्यता चोरी र ठगीमा दोषी",
+   "summary": "चिनियाँ प्रविधि कम्पनी ह्वावेलाई न्युयोर्कको ब्रुकलिनस्थित अदालतको जुरीले १२ मध्ये १० अभियोगमा दोषी ठहर गरेको छ। ती अभियोगमा व्यापारिक गोप्यता चोर्ने षड्यन्त्र, बैंक तथा अनलाइन ठगी र अमेरिकी प्रतिबन्ध छल्ने काम पर्छन्। इरान र उत्तर कोरियासँग प्रतिबन्ध विपरीत व्यापार गरेको अभियोग पनि थियो। तर सबैभन्दा गम्भीर मानिएको संगठित आपराधिक षड्यन्त्र (र्‍याकेटियरिङ) र न्यायमा अवरोधको अभियोगबाट कम्पनी सफाइ पाएको छ। करिब सात वर्ष चलेको मुद्दामा तीन महिना सुनुवाइ भएको थियो।",
+   "unverified": "फैसलाबारे ह्वावे र चीन सरकारको प्रतिक्रिया यस संस्करणसम्म पुष्टि हुन सकेन।",
+   "sources": [
+    {
+     "name": "बीबीसी",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "साउथ चाइना मर्निङ पोस्ट",
+     "url": "https://www.scmp.com/news/us/article/3375673/huawei-guilty-10-12-counts-after-2-month-battle-us-courtroom"
+    },
+    {
+     "name": "अल जजिरा",
+     "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets"
+    },
+    {
+     "name": "द हिन्दु",
+     "url": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece"
+    }
+   ]
+  },
+  {
+   "section": "india_china",
+   "title": "चीनमा पोलिटब्युरो सदस्य तथा सांघाईका पार्टी प्रमुख छेन जिनिङमाथि छानबिन",
+   "summary": "चीनको कम्युनिस्ट पार्टीको शक्तिशाली पोलिटब्युरोका सदस्य तथा सांघाईका पार्टी सचिव छेन जिनिङमाथि 'अनुशासन र कानुनको गम्भीर उल्लंघन' को आशंकामा छानबिन सुरु भएको सरकारी टेलिभिजन सीसीटीभीले मंगलबार जनाएको छ। यस्तो शब्द प्रायः भ्रष्टाचारका लागि प्रयोग हुन्छ। रोयटर्सका अनुसार सन् २०२५ यता कारबाहीमा पर्ने उनी चौथो पोलिटब्युरो सदस्य हुन्। द हिन्दुका अनुसार उनी सन् २०२७ मा शीर्ष नेतृत्वमा पुग्ने अपेक्षा गरिएको थियो।",
+   "sources": [
+    {
+     "name": "साउथ चाइना मर्निङ पोस्ट",
+     "url": "https://www.scmp.com/news/china/politics/article/3375640/shanghai-party-chief-faces-corruption-probe"
+    },
+    {
+     "name": "रोयटर्स",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWENXdFJEUVN5WUF1ODgwSWdpRUZiSWk0UVFoX3QzbVF4N19LRDJmaUdpTm1ZVlU2Rmx2Zm5hX1RleFg2aDRjWlN6QTBCM1JNc"
+    },
+    {
+     "name": "द हिन्दु",
+     "url": "https://www.thehindu.com/news/international/china-announces-shock-corruption-probe-into-politburo-member/article71738737.ece"
+    },
+    {
+     "name": "एपी (वाशिङटन पोस्ट मार्फत)",
+     "url": "https://www.washingtonpost.com/world/2026/11/24/china-probe-shanghai-party-secretary/c9ae98f8-e801-11f1-8db0-6f1e3c389e7c_story.html"
+    }
+   ]
+  },
+  {
+   "section": "economy",
+   "title": "एनभिडिया र एन्थ्रोपिकको सेयर घट्दा अमेरिकी बजारको उछाल रोकियो, डाउ भने ५० हजार नाघ्यो",
+   "summary": "सोमबारको ठूलो उछालपछि मंगलबार अमेरिकी सेयर बजारमा AI कम्पनीका सेयर घटे। समाचार शीर्षकअनुसार S&P 500 ०.५३ प्रतिशत र प्रविधि कम्पनी धेरै भएको Nasdaq सूचकांक पनि घट्यो, तर डाउ जोन्स ४२३ अंक बढेर ५० हजार अंकमाथि बन्द भयो। एनभिडियाको सेयर सीएनबीसीका अनुसार ५ प्रतिशतभन्दा बढी र बीबीसीका अनुसार ७ प्रतिशत घट्यो, अर्थात् स्रोतअनुसार फरक छ। AI कम्पनी एन्थ्रोपिकको सेयर ८३ डलरको प्रारम्भिक बिक्री मूल्य (IPO) भन्दा तल झर्‍यो; नोभेम्बर १९ मा यो १११.५० डलरमा खुलेको थियो। रोयटर्सका अनुसार एन्थ्रोपिकको बजार मूल्य करिब २०० अर्ब डलर (२० हजार करोड डलर) घट्ने बाटोमा छ।",
+   "sources": [
+    {
+     "name": "एपी (सीबीसी मार्फत)",
+     "url": "https://www.cbc.ca/news/business/stock-market-latest-nvidia-anthropic-ai-stocks-9.7434596?cmp=rss"
+    },
+    {
+     "name": "रोयटर्स (मार्केटस्क्रिनर मार्फत)",
+     "url": "https://www.marketscreener.com/news/nasdaq-s-p-500-slip-following-monday-s-nvidia-fueled-rally-ce7851dbdc88f423"
+    },
+    {
+     "name": "२४/७ वाल स्ट्रिट (शीर्षक)",
+     "url": "https://247wallst.com/cards/the-dow-closed-above-50-000-for-the-first-time-while-the-nas-gspc-market-bell-01m87nyn7mshvn15b2vdser41w"
+    },
+    {
+     "name": "सीएनबीसी",
+     "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+    },
+    {
+     "name": "सीएनबीसी",
+     "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+    },
+    {
+     "name": "बिगगो फाइनान्स (शीर्षक)",
+     "url": "https://finance.biggo.com/news/efa4550f-327b-4612-b151-77555e7d62dd"
+    }
+   ]
+  },
+  {
+   "section": "economy",
+   "title": "AI सर्भरको माग बढ्दा डेलको बिक्री दोब्बरभन्दा बढी, वार्षिक अनुमान बढायो",
+   "summary": "अमेरिकी कम्प्युटर कम्पनी डेलले तेस्रो त्रैमासिकमा अघिल्लो वर्षको तुलनामा दोब्बरभन्दा बढी बिक्री गरेको जनाएको छ। AI चलाउने सर्भरको माग बढेकाले यस्तो भएको कम्पनीको भनाइ छ। रोयटर्सका अनुसार डेलले यो वर्षको आम्दानी अनुमान पनि बढाएको छ। सीएनबीसीका अनुसार कम्पनीले २५ अर्ब डलर (२ हजार ५ सय करोड डलर) बराबरको आफ्नै सेयर फिर्ता किन्ने योजना स्वीकृत गरेको छ।",
+   "sources": [
+    {
+     "name": "सीएनबीसी",
+     "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html"
+    },
+    {
+     "name": "रोयटर्स",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZG1EVmJTYUpyMnJPVzlHNE9xZFZpYmZHdkZBOTgtSllCbnRLQnNuUWtLNktuYXJqZms4Tl85T2I2dU41UmEzTWpPY0Z6TU5ua"
+    }
+   ]
+  },
+  {
+   "section": "ai",
+   "title": "एनभिडियाका प्रमुख हुआङले कानुन विपरीत चीनमा चिप पठाएको सिनेट नेता शुमरको आरोप",
+   "summary": "अमेरिकी सिनेटका डेमोक्र्याट नेता चक शुमरले AI चिप बनाउने कम्पनी एनभिडियाका प्रमुख जेन्सन हुआङले अमेरिकी निर्यात नियन्त्रण कानुन उल्लंघन गरेको आरोप लगाएका छन्। उनले हुआङले अत्याधुनिक चिप चीन पठाएको दाबी गरेका छन्। महान्यायाधिवक्ता टड ब्लान्चले हुआङमाथि छानबिन भएको थियो कि थिएन भन्ने प्रश्नको सीधा जवाफ दिएनन्। द भर्जका अनुसार हुआङले कर्मचारीसँगको बैठकमा ट्रम्पले आफूलाई फेरि नियुक्त गराएको भन्ने कुरा 'सत्य होइन' भनेका छन्, तर टेकक्रन्चका अनुसार उनले कर्मचारीसँग माफी मागे र ह्वाइट हाउसलाई धन्यवाद पनि दिए।",
+   "sides": [
+    {
+     "who": "सिनेट नेता चक शुमर",
+     "says": "हुआङले अत्याधुनिक चिप चीन पठाएर निर्यात नियन्त्रण कानुन तोडे, यो राष्ट्रिय सुरक्षाको गम्भीर खतरा हो।"
+    },
+    {
+     "who": "जेन्सन हुआङ (कर्मचारी बैठकमा)",
+     "says": "ट्रम्पले मलाई फेरि नियुक्त गराएको भन्ने कुरा सत्य होइन; ह्वाइट हाउसलाई धन्यवाद।"
+    }
+   ],
+   "sources": [
+    {
+     "name": "रोयटर्स (सीटीभी मार्फत)",
+     "url": "https://www.ctvnews.ca/sci-tech/article/democratic-senate-leader-accuses-nvidia-ceo-of-violating-us-export-control-law/"
+    },
+    {
+     "name": "बीबीसी",
+     "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "अल जजिरा",
+     "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated"
+    },
+    {
+     "name": "द भर्ज",
+     "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
+    },
+    {
+     "name": "टेकक्रन्च",
+     "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+    }
+   ]
+  },
+  {
+   "section": "ai",
+   "title": "संगीत सेवा टाइडलले पूरै AI ले बनाएका गीत हटाउने, करिब २ करोड ९० लाख गीत मेटिने",
+   "summary": "अनलाइन संगीत सुन्ने सेवा टाइडलले डिसेम्बर ९ देखि पूरै AI (कृत्रिम बुद्धि) ले बनाएका गीतमा प्रतिबन्ध लगाउने घोषणा गरेको छ। द भर्जका अनुसार यसले करिब २ करोड ९० लाख AI गीत मेटाउनेछ र दैनिक ८० देखि ८५ हजार नयाँ AI गीत अस्वीकार गर्नेछ। मानिसले AI को सहायता लिएर बनाएका गीत भने स्वीकार गरिने टेकक्रन्चले जनाएको छ। यस्तो प्रतिबन्ध लगाउने यो पहिलो ठूलो संगीत सेवा भएको बिलबोर्डले लेखेको छ।",
+   "sources": [
+    {
+     "name": "द भर्ज",
+     "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+    },
+    {
+     "name": "टेकक्रन्च",
+     "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+    },
+    {
+     "name": "बिलबोर्ड",
+     "url": "https://www.billboard.com/pro/tidal-bans-ai-music-from-platform/"
+    }
+   ]
+  }
+ ]
+}
