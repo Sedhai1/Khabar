@@ -1,0 +1,304 @@
+{
+  "id": "2026-11-25-md",
+  "generated_at": "2026-11-25T12:14:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार: मंगलबार, नोभेम्बर २४ को बन्द — समाचार शीर्षकअनुसार डाउ जोन्स ४२३ अंक बढेर ५०,०१९ मा बन्द भयो, S&P 500 ०.५३ प्रतिशत र Nasdaq १.४८ प्रतिशत घटे (S&P र Nasdaq को ठ्याक्कै अंक पुष्टि हुन सकेन) · NEPSE: मंगलबार, नोभेम्बर २४ (मंसिर ८) को बन्द (बुधबारको कारोबार चलिरहेको छ) · डलर: बुधबार, नोभेम्बर २५ (मंसिर ९) को राष्ट्र बैंकको दर (खरिद १४८.३६, बिक्री १४८.९६ रुपैयाँ) · ब्रेन्ट तेल मंगलबार ९० डलरभन्दा तल रहेको र बुधबार १ प्रतिशतभन्दा बढी घटेको समाचार शीर्षकमा उल्लेख छ, ठ्याक्कै मूल्य मिति सहित पुष्टि हुन सकेन।",
+    "items": [
+      {
+        "name": "Dow Jones",
+        "value": 50019,
+        "change_pct": null,
+        "source": "स्टार्टअप फर्च्युन / बिगो फाइनान्स (शीर्षक)",
+        "url": "https://startupfortune.com/the-dow-closes-at-50019-while-nasdaq-drops-148-on-an-ai-chip-selloff/"
+      },
+      {
+        "name": "NEPSE",
+        "value": 2638.95,
+        "change_pct": 0.59,
+        "source": "अनलाइनखबर / एभरेस्ट पोस्ट",
+        "url": "https://english.onlinekhabar.com/nepse-gains-15-39-points.html"
+      },
+      {
+        "name": "डलर (राष्ट्र बैंक, खरिद)",
+        "value": 148.36,
+        "unit": "रु",
+        "change_pct": null,
+        "source": "नेपाल राष्ट्र बैंक (अनलाइनखबर मार्फत)",
+        "url": "https://www.onlinekhabar.com/2026/11/2064775/what-is-the-exchange-rate-of-which-foreign-currency-today-29"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "कांग्रेसका दुवै समूहको छुट्टाछुट्टै केन्द्रीय बैठक, देउवा समूहको अधिवेशनमा जानेलाई कारबाही गर्ने चेतावनी",
+      "summary": "नेपाली कांग्रेसका दुई समूहले छुट्टाछुट्टै केन्द्रीय कार्यसमिति बैठक बसाइरहेका छन्। कांग्रेसको केन्द्रीय कार्यसमिति बैठक बुधबार पनि बस्ने भएको छ। नेता गगन थापाले शेरबहादुर देउवा समूहको अधिवेशनमा सहभागी हुने जनप्रतिनिधिमाथि कारबाही हुने चेतावनी दिएका छन्। देउवा पक्षमा लागेका जनप्रतिनिधिलाई पदबाट हटाउने तयारी भइरहेको समाचार पनि आएको छ।",
+      "unverified": "देउवा समूहले यस चेतावनीबारे के भनेको छ र कारबाहीको निर्णय भइसकेको छ कि छैन भन्ने पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "कान्तिपुर",
+          "url": "https://ekantipur.com/politics/2026/11/24/gagan-warns-of-action-against-public-representatives-who-participate-in-deuba-groups-convention-59-36.html"
+        },
+        {
+          "name": "रातोपाटी",
+          "url": "https://www.ratopati.com/story/607454/central-working-committee-meeting-of-both-groups-of-nepali-congress-is-being-held"
+        },
+        {
+          "name": "लोकान्तर",
+          "url": "https://lokaantar.com/story/333953/2026/11/25/politics/congress-central-working-committee-333953"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "नेपाल–भारत प्रबुद्ध व्यक्ति समूह (EPG) को प्रतिवेदन 'सान्दर्भिक छैन' भन्ने भारतीय विदेशसचिवको भनाइपछि बहस",
+      "summary": "प्रधानमन्त्री बालेन शाहको भारत भ्रमणपछि भारतका विदेशसचिव विक्रम मिस्रीले नेपाल–भारत प्रबुद्ध व्यक्ति समूह (EPG) को प्रतिवेदन अब सान्दर्भिक नरहेको बताए। उनले दुई देश सीमा विषयमा वार्तामार्फत अघि बढ्ने बताएका छन्। यसको भोलिपल्ट समूहका पूर्वसदस्यहरूले प्रतिवेदन दुई देशको सम्बन्धका लागि निकै सकारात्मक भएको प्रतिक्रिया दिए। काठमाडौं पोस्टका अनुसार शाह–मोदी वार्तामा लिपुलेक र गोर्खा भर्तीको विषय उठेन।",
+      "sides": [
+        {
+          "who": "भारतीय विदेशसचिव मिस्री",
+          "says": "प्रतिवेदन अब सान्दर्भिक छैन, दुई देश अगाडि हेरेर सीमा वार्ता गर्छन्।"
+        },
+        {
+          "who": "EPG का पूर्वसदस्यहरू",
+          "says": "प्रतिवेदन नेपाल–भारत सम्बन्धका लागि निकै सकारात्मक थियो।"
+        }
+      ],
+      "unverified": "नेपाल सरकारले मिस्रीको भनाइबारे आधिकारिक धारणा दिएको छ कि छैन भन्ने पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/national/former-members-say-epg-report-was-highly-positive-for-india-nepal-ties/article71739669.ece"
+        },
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://english.onlinekhabar.com/epg-report-thing-of-past.html"
+        },
+        {
+          "name": "द प्रिन्ट",
+          "url": "https://theprint.in/diplomacy/india-nepal-looking-forward-eminent-persons-group-report-on-boundary-issues-not-relevant-foreign-secy/3107318/"
+        },
+        {
+          "name": "काठमाडौं पोस्ट",
+          "url": "https://kathmandupost.com/national/2026/11/23/lipulekh-gurkha-recruitment-absent-from-shah-modi-talks"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "चुहिएको रुसी तथ्यांकअनुसार युक्रेन युद्धमा झन्डै ५ लाख रुसी सैनिकको मृत्यु",
+      "summary": "रुसकै चुहिएको तथ्यांकले युक्रेनमाथिको पूर्ण आक्रमणयता झन्डै ५ लाख रुसीको मृत्यु भएको देखाएको बीबीसीले जनाएको छ। एनएचकेले सञ्चारमाध्यमलाई उद्धृत गर्दै ४ लाख ९० हजारभन्दा बढी रुसी सैनिक मारिएको लेखेको छ। साउथ चाइना मर्निङ पोस्टले यो तथ्यांक ह्याक गरिएको रुसी डेटाबाट आएको जनाएको छ। बीबीसीका अनुसार युद्धले रुसमा मृत्युको ढाँचा नै बदलेको छ।",
+      "unverified": "रुसी सरकारले यो तथ्यांक स्वीकार वा खण्डन गरेको छ कि छैन भन्ने पुष्टि हुन सकेन। स्रोतअनुसार संख्या फरक छ।",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo"
+        },
+        {
+          "name": "NHK (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wdy1VemQ4bjNOeE9xSHdqZzRZOWNnRlpZTjA3blk1b2UyN0lfTkZYU2F1blJaQ3VqTUlkUHRNWHVMOTZyM2JxaFBZQnotNXh6VjZxaDNfXzVPOHpUSWZVdFNJOA?oc=5"
+        },
+        {
+          "name": "साउथ चाइना मर्निङ पोस्ट",
+          "url": "https://www.scmp.com/news/world/russia-central-asia/article/3375557/hacked-russian-data-suggests-nearly-500000-soldiers-dead-reports-say"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "हुथीहरू अदन नजिक पुगे, साउदीको जेद्दालगायत बन्दरगाहमा आक्रमण गर्ने धम्की",
+      "summary": "यमनको सेनाले हुथी लडाकु सरकारको गढ अदनबाट करिब ६० किलोमिटर नजिक आइपुगेको र आक्रमण रोक्ने बताएको छ। एपीका अनुसार सरकारी सेनाले अदन जोगाउन बलियो रक्षा रेखा बनाएको छ। हुथीहरूले साउदी अरबको जेद्दा र लाल सागरका अन्य साउदी बन्दरगाहमा आक्रमण गर्ने धम्की दिएका छन्। यसअघि साउदी नेतृत्वको गठबन्धनले हुथी नियन्त्रणको होदेइदा बन्दरगाहमा हवाई आक्रमण गरेको थियो।",
+      "sides": [
+        {
+          "who": "यमन सरकारको सेना",
+          "says": "हुथीहरू अदन नजिक आएका छन्, तर रक्षा तयारी पूरा छ र आक्रमण रोकिन्छ।"
+        },
+        {
+          "who": "हुथीहरू",
+          "says": "साउदीको जेद्दा र लाल सागरका अन्य बन्दरगाहलाई निशाना बनाउन सकिन्छ।"
+        }
+      ],
+      "unverified": "अदनबाट कति मानिस विस्थापित भए भन्ने संख्या पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/yemens-houthis-threaten-to-target-jeddah-and-other-saudi-red-sea-ports/article71741023.ece"
+        },
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "चीनको शेनझाउ–२४ यान पहिलो विदेशी अन्तरिक्षयात्री, पाकिस्तानका जिशान अलीसहित उड्यो",
+      "summary": "चीनले बुधबार बिहान उत्तरपश्चिमी चीनको जिउक्वान केन्द्रबाट लङ मार्च–२एफ रकेटमार्फत शेनझाउ–२४ यान प्रक्षेपण गर्‍यो। यानमा दुई चिनियाँ र पाकिस्तानका मुहम्मद जिशान अली छन्। जिशान अली चीनको अन्तरिक्ष स्टेसन थ्येनकोङ जाने पहिलो विदेशी अन्तरिक्षयात्री हुन्। साउथ चाइना मर्निङ पोस्टका अनुसार करिब एक साता स्टेसनमा छ जना अन्तरिक्षयात्री रहनेछन्।",
+      "sources": [
+        {
+          "name": "AP (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3M0QnJvdnFlSmxYai1OZWNwd0pYOFVKa2t3UDZhLXZkcXVkcmNOZHU2ZEVCQk1HX0liM2ZVb3piZDFiaE5SSkY2MWdZeFNmOVhTWkM3RDdqSHYySDNkSTNwcExoemNqTWtoLWNQV1VDNXota0w3Ym1FLUZxOXFPZnB3UlllbEJySmhJ?oc=5"
+        },
+        {
+          "name": "द हिन्दू / Reuters",
+          "url": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut/article71740891.ece"
+        },
+        {
+          "name": "साउथ चाइना मर्निङ पोस्ट",
+          "url": "https://www.scmp.com/news/china/science/article/3375677/chinas-shenzhou-24-spacecraft-lifts-first-foreign-astronaut-board"
+        },
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "सोलोमन टापुले चीनसँगको सुरक्षा सम्झौता छाडेर अस्ट्रेलियासँग नयाँ सन्धि गर्‍यो",
+      "summary": "प्रशान्त क्षेत्रको देश सोलोमन टापुले अस्ट्रेलियालाई आफ्नो मुख्य सुरक्षा साझेदार बनाउने नयाँ सन्धिमा हस्ताक्षर गरेको छ। बीबीसीका अनुसार यससँगै चीनसँगको विवादित सुरक्षा सम्झौता अन्त्य भएको छ। सन्धिमा सोलोमनमा कुनै विदेशी सैनिक वा सुरक्षा अड्डा नरहने उल्लेख छ। प्रधानमन्त्री म्याथ्यु वालेले अब आफ्नो देश क्षेत्रमा अनिश्चितताको कारण नरहने बताए।",
+      "unverified": "यस सन्धिबारे चीनको आधिकारिक प्रतिक्रिया पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno"
+        },
+        {
+          "name": "Reuters (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSG1oWFgtQ2pTYWVManFSTHhtZmk2UFl6VllsZFBkTWpHWUF0WGZ6LTNZaTZqTXJpeEhBWHVUallaaXhORWxVbmlaRUk0NkhPdEJXQ3puZHA4RFNIS01rdUVNS2MzdlcyalFTU0NNN2dUSFBuMy1rUmVDdWVFWlhTdGNpYVU2ZUc0bzRiZ0FWR3NiSG5hMEhF?oc=5"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/solomon-islands-names-australia-as-its-primary-security-partner-in-a-new-treaty-that-excludes-china/article71741038.ece"
+        },
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "अमेरिकाले भारत, चीन, युरोपेली संघसहित १६ साझेदारमाथि नयाँ भन्सार शुल्क लगाउने तयारी",
+      "summary": "ट्रम्प प्रशासनले आवश्यकताभन्दा बढी कारखाना उत्पादन (अतिरिक्त क्षमता) बारेको छानबिनपछि नयाँ भन्सार शुल्क घोषणा गर्ने तयारी गरेको रोयटर्सले स्रोतलाई उद्धृत गर्दै जनाएको छ। एपीका अनुसार सरकारी अनुदानमा भएको उत्पादनलाई कारण देखाइएको छ। द हिन्दूका अनुसार भारत पनि १६ प्रमुख व्यापार साझेदारमा परेको छ। यी शुल्कले फेब्रुअरीमा सर्वोच्च अदालतले खारेज गरेको ट्रम्पको 'लिबरेसन डे' शुल्कको ठाउँ लिने उद्देश्य राखेको छ।",
+      "unverified": "शुल्कको दर र लागू हुने मिति पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "Reuters (शीर्षक)",
+          "url": "https://finance.yahoo.com/economy/policy/articles/trump-administration-set-unveil-tariffs-161914689.html"
+        },
+        {
+          "name": "AP (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalJfNUMtVmVfb2RDeFlJeVEtNHVxc09sSjVrT1RfZmRMZ3dzZDMyLUhUSVVoalctTzJTNkU2b2F6VGVJNDZfZXZ3Rkp1WUZQLWY5UUxpOE9XcTJyUVJ4Ri1nZl9MU0xRbkY2MHVBZVg5NGcyX3JlMW1ZdVlrMXRodUlhSjZaSkkwR3pVQUtOUmJGY1JIelBuaGh3?oc=5"
+        },
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/international/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources/article71740905.ece"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "AI सेयरप्रति शंका बढ्दा एसियाली बजार ओरालो, दक्षिण कोरियाको कोस्पी झन्डै ६ प्रतिशत घट्यो",
+      "summary": "मंगलबार अमेरिकी बजारमा AI सम्बन्धी सेयर घटेपछि बुधबार एसियाली बजार पनि तीव्र रूपमा झरे। जापान, दक्षिण कोरिया र ताइवानका बजार सबैभन्दा धेरै घटेको अल जजिराले जनाएको छ। कारोबारका क्रममा दक्षिण कोरियाको कोस्पी झन्डै ६ प्रतिशत र जापानको निक्केई ३ प्रतिशतभन्दा बढी घटेको समाचार छ। जापानी कम्पनी सफ्टब्याङ्कको सेयर १५ देखि १६ प्रतिशतसम्म घट्यो।",
+      "unverified": "एसियाली बजारको दिनको अन्तिम बन्द अंक यो संस्करण तयार हुँदासम्म पुष्टि भएको छैन।",
+      "sources": [
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
+        },
+        {
+          "name": "AP (WRAL मार्फत, शीर्षक)",
+          "url": "https://www.wral.com/news/ap/10044-asian-stocks-mostly-decline-as-ai-shares-fall-following-a-retreat-on-wall-street/"
+        },
+        {
+          "name": "इन्भेस्टिङलाइभ (शीर्षक)",
+          "url": "https://investinglive.com/stock-market-update/asian-stocks-slide-as-ai-doubts-return-kospi-down-nearly-6-and-nikkei-more-than-3/"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "नेपालमा सुन एकै दिन तोलाको ६ हजार ५ सय रुपैयाँ सस्तियो",
+      "summary": "नेपाल सुनचाँदी व्यवसायी महासंघले बुधबार सुनको मूल्य प्रतितोला २ लाख ४१ हजार ४ सय रुपैयाँ तोकेको छ। मंगलबार सुन प्रतितोला २ लाख ४७ हजार ९ सय रुपैयाँ थियो। यसरी एकै दिन तोलामा ६ हजार ५ सय रुपैयाँ घटेको छ। चाँदी पनि तोलामा १०५ रुपैयाँले सस्तिएको छ। यसअघि दुई दिनमा सुन तोलाको ५ हजार ३ सय रुपैयाँ महँगिएको थियो।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2064906/gold-price-drops-by-6500-tola"
+        },
+        {
+          "name": "रिपब्लिका",
+          "url": "https://myrepublica.nagariknetwork.com/news/gold-price-drops-by-rs-6500-per-tola-in-nepali-market-13-99.html"
+        },
+        {
+          "name": "खबरहब",
+          "url": "https://english.khabarhub.com/2026/25/576985/"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "एनभिडिया प्रमुख हुआङमाथि छानबिनबारे महान्यायाधिवक्ता मौन, ट्रम्पले आवश्यक परे माफी दिन सक्ने बताए",
+      "summary": "AI चिप बनाउने अमेरिकी कम्पनी एनभिडियाका प्रमुख जेन्सन हुआङ पदमा फर्किएपछि विवाद बढेको छ। अमेरिकी महान्यायाधिवक्ता टोड ब्ल्यान्चले हुआङमाथि छानबिन भएको थियो कि थिएन भन्ने प्रश्नको जवाफ दिएनन्। राष्ट्रपति ट्रम्पले आवश्यक परे हुआङलाई माफी दिन तयार रहेको र उनले कांग्रेसमा मौन बस्ने अधिकार प्रयोग गर्नु नपर्ने बताएको न्युयोर्क पोस्टलाई उद्धृत गर्दै सीएनबीसीले जनाएको छ। बीबीसीका अनुसार यो विवादबीच एनभिडियाको सेयर ७ प्रतिशत घटेको छ।",
+      "sides": [
+        {
+          "who": "आलोचक (सिनेट नेता शुमरसहित)",
+          "says": "हुआङले चीनमा चिप पठाउँदा अमेरिकी निर्यात नियन्त्रण कानुन उल्लंघन गरे, ट्रम्पको भूमिकाबारे जवाफ चाहिन्छ।"
+        },
+        {
+          "who": "हुआङ",
+          "says": "कर्मचारी बैठकमा उनले ट्रम्पले आफूलाई पुनः नियुक्त गराएको कुरा सत्य नभएको बताए।"
+        }
+      ],
+      "unverified": "हुआङले सिनेट समितिमा बयान दिने मिति पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html"
+        },
+        {
+          "name": "NHK (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10X25USW5FdTZqU0FBYkIyTEpTempsVmtqWGlhaXhWakdLMWlSUFIzTTFDekhmNlVQeEE5bjZlUlVSNVdwVTk5VGZVblRaRlpldDV6UzdRcUJSQ0hxQVJhd3ZRVQ?oc=5"
+        },
+        {
+          "name": "द भर्ज (शीर्षक)",
+          "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
+        },
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "AI प्रयोग गरेर हुने साइबर आक्रमणले पुराना कमजोरी छिटो पत्ता लगाइरहेको बेलायती साइबर निकायको चेतावनी",
+      "summary": "बेलायतको राष्ट्रिय साइबर सुरक्षा केन्द्र (NCSC) ले AI मा आधारित ह्याकिङ उपकरणले कम्प्युटर प्रणालीका पुराना र साधारण सुरक्षा कमजोरीलाई छिटो दुरुपयोग गरिरहेको जनाएको छ। केन्द्रका अनुसार आफैं काम गर्ने AI 'एजेन्ट' ले आक्रमणको गति बढाएको छ। यसैले आधारभूत सुरक्षा बलियो बनाउनु अहिले जत्तिको जरुरी पहिले कहिल्यै नभएको केन्द्रको भनाइ छ। सरल भाषामा, ढोकामा पुरानो कमजोर ताल्चा भए AI ले त्यसलाई छिटो भेट्टाउँछ।",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+        },
+        {
+          "name": "बेलायती NCSC (शीर्षक)",
+          "url": "https://www.ncsc.gov.uk/blogs/familiar-weaknesses-exploited-faster-defending-against-agentic-cyber-attacks"
+        }
+      ]
+    }
+  ]
+}
