@@ -1,0 +1,237 @@
+{
+  "id": "2026-11-26-pm",
+  "generated_at": "2026-11-26T18:15:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार: बुधबार, नोभेम्बर २५ को बन्द (बिहिबारको बन्द अंक आएको छैन) · NEPSE: बिहिबार, नोभेम्बर २६ (मंसिर १०) को बन्द — बुधबारको २,६४७.६१ बाट १०.८९ अंक घटेको समाचारका आधारमा · आजको डलर दर र ब्रेन्ट तेलको मिति सहितको मूल्य यस संस्करणमा पुष्टि हुन सकेन।",
+    "items": [
+      {
+        "name": "Dow Jones",
+        "value": 50182.95,
+        "change_pct": null,
+        "source": "बीबीएन टाइम्स (शीर्षक)",
+        "url": "https://www.bbntimes.com/global-economy/dow-jones-djia-rises-to-50-182-95-in-a-stunning-thanksgiving-eve-rebound"
+      },
+      {
+        "name": "NEPSE",
+        "value": 2636.72,
+        "change_pct": -0.41,
+        "source": "अनलाइनखबर / रिपब्लिका (शीर्षक)",
+        "url": "https://english.onlinekhabar.com/nepse-falls-10-89-points-as-trading-turnover-declines.html"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "नेपालको सार्वजनिक ऋण करिब ३० खर्ब रुपैयाँ पुग्यो, कुल गार्हस्थ्य उत्पादनको ४५ प्रतिशतभन्दा बढी",
+      "summary": "चालु आर्थिक वर्षको कात्तिक मसान्तसम्म नेपालको सार्वजनिक ऋण २९ खर्ब ७५ अर्ब रुपैयाँ पुगेको छ, जुन देशको कुल गार्हस्थ्य उत्पादन (जीडीपी) को ४५.०८ प्रतिशत हो। खबरहबले भने यो रकम २९ खर्ब ५० अर्ब उल्लेख गरेको छ, त्यसैले अंक स्रोतअनुसार फरक छ। अनलाइनखबरका अनुसार सार्वजनिक ऋण व्यवस्थापन कार्यालयको तथ्यांकमा गत आर्थिक वर्षको अन्त्यदेखि कात्तिक मसान्तसम्म ऋण करिब ४३ अर्ब रुपैयाँ घटेको छ, जसको एउटा कारण अमेरिकी डलर नेपाली रुपैयाँसँग कमजोर हुनु हो। ऋण तिर्ने खर्च बढ्दा विकास खर्चमा दबाब परेको अनलाइनखबरले जनाएको छ।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर अंग्रेजी",
+          "url": "https://english.onlinekhabar.com/nepals-growing-debt-burden-puts-pressure-on-development-spending.html"
+        },
+        {
+          "name": "अनलाइनखबर अंग्रेजी (शीर्षक)",
+          "url": "https://english.onlinekhabar.com/nepals-public-debt-increase.html"
+        },
+        {
+          "name": "नेपाल प्रेस (शीर्षक)",
+          "url": "https://english.nepalpress.com/2026/11/25/public-debt-reaches-rs-2-975-trillion-or-45-08-percent-of-gdp/"
+        },
+        {
+          "name": "खबरहब (शीर्षक)",
+          "url": "https://english.khabarhub.com/2026/25/576990/"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "सुनकोशी–मरिण ठेक्का रद्दमा प्रधानमन्त्री कार्यालयको भूमिकाबारे छानबिन गर्न प्रतिपक्षको माग",
+      "summary": "सुनकोशी–मरिण डाइभर्सन आयोजनाको ठेक्का रद्द गर्ने काममा प्रधानमन्त्री कार्यालयको भूमिकाबारे छानबिन हुनुपर्ने माग प्रतिपक्षले गरेको छ। रातोपाटीका अनुसार प्रतिपक्षी नेता आङ्देम्बेले यो माग गरेका हुन्। नेपाल प्रेसको शीर्षकअनुसार नेपाली कांग्रेसले 'प्रधानमन्त्री टीम' बाट ठेक्का रद्द गरिएको भन्दै छानबिन माग गरेको छ। यो विषयमा यसअघि संसदीय समितिमा पनि छलफल भएको थियो।",
+      "sides": [
+        {
+          "who": "प्रतिपक्ष (नेपाली कांग्रेस)",
+          "says": "ठेक्का रद्द गर्ने निर्णयमा प्रधानमन्त्री कार्यालय र 'प्रधानमन्त्री टीम' को भूमिकाबारे छानबिन हुनुपर्छ।"
+        },
+        {
+          "who": "सरकार",
+          "says": "यस मागबारे सरकार वा प्रधानमन्त्री कार्यालयको जवाफ यस संस्करण तयार हुँदासम्म भेटिएन।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "रातोपाटी (शीर्षक)",
+          "url": "https://www.ratopati.com/story/607693/sunkoshi-marin-contract-cancellation-angdembe-demands-investigation-into-the-role-of-the-prime-ministers-office"
+        },
+        {
+          "name": "रातोपाटी अंग्रेजी (शीर्षक)",
+          "url": "https://english.ratopati.com/story/88316/sunkoshi-marin-contract-cancellation-angdembe-demands-investigation-into-the-role-of-the-prime-ministers-office"
+        },
+        {
+          "name": "नेपाल प्रेस (शीर्षक)",
+          "url": "https://nepalpress.com/2026/11/26/784602/congress-demands-investigation-into-cancellation-of-sunkoshi-marin-contract-by-prime-ministers-team/"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "जनकपुरको आरआरएम क्याम्पसमा विद्यार्थीको २० करोड रुपैयाँ शुल्क हराएको, रसिद जलाइएको खुलासा",
+      "summary": "धनुषाको जनकपुरधामस्थित रामसागर रामस्वरूप (आरआरएम) बहुमुखी क्याम्पसमा विद्यार्थीले तिरेको करिब २० करोड रुपैयाँ शुल्क हराएको र हजारौं रसिद जलाइएको अनलाइनखबरले जनाएको छ। सन् २०२५ को जनवरी–फेब्रुअरीमा परीक्षा फाराम भर्न जाँदा शुल्क तिरिसकेका कतिपय विद्यार्थीलाई अझै शुल्क बाँकी रहेको भनिएको थियो। अनलाइनखबरको अर्को शीर्षकअनुसार त्रिभुवन विश्वविद्यालयले यसमा संलग्नलाई कारबाही गर्ने भएको छ। विद्यार्थीले यसअघि क्याम्पस प्रमुखमाथि आर्थिक अनियमितताको आरोप लगाउँदै विरोध गरेका थिए।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर अंग्रेजी",
+          "url": "https://english.onlinekhabar.com/student-fees-missing-recipt-burn-rrm-campus.html"
+        },
+        {
+          "name": "अनलाइनखबर अंग्रेजी (शीर्षक)",
+          "url": "https://english.onlinekhabar.com/tu-to-take-action-rrm-campus-scam.html"
+        },
+        {
+          "name": "इपर्दाफास (शीर्षक)",
+          "url": "https://english.pardafas.com/students-protest-at-janakpurdhams-rrm-campus-accuse-campus-chief-of-financial-irregularities/"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "रुसको निज्नी नोभगोरोद क्षेत्रको हवाई अड्डामा पाँचवटा लडाकु विमानमा प्रहार गरेको युक्रेनको दाबी",
+      "summary": "युक्रेनी सेनाको जनरल स्टाफले मस्कोभन्दा पूर्वको निज्नी नोभगोरोद क्षेत्रमा रहेको सावास्लेइका सैनिक हवाई अड्डामा आक्रमण गरी रुसका पाँचवटा विमानमा प्रहार गरेको दाबी गरेको छ। अल जजिरा र कीभ इन्डिपेन्डेन्टले यो जानकारी दिएका छन्। कीभ पोस्टको शीर्षकअनुसार युक्रेनले रुसका दुईवटा तेल प्रशोधन केन्द्रमा पनि क्षति पुर्‍याएको पुष्टि गरेको छ।",
+      "unverified": "विमानको प्रकार र क्षतिको मात्रा स्वतन्त्र रूपमा पुष्टि भएको छैन; यसबारे रुसको प्रतिक्रिया यस संस्करणमा भेटिएन।",
+      "sources": [
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck"
+        },
+        {
+          "name": "कीभ इन्डिपेन्डेन्ट (शीर्षक)",
+          "url": "https://kyivindependent.com/5-russian-aircraft-hit-at-airfield-in-russias-nizhny-novgorod-oblast-general-staff-says/"
+        },
+        {
+          "name": "कीभ पोस्ट (शीर्षक)",
+          "url": "https://www.kyivpost.com/post/91162"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "स्पेनमा आइतबार आम निर्वाचन, सर्वेक्षणमा विपक्षी पपुलर पार्टी अगाडि",
+      "summary": "स्पेनमा यही आइतबार (नोभेम्बर २९) आम निर्वाचन हुँदैछ। गार्डियनका अनुसार यस चुनावपछि आठ वर्षदेखि सत्तामा रहेका प्रधानमन्त्री पेद्रो सान्चेजको ठाउँमा अति दक्षिणपन्थी दलसमेत सामेल दक्षिणपन्थी गठबन्धन आउन सक्छ। युरोन्युजको शीर्षकअनुसार सर्वेक्षणमा विपक्षी पपुलर पार्टी (पीपी) सान्चेजको समाजवादी पार्टी (पीएसओई) भन्दा अगाडि छ, र ब्लुमबर्गको शीर्षकअनुसार पीपीका नेता आल्बेर्तो नुनेज फेइखो प्रधानमन्त्री बन्ने बाटोमा देखिएका छन्।",
+      "unverified": "सर्वेक्षणको अंक र सम्भावित सिट संख्या यस संस्करणमा पुष्टि गरिएको छैन; सर्वेक्षण चुनावको नतिजा होइन।",
+      "sources": [
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast"
+        },
+        {
+          "name": "युरोन्युज (शीर्षक)",
+          "url": "https://www.euronews.com/2026/11/22/polls-put-spains-pp-ahead-of-psoe-a-week-before-29-november-election"
+        },
+        {
+          "name": "ब्लुमबर्ग (शीर्षक)",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/spain-poll-shows-feijoo-on-track-to-oust-sanchez-as-premier"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "हङकङको आवासीय भवन आगलागीको एक वर्ष, १६८ मृतकलाई श्रद्धाञ्जली",
+      "summary": "हङकङको ताई पो क्षेत्रको वाङ फुक कोर्ट आवासीय भवनमा भएको आगलागीको बिहिबार एक वर्ष पुगेको छ, जसमा १६८ जनाको मृत्यु भएको थियो। एपीको समाचार छाप्ने डब्लुएसएलएसको शीर्षकअनुसार सरकारको चेतावनीका बाबजुद मानिसहरूले फूल चढाएर र प्रार्थना गरेर मृतकलाई सम्झिए। बीबीसीका अनुसार भवनको मर्मतका क्रममा लागेको यो आगोमा परिवार गुमाएकाहरू एक वर्षपछि पनि न्यायको पर्खाइमा छन्।",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "AP / डब्लुएसएलएस (शीर्षक)",
+          "url": "https://www.wsls.com/news/world/2026/11/26/hong-kong-marks-deadly-fire-anniversary-with-flowers-prayers-and-tears-following-government-warning/"
+        },
+        {
+          "name": "आनादोलु एजेन्सी (शीर्षक)",
+          "url": "https://www.aa.com.tr/en/asia-pacific/hong-kong-marks-1st-anniversary-of-deadly-high-rise-fire/4138361"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "चीनमा सांघाईका पार्टी प्रमुख चेन जिनिङमाथि भ्रष्टाचार छानबिन सुरु",
+      "summary": "चीनको सबैभन्दा ठूलो सहर सांघाईका कम्युनिस्ट पार्टी प्रमुख चेन जिनिङमाथि पार्टीको भ्रष्टाचारविरोधी निकायले छानबिन सुरु गरेको छ। ब्लुमबर्गको शीर्षकअनुसार राष्ट्रपति सी जिनपिङले अचानक भ्रष्टाचारविरोधी छानबिनमार्फत उनलाई पदबाट हटाएका हुन्। रेडियो फ्री एसियाको शीर्षकअनुसार यस कदमले सीको उत्तराधिकारी योजनाबारे प्रश्न उठाएको छ; एनबीसी न्युजले चेनलाई सीको अभियानमा परेका पछिल्ला 'उदाउँदा नेता' भनेको छ।",
+      "unverified": "चेनमाथि के आरोप छ भन्ने विवरण र चिनियाँ सरकारको आधिकारिक भनाइ यस संस्करणमा पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "ब्लुमबर्ग (शीर्षक)",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/xi-unleashes-china-earthquake-with-shock-ouster-of-rising-star"
+        },
+        {
+          "name": "रेडियो फ्री एसिया (शीर्षक)",
+          "url": "https://www.rfa.org/english/china/2026/11/25/chen-jining-china-investigation-/"
+        },
+        {
+          "name": "एनबीसी न्युज (शीर्षक)",
+          "url": "https://www.nbcnews.com/world/china/rising-star-china-latest-victim-xis-purge-chen-jining-rcna611258"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "नेप्से १०.८९ अंकले घट्यो, कारोबार ५ अर्ब ४८ करोड रुपैयाँमा झर्‍यो",
+      "summary": "नेपाल स्टक एक्सचेन्ज (नेप्से) परिसूचक बिहिबार १०.८९ अंकले घटेको छ। खबरहबका अनुसार यससँगै लगातार तीन दिनको बढोत्तरी रोकिएको छ। दिनभरको कारोबार रकम घटेर ५ अर्ब ४८ करोड रुपैयाँ भएको नेपालन्युज र रिपब्लिकाले जनाएका छन्।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर अंग्रेजी (शीर्षक)",
+          "url": "https://english.onlinekhabar.com/nepse-falls-10-89-points-as-trading-turnover-declines.html"
+        },
+        {
+          "name": "रिपब्लिका (शीर्षक)",
+          "url": "https://myrepublica.nagariknetwork.com/news/nepse-declines-1089-points-as-daily-turnover-falls-to-rs-548-billion-60-95.html"
+        },
+        {
+          "name": "नेपालन्युज (शीर्षक)",
+          "url": "https://english.nepalnews.com/s/business/nepse-drops-by-10-89-points-turnover-hits-rs-5-48-billion/"
+        },
+        {
+          "name": "खबरहब (शीर्षक)",
+          "url": "https://english.khabarhub.com/2026/26/577161/"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "अमेरिकामा व्यवसायको लागत बढ्दै गएको केन्द्रीय बैंकको सर्वेक्षण 'बेज बुक' को निष्कर्ष",
+      "summary": "अमेरिकी केन्द्रीय बैंक फेडरल रिजर्भले बुधबार सार्वजनिक गरेको 'बेज बुक' सर्वेक्षणले व्यवसायमा लागतको दबाब बढ्दै गएको देखाएको छ। बेज बुक भनेको देशभरका १२ क्षेत्रीय फेड बैंकले व्यवसायीसँग कुरा गरेर तयार पार्ने अर्थतन्त्रको अवस्थाबारे प्रतिवेदन हो। एनएचकेको शीर्षकअनुसार लागतको दबाब बढेको छ, र अर्को शीर्षकअनुसार १२ मध्ये ८ क्षेत्रले सामान्यदेखि मध्यम आर्थिक वृद्धि भएको जनाएका छन्।",
+      "sources": [
+        {
+          "name": "NHK (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zc2NHaExiNXZWdHJjUHlKN0FKOXpVa3FXZWhUWm1MSGh5eVlQVkpMLU5Jd1BwTnpZNkxjWEE3VUpyRy03ZVVGdzZuVjNHN2VoRHZDcm9UQl8zbWNNNF9WTnpFdw?oc=5"
+        },
+        {
+          "name": "फेडरल रिजर्भ",
+          "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202611-summary.htm"
+        },
+        {
+          "name": "द एज (शीर्षक)",
+          "url": "https://edgeconsultancykw.com/fed-beige-book-november-2026-eight-of-12-districts-slight-to-moderate-growth/"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "AI र क्वान्टम कम्प्युटिङमा ५० अर्ब युरो लगानी गर्ने युरोपेली संघको योजना",
+      "summary": "युरोपेली संघ (ईयू) ले AI (कृत्रिम बौद्धिकता) र क्वान्टम कम्प्युटिङमा ५० अर्ब युरो (५ हजार करोड युरो) लगानी गर्ने योजना बनाएको छ। क्वान्टम कम्प्युटिङ भनेको अहिलेका कम्प्युटरभन्दा फरक सिद्धान्तमा चल्ने, केही कठिन हिसाब धेरै छिटो गर्न सक्ने नयाँ प्रविधि हो। फ्रान्स २४ मा छापिएको एएफपीको शीर्षकअनुसार AI पछि ईयूले क्वान्टमलाई अर्को ठूलो प्रविधिका रूपमा हेरेको छ। अर्को शीर्षकअनुसार यो प्रस्ताव युरोपेली आयोगले ल्याएको हो।",
+      "unverified": "रकम कहाँबाट आउँछ, कहिलेसम्म खर्च हुन्छ र सदस्य राष्ट्रहरूले यसलाई स्वीकृत गरेका छन् वा छैनन् भन्ने विवरण पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "AFP / France 24 (शीर्षक)",
+          "url": "https://www.france24.com/en/live-news/20261125-after-ai-eu-bets-on-quantum-as-next-big-thing"
+        },
+        {
+          "name": "टेकएक्सप्लोर (शीर्षक)",
+          "url": "https://techxplore.com/news/2026-11-eu-billion-euro-investment-ai.html"
+        },
+        {
+          "name": "वर्ल्ड टुडे जर्नल (शीर्षक)",
+          "url": "https://world-today-journal.com/european-commission-proposes-e50b-fund-for-ai-quantum/"
+        }
+      ]
+    }
+  ]
+}
