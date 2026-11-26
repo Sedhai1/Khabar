@@ -1,0 +1,272 @@
+{
+  "id": "2026-11-26-md",
+  "generated_at": "2026-11-26T12:15:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार: बुधबार, नोभेम्बर २५ को बन्द — समाचार शीर्षकअनुसार डाउ जोन्स ५०,१८२.९५ मा बन्द भयो; S&P 500 ०.२५ प्रतिशत र Nasdaq करिब ०.६ प्रतिशत घटे (दुवैको ठ्याक्कै अंक पुष्टि हुन सकेन) · NEPSE: बुधबार, नोभेम्बर २५ (मंसिर ९) को बन्द (बिहिबारको कारोबार चलिरहेको छ) · आजको डलर दर र ब्रेन्ट तेलको मिति सहितको मूल्य यस संस्करणमा पुष्टि हुन सकेन।",
+    "items": [
+      {
+        "name": "Dow Jones",
+        "value": 50182.95,
+        "change_pct": null,
+        "source": "बीबीएन टाइम्स (शीर्षक)",
+        "url": "https://www.bbntimes.com/global-economy/dow-jones-djia-rises-to-50-182-95-in-a-stunning-thanksgiving-eve-rebound"
+      },
+      {
+        "name": "NEPSE",
+        "value": 2647.61,
+        "change_pct": 0.33,
+        "source": "हाम्रो पात्रो (शीर्षक)",
+        "url": "https://www.hamropatro.com/news/detail/1795600075672038440-budhabar-8-66-ankale-badhyo-nepse-parisuchak-bajar-2647-61"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "चार जोखिमपूर्ण हिमतालको पानी घटाउन ५ करोड डलरको 'सञ्जीवनी' परियोजना सुरु हुँदै",
+      "summary": "सरकारले चारवटा उच्च जोखिमका हिमताल फुट्न सक्ने खतरा घटाउन करिब ५ करोड डलर (करिब ७ अर्ब रुपैयाँ) को 'सञ्जीवनी' परियोजना सुरु गर्ने तयारी गरेको छ। अनलाइनखबरका अनुसार परियोजनाले हिमतालको पानीको सतह घटाउनुका साथै मौसम र नदीको अनुगमन बढाउने र पूर्वसूचना प्रणाली बनाउने वा सुधार्ने लक्ष्य राखेको छ। यसबाट करिब ४ लाख मानिस प्रत्यक्ष लाभान्वित हुने अनलाइनखबरले जनाएको छ। हिमालयन टाइम्सले परियोजनाको रकम ४ करोड ९९ लाख ४० हजार डलर उल्लेख गरेको छ।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2065503/how-is-the-sanjivani-project-which-will-directly-benefit-about-4-lakh-people-by-reducing-the-water-level-of-4-glaci"
+        },
+        {
+          "name": "अनलाइनखबर अंग्रेजी",
+          "url": "https://english.onlinekhabar.com/nepal-project-reduce-risks-glacial-lakes.html"
+        },
+        {
+          "name": "रिपब्लिका (शीर्षक)",
+          "url": "https://myrepublica.nagariknetwork.com/news/nepal-launches-50-million-project-to-reduce-risks-from-four-glacial-lakes-16-91.html"
+        },
+        {
+          "name": "रेडियो नेपाल (शीर्षक)",
+          "url": "https://radionepalonline.com/en/2026/11/25/439270.html"
+        },
+        {
+          "name": "रातोपाटी (शीर्षक)",
+          "url": "https://english.ratopati.com/story/88214/50-million-sanjeevani-project-to-be-launched-to-reduce-risk-of-glacial-lake-eruptions"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "अगस्टको बाढीमा बेपत्ता २१३ भारतीयलाई मृत मान्ने प्रक्रिया सुरु",
+      "summary": "अगस्टमा आएको आकस्मिक बाढीमा बेपत्ता भएका २१३ भारतीय नागरिकलाई मृत मान्ने प्रक्रिया नेपालले सुरु गरेको छ। द हिन्दूका अनुसार काठमाडौंस्थित भारतीय दूतावासले यसबारे आपत्ति वा चासो भए परिवारका सदस्यलाई दूतावासमा सम्पर्क गर्न आग्रह गरेको छ। नेसनल हेराल्डको शीर्षकअनुसार दूतावासले डिसेम्बर २ भित्र बेपत्ता व्यक्तिको विवरण पुष्टि गर्न भनेको छ। द स्ट्रेट्स टाइम्सको शीर्षकअनुसार सोही बाढीमा बेपत्ता सबै मलेसियालीको पनि मृत्यु प्रमाणपत्र जारी हुनेछ।",
+      "sources": [
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/national/nepal-flash-floods-kathmandu-begins-process-to-declare-213-indians-missing-presumed-dead/article71745222.ece"
+        },
+        {
+          "name": "द प्रिन्ट (शीर्षक)",
+          "url": "https://theprint.in/world/nepal-begins-process-of-declaring-213-indians-missing-in-flash-floods-presumed-dead/3109339/"
+        },
+        {
+          "name": "बिजनेस स्ट्यान्डर्ड (शीर्षक)",
+          "url": "https://www.business-standard.com/amp/world-news/nepal-begins-process-to-declare-213-indians-missing-in-floods-presumed-dead-126112600147_1.html"
+        },
+        {
+          "name": "नेसनल हेराल्ड (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOekhLTXBYT3RKLTJIbnNEQjREU1RkYUN0Mzd0SlFxTFdmQXNQbF92UGl3Vm85Z2lJcHpnemFBZWl3Mk9lSVlKV2wyaXNJSHM2b2htSjBnODRsOVBxbkhqblRlUnpZM3JrXzEwa2xiNkRuMGFob2NmMWo5ZTRLbEhDR0hjODhCSGpraE9rby1tcTV4N0RvakVhWHpPMU02cVNydTl2NkxISWlyVHJaM1VVVkd6ZDVmdF9FWnhQYUM5YUY2R0lDVjgweHYxQVJBdFJPZFJlNnl30gHWAUFVX3lxTE56SEtNcFhPdEotMkhuc0RCNERTVGRhQ3QzN3RKUXFMV2ZBc1BsX3ZQaXdWbzlnaUlwemd6YUFlaXcyT2VJWUpXbDJpc0lIczZvaG1KMGc4NGw5UHFuSGpuVGVSelkzcmtfMTBrbGI2RG4wYWhvY2YxajllNEtsSENHSGM4OEJIamtoT2tvLW1xNXg3RG9qRWFYek8xTTZxU3J1OXY2TEhJaXJUclozVVVWR3pkNWZ0X0VaeFBhQzlhRjZHSUNWODB4djFBUkF0Uk9kUmU2eXc?oc=5"
+        },
+        {
+          "name": "द स्ट्रेट्स टाइम्स (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc0F1bDk4UEFGZ093OTdfcXQxa21kaFk0NVQ4cU5mSkZTdFl2MUhHdEpXSUVNM2Q1OGM5M2szYnJpUTYxM1dtdW1qMzlDYlFYLXhIM1dDemJkdVZKeWVmR3dzaEtua2thU1F3SHJPdHIzQ0ZCY25hTHE0blR3RDZnRnQxR3laWXJhVlZNWEpPdmtXVG1QTk04R1FnYmlJcFlUUkJUZWFTRHI0TmNpYXZGcDFKQ0hoZW8?oc=5"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "आणविक हतियार अझ बढाउने र साना आणविक हतियार धेरै ठाउँमा तैनाथ गर्ने किम जोङ उनको घोषणा",
+      "summary": "उत्तर कोरियाका नेता किम जोङ उनले देशको आणविक हतियारको भण्डार बढाउनुपर्ने र युद्धमैदानमा प्रयोग हुने साना (ट्याक्टिकल) आणविक हतियार धेरै ठाउँमा तैनाथ गर्नुपर्ने बताएका छन्। सरकारी सञ्चार माध्यम केसीएनएका अनुसार उनले यो कुरा आणविक सामग्री उत्पादन गर्ने कारखाना निरीक्षणका क्रममा भनेका हुन्, तर कारखाना कहाँ छन् भनेर खुलाइएको छैन। अल जजिराका अनुसार किमले उत्तर कोरियाको आणविक हैसियत नमान्ने प्रयासलाई 'खुला युद्धको घोषणा' मानिने चेतावनी दिए। अमेरिकी राष्ट्रपति ट्रम्पले भने गत साता चीन भ्रमणका क्रममा किमसँग फेरि वार्ता गर्ने इच्छा दोहोर्‍याएका थिए।",
+      "sources": [
+        {
+          "name": "Reuters (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWmxZanZuLVM5QUcwTnVIS2FTQlJQQk1nQzRUd2dzUTRvUzZxbkpRMmxMdG1SUUNSLUgtNlRfbTRjcHpab2hGMHczTU02aDl6NnJOd2tXWlJ5MGJtQ0QtZDQ2SW4xOEVNVk55T1E4bmJEU2x6T3R0UUVmVnYzSllaZnRLNzRhOFp6dU80dEtUWTByZDloR1U4RlI1U1M1dF9wTnFaTTRYOUl1V05IVU43M0NtdC1TTVB6cWtoOGFLald3bU4xc2xlM1pBNkgyM0U?oc=5"
+        },
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes"
+        },
+        {
+          "name": "द हिन्दू / AP",
+          "url": "https://www.thehindu.com/news/international/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture/article71745171.ece"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "अमेरिकाको नयाँ भन्सार शुल्क प्रस्तावप्रति ब्राजिल र चीनको कडा आपत्ति",
+      "summary": "अमेरिकाले बुधबार चीन, युरोपेली संघ र ब्राजिलसहित १४ साझेदारमाथि नयाँ भन्सार शुल्क प्रस्ताव गरेपछि ब्राजिल र चीनले विरोध जनाएका छन्। गार्डियनका अनुसार ब्राजिलले चिनी र हवाईजहाजमा प्रस्तावित शुल्कप्रति असन्तुष्टि जनाएको छ; रोयटर्सको शीर्षकअनुसार हवाईजहाजमा १० प्रतिशत शुल्क प्रस्ताव गरिएको छ। साउथ चाइना मर्निङ पोस्टका अनुसार धेरै व्यापार साझेदारले विरोध जनाए पनि यस्ता कदम अब अनुमान गर्न सकिने भएकाले बाध्य भएर सहने संकेत पनि देखाएका छन्।",
+      "sides": [
+        {
+          "who": "अमेरिका",
+          "says": "डब्लुसीपीओको शीर्षकअनुसार अनुदान पाएर धेरै उत्पादन गर्ने विदेशी कारखानाका कारण यी शुल्क प्रस्ताव गरिएको हो।"
+        },
+        {
+          "who": "ब्राजिल र चीन",
+          "says": "ब्राजिलले यसलाई 'अस्वीकार्य' भन्दै धम्कीसामु नझुक्ने तर वार्ताबाट समाधान खोज्ने बतायो; चीनले यी शुल्क आधारहीन र 'राजनीतिक चलखेल' भएको आरोप लगायो।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
+        },
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals"
+        },
+        {
+          "name": "साउथ चाइना मर्निङ पोस्ट",
+          "url": "https://www.scmp.com/news/us/economy-trade-business/article/3375819/us-trading-partners-patience-wears-thin-trump-slaps-new-tariffs"
+        },
+        {
+          "name": "Reuters (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5"
+        },
+        {
+          "name": "डब्लुसीपीओ (शीर्षक)",
+          "url": "https://www.wcpo.com/politics/economy/us-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-factories"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "इजिप्टको राजधानी कायरोमा इन्धन ट्याङ्कर पल्टिएर आगलागी, कम्तीमा ३१ जनाको मृत्यु",
+      "summary": "इजिप्टको राजधानी कायरो वरिपरिको मुख्य राजमार्ग 'रिङ रोड' मा बुधबार इन्धन बोकेको ट्याङ्कर पल्टिएर आगो लाग्दा कम्तीमा ३१ जनाको मृत्यु भएको छ। आगोले नजिकैका गाडी र मोटरसाइकल पनि जलाएको छ। घाइतेको संख्या स्रोतअनुसार फरक छ — १५ देखि २५ जनासम्म। इजिप्टका अधिकारीहरूले यो जानकारी दिएका हुन्।",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway"
+        },
+        {
+          "name": "द गार्डियन",
+          "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway"
+        },
+        {
+          "name": "द हिन्दू / AP",
+          "url": "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "अरुणाचल क्षेत्रमा भारत र चीनबीच सीमा व्यवस्थापनबारे उच्चस्तरीय वार्ता",
+      "summary": "भारत र चीनले अरुणाचल क्षेत्रमा सीमा व्यवस्थापन र वास्तविक नियन्त्रण रेखा (एलएसी) सम्बन्धी विषयमा उच्चस्तरीय वार्ता गरेको भारतीय विदेश मन्त्रालयले जनाएको छ। द वायरको शीर्षकअनुसार यो सैनिक तहको वार्ता थियो। द हिन्दूका अनुसार मन्त्रालयका प्रवक्ताले 'अपरेसन सिन्दुर' का बेला चिनियाँ स्याटेलाइट तथ्यांकले पाकिस्तानलाई भारतीय सेनाको गतिविधि हेर्न सघाएको दाबी गर्ने एउटा रिपोर्टबारे पनि प्रश्नको जवाफ दिएका थिए।",
+      "unverified": "वार्ता कहिले र कुन तहका अधिकारीबीच भयो र स्याटेलाइट रिपोर्टबारे प्रवक्ताले के भने भन्ने विवरण यस संस्करणमा पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "द हिन्दू",
+          "url": "https://www.thehindu.com/news/national/india-china-hold-high-level-talks-in-arunachal-sector-on-border-management-lac-issues-mea/article71745024.ece"
+        },
+        {
+          "name": "द वायर (शीर्षक)",
+          "url": "https://m.thewire.in/article/security/india-china-held-military-talks-in-arunachal-mea"
+        },
+        {
+          "name": "डेली एक्सेलसियर (शीर्षक)",
+          "url": "https://www.dailyexcelsior.com/india-china-hold-talks-in-ap-sector"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "सुनको मूल्य तोलामा १,४०० रुपैयाँ बढेर २ लाख ४२ हजार ८०० पुग्यो",
+      "summary": "नेपाल सुनचाँदी व्यवसायी महासंघका अनुसार बिहिबार छापावाल सुनको मूल्य प्रतितोला १,४०० रुपैयाँ बढेर २ लाख ४२ हजार ८०० रुपैयाँ पुगेको छ। बुधबार यो मूल्य २ लाख ४१ हजार ४०० रुपैयाँ थियो। चाँदीको मूल्य पनि तोलामा ३५ रुपैयाँ बढेको छ। अनलाइनखबरका अनुसार लामो समय घटेपछि सुनको मूल्य फेरि बढ्न थालेको हो।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर अंग्रेजी",
+          "url": "https://english.onlinekhabar.com/gold-price-rises-silver-gains.html"
+        },
+        {
+          "name": "अनलाइनखबर (शीर्षक)",
+          "url": "https://www.onlinekhabar.com/2026/11/2065512/gold-increases-by-rs-1400-per-tola"
+        },
+        {
+          "name": "कारोबार दैनिक (शीर्षक)",
+          "url": "https://www.karobardaily.com/news/439154"
+        },
+        {
+          "name": "रेडियो नेपाल (शीर्षक)",
+          "url": "https://radionepalonline.com/2026/11/26/751121.html"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "दक्षिण कोरियाले ब्याजदर बढाएर ३.२५ प्रतिशत पुर्‍यायो, एसियाली सेयर बजार उकालो",
+      "summary": "दक्षिण कोरियाको केन्द्रीय बैंकले बिहिबार नीतिगत ब्याजदर ०.२५ प्रतिशत बिन्दुले बढाएर ३.२५ प्रतिशत पुर्‍याएको छ, जुन दुई वर्षयताकै उच्च हो। सिएनबिसीका अनुसार अर्थशास्त्रीहरूले यस्तै अपेक्षा गरेका थिए। बैंकले आर्थिक वृद्धिको अनुमान पनि बढाएको छ; एसबिएस र सउल इकोनोमिक डेलीको शीर्षकअनुसार सन् २०२७ को वृद्धिदर अनुमान ४.१ प्रतिशत पुर्‍याइएको छ। अमेरिकाको नयाँ भन्सार शुल्क प्रस्तावका बाबजुद बिहिबार कोरियाको कोस्पी सूचकांकको नेतृत्वमा एसियाली सेयर बजार बढेका छन्।",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+        },
+        {
+          "name": "एसबिएस (शीर्षक)",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008864801"
+        },
+        {
+          "name": "सउल इकोनोमिक डेली (शीर्षक)",
+          "url": "https://en.sedaily.com/economy/2026/11/26/bank-of-korea-raises-rate-to-325-percent-lifts-growth"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "AI चिप कम्पनी एनभिडियाको ऋण साख घटाउन सकिने एसएन्डपीको चेतावनी",
+      "summary": "ऋण साख मापन गर्ने अमेरिकी संस्था एसएन्डपी ग्लोबल रेटिङ्सले AI चिप बनाउने कम्पनी एनभिडियाको साख (क्रेडिट रेटिङ) एक तह घटाउन सकिने बताएको छ। साख भनेको कम्पनीले लिएको ऋण तिर्न सक्ने क्षमताको मूल्यांकन हो; साख घट्दा ऋण महँगो पर्न सक्छ। सिएनबिसीका अनुसार संस्थाले कम्पनीको व्यवस्थापन र सुशासनमा जोखिम 'बढ्दो' देखिएको जनाएको छ। टेकक्रन्चका अनुसार प्रमुख कार्यकारी जेन्सेन हुआङमाथिको अत्यधिक निर्भरता पनि कारण हो र साख घटेमा एए-माइनस (चौथो उच्च तह) मा झर्नेछ।",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+        },
+        {
+          "name": "एओएल (शीर्षक)",
+          "url": "https://www.aol.com/articles/p-global-warns-nvidia-credit-205320000.html"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "मानिसको नियन्त्रण AI लाई सुम्पन खोजेको आरोप 'बेतुका' भएको एन्थ्रोपिकका प्रमुखको भनाइ",
+      "summary": "AI कम्पनी एन्थ्रोपिकका प्रमुख कार्यकारी डारियो अमोदेईले आफूले मानिसको निर्णय गर्ने अधिकार AI लाई सुम्पन चाहेको भन्ने प्रतिस्पर्धी कम्पनीहरूको आरोपलाई 'बेतुका' भनेका छन्। टेकक्रन्चका अनुसार ठूला AI कम्पनीहरूले आफ्नै अनुसन्धान र नयाँ मोडेल बनाउने काम बढ्दो रूपमा AI बाटै गराइरहेका बेला यो बहस चलेको हो। अल जजिराका अनुसार AI चाँडै मानिसको बुद्धिको बराबर वा त्योभन्दा माथि पुग्न सक्ने अनुमानबीच उनको यो भनाइ आएको हो।",
+      "sides": [
+        {
+          "who": "आलोचक प्रतिस्पर्धी कम्पनी",
+          "says": "टेकक्रन्चका अनुसार उनीहरूले अमोदेई मानिसको नियन्त्रण AI लाई सुम्पने पक्षमा रहेको आरोप लगाएका छन्।"
+        },
+        {
+          "who": "डारियो अमोदेई",
+          "says": "उनले यो आरोप बेतुका भएको र मानिसले स्वतन्त्र रूपमा निर्णय गर्ने अधिकार छाड्नुपर्ने आफ्नो चाहना नरहेको बताएका छन्।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+        },
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai"
+        }
+      ]
+    }
+  ]
+}
