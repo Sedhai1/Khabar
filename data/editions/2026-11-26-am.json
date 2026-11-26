@@ -1,0 +1,371 @@
+{
+  "id": "2026-11-26-am",
+  "generated_at": "2026-11-26T06:40:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार: बुधबार, नोभेम्बर २५ को बन्द — समाचार शीर्षकअनुसार डाउ जोन्स १६४ अंक बढेर ५०,१८२ मा बन्द भयो, S&P 500 ०.२५ प्रतिशत र Nasdaq करिब ०.६ प्रतिशत घटे (S&P र Nasdaq को ठ्याक्कै अंक पुष्टि हुन सकेन) · NEPSE: बुधबार, नोभेम्बर २५ (मंसिर ९) को बन्द · आजको डलर दर र ब्रेन्ट तेलको मिति सहितको बन्द मूल्य यस संस्करणमा पुष्टि हुन सकेन।",
+    "items": [
+      {
+        "name": "Dow Jones",
+        "value": 50182,
+        "change_pct": 0.33,
+        "source": "लङब्रिज / जीएसएम ग्लोबल न्युज (शीर्षक)",
+        "url": "https://longbridge.com/en/news/306833611"
+      },
+      {
+        "name": "NEPSE",
+        "value": 2647.61,
+        "change_pct": 0.33,
+        "source": "हाम्रो पात्रो / समय पोस्ट (शीर्षक)",
+        "url": "https://www.hamropatro.com/news/detail/1795600075672038440-budhabar-8-66-ankale-badhyo-nepse-parisuchak-bajar-2647-61"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "दानबहादुर कार्कीलाई प्रहरी प्रमुखबाट हटाइएको विषयमा सर्वोच्चले अन्तरिम आदेश दिएन",
+      "summary": "प्रहरी महानिरीक्षक (आईजीपी) पदबाट हटाइएपछि पुनर्बहाली माग्दै दानबहादुर कार्कीले दायर गरेको रिटमा सर्वोच्च अदालतले बुधबार अन्तरिम आदेश जारी गर्न अस्वीकार गर्‍यो। बीबीसी नेपाली र अनलाइनखबरका अनुसार अदालतले तीनवटा आधार देखाउँदै अन्तरिम आदेश नदिएको हो। यसअघि अदालतले यस विवादमा दुवै पक्षलाई बोलाएको थियो। रिटको अन्तिम सुनुवाइ भने बाँकी नै छ।",
+      "sources": [
+        {
+          "name": "BBC नेपाली (शीर्षक)",
+          "url": "https://www.bbc.com/nepali/articles/c3grex4jgqk0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://english.onlinekhabar.com/sc-refuses-interim-order-dan-bahadur-karki.html"
+        },
+        {
+          "name": "रिपब्लिका",
+          "url": "https://myrepublica.nagariknetwork.com/news/sc-declines-interim-order-on-dan-bahadur-karkis-bid-to-return-as-igp-38-37.html"
+        },
+        {
+          "name": "रातोपाटी",
+          "url": "https://english.ratopati.com/story/87145/supreme-court-does-not-issue-interim-order-on-dan-bahadur-karkis-writ-petition"
+        },
+        {
+          "name": "खबरहब",
+          "url": "https://english.khabarhub.com/2026/25/577045/"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "रियादमा हुथी आक्रमणमा घाइते ११ जनामध्ये तीन नेपाली रहेको पुष्टि",
+      "summary": "साउदी अरबको राजधानी रियादको वित्तीय क्षेत्रमा रहेको साउदी सरकारी लगानी कोष (PIF) को भवनमा यमनका हुथी विद्रोहीले गरेको आक्रमणमा ११ जना घाइते भएका छन्। बीबीसी नेपालीका अनुसार घाइतेमध्ये तीन जना नेपाली रहेको पुष्टि भएको छ र उनीहरूको पहिचान खुलाउने काम भइरहेको छ। घाइतेमा दुई भारतीय नागरिक पनि रहेको भारतले जनाएको छ।",
+      "unverified": "घाइते नेपालीको नाम, उनीहरूको स्वास्थ्य अवस्था र उनीहरू त्यो भवनमा के काम गर्थे भन्ने यस संस्करणसम्म सार्वजनिक भएको देखिएन।",
+      "sources": [
+        {
+          "name": "BBC नेपाली (शीर्षक)",
+          "url": "https://www.bbc.com/nepali/articles/cm5y17k089lwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html"
+        },
+        {
+          "name": "साउदी प्रेस एजेन्सी (शीर्षक)",
+          "url": "https://www.spa.gov.sa/en/N2735283"
+        },
+        {
+          "name": "गल्फ न्युज (शीर्षक)",
+          "url": "https://gulfnews.com/world/asia/india/india-confirms-two-nationals-injured-in-houthi-attack-on-riyadh-tower-1.500760117"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "उखु किसानले प्रतिक्विन्टल १,०५० रुपैयाँ माग्दै चिनी मिल बन्द गराउने चेतावनी दिए",
+      "summary": "उखु किसानहरूले उखुको मूल्य प्रतिक्विन्टल १ हजार ५० रुपैयाँ तोक्न माग गर्दै माग पूरा नभए चिनी मिल चल्न नदिने चेतावनी दिएका छन्। नेपाली कांग्रेसले पनि सरकारलाई उखुको मूल्य तोक्न र किसानको बाँकी भुक्तानी तुरुन्तै दिलाउन माग गरेको छ।",
+      "sides": [
+        {
+          "who": "उखु किसान",
+          "says": "प्रतिक्विन्टल १,०५० रुपैयाँ मूल्य तोकिनुपर्छ, नत्र मिल चल्न दिँदैनौं भन्ने उनीहरूको भनाइ छ।"
+        },
+        {
+          "who": "नेपाली कांग्रेस",
+          "says": "सरकारले उखुको मूल्य तोक्नुपर्छ र किसानको बक्यौता रकम अविलम्ब दिलाउनुपर्छ भन्ने कांग्रेसको माग छ।"
+        }
+      ],
+      "unverified": "सरकार वा चिनी उद्योगीको तर्फबाट यस मागमा आएको जवाफ यस संस्करणमा पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "रिपब्लिका",
+          "url": "https://myrepublica.nagariknetwork.com/news/sugarcane-farmers-threaten-to-halt-mills-demand-rs-1050-per-quintal-22-79.html"
+        },
+        {
+          "name": "रातोपाटी (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdl9JQl9tM2lGVFZobWdJWHI0ZkZQNHFlZ19GZEo5XzBEOE1UdmZKeGNxQU9odjZEeWthY2c5bnEwcXlodHluTzVmZzNrWDV5TVVSM3Z1d2E4THdudFlscXREcnpzOU9icXd5OXd1eEp6TWtPTlp3MlpEVUFOQW5NN1ZBa0hMOWUxRW5ZckJFS09DT0RPaWVoSHNWbFFPdU5HVjhOTVI3OUlfVlpHaGQtNUJqZUljbW5HOFA4NmdHekJEM2pMUFdyOVdCZEx2aFFxNVBr?oc=5"
+        },
+        {
+          "name": "अनलाइनखबर (शीर्षक)",
+          "url": "https://www.onlinekhabar.com/2026/11/2065274/congress-demands-immediate-payment-of-arrears-to-sugarcane-farmers"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "अमेरिकाले चीन, युरोपेली संघ, ब्राजिलसहित १४ साझेदारमाथि नयाँ भन्सार शुल्कको प्रस्ताव गर्‍यो",
+      "summary": "अमेरिकी व्यापार प्रतिनिधि कार्यालयले चीन, युरोपेली संघ, ब्राजिल, भारतसहित १४ व्यापारिक साझेदारमाथि नयाँ भन्सार शुल्क लगाउने प्रस्ताव बुधबार सार्वजनिक गर्‍यो। अमेरिकाको भनाइमा यी देशमा सरकारी अनुदानका कारण आवश्यकताभन्दा बढी कारखाना क्षमता छ। रोयटर्सका अनुसार ब्राजिलबाट आउने हवाईजहाजमा १० प्रतिशत शुल्कसमेत प्रस्तावित छ। भर्खरको मध्यावधि चुनावमा पराजयपछि पनि ट्रम्प प्रशासनले यो कदम चालेको रोयटर्सले लेखेको छ।",
+      "sides": [
+        {
+          "who": "अमेरिकी प्रशासन",
+          "says": "अनुदान पाएका विदेशी कारखानाको बढी उत्पादनले अमेरिकी उद्योगलाई घाटा पुर्‍याएकाले शुल्क आवश्यक रहेको उसको भनाइ छ।"
+        },
+        {
+          "who": "प्रभावित देश र बजार",
+          "says": "अल जजिराका अनुसार विश्वका विभिन्न देशले यस प्रस्तावमा प्रतिक्रिया दिएका छन्, र घोषणापछि अमेरिकी सेयर बजार दिनभर दबाबमा रह्यो।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Reuters (इन्भेस्टिङ डटकम मार्फत, शीर्षक)",
+          "url": "https://www.investing.com/news/world-news/us-proposes-new-tariffs-on-14-trading-partners-to-fight-excess-factory-capacity-5050714"
+        },
+        {
+          "name": "Reuters (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5"
+        },
+        {
+          "name": "AP (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWJ0MDE3ZEJzV2tVdThRbXdzcGxXN0phLUpNTHAyVWlEQV9JNzVUWlpsRXp6ZHFTNnY1dnpKMHJjNExkUnZxTlRXdzZNTUFOeXhkUTk5XzF0ZW55b1lZcnhJYTkyYUt5N1lvdm5TZ3QyZDh5UkNsVmtHMmhuNm5xcGc3VmVUcV9fellldEtWcTdaYWJpRUlBcm5R?oc=5"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+        },
+        {
+          "name": "अल जजिरा",
+          "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble"
+        },
+        {
+          "name": "BBC (शीर्षक)",
+          "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "नेतन्याहुमाथिको सबैभन्दा गम्भीर भ्रष्टाचार अभियोग हटाउन इजरायली न्यायाधीशको सुझाव",
+      "summary": "इजरायलका प्रधानमन्त्री बेन्जामिन नेतन्याहुमाथि चलिरहेको भ्रष्टाचार मुद्दामा न्यायाधीशहरूले सबैभन्दा गम्भीर अभियोग हटाउन अभियोजन पक्षलाई सुझाव दिएका छन्। समाचार शीर्षकअनुसार न्यायाधीशहरूले घुस लिएको अभियोगमा दोषी ठहर हुने सम्भावना कम देखेका हुन्। यसैबीच इजरायली प्रतिपक्षले अक्टोबर ७ को हमास आक्रमणबारे छानबिनको प्रस्ताव अघि बढाएको छ, जसको नेतन्याहुले विरोध गर्दै आएका छन्।",
+      "unverified": "अभियोजन पक्षले यो सुझाव मान्ने कि नमान्ने, र अरू अभियोगको अवस्था के हुन्छ भन्ने यस संस्करणसम्म स्पष्ट भएको छैन।",
+      "sources": [
+        {
+          "name": "BBC (शीर्षक)",
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNN (शीर्षक)",
+          "url": "https://www.cnn.com/2026/11/25/middleeast/netanyahu-corruption-charges-legal-boost-intl"
+        },
+        {
+          "name": "Reuters (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS3ZLT2liQ2xsLWEzM3YtbnJRaVNINFJXTXhVQ2J2cXJiSjhNX0tUTE9HckFYYzhxTG45d1lYSXRZYlVsVjA1Ym9nQVlwbThQWHFZZmU5akpONHlXYkJZR3RPUmY4bEsxWFBQMWNBbVVGTURYTG9zQ2cwYVY1WTJmQ1UyUzRvbVY5d1hEejM4c011SDV4dDBMdzdkSHhaak9SQXNIZHdzU01Sa0tDdHk3YmJHY213cmZqOXpvOHNkb0o0R3c?oc=5"
+        },
+        {
+          "name": "जीएसएम ग्लोबल न्युज (शीर्षक)",
+          "url": "https://gsmglobalnews.com/article/d20261125-netanyahucourt1.html"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "होर्मुज जलडमरूमध्यमा जहाज बारुदी सुरुङमा ठोक्किएको इरानको दाबी",
+      "summary": "इरानले होर्मुज जलडमरूमध्यमा केही जहाज समुद्री बारुदी सुरुङ (माइन) मा ठोक्किएको बताएको छ र त्यहाँबाट जाने जहाजलाई आफूसँग समन्वय गरेर मात्र पार गर्न चेतावनी दिएको छ। CNBC का अनुसार बुधबार मध्यपूर्वको तनाव भए पनि आपूर्ति बढी हुने अनुमानले कच्चा तेलको मूल्य घट्यो।",
+      "unverified": "कति जहाज, कुन देशका जहाज ठोक्किए र क्षति कति भयो भन्ने स्वतन्त्र रूपमा पुष्टि भएको छैन।",
+      "sources": [
+        {
+          "name": "Reuters (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmFmdlRJUnlMaVRFNERwb2YxLVVObG9leTlORFRtOTAyd2pvMTNuOGM5d0diMzNUb1NHaDVWOGlTeWg3bmcwU21BdHRHZlB6a0VDeXlNcUtYMDBiZUpyVFRyMkhIQjlpemZIeGVQNEdXb2hCOHZwYW5VZUt4V3MySnpZWUViYTA5MEp2eDlBbGNoVjB5dk5CcHdZR3NyUjZIVlV3d0s2Z3BUMTQ?oc=5"
+        },
+        {
+          "name": "द हिन्दू (शीर्षक)",
+          "url": "https://www.thehindu.com/news/international/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage/article71743889.ece"
+        },
+        {
+          "name": "अशर्क अल-अवसत (शीर्षक)",
+          "url": "https://english.aawsat.com/world/5345484-iran-says-ships-hit-mines-hormuz-warns-vessels-coordinate-passage"
+        },
+        {
+          "name": "डेक्कन हेराल्ड (शीर्षक)",
+          "url": "https://www.deccanherald.com/world/rest-of-world/iran-says-ships-hit-mines-in-strait-of-hormuz-warns-vessels-to-coordinate-passage-4230719"
+        },
+        {
+          "name": "CNBC (शीर्षक)",
+          "url": "https://www.cnbc.com/amp/2026/11/25/oil-wti-brent-hormuz-middle-east.html"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "अमेरिकाले भारतमा २५ प्रतिशत र चीनमा ४० प्रतिशतसम्म शुल्क प्रस्ताव गर्‍यो",
+      "summary": "अमेरिकाको नयाँ भन्सार प्रस्तावमा भारतमाथि २५ प्रतिशत शुल्क छ, जुन १४ देशमध्ये दोस्रो उच्च हो। तर भारतसँग व्यापार सम्झौता भए शुल्क १७ प्रतिशतमा सीमित गरिने अमेरिकी व्यापार प्रतिनिधि कार्यालयले जनाएको रोयटर्सले लेखेको छ। इन्डियन एक्सप्रेसको शीर्षकअनुसार चीनमाथि ४० प्रतिशतसम्म शुल्क प्रस्ताव गरिएको छ। साउथ चाइना मर्निङ पोस्टका अनुसार यो प्रस्ताव ट्रम्प–सी शिखर भेटको एक साताभित्रै आएको हो।",
+      "unverified": "चीनमाथिको प्रस्तावित दर स्रोतअनुसार फरक देखिन्छ (४० प्रतिशतसम्म भन्ने र २० प्रतिशत भन्ने दुवै उल्लेख छन्)। भारत र चीन सरकारको औपचारिक प्रतिक्रिया यस संस्करणमा पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "द हिन्दू (शीर्षक)",
+          "url": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece"
+        },
+        {
+          "name": "Reuters (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5"
+        },
+        {
+          "name": "इन्डियन एक्सप्रेस (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdDZQMVdqalNESmdZV2xBak5jVkFpUFBzTUxZV2JEWlMyT0cxZld6cDJMSDdpY3p5YWdBRm1jM1REWER4eEpoWGtCZWZoN01lUnNKeGRid21UQlFtbWk0QV9YQklGMHIxWVFETC1GZ2YxcVppUDRMelFBSl9rWDc5dGFJcnJPSjFPcTFJajBYeFJEeElSVUYwcGJIRkNXVUJoY0RZR2xKZ3h2clJaMjQ3a1hVM1JLREZDWG55X1lWb01UenF1Y1pwTFd1cTLSAdMBQVVfeXFMUEdXT0dFV1B0UzFxTnZ4eUdHaEtIb1hmejhwNFRkdDd5cm55bkU5dGZ6clI1ZGEwV3BObExxQ2o0cHZiT25zcTRLcXNmQnZXSDNRM3c5QjNXR3Z0b2puLS1MSDdzVWZ1cGFWQTVOUHVCQnl2QmdyeHRsUkprY2pMbEhYZ0VWT3ZBeWlWMnR5Y1JCOGlpMVd1TmNlVGw0eFUxWldheXV5Rml3dHhjQkJPZU5rRXNPY2gzbUZoWE5HVG1BRVdHTTJPSzlkOXdLTlJUajlfVQ?oc=5"
+        },
+        {
+          "name": "साउथ चाइना मर्निङ पोस्ट (शीर्षक)",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375801/us-proposes-new-20-tariffs-china-week-after-trump-xi-summit"
+        },
+        {
+          "name": "एएनआई (शीर्षक)",
+          "url": "https://aninews.in/news/business/us-proposes-fresh-tariffs-on-india-china-12-other-trading-partners-over-excess-industrial-capacity20261125192012/"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "हसिनाको बंगलादेश फर्किने योजना र सुपुर्दगीको माग फरक विषय हुन्: भारत",
+      "summary": "भारतीय विदेश मन्त्रालयले बंगलादेशकी पूर्वप्रधानमन्त्री शेख हसिना आफ्नै इच्छाले स्वदेश फर्किने योजना र बंगलादेशले उनको सुपुर्दगी माग्नु दुई अलग विषय भएको बताएको छ। हसिना फर्किने योजनाको समाचारपछि बंगलादेशले सीमामा सुरक्षा कडा पारेको छ। द हिन्दूका अनुसार बंगलादेशले सीमा सुरक्षा बल (BGB) का १०८ प्लाटुन खटाएको छ।",
+      "sides": [
+        {
+          "who": "भारत सरकार",
+          "says": "हसिना आफ्नो देश फर्किनु र सुपुर्दगीको अनुरोध अलग कुरा हुन्; फर्किने विषय हसिना र बंगलादेशबीचको हो भन्ने भारतको भनाइ छ।"
+        },
+        {
+          "who": "बंगलादेश",
+          "says": "बंगलादेशले भारतलाई हसिनाको सुपुर्दगीका लागि अनुरोध पठाएको छ र उनको सम्भावित आगमनअघि सीमा सुरक्षा बढाएको छ।"
+        }
+      ],
+      "unverified": "हसिना कहिले फर्किने भन्ने मिति (केही भारतीय सञ्चारमाध्यमले डिसेम्बर १६ को चर्चा गरेका छन्) आधिकारिक रूपमा पुष्टि भएको छैन।",
+      "sources": [
+        {
+          "name": "द हिन्दू (शीर्षक)",
+          "url": "https://www.thehindu.com/news/national/mea-separates-sheikh-hasinas-plans-to-return-to-bangladesh-from-issue-of-extradition/article71743712.ece"
+        },
+        {
+          "name": "द हिन्दू (शीर्षक)",
+          "url": "https://www.thehindu.com/news/international/bangladesh-tightens-border-security-ahead-of-hasinas-planned-return-deploys-108-bgb-platoons/article71742554.ece"
+        },
+        {
+          "name": "प्रथम आलो",
+          "url": "https://en.prothomalo.com/international/india/m2psjurwf4"
+        },
+        {
+          "name": "बिजनेस टुडे",
+          "url": "https://www.businesstoday.in/india/story/sheikh-hasinas-planned-return-to-bangladesh-separate-from-extradition-request-says-india-569553-2026-11-25"
+        },
+        {
+          "name": "द ट्रिब्युन",
+          "url": "https://www.tribuneindia.com/news/bangladesh/voluntarily-return-to-her-country-separate-matter-from-extradition-request-mea-on-sheikh-hasinas-bangladesh-return-plans"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "अमेरिकी सेयर बजार: दिनभरको ठूलो गिरावटबाट डाउ उकासियो, AI सेयरले Nasdaq घट्यो",
+      "summary": "बुधबार AI कम्पनीका सेयर बेचिने क्रम र नयाँ भन्सार प्रस्तावका कारण अमेरिकी बजार सुरुमा धेरै घट्यो। डाउ जोन्स दिनमा करिब १ हजार १ सय अंक खसेको थियो, तर अन्त्यमा १६४ अंक बढेर ५०,१८२ मा बन्द भयो। Nasdaq दिनमा ४.६ प्रतिशतसम्म घटेर अन्त्यमा करिब ०.६ प्रतिशत घाटामा र S&P 500 ०.२५ प्रतिशत घाटामा बन्द भए। चिप कम्पनी एनभिडियाको सेयर ३.९ प्रतिशत घट्यो र रेटिङ संस्था S&P ग्लोबलले एनभिडियालाई व्यवस्थापन र सुशासनको जोखिमका कारण 'नकारात्मक निगरानी' मा राख्यो।",
+      "sources": [
+        {
+          "name": "AP (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVFZQmxpUGVXLUtXYzR6ZzYzX0Njd0I2bzBVbkJMb2JhcDJkRHJnVGV5eC1Ma0o2djdvZUhROXVpYjRzbTVQUGliYlRINU1kdnJVOXpRd21KdlJYcFQySlR5aWRCc0ZLMjZESjdYOWlrZEpiR0owcTRILVhqNVZZeGtweUNoM21XQndPZEl4Ym1OeTQ?oc=5"
+        },
+        {
+          "name": "Reuters (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBby1iVDJnTmJwX3hDYWJpU2lxTUdLTHdlWHFqRHJUcmtTOWFuQkFRTlUyZTJBcGdNMWR3N3d1YlJIV05kWk1mU21JSDZmSVpZR1BlanpqRzFXSkg3NkxkeElWcHM0Q2Y4eFJKb3Fha29XakxYNFJ4cXExZHo4MFVDOHdDbENrQWs0d0lqQ3Z5cEVDRVBQR1hNNWZxSmhiUll4NFg1amZlU01oWm9fN2hkUFBBNkdKT21v?oc=5"
+        },
+        {
+          "name": "Reuters (शीर्षक)",
+          "url": "https://ca.investing.com/news/economy-news/nasdaq-slides-4-as-ai-selloff-tariff-proposals-rattle-wall-st-4981250"
+        },
+        {
+          "name": "CNBC (शीर्षक)",
+          "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+        },
+        {
+          "name": "लङब्रिज (शीर्षक)",
+          "url": "https://longbridge.com/en/news/306833611"
+        },
+        {
+          "name": "द कम्पनी क्रनिकल (शीर्षक)",
+          "url": "https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "अमेरिकामा अक्टोबरको महँगी ३.८ प्रतिशत पुग्यो, तेस्रो त्रैमासिकको वृद्धिदर ४.३ प्रतिशत",
+      "summary": "अमेरिकी केन्द्रीय बैंक (फेड) ले सबैभन्दा बढी हेर्ने महँगीको मापन (PCE) अक्टोबरमा बढेर ३.८ प्रतिशत पुगेको छ। खाद्य र इन्धनबाहेकको मूल महँगी ३.३ प्रतिशत छ, जुन सन् २०२३ को अन्त्ययताकै उच्च हो। सोही दिन सार्वजनिक संशोधित तथ्यांकमा जुलाई–सेप्टेम्बर त्रैमासिकमा अमेरिकी अर्थतन्त्रको वृद्धिदर ४.३ प्रतिशत देखियो। CNBC का अनुसार यसले सन् २०२७ मा फेडको ब्याजदर निर्णयलाई थप कठिन बनाएको छ।",
+      "sources": [
+        {
+          "name": "Reuters (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
+        },
+        {
+          "name": "फ्री मलेसिया टुडे (शीर्षक)",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/11/26/us-s-q3-gdp-revised-sharply-upwards-fed-s-inflation-gauge-hits-three-year-high"
+        },
+        {
+          "name": "एमएलक्यू (शीर्षक)",
+          "url": "https://mlq.ai/news/pce-inflation-rises-to-38-in-october-as-core-prices-climb-33-the-fastest-since-late-2023/"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "अन्तरिक्षमा डाटा सेन्टर बनाउन स्पेसएक्सलाई १० लाख भू-उपग्रह पठाउने अमेरिकी अनुमति",
+      "summary": "अमेरिकी सञ्चार नियामक निकाय (FCC) ले अन्तरिक्ष कम्पनी स्पेसएक्सलाई अन्तरिक्षमा डाटा सेन्टरका रूपमा काम गर्ने १० लाख (१ मिलियन) सम्म भू-उपग्रह पठाउन अनुमति दिएको छ। डाटा सेन्टर भनेको AI चलाउन चाहिने हजारौं कम्प्युटर राखिने ठाउँ हो, जसलाई धेरै बिजुली चाहिन्छ। अमेरिकामा AI डाटा सेन्टरका कारण प्राकृतिक ग्यासको माग बढिरहेको र नयाँ डाटा सेन्टर बनाउन कठिन हुँदै गएको समाचार आइरहेका बेला यो अनुमति आएको हो।",
+      "unverified": "यी भू-उपग्रह कहिलेदेखि र कति चरणमा पठाइने भन्ने विस्तृत समयतालिका यस संस्करणमा पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "Reuters (शीर्षक)",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVk5uRnprd285MEw5V2prcHR6bXljVGN4cUZuOHA4eHJUZkFzOVFnS1QtYnZaal8yYUYxa0t1cW84WjVzQWpub0czSGxUblh3STB6WnZxcThWZUxNRDk2emliZ0tfTmk5U3YxY3FZRXdEYWNyb2VMTmlkZE5RNWZHOS12OWdjSkpNdzhGU0Z4NWo3VmpSZHNXWGNJZUFpZjl2T2xuUkRKRXBpOTFqVFdFLXFvV0xHd1czWDFKbFU3OWFGU21B?oc=5"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+        },
+        {
+          "name": "CBS न्युज",
+          "url": "https://www.cbsnews.com/news/spacex-fcc-approval-data-centers-space/"
+        },
+        {
+          "name": "द भर्ज (शीर्षक)",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+        },
+        {
+          "name": "MIT टेक्नोलोजी रिभ्यु (शीर्षक)",
+          "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"
+        },
+        {
+          "name": "TechCrunch (शीर्षक)",
+          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "च्याटजीपीटीको 'च्याट' र 'वर्क' एउटै बनाइँदै, धेरै प्रयोग गर्नेले छिटो सीमा भेट्न सक्ने",
+      "summary": "AI च्याटबोट च्याटजीपीटी बनाउने कम्पनी ओपनएआईले आफ्नो सेवाका 'च्याट' र 'वर्क' भन्ने दुई भागलाई एउटै बनाउने जनाएको छ। यसपछि दुवैको प्रयोग एउटै सीमाबाट गनिने भएकाले धेरै प्रयोग गर्ने व्यक्तिले चाँडै प्रयोग सीमा भेट्न सक्ने कम्पनीले बताएको छ।",
+      "unverified": "केही प्रविधि साइटले यो परिवर्तन डिसेम्बरमा लागू हुने लेखेका छन्, तर मिति आधिकारिक रूपमा पुष्टि भएन।",
+      "sources": [
+        {
+          "name": "TechCrunch (शीर्षक)",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+        },
+        {
+          "name": "एमएलक्यू (शीर्षक)",
+          "url": "https://mlq.ai/news/openai-merges-chatgpts-chat-and-work-tabs-heavy-users-may-hit-limits-sooner/"
+        },
+        {
+          "name": "एआई एजेन्ट न्युज (शीर्षक)",
+          "url": "https://aiagentnews.io/stories/openai-merges-chatgpt-chat-and-work-warns-heavy-users-may-hit-limits-sooner"
+        }
+      ]
+    }
+  ]
+}
