@@ -1,0 +1,149 @@
+{
+  "id": "2026-11-27-am",
+  "generated_at": "2026-11-27T06:14:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार: बिहिबार (नोभेम्बर २६) थ्यांक्सगिभिङ बिदाका कारण बन्द थियो; अन्तिम बन्द बुधबार, नोभेम्बर २५ को — समाचार शीर्षकअनुसार S&P 500 ०.२५ प्रतिशत र Nasdaq ०.६ प्रतिशत घटे, डाउ जोन्स ०.३३ प्रतिशत बढ्यो (ठ्याक्कै अंक यस संस्करणमा पुष्टि हुन सकेन) · NEPSE: बिहिबार, नोभेम्बर २६ (मंसिर १०) को बन्द · ब्रेन्ट तेल: नोभेम्बर २६ को मूल्य (स्रोतअनुसार करिब ९५.५८ देखि ९६.१९ डलर प्रति ब्यारेल) · आजको डलर दर मिति सहित पुष्टि हुन सकेन।",
+    "items": [
+      {"name": "NEPSE", "value": 2636.72, "change_pct": -0.41,
+       "source": "अनलाइनखबर / नेपालन्युज (शीर्षक)", "url": "https://english.onlinekhabar.com/nepse-falls-10-89-points-as-trading-turnover-declines.html"},
+      {"name": "ब्रेन्ट तेल", "value": 96.19, "unit": "डलर", "change_pct": null,
+       "source": "OilPriceAPI (शीर्षक, नोभेम्बर २६)", "url": "https://www.oilpriceapi.com/live/brent-crude-oil-price"}
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "साउदी अरबको जाजान रिफाइनरीमा हुथी आक्रमण, एक नेपाली कामदारको मृत्यु",
+      "summary": "साउदी अरबको जाजानस्थित सरकारी तेल कम्पनी अराम्कोको रिफाइनरीमा बिहिबार भएको आक्रमणमा एक नेपाली कामदारको मृत्यु भएको छ। साउदी नेतृत्वको गठबन्धनले यमनका हुथी विद्रोहीले आक्रमण गरेको जनाएको छ। आक्रमणपछि रिफाइनरीका केही काम केही समय रोकिएका थिए। नेपाल सरकारले मृत्युप्रति दुःख व्यक्त गर्दै सबै पक्षलाई संयम अपनाउन आग्रह गरेको छ।",
+      "impact": "खाडी मुलुकमा काम गर्ने लाखौं नेपालीको सुरक्षासँग यो घटना जोडिएको छ; रातोपाटीका अनुसार आक्रमणमा तीन नेपाली घाइते पनि भएका छन्।",
+      "unverified": "मृतक नेपालीको नाम र घाइतेहरूको अवस्थाबारे विस्तृत विवरण यस संस्करणमा पुष्टि हुन सकेन।",
+      "sources": [
+        {"name": "द काठमाडौं पोस्ट", "url": "https://kathmandupost.com/national/2026/11/26/nepal-mourns-citizen-killed-in-saudi-attacks-urges-restraint"},
+        {"name": "Arab News", "url": "https://www.arabnews.com/saudi-arabia/houthi-attack-on-saudi-arabias-jazan-refinery-kills-nepali-worker-3014153"},
+        {"name": "रातोपाटी", "url": "https://english.ratopati.com/story/88426/one-nepali-killed-3-injured-in-attack-in-saudi-arabia"},
+        {"name": "Reuters", "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnNINWJlUzU0bDVSQ1Z5TWhtZTl1dzVxa01lbWhiMTg0bjBKZzQtbld6RmpIQ3NOSkctT29wTmdmR3VCcHpMbzdBQUdQSU0wVWItQU1COHhCS1BzYnpoOTJsRzl2TWp0aVNNZWVpZVFhS2cwWXVtNnA0bzRfUXNTRTJRTEVHem5BY2V2SURxZG9Vb3VkT3FNa1RuR3RfZWJQUE15WTdGaVFudnJaeVJIdVhXdE9PcWFuY2c?oc=5"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "मलेसिया जाने कामदारबाट रकम उठाएको प्रकरणमा पूर्वमुख्यसचिव एकनारायण अर्याल पक्राउ, घरमा छापा",
+      "summary": "मलेसिया जाने नेपाली कामदारबाट स्वास्थ्य परीक्षणको नाममा गैरकानुनी रूपमा रकम उठाएको प्रकरणमा पूर्वमुख्यसचिव एकनारायण अर्याललाई प्रहरीले भारतबाट पक्राउ गरेर बिहिबार काठमाडौं ल्याएको छ। अनलाइनखबरका अनुसार उनी अरूको पक्राउ हुनुभन्दा एक दिनअघि कोलकाता गएका थिए। केन्द्रीय अनुसन्धान ब्युरो (सीआईबी) ले बिहिबार साँझ बूढानीलकण्ठस्थित उनको घरमा छापा मारेको छ। यही प्रकरणमा यसअघि दुई पूर्वमन्त्रीसहित १० जना पक्राउ परेका थिए।",
+      "unverified": "उठाइएको कुल रकम स्रोतअनुसार फरक छ: काठमाडौं पोस्ट र अनलाइनखबरले १ अर्ब ६९ करोड रुपैयाँ, रिपब्लिकाले २ अर्ब १७ करोड रुपैयाँ लेखेका छन्। अर्यालको पक्षबाट प्रतिक्रिया भेटिएन।",
+      "sources": [
+        {"name": "अनलाइनखबर", "url": "https://english.onlinekhabar.com/ek-narayan-aryal-fled-to-kolkata.html"},
+        {"name": "द काठमाडौं पोस्ट", "url": "https://kathmandupost.com/national/2026/11/21/two-ex-ministers-among-ten-arrested-in-rs1-69-billion-malaysia-fee-racket"},
+        {"name": "रातोपाटी", "url": "https://english.ratopati.com/story/88429/cib-raids-former-chief-secretary-aryals-house"},
+        {"name": "रिपब्लिका", "url": "https://myrepublica.nagariknetwork.com/news/how-rs-217-billion-was-extracted-from-malaysia-bound-nepali-workers-22-86.html"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "मन्त्रिपरिषद्को वरीयता हेरफेर, कानुनमन्त्री सोबिता गौतम तेस्रो स्थानमा",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहको सिफारिसमा राष्ट्रपति रामचन्द्र पौडेलले बिहिबार मन्त्रिपरिषद्को वरीयता क्रम हेरफेर गरेका छन्। कानुन, न्याय तथा संसदीय मामिलामन्त्री सोबिता गौतम सातौंबाट तेस्रो स्थानमा पुगेकी छन् भने डा. वाग्लेको स्थान पनि माथि सरेको छ। सोही दिन प्रधानमन्त्री शाह र रास्वपा सभापति रवि लामिछानेबीच बूढानीलकण्ठमा करिब पाँच घण्टा छलफल भएको थियो।",
+      "unverified": "पाँच घण्टे छलफलमा के विषयमा कुरा भयो भन्ने आधिकारिक विवरण यस संस्करणमा पुष्टि हुन सकेन।",
+      "sources": [
+        {"name": "अनलाइनखबर", "url": "https://english.onlinekhabar.com/sobita-gautam-cabinet-hierarchy.html"},
+        {"name": "द काठमाडौं पोस्ट", "url": "https://kathmandupost.com/politics/2026/11/26/sobita-gautam-moves-up-to-third-in-ministerial-order-of-precedence"},
+        {"name": "रिपब्लिका", "url": "https://myrepublica.nagariknetwork.com/news/pm-shah-revises-cabinet-hierarchy-dr-wagle-and-sobita-move-up-83-45.html"},
+        {"name": "द अन्नपूर्ण एक्सप्रेस", "url": "https://theannapurnaexpress.com/story/69095/"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "कुवेतमा ड्रोन आक्रमणमा दुई इटालियन प्राविधिकको मृत्यु, इरानद्वारा संलग्नता अस्वीकार",
+      "summary": "कुवेतमा बिहिबार भएको ड्रोन आक्रमणमा दुई इटालियन नागरिकको मृत्यु भएको छ र चार जना घाइते भएका छन्। इटालीको विदेश मन्त्रालयका अनुसार उनीहरू जर्मन कम्पनी राइनमेटलका प्राविधिक थिए। सोही दिन यमनका हुथीले साउदी राजधानी रियादलाई निसाना बनाएपछि हुथी नियन्त्रित यमनी राजधानीमा पनि आक्रमण भएको छ।",
+      "sides": [
+        {"who": "कुवेती सेनाको भनाइ", "says": "इरानी ड्रोन आक्रमणमा दुई इटालियन कामदार मारिए र चार जना घाइते भए।"},
+        {"who": "इरानको भनाइ", "says": "इरानले यो घातक घटनामा आफ्नो कुनै संलग्नता नभएको भन्दै आरोप कडाइका साथ अस्वीकार गरेको छ।"}
+      ],
+      "sources": [
+        {"name": "BBC", "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss"},
+        {"name": "ABC (अस्ट्रेलिया)", "url": "https://www.abc.net.au/news/2026-11-27/italians-killed-in-kuwait-attack-iran/107432996"},
+        {"name": "द हिन्दू", "url": "https://www.thehindu.com/news/international/yemens-houthi-held-capital-hit-after-group-targets-riyadh/article71748008.ece"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "चुनावअघि सार्वजनिक आर्थिक वृद्धिदर 'नक्कली' भन्दै ट्रम्पद्वारा छानबिनको माग",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले मध्यावधि निर्वाचनअघि वाणिज्य विभागले सार्वजनिक गरेको आर्थिक वृद्धिदर (जीडीपी) को तथ्यांक 'नक्कली' भएको भन्दै बिहिबार छानबिनको माग गरेका छन्। तेस्रो त्रैमासिकको वृद्धिदर ३.४ प्रतिशतबाट संशोधन गरेर ४.३ प्रतिशत पुर्‍याइएपछि उनले यो आरोप लगाएका हुन्।",
+      "sides": [
+        {"who": "राष्ट्रपति ट्रम्पको भनाइ", "says": "चुनावअघि जानाजानी गलत तथ्यांक सार्वजनिक गरियो, यो 'रेकर्ड तोड्ने त्रुटि' को तुरुन्तै छानबिन हुनुपर्छ।"},
+        {"who": "समाचार माध्यमको टिप्पणी", "says": "गार्डियन र एपीका अनुसार ट्रम्पले आफ्नो आरोपको पुष्टि गर्ने कुनै प्रमाण दिएका छैनन्।"}
+      ],
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"},
+        {"name": "The Guardian", "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms"},
+        {"name": "AP", "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWs0NUw0T1MxU0FFajZoSzUzQ2tCblZyZGhDc25mSVpXV0NpczlfWHpwaWdaUEE0T3lFSXdhYl9oUVZ3cTV1ei01aXprNTBoYUJCbG02THdJeGVISENOWjdrVzJpb2pxZEI5aU94VmFCTWU4ckR5MjFjZ2JDMzFibl9WVGZ2Q09PeVo5LXc1WQ?oc=5"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "युरोपेली संघको बजेट र युक्रेनलाई ऋणबारे सहमति जुटेन, रुसी आक्रमणको चेतावनी",
+      "summary": "ब्रसेल्समा भएको युरोपेली संघका नेताहरूको विशेष शिखर सम्मेलनमा सन् २०२८–२०३४ को दीर्घकालीन बजेट र युक्रेनलाई दिने करिब ४९ अर्ब डलर (४ हजार ९०० करोड डलर) को ऋणबारे १२ घण्टाभन्दा लामो छलफलपछि पनि सहमति हुन सकेन। युक्रेनबारेको निर्णय डिसेम्बरसम्म सारिएको समाचार छ। यसैबीच युक्रेनी राष्ट्रपति जेलेन्स्कीले रुसले युक्रेनको बिजुली प्रणालीमा चाँडै ठूलो आक्रमण गर्न सक्ने चेतावनी दिएका छन्।",
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine"},
+        {"name": "SCMP", "url": "https://www.scmp.com/news/world/europe/article/3375966/eu-leaders-unable-agree-budget-after-over-12-hours-talks-zero-results"},
+        {"name": "AP", "url": "https://www.pbs.org/newshour/amp/world/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid"},
+        {"name": "AP (बजेट)", "url": "https://www.washingtontimes.com/news/2026/nov/26/eu-leaders-split-budget-spending-49-billion-loan-ukraine/"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "भैरहवा–लखनऊ हवाई मार्ग दुईतर्फी बनाउन नेपाल–भारत सहमत, प्रधानमन्त्रीको भारत भ्रमणको प्रतिपक्षद्वारा आलोचना",
+      "summary": "नेपाल र भारतले काठमाडौं–भैरहवा–लखनऊ हवाई मार्गलाई दुईतर्फी बनाउन सहमति गरेका छन्, जसले करिब १७ वर्षदेखिको हवाई मार्ग विवाद टुंग्याउने बताइएको छ। यो सहमति प्रधानमन्त्री बालेन्द्र शाहको भारत भ्रमणका क्रममा भएको हो। एमाले अध्यक्ष केपी शर्मा ओलीले बिहिबार उक्त भ्रमण 'निजी यात्राजस्तो' भएको र सीमा विवाद नउठाइएको आरोप लगाए। नेता भीम रावलले भ्रमणमा राष्ट्रिय हितमा सम्झौता गरिएको आरोप लगाएका छन्।",
+      "unverified": "प्रतिपक्षको आरोपमाथि सरकारको जवाफ यस संस्करणमा भेटिएन।",
+      "sources": [
+        {"name": "द काठमाडौं पोस्ट", "url": "https://kathmandupost.com/money/2026/11/23/nepal-india-agree-to-make-bhairahawa-lucknow-air-route-two-way"},
+        {"name": "ch-aviation", "url": "https://www.ch-aviation.com/news/174342-nepal-and-india-agree-to-end-17-year-airway-dispute-report"},
+        {"name": "अनलाइनखबर (ओली)", "url": "https://english.onlinekhabar.com/oli-shah-india-private-trip.html"},
+        {"name": "अनलाइनखबर (रावल)", "url": "https://english.onlinekhabar.com/bhim-rawal-accuses-pm-shah-of-compromising-national-interests-during-india-visit.html"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "दक्षिण चीन सागर विवाद 'नउचाल्न' चीनको रक्षा मन्त्रालयको जापानलाई आग्रह",
+      "summary": "चीनको रक्षा मन्त्रालयले जापानलाई दक्षिण चीन सागरको विवाद 'उचाल्न' बन्द गर्न आग्रह गरेको छ। जापानले फिलिपिन्ससँग सुरक्षा सहयोग बढाइरहेका बेला चीनले यस्तो भनेको हो। यसैबीच जापानले आफ्नो नौसेना बलियो बनाउन लामो दूरीको नयाँ जहाजविरोधी मिसाइल बनाउने योजना अघि सारेको छ।",
+      "sides": [
+        {"who": "चीनको भनाइ", "says": "जापानले दक्षिण चीन सागरको विवादमा हस्तक्षेप गरेर तनाव बढाउनु हुँदैन।"},
+        {"who": "जापान–फिलिपिन्स पक्ष", "says": "दुवै देशले आपसी रक्षा सहयोग बढाइरहेका छन्; यसबारे जापानको औपचारिक जवाफ यस संस्करणमा भेटिएन।"}
+      ],
+      "sources": [
+        {"name": "द हिन्दू", "url": "https://www.thehindu.com/news/international/chinas-defence-ministry-urges-japan-to-stop-stirring-up-south-china-sea-disputes/article71747672.ece"},
+        {"name": "GMA News", "url": "https://www.gmanetwork.com/news/topstories/world/1010860/china-demands-that-japan-to-stop-stirring-up-disputes-amid-security-boost-for-ph/story/"},
+        {"name": "SCMP", "url": "https://www.scmp.com/news/china/military/article/3375933/japan-plans-new-long-range-anti-ship-missile-bolster-naval-build"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "स्पेनका पाब्लो हर्नान्डेज दे कोस युरोपेली केन्द्रीय बैंकको अर्को प्रमुख चुनिए",
+      "summary": "युरोपेली नेताहरूले स्पेनको केन्द्रीय बैंकका पूर्वगभर्नर पाब्लो हर्नान्डेज दे कोसलाई युरोपेली केन्द्रीय बैंक (ईसीबी) को अर्को अध्यक्ष चुनेका छन्। उनले अर्को वर्ष क्रिस्टिन लगार्डको ठाउँ लिनेछन्। फ्रान्स २४ का अनुसार इरान युद्धका कारण युरोपमा महँगी फेरि बढेका बेला उनी नियुक्त भएका हुन्। ईसीबी प्रमुख बन्ने उनी पहिलो स्पेनी हुन्।",
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"},
+        {"name": "France 24", "url": "https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb"},
+        {"name": "AP", "url": "https://www.ksat.com/business/2026/11/26/leaders-choose-spains-former-central-bank-head-as-next-european-central-bank-president/"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "AI का लागि बढ्दो ऋण र मध्यपूर्वको युद्धले वित्तीय जोखिम बढाएको बैंक अफ इङ्ल्यान्डको चेतावनी",
+      "summary": "बेलायतको केन्द्रीय बैंक, बैंक अफ इङ्ल्यान्डले बिहिबार सार्वजनिक गरेको वित्तीय स्थायित्व प्रतिवेदनमा AI (कृत्रिम बुद्धिमत्ता) का लागि कम्पनीहरूले लिइरहेको ऋण तीव्र रूपमा बढेकाले वित्तीय प्रणालीमा जोखिम बढेको जनाएको छ। मध्यपूर्वको युद्धलाई पनि जोखिमको अर्को कारण भनिएको छ।",
+      "sources": [
+        {"name": "Reuters", "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlNESVMtMnZuRm9TZ0FHOGE2NkE2anNKbkwwVlpqbThWRW5WdGpYMnJyMVZrX1dheTRXTGtRT2xqckxNdEo1Y1V3aUthRU5QTUJGY21qaDBnamg1cVRlSG5ZQ1IzZTVnUzJ1djJfS25sOC03WlgwOVY1LXJ0ZHZhRFFwWk5ubV9KWWIxal93a25QaDBmTGMxUmg3OFUta2NWNmFBRGNJVUlNakE3ak82Sm9tRzI?oc=5"},
+        {"name": "बैंक अफ इङ्ल्यान्ड", "url": "https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026"},
+        {"name": "Unbiased Headlines", "url": "https://unbiasedheadlines.com/article/bank-of-england-ai-debt-boom-and-middle-east-war-have-raised-risks"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "एनभिडियाले दक्षिणपूर्वी एसियाका चार देशमा AI सर्भर पठाउन रोक्यो",
+      "summary": "AI चिप बनाउने अमेरिकी कम्पनी एनभिडियाले मलेसिया, सिंगापुर, थाइल्यान्ड र इन्डोनेसियामा कम्प्युटर सर्भर पठाउन रोक्न आफ्ना उत्पादक साझेदारलाई निर्देशन दिएको छ। फाइनान्सियल टाइम्सको समाचारअनुसार अमेरिकाले उन्नत AI चिप चीनसम्म पुग्न नदिन कडाइ बढाएकाले यस्तो गरिएको हो। सर्भर भनेको AI चलाउन प्रयोग हुने शक्तिशाली कम्प्युटर हो।",
+      "sources": [
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"},
+        {"name": "द हिन्दू", "url": "https://www.thehindu.com/news/international/nvidia-stops-shipping-ai-servers-to-four-southeast-asian-nations/article71747898.ece"},
+        {"name": "Business Standard", "url": "https://www.business-standard.com/world-news/nvidia-halts-shipments-of-ai-servers-to-four-southeast-asian-countries-126112601562_1.html"}
+      ]
+    }
+  ]
+}
