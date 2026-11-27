@@ -1,0 +1,285 @@
+{
+  "id": "2026-11-27-md",
+  "generated_at": "2026-11-27T12:25:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार: अन्तिम बन्द बुधबार, नोभेम्बर २५ को (बिहिबार थ्यांक्सगिभिङ बिदा) — समाचार शीर्षकअनुसार डाउ जोन्स ०.३३ प्रतिशत बढ्यो, S&P 500 ०.२५ प्रतिशत र Nasdaq ०.६ प्रतिशत घटे (S&P 500 र Nasdaq का ठ्याक्कै अंक पुष्टि हुन सकेन) · NEPSE: बिहिबार, नोभेम्बर २६ (मंसिर १०) को बन्द (शुक्रबार–शनिबार कारोबार हुँदैन) · ब्रेन्ट तेल: नोभेम्बर २७ को कारोबार · आजको डलर दर अंकसहित पुष्टि हुन सकेन।",
+    "items": [
+      {
+        "name": "Dow Jones",
+        "value": 50182.95,
+        "change_pct": 0.33,
+        "source": "बीबीएन टाइम्स / जीएसएम ग्लोबल न्युज (शीर्षक)",
+        "url": "https://gsmglobalnews.com/article/d20261125-mktclose1.html"
+      },
+      {
+        "name": "NEPSE",
+        "value": 2636.72,
+        "change_pct": -0.41,
+        "source": "अनलाइनखबर (शीर्षक)",
+        "url": "https://english.onlinekhabar.com/nepse-falls-10-89-points-as-trading-turnover-declines.html"
+      },
+      {
+        "name": "ब्रेन्ट तेल",
+        "value": 96.61,
+        "unit": "डलर",
+        "change_pct": null,
+        "source": "FinScans (शीर्षक, नोभेम्बर २७)",
+        "url": "https://finscans.com/news/2026/11/27/brent-hits-9661-as-middle-east-supply-risks-outweigh-global"
+      }
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "होल्डिङ सेन्टरबाट सुकुमवासी हटाउने सरकारी निर्णयको कांग्रेस, एमाले र उज्यालो नेपाल पार्टीद्वारा विरोध",
+      "summary": "काठमाडौंका बस्तीबाट हटाइएर अस्थायी होल्डिङ सेन्टरमा राखिएका सुकुमवासी परिवारलाई त्यहाँबाट पनि हटाउने सरकारको निर्णयको प्रतिपक्षी दलहरूले विरोध गरेका छन्। प्रमुख प्रतिपक्षी नेपाली कांग्रेसका संसदीय दलका नेता भीष्मराज आङ्देम्बे र महामन्त्री उदयशम्शेर राणाले वैकल्पिक आवास नदिई परिवारलाई नहटाउन र निर्णय तुरुन्त फिर्ता लिन माग गरेका छन्। नेकपा एमाले र उज्यालो नेपाल पार्टीले पनि निर्णयको आलोचना गरेका छन्। होल्डिङ सेन्टरमा बसेका परिवारले राम्रो खाना र उपचार नपाएको गुनासो गरेको काठमाडौं पोस्टले जनाएको छ।",
+      "unverified": "सरकारले यो निर्णय किन गर्‍यो र परिवारलाई कहिलेसम्म सार्ने भन्ने सरकारी पक्षको भनाइ यस संस्करणमा पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2066152/lets-not-evict-squatters-from-holding-centers-without-alternative-housing-bhishmaraj-angdembe"
+        },
+        {
+          "name": "रातोपाटी",
+          "url": "https://english.ratopati.com/story/88467/decision-to-remove-squatters-from-holding-centers-objectionable-uml"
+        },
+        {
+          "name": "द काठमाडौं पोस्ट",
+          "url": "https://kathmandupost.com/national/2026/11/26/kathmandu-s-evicted-squatters-say-they-have-no-proper-food-medical-care-at-temporary-centres"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "प्रधानमन्त्री शाह र रास्वपा सभापति लामिछानेबीच पाँच घण्टा छलफल",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाह र राष्ट्रिय स्वतन्त्र पार्टी (रास्वपा) का सभापति रवि लामिछानेबीच बिहिबार बुढानीलकण्ठस्थित लामिछानेको निवासमा करिब पाँच घण्टा छलफल भयो। प्रधानमन्त्रीले आफ्नो भारत भ्रमणबारे जानकारी दिएको र सरकारको कामकाज, संसदको कार्यसूची, आगामी चुनाव र अध्यादेशबारे कुरा भएको काठमाडौं पोस्टले जनाएको छ। लामिछानेका निजी सचिव अविनाश आचार्यका अनुसार भेट सौहार्दपूर्ण वातावरणमा भएको थियो। संसदमा झन्डै दुई तिहाइ बहुमत हुँदाहुँदै रास्वपा नेतृत्वको सरकारले कानुन संशोधन गर्न अध्यादेशको सहारा बढी लिन थालेको अनलाइनखबरको एक रिपोर्टले उल्लेख गरेको छ।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://english.onlinekhabar.com/balen-lamichhane-five-hour-meet.html"
+        },
+        {
+          "name": "द काठमाडौं पोस्ट",
+          "url": "https://kathmandupost.com/politics/2026/11/26/shah-briefs-lamichhane-on-india-visit-discusses-government-performance-and-parliamentary-agenda"
+        },
+        {
+          "name": "अनलाइनखबर (अध्यादेशबारे)",
+          "url": "https://english.onlinekhabar.com/rsp-ordinance-rule.html"
+        }
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "कांग्रेस केन्द्रीय समितिको बैठक जारी, मिति तय नहुँदै दलहरू स्थानीय चुनावको तयारीमा",
+      "summary": "नेपाली कांग्रेसको केन्द्रीय कार्यसमितिको बैठक शुक्रबार पनि ललितपुरको सानेपास्थित पार्टी कार्यालयमा बस्यो। मंसिर ८ देखि सुरु भएको बैठकमा बिहिबारसम्म ७० जना केन्द्रीय सदस्यले आफ्नो धारणा राखिसकेका छन्। यसैबीच स्थानीय तहको चुनावको मिति तय नभए पनि दलहरू तयारीमा लागेका छन्। रास्वपाले 'क्यान्डिडेट क्लब' मार्फत उम्मेदवारका लागि आवेदन खोलेको छ, कांग्रेसले पार्टीभित्र उम्मेदवार छान्ने चुनाव (प्राइमरी) गर्ने योजना बनाएको छ भने एमाले र नेकपा संगठन बलियो बनाउनमा केन्द्रित छन्।",
+      "sources": [
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2066060/congress-central-committee-meeting-continues-today-3"
+        },
+        {
+          "name": "द काठमाडौं पोस्ट",
+          "url": "https://kathmandupost.com/politics/2026/11/27/parties-gear-up-for-local-elections-despite-no-date-being-set"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "न्युजिल्यान्डको चुनावको अन्तिम नतिजा: सत्तारुढ गठबन्धन बहुमतभन्दा एक सिट कम",
+      "summary": "न्युजिल्यान्डको आम निर्वाचनको अन्तिम नतिजाअनुसार प्रधानमन्त्री क्रिस्टोफर लक्सनको नेसनल पार्टी नेतृत्वको दक्षिणपन्थी गठबन्धन संसदमा बहुमतभन्दा एक सिटले पछि परेको छ। नोभेम्बर ७ को प्रारम्भिक मतगणनामा गठबन्धनले सामान्य बहुमत पाएजस्तो देखिएको थियो। अब नयाँ मध्यमार्गी दल 'अपर्चुनिटी पार्टी' को समर्थन बिना सरकार बन्न सक्दैन। सम्झौता नभए देश फेरि चुनावमा जान सक्ने गार्डियन र द हिन्दूले जनाएका छन्।",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/new-zealand-pm-luxon-loses-majority-centrists-now-kingmakers/article71749215.ece"
+        },
+        {
+          "name": "Reuters (The Star मार्फत)",
+          "url": "https://www.thestar.com.my/news/world/2026/11/27/new-zealands-ruling-coalition-falls-just-short-of-majority-in-final-election-count"
+        }
+      ]
+    },
+    {
+      "section": "world",
+      "title": "रुसले फेरि ठूलो आक्रमणको तयारी गरेको जेलेन्स्कीको चेतावनी, ट्रम्पद्वारा पुटिनलाई 'पछि हट्न' आग्रह",
+      "summary": "युक्रेनका राष्ट्रपति भोलोदिमिर जेलेन्स्कीले रुसले आगामी केही दिनमा युक्रेनको बिजुली प्रणालीमाथि ठूलो आक्रमणको तयारी गरिरहेको चेतावनी दिएका छन्। अमेरिकी राष्ट्रपति डोनल्ड ट्रम्पले गत हप्ता चीनमा भेट हुँदा रुसी राष्ट्रपति भ्लादिमिर पुटिनलाई युरोपविरुद्धका सबै सैन्य आक्रमण रोक्न आग्रह गरेको बताएका छन्। एक हप्ताअघि मात्र पुटिनलाई 'मित्र' भनेका ट्रम्पको स्वरमा यो परिवर्तन भएको फ्रान्स २४ ले जनाएको छ।",
+      "sides": [
+        {
+          "who": "ट्रम्पको भनाइ",
+          "says": "पुटिनलाई युरोपमा सैन्य आक्रमण रोक्न आग्रह गरिएको छ, र यसले युक्रेन युद्ध अन्त्य गर्ने सम्झौतामा मद्दत गर्नेछ।"
+        },
+        {
+          "who": "जेलेन्स्कीको भनाइ",
+          "says": "अमेरिका मध्यपूर्वमा बढी केन्द्रित छ, रुसमाथि पर्याप्त दबाब दिइएको छैन र मिसाइल आपूर्ति ढिलो भएको छ।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
+        },
+        {
+          "name": "बीबीसी नेपाली",
+          "url": "https://www.bbc.com/nepali/articles/ck053e1ngn1jo"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back"
+        },
+        {
+          "name": "अनलाइनखबर",
+          "url": "https://www.onlinekhabar.com/2026/11/2066096/zelensky-expresses-dissatisfaction-with-us-over-missile-supply-delays-and-comments-on-putin"
+        }
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "शेख हसिनाको डिसेम्बर १६ मा बंगलादेश फर्कने योजना, भारत र बंगलादेशबीच तनाव",
+      "summary": "भारतमा रहेकी बंगलादेशकी अपदस्थ पूर्वप्रधानमन्त्री शेख हसिनाले डिसेम्बर १६ मा देश फर्कने योजना बनाएकी छन्। रोयटर्सका अनुसार उनी बंगलादेशको सरकारी विमान सेवाबाट फर्कन चाहन्छिन्। बंगलादेशमा उनलाई मृत्युदण्डको फैसला सुनाइएको छ र उनको फर्कने योजनाले ढाका–दिल्ली सम्बन्धमा तनाव बढाएको तथा नयाँ अशान्तिको जोखिम रहेको बीबीसीले जनाएको छ। यो योजनाले उनको दल अवामी लीगका कार्यकर्तालाई उत्साहित बनाएको र तारिक रहमानको सरकारलाई परीक्षामा पारेको द हिन्दूले लेखेको छ। भारतीय विदेश मन्त्रालयका प्रवक्ता रणधीर जयसवालले आफ्नै इच्छाले यात्रा कागजातमा देश फर्कन चाहने नागरिकको विषय सुपुर्दगीको अनुरोधभन्दा छुट्टै भएको बताएका छन्।",
+      "sources": [
+        {
+          "name": "Reuters (Yahoo मार्फत)",
+          "url": "https://www.yahoo.com/news/articles/exclusive-sheikh-hasina-seeks-return-030009279.html"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/sheikh-hasinas-return-gambit-tests-bangladeshs-political-fault-lines/article71745537.ece"
+        },
+        {
+          "name": "The Hindu (विदेश मन्त्रालय)",
+          "url": "https://www.thehindu.com/news/national/mea-separates-sheikh-hasinas-plans-to-return-to-bangladesh-from-issue-of-extradition/article71743712.ece"
+        }
+      ],
+      "unverified": "हसिनाको योजनाबारे बंगलादेश सरकारको आधिकारिक प्रतिक्रिया यस संस्करणमा पुष्टि हुन सकेन।"
+    },
+    {
+      "section": "india_china",
+      "title": "भारतमा नोभेम्बर ३० देखि संसदको विशेष बैठक, निर्वाचन क्षेत्र पुनर्निर्धारण विधेयक आउने सम्भावना",
+      "summary": "भारत सरकारले नोभेम्बर ३० देखि डिसेम्बर ३ सम्म संसदको विशेष बैठक बोलाएको छ। दुवै सदन स्थगित भएको १०० दिनभन्दा बढी भएपछि बस्न लागेको यो बैठकमा संशोधित निर्वाचन क्षेत्र पुनर्निर्धारण (डिलिमिटेसन) विधेयक पेस हुन सक्ने द हिन्दूले जनाएको छ। आकाशवाणी (AIR) का अनुसार आन्ध्र प्रदेशको दल वाईएसआरसीपीले ८५० सिटको प्रस्तावलाई समर्थन गरेको छ।",
+      "sides": [
+        {
+          "who": "सरकारको भनाइ",
+          "says": "संसदीय मामिलामन्त्री किरेन रिजिजूका अनुसार संसद 'आवश्यक काम' का लागि फेरि बोलाइएको हो।"
+        },
+        {
+          "who": "कांग्रेसको भनाइ",
+          "says": "नेता जयराम रमेशका अनुसार विशेष बैठक महिला आरक्षणका लागि नभई डिलिमिटेसनका लागि हो।"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece"
+        },
+        {
+          "name": "आकाशवाणी (AIR)",
+          "url": "https://www.airnews.in/articles/b6ca7f02ca-centre-convenes-special-parliament-sitting-on-november-30-as-ysrcp-backs-850-seat-delimitation-push"
+        },
+        {
+          "name": "Deccan Herald",
+          "url": "https://www.deccanherald.com/india/pm-hm-jodi-lying-special-sitting-not-for-womens-quota-but-delimitation-congress-jairam-ramesh-4233021"
+        },
+        {
+          "name": "Madhyamam",
+          "url": "https://madhyamamonline.com/india/delimitation-bill-parliament-to-reconvene-for-essential-business-1576249"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "चीनका उद्योगको नाफा अक्टोबरमा २०.१ प्रतिशतले बढ्यो, पाँच महिनायताकै तीव्र",
+      "summary": "चीनको तथ्यांक ब्युरोका अनुसार अक्टोबरमा ठूला उद्योगको नाफा एक वर्षअघिको तुलनामा २०.१ प्रतिशतले बढेको छ, जुन पाँच महिनायताकै उच्च वृद्धि हो। जनवरीदेखि अक्टोबरसम्मको नाफा १६ प्रतिशतले बढेको छ। सीएनबीसीका अनुसार AI सँग जोडिएका उत्पादन र निर्यातले वृद्धि बढाएका छन्, तर उपभोग र घरजग्गामा लगानी अझै कमजोर छन्।",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
+        },
+        {
+          "name": "InvestingLive",
+          "url": "https://investinglive.com/news/china-s-industrial-profits-jump-20-1-in-october-as-electronics-do-the-heavy-lifting/"
+        },
+        {
+          "name": "The Edge",
+          "url": "https://edgeconsultancykw.com/china-industrial-profits-october-2026/"
+        }
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "एसियाली सेयर बजार उकालो, सुन एक वर्षको न्यूनबाट उठ्यो, डलर २२ महिनाकै बलियो नजिक",
+      "summary": "प्रविधि कम्पनीका सेयरमा भएको ठूलो गिरावटपछि शुक्रबार जापान, दक्षिण कोरिया, अस्ट्रेलिया र हङकङका सेयर बजार बढेका छन्, तर चुनावी अनिश्चितताका कारण न्युजिल्यान्डको बजार घटेको अल जजिराले जनाएको छ। रोयटर्सका अनुसार सुनको भाउ एक वर्षयताकै न्यूनबाट फेरि उठेको छ, अमेरिकी डलर २२ महिनायताकै उच्च स्तर नजिक छ र मध्यपूर्वको युद्धले आपूर्तिमा खतरा पुर्‍याउँदा ब्रेन्ट तेल महिनाकै उच्च मूल्य नजिक छ। अमेरिकामा बुधबार डाउ जोन्स दिनभरमा १,१०५ अंकसम्म झरेर पनि अन्त्यमा बढेर बन्द भएको थियो।",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout"
+        },
+        {
+          "name": "Reuters (सुन)",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYW55b1BZTkM4emFaZmljMEIzZlBhd2duLWJnRlpMaVA1UnBMaXpEQTdYU0JQUF93QWRkMEV0ZHlaUFhJM3JwTkVLSFNQcDhJS"
+        },
+        {
+          "name": "Reuters (तेल)",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzVQVzE5aGdzbGVhNEUtVl94M0V3RjN5Rks4UDU0U0plazFDcjFnUTBMMHBvdk9BRzFaVHljSXk1ZFdzSjlRTVRXNGZ0cnRyU"
+        },
+        {
+          "name": "The Company Chronicle",
+          "url": "https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "दामासाहीमा परेको Character.AI ले प्रयोगकर्ताका निजी कुराकानी बेच्न नपाओस् भनी अमेरिकाका ४२ राज्यको प्रयास",
+      "summary": "AI च्याटबट कम्पनी Character.AI (मानिसले कृत्रिम पात्रसँग कुरा गर्ने एप) अमेरिकी कानुनको 'च्याप्टर ११' अन्तर्गत दामासाहीको प्रक्रियामा छ। कम्पनीको सम्पत्ति बिक्रीमा २ करोड १० लाखभन्दा बढी अमेरिकी खाताका निजी कुराकानी समावेश रहेको भन्दै ४२ राज्यका महान्यायाधिवक्ताले यसलाई रोक्न खोजेका छन्। उनीहरूका अनुसार ती खातामध्ये २१ लाख नाबालकका नाममा दर्ता छन्। AI सँग गरिएका व्यक्तिगत कुराकानीको तथ्यांक कसको हातमा जान्छ भन्ने प्रश्न यसले उठाएको छ।",
+      "unverified": "कम्पनीको यसबारे प्रतिक्रिया यस संस्करणमा पुष्टि हुन सकेन।",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+        }
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "अन्तरिक्षमा AI डाटा सेन्टर बनाउन स्पेसएक्सलाई १० लाख भू-उपग्रह पठाउने अमेरिकी स्वीकृति",
+      "summary": "अमेरिकी सञ्चार नियामक संघीय सञ्चार आयोग (FCC) ले इलोन मस्कको कम्पनी स्पेसएक्सलाई अन्तरिक्षमा डाटा सेन्टरका रूपमा काम गर्ने १० लाखसम्म भू-उपग्रह पठाउन स्वीकृति दिएको छ। 'स्टारमाइन्ड' नाम दिइएको यो योजनामा सौर्य ऊर्जाबाट चल्ने उपग्रहले AI का लागि चाहिने कम्प्युटिङ गर्नेछन्। AI चलाउन धेरै बिजुली र ठूला डाटा सेन्टर चाहिने भएकाले यस्तो काम पृथ्वीबाहिर सार्ने प्रयास भइरहेको छ। आयोगका प्रमुख ब्रेन्डन कारले यो स्वीकृतिको जानकारी दिएका हुन्।",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+        },
+        {
+          "name": "CBC",
+          "url": "https://www.cbc.ca/news/science/spacex-one-million-data-centres-space-9.7436957"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/spacex-fcc-approval-data-centers-space/"
+        },
+        {
+          "name": "Space.com",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites"
+        }
+      ]
+    }
+  ]
+}
