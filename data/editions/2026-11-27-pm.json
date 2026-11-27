@@ -1,0 +1,182 @@
+{
+  "id": "2026-11-27-pm",
+  "generated_at": "2026-11-27T18:20:00+05:45",
+  "markets": {
+    "as_of": "अमेरिकी बजार: अन्तिम बन्द बुधबार, नोभेम्बर २५ को (बिहिबार थ्यांक्सगिभिङ बिदा; शुक्रबारको कारोबार यो संस्करण तयार हुँदासम्म सुरु भएको थिएन) · NEPSE: बिहिबार, नोभेम्बर २६ (मंसिर १०) को बन्द (शुक्रबार–शनिबार कारोबार हुँदैन) · ब्रेन्ट तेल: नोभेम्बर २७ को कारोबार · आजको डलर दर अंकसहित पुष्टि हुन सकेन।",
+    "items": [
+      {"name": "S&P 500", "value": 7182.78, "change_pct": -0.25,
+       "source": "बीबीएन टाइम्स / स्विङफोलियो (शीर्षक)",
+       "url": "https://www.bbntimes.com/global-economy/s-p-500-falls-to-7-182-78-as-bargain-hunters-rescue-wall-street-ahead-of-thanksgiving"},
+      {"name": "Nasdaq Composite", "value": 23585.8, "change_pct": null,
+       "source": "बीबीएन टाइम्स (शीर्षक)",
+       "url": "https://www.bbntimes.com/technology/nasdaq-closed-for-thanksgiving-at-23-585-80-after-nasdaq-100-touches-bear-market-territory-in-ai-rout"},
+      {"name": "Dow Jones", "value": 50182.95, "change_pct": 0.33,
+       "source": "बीबीएन टाइम्स / जीएसएम ग्लोबल न्युज (शीर्षक)",
+       "url": "https://gsmglobalnews.com/article/d20261125-mktclose1.html"},
+      {"name": "NEPSE", "value": 2636.72, "change_pct": -0.41,
+       "source": "अनलाइनखबर (शीर्षक)",
+       "url": "https://english.onlinekhabar.com/nepse-falls-10-89-points-as-trading-turnover-declines.html"},
+      {"name": "ब्रेन्ट तेल", "value": 96.61, "unit": "डलर", "change_pct": null,
+       "source": "FinScans / PiQ (शीर्षक, नोभेम्बर २७)",
+       "url": "https://piqmarkets.com/story/brent-near-96-61-as-hormuz-tanker-attacks-lift-weekly-oil-gain"}
+    ]
+  },
+  "stories": [
+    {
+      "section": "nepal",
+      "title": "प्रधानमन्त्री शाहद्वारा राष्ट्रपतिलाई भारत भ्रमणको जानकारी, रोकिएका तीन अध्यादेशबारे पनि कुरा",
+      "summary": "प्रधानमन्त्री बालेन्द्र शाहले शुक्रबार शीतल निवास पुगेर राष्ट्रपति रामचन्द्र पौडेललाई भारत भ्रमणबारे जानकारी दिएका छन्। करिब २० मिनेटको भेटमा उनले भारतबाट ठूलो आर्थिक प्याकेज पाउने र भैरहवा हवाई मार्गबारे भएको सहमति महत्त्वपूर्ण रहेको बताएको अनलाइनखबरले जनाएको छ। राष्ट्रपतिकहाँ विचाराधीन तीन अध्यादेश जारी गर्न पनि उनले आग्रह गरेका छन्। तीमध्ये एउटा जेन-जी आन्दोलनसँग जोडिएको छ, जसअनुसार बनाइने आयोगले गम्भीर नभएका मुद्दा मेलमिलाप, क्षतिपूर्ति वा माफीबाट टुंग्याउन सक्छ; हत्या र हतियारसहितको डकैतीका मुद्दा भने अदालतमै रहनेछन्।",
+      "sides": [
+        {"who": "प्रधानमन्त्री शाह", "says": "अत्यावश्यक भएकाले मात्र अध्यादेश ल्याइएको हो।"},
+        {"who": "सत्तारुढ रास्वपाकै नेता", "says": "संसद् अधिवेशन ढिलो बोलाइँदा जनताका मुद्दामा छलफल रोकिएको छ; रास्वपाका नेताहरू मंसिर १४ सम्म मिति नतोकिए थप दबाब दिने तयारीमा छन्।"}
+      ],
+      "unverified": "राष्ट्रपतिले अध्यादेशबारे के निर्णय गर्नुहुन्छ भन्ने अझै खुलेको छैन।",
+      "sources": [
+        {"name": "अनलाइनखबर", "url": "https://www.onlinekhabar.com/2026/11/2066484/discussion-with-the-president-on-two-issues-the-prime-minister-said-we-brou"},
+        {"name": "अनलाइनखबर इङ्लिस", "url": "https://english.onlinekhabar.com/balen-briefs-paudel-india-visit-ordinance.html"},
+        {"name": "माइरिपब्लिका", "url": "https://myrepublica.nagariknetwork.com/news/pm-shah-briefs-president-paudel-on-recent-india-visit-32-66.html"},
+        {"name": "काठमाडौं पोस्ट", "url": "https://kathmandupost.com/national/2026/11/26/gen-z-ordinance-before-president-may-pardon-protesters"},
+        {"name": "अनलाइनखबर (रास्वपाको दबाब)", "url": "https://www.onlinekhabar.com/2026/11/2066456/rsp-pressures-government-to-convene-parliament-session-early"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "‘आधिकारिक कांग्रेस’ को दाबी: देउवा पक्षले महाधिवेशनका लागि पाँच समिति बनायो",
+      "summary": "नेपाली कांग्रेसभित्र कुन पक्ष आधिकारिक हो भन्ने विवाद चर्किएको छ। शेरबहादुर देउवा पक्षले आफ्नो छुट्टै महाधिवेशनका लागि पाँच समिति बनाएको छ र प्रचार समितिको संयोजकमा डा. प्रकाशशरण महत तोकिएका छन्। यही पक्षका नेता संग्रौलाले आफ्नो पक्ष नै आधिकारिक कांग्रेस भएको सन्देश देशभरका ६ हजार ७४३ वडासम्म पुर्‍याउनुपर्ने बताएका छन्। काठमाडौं पोस्टका अनुसार निर्वाचन आयोगको एउटा कदमले यो महाधिवेशन हुनेमा अन्योल थपेको छ।",
+      "sides": [
+        {"who": "देउवा पक्ष (डा. प्रकाशशरण महत)", "says": "कांग्रेस कसको हो भन्ने कुरा इतिहासले बताउँछ; कारबाहीको डरले विचलित नहुन कार्यकर्तालाई आग्रह।"},
+        {"who": "अर्को पक्ष (डा. शशांक कोइराला)", "says": "१४औं महाधिवेशनबाट चुनिएको कांग्रेस नै आधिकारिक कांग्रेस हो।"}
+      ],
+      "unverified": "निर्वाचन आयोगले के कदम चालेको हो भन्ने विस्तृत विवरण यस संस्करणमा पुष्टि हुन सकेन।",
+      "sources": [
+        {"name": "अनलाइनखबर", "url": "https://www.onlinekhabar.com/2026/11/2066370/deuba-group-forms-five-committees-for-general-convention-responsibilities-g"},
+        {"name": "अनलाइनखबर (महत)", "url": "https://www.onlinekhabar.com/2026/11/2066462/history-tells-who-the-congress-belongs-to-dr-prakash-sharan-mahat"},
+        {"name": "काठमाडौं पोस्ट", "url": "https://kathmandupost.com/politics/2026/11/26/election-commission-move-puts-deuba-faction-s-convention-in-doubt"},
+        {"name": "रातोपाटी (शीर्षक)", "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbC13YmVlb2hUOUNBb002dmQwU042QVlJQ1dodjJqbHpobFlDX0pUWXZzR1Y0dnJqVDQ"}
+      ]
+    },
+    {
+      "section": "nepal",
+      "title": "नयाँ अध्यादेशविरुद्ध नास्टका कर्मचारी आन्दोलित, मन्त्री महावीर पुनको राजीनामा माग",
+      "summary": "नेपाल विज्ञान तथा प्रविधि प्रज्ञा प्रतिष्ठान (नास्ट) का कर्मचारीले शुक्रबार प्रदर्शन गरेका छन्। प्रतिष्ठानको ऐन र नियमावलीबारे सरोकारवालासँग छलफल नगरी अध्यादेश ल्याइएको उनीहरूको आरोप छ। विज्ञान, प्रविधि तथा नवप्रवर्तनमन्त्री महावीर पुनले नैतिक जिम्मेवारी लिएर राजीनामा दिनुपर्ने माग उनीहरूले गरेका छन्। दक्ष जनशक्ति पलायन गराउने कदम स्वीकार्य नहुने चेतावनी पनि उनीहरूले दिएका छन्।",
+      "unverified": "मन्त्री पुन वा मन्त्रालयको प्रतिक्रिया हेरिएका स्रोतमा भेटिएन।",
+      "sources": [
+        {"name": "अनलाइनखबर इङ्लिस", "url": "https://english.onlinekhabar.com/nast-employees-protest-ordinance-demand-minister-mahabir-puns-resignation.html"},
+        {"name": "माइरिपब्लिका", "url": "https://myrepublica.nagariknetwork.com/news/nast-employees-protest-ordinance-demand-resignation-of-minister-pun-97-78.html"},
+        {"name": "रातोपाटी", "url": "https://www.ratopati.com/story/607945/nast-employees-warn-minister-pun-the-move-to-drive-away-skilled-manpower-is-unacceptable"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "स्पेनमा आइतबार मध्यावधि चुनाव, आवास संकट मुख्य मुद्दा",
+      "summary": "स्पेनमा आइतबार (नोभेम्बर २९) संसदको मध्यावधि चुनाव हुँदैछ। आवाससम्बन्धी कानुनमा संसदमा धक्का लागेपछि प्रधानमन्त्री पेद्रो सान्चेजले यो चुनाव बोलाएका थिए। अन्तिम टेलिभिजन बहसमा घर किन्न र भाडा तिर्न कठिनाइ तथा आप्रवासन मुख्य विषय बने। मत सर्वेक्षणमा रूढिवादी पपुलर पार्टी (पीपी) अगाडि देखिएको छ र पीपी तथा अतिदक्षिणपन्थी भक्स मिलेर बहुमत ल्याउन सक्ने अनुमान छ। भक्सले फ्रान्कोको शासनपछि कहिल्यै सरकार चलाएको छैन।",
+      "sides": [
+        {"who": "प्रधानमन्त्री सान्चेज (समाजवादी पार्टी)", "says": "आफ्नो पार्टीको आन्तरिक तथ्यांकले जित देखाएको छ; हार्ने कल्पना पनि गर्न नसकिने।"},
+        {"who": "पीपी र भक्स", "says": "आठ वर्षको समाजवादी नेतृत्वको सरकार फेर्नुपर्ने; भक्स नेता आबास्कल सरकार बनाउन निर्णायक बन्ने स्थितिमा।"}
+      ],
+      "unverified": "सामाजिक सञ्जालमा फैलिएको ‘चुनावमा धाँधली हुँदैछ’ भन्ने दाबीलाई फ्रान्स २४ ले तथ्यजाँचमा आधारहीन देखाएको छ।",
+      "sources": [
+        {"name": "बीबीसी", "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss"},
+        {"name": "फ्रान्स २४", "url": "https://www.france24.com/en/tv-shows/a-propos/20261126-citizens-angry-with-the-establishment-as-spain-heads-to-the-polls"},
+        {"name": "रोयटर्स (शीर्षक)", "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX1AxaFV1YTZ1VFB6MmVETG5iUmpxLWNEbjVDejhPZjJIVml6ZExzVGdxdGlmQUtfbkJ"},
+        {"name": "द गार्डियन", "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates"},
+        {"name": "युरोन्युज", "url": "https://www.euronews.com/2026/11/22/polls-put-spains-pp-ahead-of-psoe-a-week-before-29-november-election"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "इजरायलमा आइजनकोटको वामपन्थी डेमोक्र्याट्ससँग गठबन्धन सहमति, नेतन्याहुलाई हटाउने प्रयास अघि बढ्यो",
+      "summary": "इजरायलका पूर्वसेनाप्रमुख गादी आइजनकोटको यशार पार्टी र यायर गोलानको वामपन्थी डेमोक्र्याट्स पार्टीबीच बिहिबार गठबन्धन सहमति भएको छ। अक्टोबरको चुनावमा कुनै पनि समूहले बहुमत पाएको थिएन। नोभेम्बर २४ मा दक्षिणपन्थी इजरायल बेइतेनुसँग सहमति गरेपछि यो दोस्रो दल हो। जेरुसलेम पोस्टका अनुसार डेमोक्र्याट्सले आन्तरिक सुरक्षा र सञ्चार मन्त्रालय पाउनेछ।",
+      "sides": [
+        {"who": "आइजनकोट पक्ष", "says": "नयाँ गठबन्धन बनाएर प्रधानमन्त्री बेन्जामिन नेतन्याहुलाई सत्ताबाट हटाउने लक्ष्य।"},
+        {"who": "नेतन्याहु पक्ष", "says": "नेतन्याहु पक्षको प्रतिक्रिया हेरिएका स्रोतमा भेटिएन।"}
+      ],
+      "unverified": "आइजनकोटले संसदमा बहुमत पुर्‍याउन पुग्ने सिट जुटाइसकेका छन् कि छैनन् भन्ने पुष्टि भएको छैन।",
+      "sources": [
+        {"name": "फ्रान्स २४", "url": "https://www.france24.com/en/middle-east/20261127-israel-s-eisenkot-agrees-to-coalition-deal-with-left-wing-democrats"},
+        {"name": "द हिन्दू", "url": "https://www.thehindu.com/news/international/israels-gadi-eisenkot-reaches-deal-with-left-wing-parties/article71747775.ec"},
+        {"name": "जेरुसलेम पोस्ट (शीर्षक)", "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916226"}
+      ]
+    },
+    {
+      "section": "world",
+      "title": "अमेरिकी वायुसेनाको मुख्य कम्प्युटिङ प्रणाली ‘क्लाउड वान’ मा ह्याकरको पहुँच",
+      "summary": "अमेरिकी वायुसेनाको मुख्य क्लाउड कम्प्युटिङ प्रणाली ‘क्लाउड वान’ मा ह्याकरहरू छिरेको रोयटर्सले शुक्रबार विशेष समाचार प्रकाशित गरेको छ। क्लाउड भनेको इन्टरनेटमार्फत चलाइने ठूला कम्प्युटर र तथ्यांक भण्डार हो। ब्लुमबर्गलगायत अन्य सञ्चारमाध्यमले पनि रोयटर्सलाई उद्धृत गर्दै यो समाचार दिएका छन्। यसै दिन बेलायतको पेन्सन तथा सामाजिक सुरक्षा भत्ता हेर्ने विभाग (DWP) का प्रायः सबै प्रणाली पनि ‘साइबर घटना’ का कारण बन्द भएका छन्, तर भुक्तानी रोकिँदैन भनिएको छ।",
+      "unverified": "ह्याकर को हुन् र कस्तो सूचना चोरी भयो भन्ने विवरण हेरिएका स्रोतमा पुष्टि भएन।",
+      "sources": [
+        {"name": "रोयटर्स (इन्टरनाजियोनाले मार्फत)", "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/27/exclusive-hackers-breach-us-air-force-flagship-cloud-one-computing-platform"},
+        {"name": "ब्लुमबर्ग (शीर्षक)", "url": "https://www.bloomberg.com/news/articles/2026-11-27/hackers-breached-us-air-force-s-cloud-platform"},
+        {"name": "द गार्डियन (DWP)", "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "भारतीय मन्त्रिपरिषद्द्वारा लोकसभा सिट ५० प्रतिशत बढाउने परिसीमन विधेयक पारित",
+      "summary": "भारतको केन्द्रीय मन्त्रिपरिषद्ले निर्वाचन क्षेत्र पुनर्निर्धारण (परिसीमन) विधेयक पारित गरेको छ। द हिन्दूका अनुसार यसले सबै राज्यका लोकसभा सिट ५० प्रतिशतले बढाउँछ र राज्यहरूबीच सिटको अहिलेको अनुपात सन् २०५१ सम्म कायम राख्छ। यस्तै विधेयक अप्रिलमा लोकसभामा पारित हुन सकेको थिएन। यो विधेयक नोभेम्बर ३० देखि डिसेम्बर ३ सम्म बस्ने संसदको विशेष बैठकमा पेस हुने अपेक्षा छ।",
+      "sides": [
+        {"who": "सरकार र सहयोगी दल", "says": "सबै राज्यको सिट बराबर अनुपातमा बढ्ने भएकाले कुनै राज्यको हिस्सा घट्दैन; एनडीए नेताहरू दिल्लीमा भेला।"},
+        {"who": "प्रतिपक्ष र क्षेत्रीय दल", "says": "डीएमकेले तमिलनाडुको ७.२ प्रतिशत हिस्सा सुनिश्चित भए मात्र समर्थन गर्ने भनेको छ, बीजेडीले ओडिशाको हित जोगिनुपर्ने भनेको छ, र कांग्रेसले सरकारले विधेयक पारित गराउन ‘अपरेसन लोटस’ गरेको आरोप लगाएको छ।"}
+      ],
+      "sources": [
+        {"name": "द हिन्दू", "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-in-delhi-for-nda-meeting-after-union-cabinet-clears-delimita"},
+        {"name": "स्क्रोल", "url": "https://scroll.in/latest/1097370/cabinet-clears-delimitation-bill-with-50-seat-increase-for-all-states-freeze-till-2051-reports"},
+        {"name": "इन्डियन एक्सप्रेस (शीर्षक)", "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSTNTR0Z3Q2lWZ2Qzekh2VnJtSmtXSnpneTNhaHhUS3NJM1hQeHJUemw3YjdHaW1DWnl"}
+      ]
+    },
+    {
+      "section": "india_china",
+      "title": "शेख हसिना भारत–बंगलादेश सम्बन्धमा ‘काँडा’ बनेको बंगलादेशी मन्त्रीको भनाइ",
+      "summary": "बंगलादेशका परराष्ट्र राज्यमन्त्री हुमायुन कबीरले भारतमा बसिरहेकी पूर्वप्रधानमन्त्री शेख हसिना दुई देशको सम्बन्धमा ‘काँडा’ बनेको बताएका छन्। हसिनाको उपस्थितिले सम्बन्धमा तनाव ल्याएको कुरा नयाँदिल्लीले बुझ्न थालेको उनको भनाइ द हिन्दूले छापेको छ। हसिनाले डिसेम्बर १६ मा देश फर्कने योजना सार्वजनिक गरेपछि बंगलादेशमा तनाव बढेको र भारत अप्ठ्यारोमा परेको बीबीसीले जनाएको छ।",
+      "sides": [
+        {"who": "बंगलादेश सरकार", "says": "हसिनाको भारतमा बसाइले दुई देशको सम्बन्ध बिगारिरहेको छ।"},
+        {"who": "हसिनाको अवामी लिग", "says": "डिसेम्बर १६ मा फर्कने योजनाले पार्टीका नेता–कार्यकर्ता उत्साहित भएको द हिन्दूले जनाएको छ।"}
+      ],
+      "unverified": "भारत सरकारको आधिकारिक प्रतिक्रिया हेरिएका स्रोतमा भेटिएन।",
+      "sources": [
+        {"name": "द हिन्दू", "url": "https://www.thehindu.com/news/international/hasina-has-become-a-thorn-in-bangladesh-india-ties-minister-humaiun-kobir/ar"},
+        {"name": "बीबीसी", "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "बंगलादेशमा अशान्तिपछि ठूला कपडा ब्रान्डले करोडौं डलरका अर्डर भारत सारे",
+      "summary": "बंगलादेशमा कपडा कामदारको आन्दोलन र अशान्तिका कारण विश्वका ठूला कपडा ब्रान्डले करोडौं डलरका अर्डर भारततिर सारेको रोयटर्सले विशेष समाचार दिएको छ। बिजनेस अफ फेसनका अनुसार यस्तो अर्डर करिब २५ करोड डलर (२५० मिलियन डलर) बराबर छ र जारा, एच एन्ड एम तथा एम एन्ड एस जस्ता ब्रान्ड यसमा परेका छन्। काठमाडौं पोस्टका अनुसार न्यूनतम ज्याला ३६ प्रतिशत बढाउने निर्णयपछि पनि ज्याला दोब्बर माग गर्दै कामदार फेरि सडकमा उत्रिए र प्रहरीले अश्रुग्यास प्रयोग गर्‍यो।",
+      "sources": [
+        {"name": "रोयटर्स (डेक्कन हेराल्ड मार्फत)", "url": "https://www.deccanherald.com/business/global-brands-shift-hundreds-of-millions-in-orders-from-bangladesh-to-india-amid-unrest-4233409"},
+        {"name": "बिजनेस अफ फेसन", "url": "https://www.businessoffashion.com/news/global-markets/global-brands-shift-250-million-in-orders-from-bangladesh-amid-unrest/"},
+        {"name": "काठमाडौं पोस्ट", "url": "https://kathmandupost.com/world/2026/11/26/police-use-tear-gas-to-disperse-fresh-bangladesh-garment-worker-protests"}
+      ]
+    },
+    {
+      "section": "economy",
+      "title": "अमेरिकामा ‘ब्ल्याक फ्राइडे’ किनमेल: महँगीले उपहारसँगै दैनिक आवश्यकताका सामान बढी किनिँदै",
+      "summary": "अमेरिकामा आज वर्षकै ठूलो छुटको किनमेल दिन ‘ब्ल्याक फ्राइडे’ हो। एपीका अनुसार महँगी बढेकाले यस पटक मानिसहरू उपहार मात्र होइन, दैनिक प्रयोगका सामान पनि जम्मा गरिरहेका छन्। सीएनबीसीका अनुसार ग्राहक सस्तो र मूल्य अनुसारको सामान खोजिरहेका भए पनि पसलहरूले चाडपर्वको किनमेल राम्रो हुने अपेक्षा गरेका छन्। अमेरिकी सेयर बजार बुधबार अन्तिम पटक खुल्दा S&P 500 ०.२५ प्रतिशत घटेर ७ हजार १८२ अंकमा बन्द भएको थियो।",
+      "sources": [
+        {"name": "एपी (शीर्षक)", "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQS1feGtndkRIT3NUc2hNSFhEX2pNWXZOR0JBSkdpT196Zk5sdlFqc0NpNUVnRmtnQ2x"},
+        {"name": "सीएनबीसी", "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html"},
+        {"name": "अल जजिरा", "url": "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "AI तर्फ मोडिँदै जर्मन सफ्टवेयर कम्पनी SAP ले कम्तीमा १० हजार जागिर कटौती गर्ने विचार",
+      "summary": "जर्मनीको ठूलो सफ्टवेयर कम्पनी SAP ले आफ्नो व्यवसायलाई AI (कृत्रिम बुद्धिमत्ता, अर्थात् मानिसजस्तै सोच्ने र काम गर्ने कम्प्युटर प्रणाली) वरिपरि पुनर्गठन गर्न कम्तीमा १० हजार जागिर कटौती गर्ने विचार गरिरहेको समाचार आएको छ। रोयटर्सले स्रोतलाई उद्धृत गर्दै कम्पनीले ठूलो संख्यामा कर्मचारी घटाउन खोजेको जनाएको छ। तीन वर्षभित्र AI का लागि यो कम्पनीको दोस्रो पुनर्गठन हुनेछ। यसैबीच SAP ले एउटा सुरक्षा घटना भएको तर ग्राहकको तथ्यांकमा अनधिकृत पहुँचको प्रमाण नभेटिएको जनाएको छ।",
+      "unverified": "कटौतीको अन्तिम संख्या र समय कम्पनीले आधिकारिक रूपमा घोषणा गरेको छैन।",
+      "sources": [
+        {"name": "सीएनबीसी", "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"},
+        {"name": "रोयटर्स (शीर्षक)", "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXlTRnczX1kzVVFWNmpBWWZscmx0cGVUUGNOMFctTUV5WmJVa1NrQ3N1NmFURDhfNUV"},
+        {"name": "मार्टिन सिड म्यागजिन", "url": "https://www.martincid.com/business/sap-weighs-10000-job-cuts-ai-overhaul/"}
+      ]
+    },
+    {
+      "section": "ai",
+      "title": "एनभिडियाका चिप किन्नेलाई चिनियाँ कम्पनीलाई भाडामा नदिन अमेरिकी नयाँ नियम",
+      "summary": "अमेरिकाको नयाँ निर्यात नियमअनुसार एनभिडियाका AI चिप (GPU) किन्ने कम्पनीले ती चिप भाडामा चलाउन चिनियाँ कम्पनीलाई नदिने सुनिश्चित गर्नुपर्ने भएको सीएनबीसीले स्रोतलाई उद्धृत गर्दै जनाएको छ। अमेरिकी व्यापार प्रतिनिधि जेमिसन ग्रिरले यो नियम ‘छिद्र’ बन्द गर्न ल्याइएको बताएका छन्। डीडब्लूका अनुसार चिनियाँ कम्पनीहरू अमेरिकी रोक छल्न दक्षिणपूर्वी एसियामा रहेका डाटा सेन्टरको कम्प्युटिङ क्षमता भाडामा लिने गर्छन्। गत संस्करणमा उल्लेख भएझैं एनभिडियाले मलेसियालगायत चार देशमा सर्भर पठाउन पनि रोकेको छ।",
+      "sources": [
+        {"name": "सीएनबीसी", "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html"},
+        {"name": "बिजनेस स्ट्यान्डर्ड", "url": "https://www.business-standard.com/amp/world-news/nvidia-chip-sellers-warn-neoclouds-against-serving-chinese-firms-report-126112700408_1.html"},
+        {"name": "डीडब्लू", "url": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-world-4025-xml-mrss"}
+      ]
+    }
+  ]
+}
